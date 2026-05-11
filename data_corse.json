@@ -1,0 +1,2354 @@
+[
+  {
+    "ig": "2A09801",
+    "nom": "Ajaccio 1:Coti",
+    "lat": 41.76806,
+    "lon": 8.76528,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A00601",
+    "nom": "Ajaccio 2:Punta",
+    "lat": 41.95338,
+    "lon": 8.70083,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A00424",
+    "nom": "AJACCIO- Casteluccio",
+    "lat": 41.93691,
+    "lon": 8.7148,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A00436",
+    "nom": "AJACCIO Depot TDF",
+    "lat": 41.95462,
+    "lon": 8.76455,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A00435",
+    "nom": "Ajaccio Diamant",
+    "lat": 41.9187,
+    "lon": 8.73538,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A00402",
+    "nom": "Ajaccio: ImmeubleCAT",
+    "lat": 41.93616,
+    "lon": 8.7538,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A00401",
+    "nom": "Ajaccio Olmo",
+    "lat": 41.94095,
+    "lon": 8.72827,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A00446",
+    "nom": "AJACCIO-SNI_1061",
+    "lat": 41.93422,
+    "lon": 8.71697,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A00448",
+    "nom": "Ajaccio:Stade Coty",
+    "lat": 41.93104,
+    "lon": 8.77675,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A00447",
+    "nom": "Ajaccio:StdeCasanova",
+    "lat": 41.95149,
+    "lon": 8.7721,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A00403",
+    "nom": "Ajaccio:St,RCI",
+    "lat": 41.9212,
+    "lon": 8.73109,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A00409",
+    "nom": "Ajaccio:St,Sky-Rock",
+    "lat": 41.90861,
+    "lon": 8.67833,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A00443",
+    "nom": "Ajaccio:Studio FR3",
+    "lat": 41.93528,
+    "lon": 8.75833,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A01701",
+    "nom": "Alata",
+    "lat": 42.01051,
+    "lon": 8.76924,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B00752",
+    "nom": "Albertacce-Sulana",
+    "lat": 42.32744,
+    "lon": 8.9835,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B00952",
+    "nom": "ALERIA",
+    "lat": 42.08221,
+    "lon": 9.4796,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B00902",
+    "nom": "ALERIA-U CIOSU",
+    "lat": 42.11379,
+    "lon": 9.5125,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B01001",
+    "nom": "ALGAJOLA_PCA",
+    "lat": 42.6088,
+    "lon": 8.849,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A01401",
+    "nom": "AMBIEGNA_Cardiccia",
+    "lat": 42.08466,
+    "lon": 8.79635,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B02001",
+    "nom": "AREGNO-I CAMPI",
+    "lat": 42.58129,
+    "lon": 8.8974,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A02201",
+    "nom": "ARRO_PAC ND",
+    "lat": 42.09778,
+    "lon": 8.80865,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B02301",
+    "nom": "ASCO_RF",
+    "lat": 42.45038,
+    "lon": 9.03013,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A35701",
+    "nom": "Aullene:Zerubia",
+    "lat": 41.76361,
+    "lon": 9.04287,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B35301",
+    "nom": "Bastia 2:Pietrabugno",
+    "lat": 42.71806,
+    "lon": 9.4425,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "99ELB01",
+    "nom": "Bastia 3:Elbe",
+    "lat": 42.77389,
+    "lon": 10.16759,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03333",
+    "nom": "BASTIA-AURORE",
+    "lat": 42.68031,
+    "lon": 9.43892,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03377",
+    "nom": "Bastia Barbesino",
+    "lat": 42.68206,
+    "lon": 9.43912,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03375",
+    "nom": "Bastia:Barbesino",
+    "lat": 42.67918,
+    "lon": 9.44088,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03332",
+    "nom": "BASTIA - BASSANESE",
+    "lat": 42.6824,
+    "lon": 9.44278,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03378",
+    "nom": "Bastia Caravelle",
+    "lat": 42.67918,
+    "lon": 9.44089,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03309",
+    "nom": "Bastia:CAT-FR3",
+    "lat": 42.71556,
+    "lon": 9.45444,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03376",
+    "nom": "Bastia Cite Des Lacs",
+    "lat": 42.67696,
+    "lon": 9.43825,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03336",
+    "nom": "BASTIA-EGLANTINES",
+    "lat": 42.67673,
+    "lon": 9.43889,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03340",
+    "nom": "BASTIA GRAZIANI",
+    "lat": 42.7049,
+    "lon": 9.45139,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03334",
+    "nom": "BASTIA-LES AMANDIERS",
+    "lat": 42.6782,
+    "lon": 9.43858,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03337",
+    "nom": "BASTIA-LES PLEIADES",
+    "lat": 42.67312,
+    "lon": 9.43952,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03339",
+    "nom": "BASTIA-MANTINUM",
+    "lat": 42.67754,
+    "lon": 9.43875,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03341",
+    "nom": "BASTIA-MONDOLONI",
+    "lat": 42.68278,
+    "lon": 9.4425,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03320",
+    "nom": "Bastia:Montesoro 1",
+    "lat": 42.67556,
+    "lon": 9.43473,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03343",
+    "nom": "BASTIA New St RCFM",
+    "lat": 42.69346,
+    "lon": 9.45069,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03345",
+    "nom": "BASTIA POSTE EDF",
+    "lat": 42.70176,
+    "lon": 9.44426,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03325",
+    "nom": "Bastia RENOSO",
+    "lat": 42.6778,
+    "lon": 9.43634,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03379",
+    "nom": "Bastia Rocchi",
+    "lat": 42.67907,
+    "lon": 9.43005,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03301",
+    "nom": "Bastia:Serra-Di-Pign",
+    "lat": 42.69458,
+    "lon": 9.39961,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03342",
+    "nom": "BASTIA-SH9066",
+    "lat": 42.70306,
+    "lon": 9.44028,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03338",
+    "nom": "BASTIA-ST ANTOINE 1",
+    "lat": 42.69472,
+    "lon": 9.44028,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03303",
+    "nom": "Bastia:St,RCFM",
+    "lat": 42.69657,
+    "lon": 9.44728,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03306",
+    "nom": "Bastia:St,Salve Regi",
+    "lat": 42.69444,
+    "lon": 9.44028,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03380",
+    "nom": "Bastia Terralbore",
+    "lat": 42.67842,
+    "lon": 9.43169,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03335",
+    "nom": "BASTIA-U MONTE GROSS",
+    "lat": 42.67667,
+    "lon": 9.43556,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03452",
+    "nom": "BELGODERE_PCA",
+    "lat": 42.58788,
+    "lon": 9.01,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03402",
+    "nom": "BELGODERE-SAN GIOVAN",
+    "lat": 42.58203,
+    "lon": 9.0175,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03901",
+    "nom": "BISINCHI_BAA",
+    "lat": 42.48765,
+    "lon": 9.29195,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A04004",
+    "nom": "BOCOGNANO",
+    "lat": 42.09543,
+    "lon": 9.08922,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A04002",
+    "nom": "Bocognano 2:Stollo",
+    "lat": 42.08542,
+    "lon": 9.04972,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A04006",
+    "nom": "BOCOGNANO_Pt Sellola",
+    "lat": 42.09516,
+    "lon": 9.09716,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A34501",
+    "nom": "Bocognano:Vero",
+    "lat": 42.07222,
+    "lon": 8.90722,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A04158",
+    "nom": "BONIFACIO 1",
+    "lat": 41.48116,
+    "lon": 9.23627,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A04102",
+    "nom": "Bonifacio:HLM",
+    "lat": 41.38761,
+    "lon": 9.15925,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A04160",
+    "nom": "Bonifacio:Montel",
+    "lat": 41.38656,
+    "lon": 9.18053,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A04103",
+    "nom": "Bonifacio: Nesteroff",
+    "lat": 41.422,
+    "lon": 9.17703,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A04101",
+    "nom": "Bonifacio:RC",
+    "lat": 41.38795,
+    "lon": 9.16066,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A04161",
+    "nom": "BONIFACIO_RF",
+    "lat": 41.45672,
+    "lon": 9.11509,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B04252",
+    "nom": "BORGO_BAA",
+    "lat": 42.57772,
+    "lon": 9.44323,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B04301",
+    "nom": "Brando",
+    "lat": 42.77472,
+    "lon": 9.45944,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B04601",
+    "nom": "Cagnano",
+    "lat": 42.88722,
+    "lon": 9.435,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B14701",
+    "nom": "Calacuccia 1",
+    "lat": 42.34833,
+    "lon": 9.01333,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B07301",
+    "nom": "Calacuccia 2",
+    "lat": 42.30806,
+    "lon": 9.01583,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A04801",
+    "nom": "Calcatoggio : BT",
+    "lat": 42.02861,
+    "lon": 8.74444,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A04802",
+    "nom": "Calcatoggio:rn 199",
+    "lat": 42.02644,
+    "lon": 8.74981,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B16501",
+    "nom": "Calenzana 1",
+    "lat": 42.51213,
+    "lon": 8.83656,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B04908",
+    "nom": "Calenzana-Carbbonaja",
+    "lat": 42.51125,
+    "lon": 8.86118,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B04909",
+    "nom": "Calenzana -U Ciosu L",
+    "lat": 42.5123,
+    "lon": 8.85598,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B13801",
+    "nom": "Calvi 1:Col-de-Salvi",
+    "lat": 42.56826,
+    "lon": 8.86792,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B05004",
+    "nom": "CALVI-CHAMPEAU",
+    "lat": 42.55014,
+    "lon": 8.76533,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B05054",
+    "nom": "Calvi Donatello",
+    "lat": 42.56116,
+    "lon": 8.75044,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B05055",
+    "nom": "CALVI_PCA",
+    "lat": 42.55934,
+    "lon": 8.80194,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B05006",
+    "nom": "CALVI POSTE EDF",
+    "lat": 42.56083,
+    "lon": 8.74718,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B05005",
+    "nom": "CALVI-SNI_0325",
+    "lat": 42.55924,
+    "lon": 8.75262,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B05801",
+    "nom": "Canari 1",
+    "lat": 42.83278,
+    "lon": 9.31361,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03001",
+    "nom": "Canari 2",
+    "lat": 42.87806,
+    "lon": 9.33972,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B05804",
+    "nom": "Canari Le Tamaris",
+    "lat": 42.84538,
+    "lon": 9.3324,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B05901",
+    "nom": "Canavaggia",
+    "lat": 42.49569,
+    "lon": 9.26204,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B05904",
+    "nom": "CANAVAGGIA 1",
+    "lat": 42.4735,
+    "lon": 9.23612,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B05905",
+    "nom": "CANAVAGGIA1",
+    "lat": 42.4955,
+    "lon": 9.18581,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A06201",
+    "nom": "CARBUCCIA",
+    "lat": 42.01851,
+    "lon": 8.90041,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A06501",
+    "nom": "Cargese",
+    "lat": 42.13389,
+    "lon": 8.59056,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A06503",
+    "nom": "Cargese:Valle Longa",
+    "lat": 42.16338,
+    "lon": 8.5962,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B07401",
+    "nom": "CASANOVA",
+    "lat": 42.25862,
+    "lon": 9.16583,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B30902",
+    "nom": "Castelaccio",
+    "lat": 42.75518,
+    "lon": 9.46425,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B07701",
+    "nom": "CASTELLARE",
+    "lat": 42.4706,
+    "lon": 9.48437,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B07901",
+    "nom": "CastelloDi R-Grisoni",
+    "lat": 42.4848,
+    "lon": 9.28055,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B07902",
+    "nom": "CASTELLO DI ROS_BAA",
+    "lat": 42.47534,
+    "lon": 9.27477,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B08001",
+    "nom": "CASTIFAO1",
+    "lat": 42.5459,
+    "lon": 9.12281,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B08002",
+    "nom": "CASTIFAO2",
+    "lat": 42.52716,
+    "lon": 9.15766,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B08003",
+    "nom": "CASTIFAO3_PAC11",
+    "lat": 42.49595,
+    "lon": 9.18269,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B08004",
+    "nom": "CASTIFAO_PCA",
+    "lat": 42.53902,
+    "lon": 9.14089,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B08401",
+    "nom": "Cateri-Le Fango",
+    "lat": 42.56974,
+    "lon": 8.89065,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B08702",
+    "nom": "CERVIONE",
+    "lat": 42.32603,
+    "lon": 9.53866,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B30301",
+    "nom": "Cervione:Alistro",
+    "lat": 42.2845,
+    "lon": 9.55045,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B08701",
+    "nom": "Cervione Belle Vu",
+    "lat": 42.33043,
+    "lon": 9.49529,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B08801",
+    "nom": "Chiatra",
+    "lat": 42.28908,
+    "lon": 9.46646,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B36601",
+    "nom": "Chisa",
+    "lat": 41.92417,
+    "lon": 9.26148,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A08901",
+    "nom": "Ciamanacce",
+    "lat": 41.95209,
+    "lon": 9.15109,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A09001",
+    "nom": "COGGIA",
+    "lat": 42.09786,
+    "lon": 8.72488,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A09101",
+    "nom": "Cognocoli-Monticchi",
+    "lat": 41.8308,
+    "lon": 8.8764,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A09201",
+    "nom": "Conca",
+    "lat": 41.7201,
+    "lon": 9.35231,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A09252",
+    "nom": "CONCA1",
+    "lat": 41.72257,
+    "lon": 9.4029,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A09253",
+    "nom": "CONCA2",
+    "lat": 41.75591,
+    "lon": 9.40508,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A09254",
+    "nom": "CONCA_Piano",
+    "lat": 41.70407,
+    "lon": 9.3529,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A09202",
+    "nom": "Conca:Punta BT",
+    "lat": 41.73944,
+    "lon": 9.38833,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B09301",
+    "nom": "CORBARA",
+    "lat": 42.61643,
+    "lon": 8.87667,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B09303",
+    "nom": "CORBARA_PCA",
+    "lat": 42.62561,
+    "lon": 8.88869,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B01601",
+    "nom": "Corte 1:Antisanti",
+    "lat": 42.16843,
+    "lon": 9.34171,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B32901",
+    "nom": "Corte 2:Bistuglio",
+    "lat": 42.32988,
+    "lon": 9.15838,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B09604",
+    "nom": "CORTE-LE CYRNOS",
+    "lat": 42.30986,
+    "lon": 9.15122,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B09605",
+    "nom": "CORTE-PORETTE",
+    "lat": 42.30114,
+    "lon": 9.15399,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A09802",
+    "nom": "Coti-Chiavari : SZTI",
+    "lat": 41.7725,
+    "lon": 8.7725,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A10353",
+    "nom": "CUTTOLI CORTI_BAA",
+    "lat": 41.9747,
+    "lon": 8.83883,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A10301",
+    "nom": "Cuttoli-Corticchiato",
+    "lat": 41.9798,
+    "lon": 8.89292,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B10701",
+    "nom": "Ersa",
+    "lat": 42.96917,
+    "lon": 9.38,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A10801",
+    "nom": "Evisa",
+    "lat": 42.22556,
+    "lon": 8.82667,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A16301",
+    "nom": "Figari 1",
+    "lat": 41.51222,
+    "lon": 8.97667,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A11401",
+    "nom": "Figari 2",
+    "lat": 41.48778,
+    "lon": 9.12528,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A13002",
+    "nom": "Fort-de-Porticcio",
+    "lat": 41.87657,
+    "lon": 8.79,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A11901",
+    "nom": "Frassetto",
+    "lat": 41.88917,
+    "lon": 9.02389,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B12007",
+    "nom": "Furiani:DC Sitec FHC",
+    "lat": 42.664,
+    "lon": 9.43248,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B12005",
+    "nom": "FURIANI-SNI_X105",
+    "lat": 42.66229,
+    "lon": 9.43233,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B12006",
+    "nom": "Furiani:Stde ACesari",
+    "lat": 42.65141,
+    "lon": 9.4427,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B04901",
+    "nom": "Galeria 1",
+    "lat": 42.47602,
+    "lon": 8.75588,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B12104",
+    "nom": "Galeria 3",
+    "lat": 42.4413,
+    "lon": 8.76088,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B12307",
+    "nom": "GHISONACCIA",
+    "lat": 42.00616,
+    "lon": 9.44704,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B12305",
+    "nom": "GHISONACCIA-ACACIAS",
+    "lat": 42.01629,
+    "lon": 9.4025,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B12306",
+    "nom": "Ghisonaccia CAPRONE",
+    "lat": 41.9925,
+    "lon": 9.44014,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B12304",
+    "nom": "GHISONACCIA-LAURIERS",
+    "lat": 42.01639,
+    "lon": 9.40351,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B12303",
+    "nom": "GHISONACCIA-PALMIER",
+    "lat": 42.01639,
+    "lon": 9.40278,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B12301",
+    "nom": "Ghisoni 1",
+    "lat": 42.0651,
+    "lon": 9.42584,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B12401",
+    "nom": "Ghisoni 2",
+    "lat": 42.11917,
+    "lon": 9.21088,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A13101",
+    "nom": "Guagno",
+    "lat": 42.16637,
+    "lon": 8.94176,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A13201",
+    "nom": "GUARGUALE_RF",
+    "lat": 41.83574,
+    "lon": 8.92461,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B29601",
+    "nom": "Ile-Rousse:Capo-Cor",
+    "lat": 42.59828,
+    "lon": 8.91704,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B13403",
+    "nom": "ILE ROUSSE POSTE EDF",
+    "lat": 42.62639,
+    "lon": 8.93704,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B13453",
+    "nom": "IleRousse-P Pasquini",
+    "lat": 42.63007,
+    "lon": 8.93477,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A09806",
+    "nom": "ITA_Ajaccio",
+    "lat": 41.76833,
+    "lon": 8.76861,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A26601",
+    "nom": "ITA_Bocognano 1",
+    "lat": 42.07389,
+    "lon": 8.90556,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B04205",
+    "nom": "ITA_Lucciana",
+    "lat": 42.5566,
+    "lon": 9.46991,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A24719",
+    "nom": "ITA_Porto Vecchio 2",
+    "lat": 41.59806,
+    "lon": 9.31694,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A13901",
+    "nom": "LECCI",
+    "lat": 41.6862,
+    "lon": 9.3198,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B14002",
+    "nom": "LENTO",
+    "lat": 42.49694,
+    "lon": 9.29887,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A14252",
+    "nom": "LEVIE_RF",
+    "lat": 41.64977,
+    "lon": 9.10455,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B14302",
+    "nom": "LINGUIZZETTA1",
+    "lat": 42.1959,
+    "lon": 9.53118,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B14303",
+    "nom": "LINGUIZZETTA2",
+    "lat": 42.23839,
+    "lon": 9.54244,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B14304",
+    "nom": "LINGUIZZETTA_RF",
+    "lat": 42.26188,
+    "lon": 9.46914,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B14854",
+    "nom": "LUCCIANA_BAA",
+    "lat": 42.53251,
+    "lon": 9.44767,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B14801",
+    "nom": "Lucciana:Borgo",
+    "lat": 42.55608,
+    "lon": 9.4655,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B14852",
+    "nom": "Lucciana Piscina",
+    "lat": 42.54335,
+    "lon": 9.43979,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B15053",
+    "nom": "LUMIO1",
+    "lat": 42.58507,
+    "lon": 8.80511,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B15052",
+    "nom": "Lumio-LesChenesVerts",
+    "lat": 42.57945,
+    "lon": 8.83234,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B15201",
+    "nom": "Luri",
+    "lat": 42.90537,
+    "lon": 9.37508,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B12103",
+    "nom": "Manso 1",
+    "lat": 42.40931,
+    "lon": 8.72889,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B15301",
+    "nom": "Manso 2",
+    "lat": 42.37278,
+    "lon": 8.7775,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B15901",
+    "nom": "Meria 1",
+    "lat": 42.92056,
+    "lon": 9.43514,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B15902",
+    "nom": "Meria 2:la Marine",
+    "lat": 42.93611,
+    "lon": 9.4675,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A16302",
+    "nom": "MONACIA D'AULLENE_RF",
+    "lat": 41.56268,
+    "lon": 9.04182,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A04108",
+    "nom": "MONTE CORBU",
+    "lat": 41.42273,
+    "lon": 9.13909,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B16802",
+    "nom": "MONTICELLO",
+    "lat": 42.63064,
+    "lon": 8.98229,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B31305",
+    "nom": "Moriani:Plage",
+    "lat": 42.37444,
+    "lon": 9.52735,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B00301",
+    "nom": "Morosaglia",
+    "lat": 42.41323,
+    "lon": 9.23295,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B16904",
+    "nom": "MOROSAGLIA 1",
+    "lat": 42.45647,
+    "lon": 9.20318,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B16903",
+    "nom": "Morosaglia-P Leccia2",
+    "lat": 42.45709,
+    "lon": 9.20712,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B17001",
+    "nom": "Morsiglia",
+    "lat": 42.94028,
+    "lon": 9.36306,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B35401",
+    "nom": "Muracciole",
+    "lat": 42.17778,
+    "lon": 9.17056,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B18001",
+    "nom": "Novella",
+    "lat": 42.58028,
+    "lon": 9.1075,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B18052",
+    "nom": "NOVELLA1",
+    "lat": 42.59183,
+    "lon": 9.08017,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B18051",
+    "nom": "Novella:Cianchin:SFR",
+    "lat": 42.58361,
+    "lon": 9.10417,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B18053",
+    "nom": "NOVELLA_PCA 1",
+    "lat": 42.5823,
+    "lon": 9.10343,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B18054",
+    "nom": "NOVELLA_PCA 2",
+    "lat": 42.56896,
+    "lon": 9.11458,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03401",
+    "nom": "Occhiatana",
+    "lat": 42.58379,
+    "lon": 9.01931,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B05802",
+    "nom": "Ogliastro",
+    "lat": 42.8181,
+    "lon": 9.32991,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B18503",
+    "nom": "OLETTA-A STALLA",
+    "lat": 42.63139,
+    "lon": 9.35722,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B18801",
+    "nom": "Oletta:Olmeta-Tuda",
+    "lat": 42.62546,
+    "lon": 9.34912,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B18502",
+    "nom": "OLETTA-SAINTE CROIX",
+    "lat": 42.63129,
+    "lon": 9.35462,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B18802",
+    "nom": "OlmetaDiTuda-I Campi",
+    "lat": 42.615,
+    "lon": 9.35129,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A18902",
+    "nom": "OLMETO 2",
+    "lat": 41.69379,
+    "lon": 8.89851,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A01801",
+    "nom": "Olmeto:Propriano",
+    "lat": 41.68209,
+    "lon": 8.9675,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B23501",
+    "nom": "Olmi-Capella 1",
+    "lat": 42.54949,
+    "lon": 9.00306,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B15601",
+    "nom": "Olmi-Capella 2",
+    "lat": 42.51639,
+    "lon": 9.01056,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B19001",
+    "nom": "Olmicapella-Granaghj",
+    "lat": 42.52807,
+    "lon": 9.01869,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B19301",
+    "nom": "Omessa",
+    "lat": 42.37426,
+    "lon": 9.19218,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B19303",
+    "nom": "OMESSA_2_Musuleo",
+    "lat": 42.38861,
+    "lon": 9.18652,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B19304",
+    "nom": "OMESSA_BAA",
+    "lat": 42.39575,
+    "lon": 9.16925,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B19302",
+    "nom": "OMESSA_Padula_Stade",
+    "lat": 42.4121,
+    "lon": 9.19563,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A19801",
+    "nom": "Ota",
+    "lat": 42.2694,
+    "lon": 8.69644,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B19904",
+    "nom": "PALASCA_PCA_1",
+    "lat": 42.60532,
+    "lon": 9.02427,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B19905",
+    "nom": "PALASCA_PCA 2",
+    "lat": 42.59891,
+    "lon": 9.06317,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A20003",
+    "nom": "Palneca 2 : ONF",
+    "lat": 41.96402,
+    "lon": 9.19125,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B20705",
+    "nom": "PentaCasinca Campucc",
+    "lat": 42.3741,
+    "lon": 9.52725,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B95002",
+    "nom": "PentaCasinca Folleli",
+    "lat": 42.44644,
+    "lon": 9.51212,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B20703",
+    "nom": "PENTA DI CASI-SH9056",
+    "lat": 42.44576,
+    "lon": 9.52489,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A20902",
+    "nom": "PERI_Pedingolu",
+    "lat": 42.00228,
+    "lon": 8.88513,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A20903",
+    "nom": "PERI_Pino_PlainePeri",
+    "lat": 41.98712,
+    "lon": 8.85414,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A21201",
+    "nom": "Piana",
+    "lat": 42.23812,
+    "lon": 8.62122,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A21501",
+    "nom": "PIANOTOLLI-CALDARELL",
+    "lat": 41.46705,
+    "lon": 9.05222,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B06701",
+    "nom": "Piedicroce",
+    "lat": 42.34981,
+    "lon": 9.3825,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B22001",
+    "nom": "PIEDIGRIGGIO",
+    "lat": 42.44508,
+    "lon": 9.19618,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B22401",
+    "nom": "Pietracorbara",
+    "lat": 42.8575,
+    "lon": 9.44972,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B22501",
+    "nom": "Pietra-di-Verde",
+    "lat": 42.28417,
+    "lon": 9.42954,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B22301",
+    "nom": "Pietralba",
+    "lat": 42.54435,
+    "lon": 9.17505,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B22302",
+    "nom": "PIETRALBA_PCA",
+    "lat": 42.51256,
+    "lon": 9.17637,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A07101",
+    "nom": "Pila-Canale",
+    "lat": 41.76249,
+    "lon": 8.92413,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B23301",
+    "nom": "Pino",
+    "lat": 42.90505,
+    "lon": 9.34569,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A00422",
+    "nom": "POP Orange Ajaccio",
+    "lat": 41.9211,
+    "lon": 8.73678,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B11301",
+    "nom": "Porta (La)",
+    "lat": 42.42111,
+    "lon": 9.375,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A24757",
+    "nom": "PORTO-VECCHIO1",
+    "lat": 41.51731,
+    "lon": 9.25878,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A24701",
+    "nom": "Porto-Vecchio 1:L'Os",
+    "lat": 41.6696,
+    "lon": 9.18419,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A24758",
+    "nom": "PORTO-VECCHIO2",
+    "lat": 41.55397,
+    "lon": 9.27127,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A24702",
+    "nom": "Porto-Vecchio 2:Vara",
+    "lat": 41.59931,
+    "lon": 9.31741,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A24717",
+    "nom": "Porto Vecchio Studio",
+    "lat": 41.59083,
+    "lon": 9.27778,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A04110",
+    "nom": "Poste EDF BONIFACIO",
+    "lat": 41.42485,
+    "lon": 9.18686,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B14804",
+    "nom": "Poste EDF LUCCIANA",
+    "lat": 42.52794,
+    "lon": 9.45099,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A24902",
+    "nom": "Propriano:Reservoir",
+    "lat": 41.66694,
+    "lon": 8.90861,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B25003",
+    "nom": "PRUNELLI CASACCONI 3",
+    "lat": 42.51615,
+    "lon": 9.42307,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B25002",
+    "nom": "PRUNELLI DI CASA_BAA",
+    "lat": 42.516,
+    "lon": 9.41125,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B25001",
+    "nom": "PRUNELLI-DI-CASACONI",
+    "lat": 42.51931,
+    "lon": 9.40617,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B25153",
+    "nom": "PrunelliDi F-A Morta",
+    "lat": 42.00044,
+    "lon": 9.37889,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B27701",
+    "nom": "Prunelli-di-Fiumorbo",
+    "lat": 41.9806,
+    "lon": 9.29573,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B26001",
+    "nom": "RIVENTOSA_Gare",
+    "lat": 42.25295,
+    "lon": 9.18934,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B26101",
+    "nom": "Rogliano",
+    "lat": 42.96694,
+    "lon": 9.45556,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A26602",
+    "nom": "SALICE_Tartavello",
+    "lat": 42.07417,
+    "lon": 8.90573,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B26701",
+    "nom": "SALICETO_BAA",
+    "lat": 42.42932,
+    "lon": 9.2056,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B26702",
+    "nom": "SALICETO_RF",
+    "lat": 42.39924,
+    "lon": 9.28991,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B32702",
+    "nom": "SALT_TOMINO_2",
+    "lat": 42.94662,
+    "lon": 9.44661,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A26801",
+    "nom": "Sampolo:Giovicacce",
+    "lat": 41.93105,
+    "lon": 9.11341,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B15001",
+    "nom": "San-Ambrogio",
+    "lat": 42.58611,
+    "lon": 8.82583,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A30001",
+    "nom": "SAN-GAVINO-CARBINI",
+    "lat": 41.64864,
+    "lon": 9.29669,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B36501",
+    "nom": "San-Gavino-Fiumorbo",
+    "lat": 41.98472,
+    "lon": 9.26806,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B30401",
+    "nom": "San-Lorenzo",
+    "lat": 42.37282,
+    "lon": 9.29722,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B30501",
+    "nom": "SAN MARTINO D-SH9017",
+    "lat": 42.72654,
+    "lon": 9.45769,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B30202",
+    "nom": "San-Nicolao",
+    "lat": 42.37995,
+    "lon": 9.48146,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B31304",
+    "nom": "SanNicolao-UPoggiale",
+    "lat": 42.60511,
+    "lon": 8.92906,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B30702",
+    "nom": "SANTA-LUCIA",
+    "lat": 42.38621,
+    "lon": 9.53088,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A26953",
+    "nom": "SARI-SOLENZARA1",
+    "lat": 41.78804,
+    "lon": 9.39622,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A26954",
+    "nom": "SARI-SOLENZARA2",
+    "lat": 41.83178,
+    "lon": 9.40406,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A26951",
+    "nom": "Sari-Solenzara:SFR",
+    "lat": 41.83222,
+    "lon": 9.37111,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A27103",
+    "nom": "SARROLA-CARCOPINO",
+    "lat": 41.98765,
+    "lon": 8.83809,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B27702",
+    "nom": "SERRA-DI-FIUMORBO",
+    "lat": 41.9684,
+    "lon": 9.39757,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B28101",
+    "nom": "Sisco",
+    "lat": 42.80472,
+    "lon": 9.48556,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B28301",
+    "nom": "SOLARO",
+    "lat": 41.8692,
+    "lon": 9.39628,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B28302",
+    "nom": "SOLARO_Reservoir",
+    "lat": 41.90086,
+    "lon": 9.33503,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B28701",
+    "nom": "SORIO",
+    "lat": 42.58346,
+    "lon": 9.27395,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B29001",
+    "nom": "SPELONCATO",
+    "lat": 42.59337,
+    "lon": 8.96407,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B30701",
+    "nom": "StaLuciaDi M-Madonna",
+    "lat": 42.38421,
+    "lon": 9.52376,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B30901",
+    "nom": "Sta-Maria-di-Lota 1",
+    "lat": 42.73477,
+    "lon": 9.42977,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A13001",
+    "nom": "Sta-Maria-Siche",
+    "lat": 41.86663,
+    "lon": 8.96454,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B30201",
+    "nom": "Sta-Reparata 1",
+    "lat": 42.3675,
+    "lon": 9.47806,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B31701",
+    "nom": "Sta-Reparata 2",
+    "lat": 42.35333,
+    "lon": 9.45667,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B31602",
+    "nom": "Sta Reparata DiBalag",
+    "lat": 42.60512,
+    "lon": 8.92906,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A30801",
+    "nom": "Ste-Lucie-de-Tallano",
+    "lat": 41.69148,
+    "lon": 9.0656,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B29803",
+    "nom": "ST FLORENT-A TRAMUTA",
+    "lat": 42.68434,
+    "lon": 9.30655,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B29802",
+    "nom": "ST FLORENT-L'AMBATA",
+    "lat": 42.68462,
+    "lon": 9.30712,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B29804",
+    "nom": "ST FLORENT-U GREGALE",
+    "lat": 42.68389,
+    "lon": 9.30629,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A03201",
+    "nom": "Studio ZIG ZAG",
+    "lat": 41.91574,
+    "lon": 8.83588,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A35102",
+    "nom": "T_AJACCIO LA PUNTA",
+    "lat": 41.95361,
+    "lon": 8.70018,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B31901",
+    "nom": "TALASANI",
+    "lat": 42.41387,
+    "lon": 9.53085,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B32001",
+    "nom": "TALLONE",
+    "lat": 42.16713,
+    "lon": 9.4981,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A32304",
+    "nom": "TAVACO",
+    "lat": 42.0175,
+    "lon": 8.87255,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A32303",
+    "nom": "TAVACO 3:Ribba",
+    "lat": 42.03611,
+    "lon": 8.90167,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A32404",
+    "nom": "TAVERA",
+    "lat": 42.07904,
+    "lon": 9.01443,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B03344",
+    "nom": "T_Bastia",
+    "lat": 42.695,
+    "lon": 9.40083,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B13802",
+    "nom": "T_CALVI",
+    "lat": 42.56833,
+    "lon": 8.86778,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B09607",
+    "nom": "T_CORTE BISTUGLIO",
+    "lat": 42.33,
+    "lon": 9.15833,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B31601",
+    "nom": "T_L'ILE-ROUSSE",
+    "lat": 42.59833,
+    "lon": 8.91694,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B32701",
+    "nom": "Tomino Nord",
+    "lat": 42.94669,
+    "lon": 9.44639,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A24756",
+    "nom": "T_Porto Vecchio 2",
+    "lat": 41.59872,
+    "lon": 9.31749,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B32902",
+    "nom": "TRALONCA_BAA",
+    "lat": 42.31895,
+    "lon": 9.17652,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A33003",
+    "nom": "UCCIANI",
+    "lat": 42.06422,
+    "lon": 8.96612,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A33002",
+    "nom": "UCCIANI_Gare",
+    "lat": 42.05153,
+    "lon": 8.9789,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A33004",
+    "nom": "UCCIANI_Pont_T20",
+    "lat": 42.05879,
+    "lon": 8.96377,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A33005",
+    "nom": "UCCIANI_T20",
+    "lat": 42.06522,
+    "lon": 8.97541,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B04201",
+    "nom": "Unite de Bastia",
+    "lat": 42.5925,
+    "lon": 9.44444,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B20801",
+    "nom": "Valle-d'Alesani",
+    "lat": 42.32366,
+    "lon": 9.39259,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B33701",
+    "nom": "VALLE-DI-ROSTINO",
+    "lat": 42.46754,
+    "lon": 9.23649,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B34106",
+    "nom": "VENACO",
+    "lat": 42.21115,
+    "lon": 9.17805,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B34107",
+    "nom": "VENACO_BAA",
+    "lat": 42.22485,
+    "lon": 9.18171,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B34103",
+    "nom": "Venaco:Giacobbi",
+    "lat": 42.23639,
+    "lon": 9.18932,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B34105",
+    "nom": "VENACO_Vecchio",
+    "lat": 42.19712,
+    "lon": 9.16902,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B34201",
+    "nom": "Ventiseri",
+    "lat": 41.93454,
+    "lon": 9.34398,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B34205",
+    "nom": "VENTISERI 1",
+    "lat": 41.91935,
+    "lon": 9.38847,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B34202",
+    "nom": "Ventiseri :Travo",
+    "lat": 41.91833,
+    "lon": 9.37583,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A34502",
+    "nom": "VERO_Pianu",
+    "lat": 42.04687,
+    "lon": 8.93177,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B34601",
+    "nom": "Vescovato",
+    "lat": 42.49292,
+    "lon": 9.44977,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B34702",
+    "nom": "VEZZANI_Pietroso",
+    "lat": 42.1638,
+    "lon": 9.29529,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A34801",
+    "nom": "Vico",
+    "lat": 42.17722,
+    "lon": 8.79278,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B35202",
+    "nom": "VILLE-DI-PARASO_PCA",
+    "lat": 42.61248,
+    "lon": 8.97865,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B35457",
+    "nom": "VIVARIO",
+    "lat": 42.15114,
+    "lon": 9.1365,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B35455",
+    "nom": "VIVARIO_4_Vietale",
+    "lat": 42.13673,
+    "lon": 9.1465,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B35452",
+    "nom": "VIVARIO_San Petru",
+    "lat": 42.17342,
+    "lon": 9.16153,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B35453",
+    "nom": "VIVARIO_Tattone",
+    "lat": 42.15669,
+    "lon": 9.15183,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B35456",
+    "nom": "Vivario Tre Altare",
+    "lat": 42.17194,
+    "lon": 9.17434,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B34101",
+    "nom": "Vivario:Venaco",
+    "lat": 42.23583,
+    "lon": 9.19139,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B35402",
+    "nom": "Vizzavona",
+    "lat": 42.10944,
+    "lon": 9.11486,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B16601",
+    "nom": "Volpajola",
+    "lat": 42.48806,
+    "lon": 9.39477,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B35503",
+    "nom": "VOLPAJOLA 1",
+    "lat": 42.50675,
+    "lon": 9.36712,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B35502",
+    "nom": "VOLPAJOLA2",
+    "lat": 42.50682,
+    "lon": 9.36088,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A35801",
+    "nom": "Zevaco",
+    "lat": 41.895,
+    "lon": 9.0475,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A35901",
+    "nom": "Zicavo",
+    "lat": 41.88859,
+    "lon": 9.1055,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B36101",
+    "nom": "ZILIA",
+    "lat": 42.52685,
+    "lon": 8.893,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A36301",
+    "nom": "ZOZA 2 : Village",
+    "lat": 41.71517,
+    "lon": 9.07029,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A16303",
+    "nom": "ZR-Monacia-d'Aull-1",
+    "lat": 41.51394,
+    "lon": 9.01214,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A16304",
+    "nom": "ZR-Monacia-d'Aull-2",
+    "lat": 41.49436,
+    "lon": 8.97005,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A16305",
+    "nom": "ZR-Monacia-d'Aull-3",
+    "lat": 41.49363,
+    "lon": 8.98481,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A00475",
+    "nom": "ZRP_AJACCIO_ERBAGGI",
+    "lat": 41.93629,
+    "lon": 8.80448,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A04003",
+    "nom": "ZRP_BOCOGNANO",
+    "lat": 42.09349,
+    "lon": 9.08036,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A04005",
+    "nom": "ZRP_BOCOGNANO3",
+    "lat": 42.0795,
+    "lon": 9.03902,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A04157",
+    "nom": "ZRP_BONIFACIO",
+    "lat": 41.45318,
+    "lon": 9.21144,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B05401",
+    "nom": "ZRP_CAMPILE",
+    "lat": 42.50556,
+    "lon": 9.33514,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B05902",
+    "nom": "ZRP_CANAVAGGIA",
+    "lat": 42.47406,
+    "lon": 9.2523,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B05903",
+    "nom": "ZRP_CANAVAGGIA2",
+    "lat": 42.47087,
+    "lon": 9.22785,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B09302",
+    "nom": "ZRP_CORBARA",
+    "lat": 42.63334,
+    "lon": 8.922,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B09655",
+    "nom": "ZRP_CORTE",
+    "lat": 42.28783,
+    "lon": 9.17196,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B09656",
+    "nom": "ZRP_CORTE2",
+    "lat": 42.27966,
+    "lon": 9.17788,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A10352",
+    "nom": "ZRP_CUTTOLI-CORTICC",
+    "lat": 41.98948,
+    "lon": 8.86001,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B14001",
+    "nom": "ZRP_LENTO",
+    "lat": 42.50448,
+    "lon": 9.30441,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B16803",
+    "nom": "ZRP_MONTICELLO",
+    "lat": 42.63161,
+    "lon": 8.95727,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B16901",
+    "nom": "ZRP_MOROSAGLIA_Stade",
+    "lat": 42.46765,
+    "lon": 9.20633,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B19903",
+    "nom": "ZRP_PALASCA",
+    "lat": 42.59436,
+    "lon": 9.04199,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B23801",
+    "nom": "ZRP_POGGIO-DI-VENAC",
+    "lat": 42.26633,
+    "lon": 9.19397,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B23802",
+    "nom": "ZRP_POGGIO-DI-VENAC2",
+    "lat": 42.25288,
+    "lon": 9.18933,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A27102",
+    "nom": "ZRP_SARROLA-CARCOPI",
+    "lat": 41.9662,
+    "lon": 8.82039,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A32401",
+    "nom": "ZRP_TAVERA",
+    "lat": 42.07944,
+    "lon": 9.03897,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A32402",
+    "nom": "ZRP_TAVERA2",
+    "lat": 42.07643,
+    "lon": 9.02117,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A32403",
+    "nom": "ZRP_TAVERA3",
+    "lat": 42.06844,
+    "lon": 9.00579,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B35501",
+    "nom": "ZRP_VOLPAJOLA",
+    "lat": 42.50598,
+    "lon": 9.39118,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A27254",
+    "nom": "ZR-Sartene-1",
+    "lat": 41.53977,
+    "lon": 8.856,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2A27255",
+    "nom": "ZR-Sartene-2",
+    "lat": 41.57236,
+    "lon": 8.95301,
+    "equipe": "ZC SE CORS"
+  },
+  {
+    "ig": "2B25102",
+    "nom": "ZRT_PRUNELLI QUERCIO",
+    "lat": 42.00428,
+    "lon": 9.3898,
+    "equipe": "ZC SE CORS"
+  }
+]

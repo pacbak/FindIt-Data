@@ -1,0 +1,6400 @@
+[
+  {
+    "ig": "8300101",
+    "nom": "Adrets-de-l'Esterel",
+    "lat": 43.5101,
+    "lon": 6.84322,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0500606",
+    "nom": "Agentiere_La_Bessee2",
+    "lat": 44.79148,
+    "lon": 6.55548,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608102",
+    "nom": "Aiglun",
+    "lat": 43.85491,
+    "lon": 6.90056,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0400101",
+    "nom": "Aiglun: Bleone",
+    "lat": 44.04475,
+    "lon": 6.14332,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300303",
+    "nom": "AMPUS_Fumades_SALT",
+    "lat": 43.57422,
+    "lon": 6.42061,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300302",
+    "nom": "AMPUS Puy de SIGUE S",
+    "lat": 43.59114,
+    "lon": 6.34862,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615401",
+    "nom": "Andon",
+    "lat": 43.7872,
+    "lon": 6.73677,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0400801",
+    "nom": "Annot",
+    "lat": 43.96472,
+    "lon": 6.63889,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0600496",
+    "nom": "Antibes Montebello",
+    "lat": 43.59518,
+    "lon": 7.11881,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300403",
+    "nom": "ARCS : ZACBreguieres",
+    "lat": 43.45424,
+    "lon": 6.50694,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314103",
+    "nom": "Arteria Poste Elec",
+    "lat": 43.51035,
+    "lon": 6.47559,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0600701",
+    "nom": "Auribeau",
+    "lat": 43.61179,
+    "lon": 6.90883,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300803",
+    "nom": "BAGNOLS EN FORET 2",
+    "lat": 43.53165,
+    "lon": 6.69089,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300907",
+    "nom": "Bandol:DidierDaurat",
+    "lat": 43.13731,
+    "lon": 5.75365,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300903",
+    "nom": "BANDOL HTS DE BANDOL",
+    "lat": 43.14778,
+    "lon": 5.75278,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300902",
+    "nom": "Bandol:l'escourche",
+    "lat": 43.145,
+    "lon": 5.7629,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300909",
+    "nom": "Bandol:Novembre",
+    "lat": 43.13645,
+    "lon": 5.75307,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306913",
+    "nom": "BAN Hyeres",
+    "lat": 43.09373,
+    "lon": 6.16454,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304101",
+    "nom": "Bargemon:Claviers",
+    "lat": 43.60972,
+    "lon": 6.56778,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8301101",
+    "nom": "Bargemon:Marceau",
+    "lat": 43.62057,
+    "lon": 6.55062,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8301201",
+    "nom": "Barjols",
+    "lat": 43.55547,
+    "lon": 6.01342,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8301202",
+    "nom": "Barjols:Augustins",
+    "lat": 43.55724,
+    "lon": 6.00891,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0611201",
+    "nom": "Bar/Loup (Le)",
+    "lat": 43.68722,
+    "lon": 6.99923,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0614801",
+    "nom": "Bar-loup(Le) : SFR",
+    "lat": 43.71806,
+    "lon": 7.0575,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8301301",
+    "nom": "Bastide(La) : RC",
+    "lat": 43.73724,
+    "lon": 6.62252,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0402403",
+    "nom": "BEAUJEU_ZR",
+    "lat": 44.22834,
+    "lon": 6.35605,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303501",
+    "nom": "Beausset (Le)",
+    "lat": 43.24278,
+    "lon": 5.79528,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8301701",
+    "nom": "Belgentier",
+    "lat": 43.23337,
+    "lon": 6.01248,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8301801",
+    "nom": "BESSE_SUR_ISSOLE",
+    "lat": 43.32845,
+    "lon": 6.16331,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0601603",
+    "nom": "BEUIL",
+    "lat": 44.09144,
+    "lon": 6.97181,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0601601",
+    "nom": "Beuil 1:Valberg",
+    "lat": 44.06404,
+    "lon": 6.93788,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0601602",
+    "nom": "Beuil 2:Couillole",
+    "lat": 44.09361,
+    "lon": 7.00111,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0601804",
+    "nom": "BIOT_SOULIERES_BIS",
+    "lat": 43.62966,
+    "lon": 7.07623,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0601902",
+    "nom": "Blausasc:Plan",
+    "lat": 43.80565,
+    "lon": 7.36722,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0601901",
+    "nom": "Blaussasc",
+    "lat": 43.80556,
+    "lon": 7.36889,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602101",
+    "nom": "BONSON_BIS",
+    "lat": 43.86262,
+    "lon": 7.19338,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8301905",
+    "nom": "BormesLesMi:Carnot10",
+    "lat": 43.15192,
+    "lon": 6.34252,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8301904",
+    "nom": "BormesLesMi:Carnot79",
+    "lat": 43.15094,
+    "lon": 6.33927,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8301902",
+    "nom": "Bormes-les-Mim:Noyer",
+    "lat": 43.19891,
+    "lon": 6.38726,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8301906",
+    "nom": "Bormes Mimosas2_SALT",
+    "lat": 43.19767,
+    "lon": 6.38906,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302001",
+    "nom": "Bourguet (Le)",
+    "lat": 43.78,
+    "lon": 6.50944,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302101",
+    "nom": "Bras",
+    "lat": 43.47,
+    "lon": 5.95472,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314903",
+    "nom": "BRAS 1",
+    "lat": 43.4545,
+    "lon": 5.97226,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302102",
+    "nom": "Bras:Presbytere",
+    "lat": 43.47214,
+    "lon": 5.95349,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0403201",
+    "nom": "Braux",
+    "lat": 43.97361,
+    "lon": 6.70472,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602301",
+    "nom": "Breil/Roya 1:C,-Bosc",
+    "lat": 43.92616,
+    "lon": 7.49181,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602302",
+    "nom": "Breil/Roya 2",
+    "lat": 43.94239,
+    "lon": 7.50529,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602303",
+    "nom": "Breil/roya:RD 2204",
+    "lat": 43.95101,
+    "lon": 7.51032,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602309",
+    "nom": "Breil SurRoya:Maglia",
+    "lat": 43.97185,
+    "lon": 7.50906,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0502312",
+    "nom": "Briancon:Fort Tetes",
+    "lat": 44.895,
+    "lon": 6.64778,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602401",
+    "nom": "Brianconnet",
+    "lat": 43.86268,
+    "lon": 6.70575,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602403",
+    "nom": "BRIANCONNET_2_SALT",
+    "lat": 43.87393,
+    "lon": 6.77129,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0502313",
+    "nom": "Briancon: Pt du jour",
+    "lat": 44.89,
+    "lon": 6.6606,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302309",
+    "nom": "BRIGNOLES",
+    "lat": 43.40005,
+    "lon": 6.1279,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302303",
+    "nom": "BRIGNOLES 4 Saisons",
+    "lat": 43.40725,
+    "lon": 6.05528,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302304",
+    "nom": "BRIGNOLES-852_0208",
+    "lat": 43.40448,
+    "lon": 6.06162,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302305",
+    "nom": "Brignoles:Barbaroux",
+    "lat": 43.40789,
+    "lon": 6.06341,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302306",
+    "nom": "BRIGNOLES_Ch,Vins_A8",
+    "lat": 43.42023,
+    "lon": 6.09489,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302310",
+    "nom": "Brignoles:Liberation",
+    "lat": 43.40582,
+    "lon": 6.071,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0616201",
+    "nom": "Brigue:Lubaira",
+    "lat": 44.06622,
+    "lon": 7.59939,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302501",
+    "nom": "Brue-Auriac",
+    "lat": 43.5231,
+    "lon": 5.93631,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302502",
+    "nom": "BrueAuriac:Presbyter",
+    "lat": 43.5276,
+    "lon": 5.9442,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609159",
+    "nom": "CABANELLES-Mat-NOST",
+    "lat": 43.78889,
+    "lon": 7.41889,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609160",
+    "nom": "CABANELLES-P3 -1467",
+    "lat": 43.78958,
+    "lon": 7.41849,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609158",
+    "nom": "CABANELLES-P4-FM",
+    "lat": 43.78917,
+    "lon": 7.41806,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609157",
+    "nom": "CABANELLES-Pot-Crete",
+    "lat": 43.78881,
+    "lon": 7.41893,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302601",
+    "nom": "Cabasse",
+    "lat": 43.43167,
+    "lon": 6.22028,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302610",
+    "nom": "CABASSE 1",
+    "lat": 43.42617,
+    "lon": 6.22193,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302604",
+    "nom": "Cabasse:A8_LaGuerine",
+    "lat": 43.41063,
+    "lon": 6.17108,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302606",
+    "nom": "Cabasse:Pl Dotto",
+    "lat": 43.4257,
+    "lon": 6.22174,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302608",
+    "nom": "CABASSE_St Martin",
+    "lat": 43.40738,
+    "lon": 6.25786,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602716",
+    "nom": "CAGNES /MER CASTEL",
+    "lat": 43.66311,
+    "lon": 7.14738,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602719",
+    "nom": "CAGNES/MER St Clair",
+    "lat": 43.66086,
+    "lon": 7.14488,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602721",
+    "nom": "CAGNES S M-846_1107",
+    "lat": 43.6637,
+    "lon": 7.17894,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602727",
+    "nom": "CAGNES S M_Beausolei",
+    "lat": 43.66709,
+    "lon": 7.13998,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602723",
+    "nom": "CAGNES S M:Donat N15",
+    "lat": 43.6608,
+    "lon": 7.14686,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602722",
+    "nom": "CAGNES S M-ESPARTES",
+    "lat": 43.66327,
+    "lon": 7.177,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602718",
+    "nom": "CAGNES S M-Misaudor",
+    "lat": 43.66707,
+    "lon": 7.14036,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602720",
+    "nom": "CAGNES S R-846_1038",
+    "lat": 43.66047,
+    "lon": 7.16351,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602728",
+    "nom": "CAGNES_ST_VERAN",
+    "lat": 43.65504,
+    "lon": 7.13956,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302801",
+    "nom": "Callas",
+    "lat": 43.5875,
+    "lon": 6.55417,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602973",
+    "nom": "CANNES-846_1035",
+    "lat": 43.55865,
+    "lon": 6.96112,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602976",
+    "nom": "CANNES-846_1035BIS",
+    "lat": 43.5587,
+    "lon": 6.96163,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602974",
+    "nom": "CANNES-846_1041",
+    "lat": 43.5561,
+    "lon": 6.96839,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602907",
+    "nom": "Cannes-Abadie:SFR",
+    "lat": 43.56917,
+    "lon": 6.95361,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602911",
+    "nom": "Cannes-Bocca-Centre",
+    "lat": 43.55083,
+    "lon": 6.98028,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602912",
+    "nom": "Cannes-Bocca-Est:SFR",
+    "lat": 43.55083,
+    "lon": 6.97333,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602910",
+    "nom": "Cannes-Bocca-Plage",
+    "lat": 43.55083,
+    "lon": 6.96111,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0603053",
+    "nom": "CANNES_COUGOUSSOLES",
+    "lat": 43.57016,
+    "lon": 7.00898,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602972",
+    "nom": "CANNES Le Cedre",
+    "lat": 43.57429,
+    "lon": 6.96091,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602906",
+    "nom": "Cannes-Midi : SFR",
+    "lat": 43.55056,
+    "lon": 6.99806,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602908",
+    "nom": "Cannes-Nord:SFR",
+    "lat": 43.57417,
+    "lon": 6.99056,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602975",
+    "nom": "CANNES: Pl Semard",
+    "lat": 43.55373,
+    "lon": 7.02057,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602909",
+    "nom": "Cannes-Rochers-Bocca",
+    "lat": 43.55028,
+    "lon": 6.98889,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602962",
+    "nom": "CANNES-StCannesRadio",
+    "lat": 43.5525,
+    "lon": 7.02167,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615501",
+    "nom": "Cannes:Vallauris",
+    "lat": 43.5787,
+    "lon": 7.03556,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303103",
+    "nom": "Cannet:Bertrands CFH",
+    "lat": 43.368,
+    "lon": 6.41403,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0603004",
+    "nom": "Cannet(Le)-Blanchiss",
+    "lat": 43.57944,
+    "lon": 6.99861,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0603051",
+    "nom": "Cannet:Pezou:SFR",
+    "lat": 43.57043,
+    "lon": 7.03508,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0603002",
+    "nom": "Cannet:St,Kiss",
+    "lat": 43.58143,
+    "lon": 7.01032,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0603054",
+    "nom": "Cannet:Stu-Radio-AS",
+    "lat": 43.56919,
+    "lon": 7.01628,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0603102",
+    "nom": "Cantaron::Cognas",
+    "lat": 43.765,
+    "lon": 7.31903,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303202",
+    "nom": "Carces:Eglise",
+    "lat": 43.47619,
+    "lon": 6.18384,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303305",
+    "nom": "CARNOULES",
+    "lat": 43.29919,
+    "lon": 6.18946,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303307",
+    "nom": "Carnoules:Murier",
+    "lat": 43.30128,
+    "lon": 6.19166,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303302",
+    "nom": "CARNOULES_Vallons",
+    "lat": 43.29725,
+    "lon": 6.16141,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303408",
+    "nom": "CARQUEIRANN-852_0152",
+    "lat": 43.09545,
+    "lon": 6.07509,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303409",
+    "nom": "CARQUEIRANN-852_0203",
+    "lat": 43.09272,
+    "lon": 6.07946,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303401",
+    "nom": "Carqueiranne",
+    "lat": 43.10337,
+    "lon": 6.07181,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303411",
+    "nom": "Carqueiranne:Eglise",
+    "lat": 43.09525,
+    "lon": 6.07699,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303410",
+    "nom": "Carqueiranne:JJaures",
+    "lat": 43.09396,
+    "lon": 6.07616,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303403",
+    "nom": "Carqueiranne:RD559",
+    "lat": 43.10028,
+    "lon": 6.06032,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0603305",
+    "nom": "CARROS-846_1061",
+    "lat": 43.7681,
+    "lon": 7.191,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0603304",
+    "nom": "Carros:d'Ou Pue",
+    "lat": 43.79394,
+    "lon": 7.18976,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303502",
+    "nom": "Castellet:Cadiere",
+    "lat": 43.17972,
+    "lon": 5.75917,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0407603",
+    "nom": "Castellet-Sausses",
+    "lat": 43.95944,
+    "lon": 6.75417,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0603501",
+    "nom": "Castillon 1",
+    "lat": 43.8091,
+    "lon": 7.4945,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088AC",
+    "nom": "CAUCADE_DUFY",
+    "lat": 43.68261,
+    "lon": 7.21397,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303601",
+    "nom": "Cavalaire 1:La-Vigie",
+    "lat": 43.16528,
+    "lon": 6.53389,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303602",
+    "nom": "Cavalaire 2",
+    "lat": 43.18444,
+    "lon": 6.52278,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303654",
+    "nom": "Cavalaire:Eglise",
+    "lat": 43.17399,
+    "lon": 6.5269,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303801",
+    "nom": "Chateaudouble",
+    "lat": 43.60361,
+    "lon": 6.44639,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0503602",
+    "nom": "Chateauroux 1",
+    "lat": 44.63988,
+    "lon": 6.54723,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0504006",
+    "nom": "CHORGES2",
+    "lat": 44.53529,
+    "lon": 6.28701,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0504007",
+    "nom": "CHORGES_3",
+    "lat": 44.54618,
+    "lon": 6.27217,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0504008",
+    "nom": "CHORGES: DICI Radio",
+    "lat": 44.54541,
+    "lon": 6.27762,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309101",
+    "nom": "CHU de Pierrefeu",
+    "lat": 43.23417,
+    "lon": 6.14833,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0604101",
+    "nom": "Cipieres : SFR",
+    "lat": 43.78417,
+    "lon": 6.91861,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304202",
+    "nom": "COGOLIN-435-Palmiers",
+    "lat": 43.25099,
+    "lon": 6.53852,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304203",
+    "nom": "COGOLIN-818",
+    "lat": 43.25183,
+    "lon": 6.52571,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307901",
+    "nom": "Cogolin:La Mole",
+    "lat": 43.1908,
+    "lon": 6.494,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304204",
+    "nom": "Cogolin:Presbytere",
+    "lat": 43.25145,
+    "lon": 6.53255,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0604403",
+    "nom": "COLLE S LOUP_Eug Sue",
+    "lat": 43.68644,
+    "lon": 7.10538,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304301",
+    "nom": "Collobrieres",
+    "lat": 43.23611,
+    "lon": 6.31167,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304305",
+    "nom": "Collobrieres:Chapell",
+    "lat": 43.23834,
+    "lon": 6.30893,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304304",
+    "nom": "Collobrieres:Egalite",
+    "lat": 43.23598,
+    "lon": 6.31003,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608701",
+    "nom": "Collongues",
+    "lat": 43.88472,
+    "lon": 6.86278,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304401",
+    "nom": "Comps/Artuby",
+    "lat": 43.72472,
+    "lon": 6.47694,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304402",
+    "nom": "Comps/Artuby:Coulet",
+    "lat": 43.7735,
+    "lon": 6.6165,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304403",
+    "nom": "Comps/Artuby:Presbyt",
+    "lat": 43.71039,
+    "lon": 6.50983,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0614901",
+    "nom": "Contes",
+    "lat": 43.74081,
+    "lon": 7.35717,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0604803",
+    "nom": "Contes LesDeuxRives",
+    "lat": 43.81227,
+    "lon": 7.31068,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0604801",
+    "nom": "Contes:Reservoir",
+    "lat": 43.82278,
+    "lon": 7.3432,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0604802",
+    "nom": "CONTES-SH9052",
+    "lat": 43.80375,
+    "lon": 7.32329,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304501",
+    "nom": "Correns",
+    "lat": 43.50889,
+    "lon": 6.08306,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304502",
+    "nom": "Correns:Presbytere",
+    "lat": 43.48797,
+    "lon": 6.0792,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304601",
+    "nom": "Cotignac : ND Graces",
+    "lat": 43.52037,
+    "lon": 6.14708,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0605101",
+    "nom": "Croix/Roudoule 1",
+    "lat": 43.98194,
+    "lon": 6.8675,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0605102",
+    "nom": "Croix/Roudoule 2",
+    "lat": 43.995,
+    "lon": 6.87278,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615105",
+    "nom": "Cros-Utelle:Citeite",
+    "lat": 43.8807,
+    "lon": 7.23583,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304903",
+    "nom": "Cuers:Presbytere",
+    "lat": 43.23679,
+    "lon": 6.07205,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0605301",
+    "nom": "Daluis",
+    "lat": 44.0354,
+    "lon": 6.79554,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615253",
+    "nom": "DC TAS -Valbonne",
+    "lat": 43.62728,
+    "lon": 7.05167,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314423",
+    "nom": "DGA-EM_MT_COUDON",
+    "lat": 43.16075,
+    "lon": 6.00808,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305001",
+    "nom": "Draguignan 1:Selves",
+    "lat": 43.5235,
+    "lon": 6.44536,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300301",
+    "nom": "Draguignan 2:Ampus",
+    "lat": 43.57401,
+    "lon": 6.4208,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305012",
+    "nom": "Draguignan 3",
+    "lat": 43.52308,
+    "lon": 6.44536,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305014",
+    "nom": "DRAGUIGNAN Le Patio",
+    "lat": 43.53056,
+    "lon": 6.4717,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305002",
+    "nom": "Draguignan:Malmont",
+    "lat": 43.55833,
+    "lon": 6.46139,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305020",
+    "nom": "Draguignan:Ml Joffre",
+    "lat": 43.53662,
+    "lon": 6.46018,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305019",
+    "nom": "Draguignan:RteGrasse",
+    "lat": 43.54169,
+    "lon": 6.46881,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305023",
+    "nom": "Draguignan:RtGrasse2",
+    "lat": 43.54092,
+    "lon": 6.46958,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305015",
+    "nom": "DRAGUIGNAN Victoria",
+    "lat": 43.53029,
+    "lon": 6.46306,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0605401",
+    "nom": "Drap",
+    "lat": 43.76144,
+    "lon": 7.32837,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0605402",
+    "nom": "DRAP-846_1589",
+    "lat": 43.76973,
+    "lon": 7.33163,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0504603",
+    "nom": "EMBRUN1",
+    "lat": 44.59049,
+    "lon": 6.51328,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0504604",
+    "nom": "EMBRUN2",
+    "lat": 44.56427,
+    "lon": 6.49218,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305101",
+    "nom": "Entrecasteaux",
+    "lat": 43.51337,
+    "lon": 6.24615,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0407601",
+    "nom": "Entrevaux 1",
+    "lat": 43.94722,
+    "lon": 6.84472,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0407602",
+    "nom": "Entrevaux 2",
+    "lat": 43.95583,
+    "lon": 6.78222,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0605701",
+    "nom": "Escarene 1 (L')",
+    "lat": 43.83431,
+    "lon": 7.35062,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607920",
+    "nom": "ESCOTA TDR:La Bocca",
+    "lat": 43.55878,
+    "lon": 6.95183,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607919",
+    "nom": "ESCOTA TDR:Mandelieu",
+    "lat": 43.54406,
+    "lon": 6.93762,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0605801",
+    "nom": "Escragnolles",
+    "lat": 43.72619,
+    "lon": 6.79483,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0600447",
+    "nom": "EUCLYDES Antibes",
+    "lat": 43.60498,
+    "lon": 7.07593,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0605908",
+    "nom": "EZE1",
+    "lat": 43.72788,
+    "lon": 7.35334,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0605909",
+    "nom": "EZE2",
+    "lat": 43.73501,
+    "lon": 7.38323,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305502",
+    "nom": "Fayence:Ladeveze",
+    "lat": 43.59194,
+    "lon": 6.68111,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305503",
+    "nom": "Fayence:Presbytere",
+    "lat": 43.62347,
+    "lon": 6.69623,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305601",
+    "nom": "Figanieres",
+    "lat": 43.56667,
+    "lon": 6.495,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305602",
+    "nom": "Figanieres:cl,canin",
+    "lat": 43.54421,
+    "lon": 6.53708,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305603",
+    "nom": "FIGANIERES_SALT",
+    "lat": 43.54407,
+    "lon": 6.53703,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305702",
+    "nom": "Flassans/Isso:Eglise",
+    "lat": 43.37083,
+    "lon": 6.22144,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305701",
+    "nom": "Flassans/Issole",
+    "lat": 43.37314,
+    "lon": 6.2232,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305704",
+    "nom": "FLASSANS-SUR-ISSOL",
+    "lat": 43.3885,
+    "lon": 6.18009,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305802",
+    "nom": "Flayosc:Presbytere",
+    "lat": 43.53407,
+    "lon": 6.39815,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0613201",
+    "nom": "Fontan 1",
+    "lat": 43.99152,
+    "lon": 7.5499,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306001",
+    "nom": "Fox Amphoux:Chapelle",
+    "lat": 43.58776,
+    "lon": 6.09981,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0505803",
+    "nom": "Freissinieres",
+    "lat": 44.73653,
+    "lon": 6.44647,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306123",
+    "nom": "FREJUS1",
+    "lat": 43.48069,
+    "lon": 6.78328,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306124",
+    "nom": "FREJUS2",
+    "lat": 43.49978,
+    "lon": 6.80185,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306125",
+    "nom": "FREJUS3",
+    "lat": 43.51431,
+    "lon": 6.88379,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306106",
+    "nom": "FREJUS-83061",
+    "lat": 43.42352,
+    "lon": 6.7386,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306116",
+    "nom": "Frejus:Aumonerie",
+    "lat": 43.44315,
+    "lon": 6.75367,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306127",
+    "nom": "Frejus:Callies",
+    "lat": 43.44312,
+    "lon": 6.74702,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306128",
+    "nom": "Frejus:Lache",
+    "lat": 43.4631,
+    "lon": 6.73069,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306118",
+    "nom": "Frejus:La Gabelle",
+    "lat": 43.43038,
+    "lon": 6.75914,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306117",
+    "nom": "Frejus:Pl agricola",
+    "lat": 43.43318,
+    "lon": 6.73317,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306115",
+    "nom": "Frejus:Sigaugy",
+    "lat": 43.4321,
+    "lon": 6.73567,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306113",
+    "nom": "FREJUS-SNI_0454",
+    "lat": 43.44084,
+    "lon": 6.746,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306112",
+    "nom": "FREJUS-SNI_0753",
+    "lat": 43.44057,
+    "lon": 6.74608,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0506132",
+    "nom": "GAP 1",
+    "lat": 44.57624,
+    "lon": 6.11848,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0505301",
+    "nom": "Garde-Colombe",
+    "lat": 44.36987,
+    "lon": 5.75115,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306303",
+    "nom": "Garde F: Launes CFH",
+    "lat": 43.33731,
+    "lon": 6.43315,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306301",
+    "nom": "Garde-Freinet (La)",
+    "lat": 43.32611,
+    "lon": 6.48111,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306402",
+    "nom": "Gareoult:Presbytere",
+    "lat": 43.33008,
+    "lon": 6.04706,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306401",
+    "nom": "Gareoult:Reservoir",
+    "lat": 43.34639,
+    "lon": 6.03361,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602402",
+    "nom": "Gars",
+    "lat": 43.87435,
+    "lon": 6.7738,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606402",
+    "nom": "GATTIERES_ZR",
+    "lat": 43.75851,
+    "lon": 7.17834,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606501",
+    "nom": "Gaude(La):Barronne",
+    "lat": 43.72,
+    "lon": 7.1775,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311864",
+    "nom": "GC_Agay",
+    "lat": 43.43154,
+    "lon": 6.85657,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0600492",
+    "nom": "GC_Antibes",
+    "lat": 43.58594,
+    "lon": 7.11952,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0501001",
+    "nom": "GC_Aspres-sur-Buech",
+    "lat": 44.5196,
+    "lon": 5.75464,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300908",
+    "nom": "GC_Bandol",
+    "lat": 43.14038,
+    "lon": 5.75019,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0601103",
+    "nom": "GC_Beaulieu-sur-Mer",
+    "lat": 43.70682,
+    "lon": 7.33165,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0600493",
+    "nom": "GC_Biot",
+    "lat": 43.61103,
+    "lon": 7.12626,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602308",
+    "nom": "GC_Breil-sur-Roya",
+    "lat": 43.94414,
+    "lon": 7.51647,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0502315",
+    "nom": "GC_Briancon",
+    "lat": 44.88994,
+    "lon": 6.63316,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602725",
+    "nom": "GC_Cagnes-sur-Mer",
+    "lat": 43.65818,
+    "lon": 7.14866,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602981",
+    "nom": "GC_Cannes",
+    "lat": 43.55399,
+    "lon": 7.01984,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602982",
+    "nom": "GC_Cannes La Bocca",
+    "lat": 43.5489,
+    "lon": 6.98674,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0603205",
+    "nom": "GC_Cap-d'Ail",
+    "lat": 43.72067,
+    "lon": 7.39456,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0610416",
+    "nom": "GC_Carnoles",
+    "lat": 43.76205,
+    "lon": 7.48144,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303304",
+    "nom": "GC_Carnoules",
+    "lat": 43.29755,
+    "lon": 6.18651,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0404903",
+    "nom": "GC_Chateau-Arnoux-Sa",
+    "lat": 44.06168,
+    "lon": 5.99747,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0504004",
+    "nom": "GC_Chorges",
+    "lat": 44.54584,
+    "lon": 6.27203,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602726",
+    "nom": "GC_Cros de Cagnes",
+    "lat": 43.66059,
+    "lon": 7.16722,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304906",
+    "nom": "GC_Cuers - Pierrefeu",
+    "lat": 43.23645,
+    "lon": 6.08577,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0605403",
+    "nom": "GC_Drap",
+    "lat": 43.76432,
+    "lon": 7.33901,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0603107",
+    "nom": "GC_Drap - Cantaron",
+    "lat": 43.76012,
+    "lon": 7.31701,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0504602",
+    "nom": "GC_Embrun",
+    "lat": 44.56705,
+    "lon": 6.49684,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0605907",
+    "nom": "GC_Eze",
+    "lat": 43.72234,
+    "lon": 7.35689,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606202",
+    "nom": "GC_Fontan - Saorge",
+    "lat": 43.9968,
+    "lon": 7.55178,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306121",
+    "nom": "GC_Frejus",
+    "lat": 43.43208,
+    "lon": 6.73302,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306122",
+    "nom": "GC_Frejus Autotrain",
+    "lat": 43.42903,
+    "lon": 6.75517,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0506131",
+    "nom": "GC_Gap",
+    "lat": 44.56375,
+    "lon": 6.08569,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615554",
+    "nom": "GC_Golfe Juan Vallau",
+    "lat": 43.56669,
+    "lon": 7.07382,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306706",
+    "nom": "GC_Gonfaron",
+    "lat": 43.31738,
+    "lon": 6.28178,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606956",
+    "nom": "GC_Grasse",
+    "lat": 43.65347,
+    "lon": 6.92573,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306930",
+    "nom": "GC_Hyeres",
+    "lat": 43.109,
+    "lon": 6.12429,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0600494",
+    "nom": "GC_Juan les Pins",
+    "lat": 43.57094,
+    "lon": 7.11147,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0616202",
+    "nom": "GC_La Brigue",
+    "lat": 44.06261,
+    "lon": 7.60567,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0403401",
+    "nom": "GC_La Brillanne - Or",
+    "lat": 43.92481,
+    "lon": 5.89238,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304711",
+    "nom": "GC_La Crau",
+    "lat": 43.14507,
+    "lon": 6.06887,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306216",
+    "nom": "GC_La Garde",
+    "lat": 43.11886,
+    "lon": 6.01019,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306217",
+    "nom": "GC_La Pauline Hyeres",
+    "lat": 43.13628,
+    "lon": 6.03511,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0507001",
+    "nom": "GC_Laragne",
+    "lat": 44.31657,
+    "lon": 5.81904,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0500604",
+    "nom": "GC_L'Argentiere Les",
+    "lat": 44.79107,
+    "lon": 6.55643,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312623",
+    "nom": "GC_La Seyne - Six Fo",
+    "lat": 43.11697,
+    "lon": 5.87698,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0614915",
+    "nom": "GC_La Trinite Victor",
+    "lat": 43.74279,
+    "lon": 7.3115,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303105",
+    "nom": "GC_Le Luc - Le Canne",
+    "lat": 43.39039,
+    "lon": 6.34312,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300410",
+    "nom": "GC_Les Arcs - Dragui",
+    "lat": 43.45569,
+    "lon": 6.48268,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0605703",
+    "nom": "GC_L'Escarene",
+    "lat": 43.8398,
+    "lon": 7.35174,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311866",
+    "nom": "GC_Le Trayas",
+    "lat": 43.47463,
+    "lon": 6.92444,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607916",
+    "nom": "GC_Mandelieu-la-Napo",
+    "lat": 43.52409,
+    "lon": 6.9415,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608317",
+    "nom": "GC_Menton",
+    "lat": 43.77462,
+    "lon": 7.49346,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608318",
+    "nom": "GC_Menton Garavan",
+    "lat": 43.78533,
+    "lon": 7.51734,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0505201",
+    "nom": "GC_Mont-Dauphin - Gu",
+    "lat": 44.67475,
+    "lon": 6.61563,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088A6",
+    "nom": "GC_Nice",
+    "lat": 43.70463,
+    "lon": 7.26206,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088A7",
+    "nom": "GC_Nice Riquier",
+    "lat": 43.70574,
+    "lon": 7.29029,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088A8",
+    "nom": "GC_Nice Saint-August",
+    "lat": 43.67084,
+    "lon": 7.21625,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309004",
+    "nom": "GC_Ollioules - Sanar",
+    "lat": 43.12264,
+    "lon": 5.82515,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609153",
+    "nom": "GC_Peille",
+    "lat": 43.79207,
+    "lon": 7.38004,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609204",
+    "nom": "GC_Peillon-Ste-Thecl",
+    "lat": 43.76789,
+    "lon": 7.3669,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309204",
+    "nom": "GC_Pignans",
+    "lat": 43.29857,
+    "lon": 6.22493,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088A9",
+    "nom": "GC_Pont Michel",
+    "lat": 43.71556,
+    "lon": 7.287,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311863",
+    "nom": "GC_P_StRaphaelAntheo",
+    "lat": 43.43528,
+    "lon": 6.89212,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310005",
+    "nom": "GC_Puget",
+    "lat": 43.2831,
+    "lon": 6.13852,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309906",
+    "nom": "GC_Puget-sur-Argens",
+    "lat": 43.2831,
+    "lon": 6.13852,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0610417",
+    "nom": "GC_Roquebrune-Cap-Ma",
+    "lat": 43.76066,
+    "lon": 7.45742,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311213",
+    "nom": "GC_SaintCyrLecque",
+    "lat": 43.18566,
+    "lon": 5.70402,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0612319",
+    "nom": "GC_Saint-LaurentVar",
+    "lat": 43.6626,
+    "lon": 7.19457,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311867",
+    "nom": "GC_Saint-Raphael Val",
+    "lat": 43.42371,
+    "lon": 6.76921,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0516601",
+    "nom": "GC_Serres",
+    "lat": 44.4248,
+    "lon": 5.71848,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0420915",
+    "nom": "GC_Sisteron",
+    "lat": 44.19033,
+    "lon": 5.94672,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313008",
+    "nom": "GC_Sollies-Pont",
+    "lat": 43.19085,
+    "lon": 6.04639,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0613603",
+    "nom": "GC_Sospel",
+    "lat": 43.87665,
+    "lon": 7.4539,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311881",
+    "nom": "GC_StRaphaelAntheo",
+    "lat": 43.43528,
+    "lon": 6.89212,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0616305",
+    "nom": "GC_Tende",
+    "lat": 44.09005,
+    "lon": 7.59434,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0616306",
+    "nom": "GC_TENDE_Vievola",
+    "lat": 44.11246,
+    "lon": 7.5627,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0613805",
+    "nom": "GC_Theoule-sur-Mer",
+    "lat": 43.5136,
+    "lon": 6.93688,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0614201",
+    "nom": "GC_Touetdel'Escarene",
+    "lat": 43.84718,
+    "lon": 7.36449,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371S",
+    "nom": "GC_Toulon",
+    "lat": 43.12839,
+    "lon": 5.92938,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0517902",
+    "nom": "GC_Veynes Devoluy",
+    "lat": 44.53204,
+    "lon": 5.8159,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314807",
+    "nom": "GC_Vidauban",
+    "lat": 43.43101,
+    "lon": 6.43401,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615915",
+    "nom": "GC_Villefranche/Mer",
+    "lat": 43.70712,
+    "lon": 7.31428,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0616112",
+    "nom": "GC_Villeneuve-Loubet",
+    "lat": 43.63006,
+    "lon": 7.13418,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306305",
+    "nom": "G-Frenet:Eloi",
+    "lat": 43.3132,
+    "lon": 6.46862,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0600402",
+    "nom": "Golfe-Juan (Le)",
+    "lat": 43.56495,
+    "lon": 7.13315,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306703",
+    "nom": "GONFARON_Beauvais",
+    "lat": 43.31235,
+    "lon": 6.27452,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306702",
+    "nom": "Gonfaron:Presbytere",
+    "lat": 43.31969,
+    "lon": 6.28545,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0611303",
+    "nom": "Gorbio 1",
+    "lat": 43.79073,
+    "lon": 7.45573,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606901",
+    "nom": "Grasse1:Trois-Portes",
+    "lat": 43.65417,
+    "lon": 6.91639,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606902",
+    "nom": "Grasse2:Roquevignon",
+    "lat": 43.66583,
+    "lon": 6.92111,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606955",
+    "nom": "Grasse 3_Ch,Pins",
+    "lat": 43.66088,
+    "lon": 6.91755,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606950",
+    "nom": "GRASSE-846_1005",
+    "lat": 43.65387,
+    "lon": 6.92249,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606952",
+    "nom": "GRASSE-846_1062",
+    "lat": 43.65756,
+    "lon": 6.93262,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606909",
+    "nom": "Grasse:Copernic",
+    "lat": 43.66861,
+    "lon": 6.89667,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606928",
+    "nom": "GRASSE DUNANT GENETS",
+    "lat": 43.64895,
+    "lon": 6.92372,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606941",
+    "nom": "GRASSE-SH9003",
+    "lat": 43.64807,
+    "lon": 6.92021,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606943",
+    "nom": "GRASSE-SH9020",
+    "lat": 43.63977,
+    "lon": 6.95981,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606942",
+    "nom": "GRASSE-SH9021",
+    "lat": 43.64569,
+    "lon": 6.95731,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606944",
+    "nom": "GRASSE-SH9022",
+    "lat": 43.63925,
+    "lon": 6.95928,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606904",
+    "nom": "Grasse-St-Antoine",
+    "lat": 43.645,
+    "lon": 6.91861,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606905",
+    "nom": "Grasse-Villotte:SFR",
+    "lat": 43.64194,
+    "lon": 6.91167,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0605001",
+    "nom": "Greolieres",
+    "lat": 43.80028,
+    "lon": 7.01778,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306801",
+    "nom": "Grimaud 2:Vanades",
+    "lat": 43.27564,
+    "lon": 6.46448,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306803",
+    "nom": "Grimaud:Cacharel",
+    "lat": 43.27349,
+    "lon": 6.51915,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304201",
+    "nom": "Grimaud : Cogolin",
+    "lat": 43.25458,
+    "lon": 6.52971,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607101",
+    "nom": "Guillaumes 1",
+    "lat": 44.0885,
+    "lon": 6.85032,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607103",
+    "nom": "Guillaumes:Pessigaud",
+    "lat": 44.08667,
+    "lon": 6.85667,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306917",
+    "nom": "HYERES-5331",
+    "lat": 43.03917,
+    "lon": 6.13917,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306919",
+    "nom": "HYERES-852_0169",
+    "lat": 43.11143,
+    "lon": 6.12338,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306921",
+    "nom": "Hyeres:BD Marine",
+    "lat": 43.08547,
+    "lon": 6.15393,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306914",
+    "nom": "Hyeres:Bocage",
+    "lat": 43.10589,
+    "lon": 6.1224,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8301901",
+    "nom": "Hyeres:Cap-Benat",
+    "lat": 43.10333,
+    "lon": 6.34889,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306905",
+    "nom": "HYERES CENTRE 2",
+    "lat": 43.11889,
+    "lon": 6.12861,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306915",
+    "nom": "HYERES_Etendart_2544",
+    "lat": 43.10954,
+    "lon": 6.11702,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306923",
+    "nom": "Hyeres:Gallieni",
+    "lat": 43.11854,
+    "lon": 6.12647,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306932",
+    "nom": "HYERES_GIENS_POLYNES",
+    "lat": 43.03217,
+    "lon": 6.15345,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8392203",
+    "nom": "HYERES-GIENS-Pousset",
+    "lat": 43.04334,
+    "lon": 6.14471,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306928",
+    "nom": "Hyeres:IleDuLevant",
+    "lat": 43.01843,
+    "lon": 6.43423,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306927",
+    "nom": "Hyeres:imp, Chapelle",
+    "lat": 43.11703,
+    "lon": 6.20044,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306924",
+    "nom": "Hyeres:Le Pyanet",
+    "lat": 43.12344,
+    "lon": 6.15095,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306926",
+    "nom": "Hyeres:Les Borrels",
+    "lat": 43.16232,
+    "lon": 6.1675,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306931",
+    "nom": "HYERES_MOULIN_PREMIE",
+    "lat": 43.13406,
+    "lon": 6.15479,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306934",
+    "nom": "Hyeres:Nord",
+    "lat": 43.12403,
+    "lon": 6.11062,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306933",
+    "nom": "Hyeres:Reboul",
+    "lat": 43.12088,
+    "lon": 6.1111,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607301",
+    "nom": "Isola",
+    "lat": 44.17333,
+    "lon": 7.15417,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607304",
+    "nom": "Isola:Genisserie",
+    "lat": 44.19165,
+    "lon": 7.13689,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0400802",
+    "nom": "ITA_Annot",
+    "lat": 43.96444,
+    "lon": 6.63889,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0407605",
+    "nom": "ITA_CastelletLesSaus",
+    "lat": 43.95972,
+    "lon": 6.755,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307903",
+    "nom": "ITA_Cogolin",
+    "lat": 43.1907,
+    "lon": 6.4951,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305018",
+    "nom": "ITA_Draguignan",
+    "lat": 43.5232,
+    "lon": 6.44541,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8308002",
+    "nom": "ITA_Seranon",
+    "lat": 43.74778,
+    "lon": 6.66139,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310802",
+    "nom": "ITA_StmaximinLaSteBa",
+    "lat": 43.36778,
+    "lon": 5.99139,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615107",
+    "nom": "ITA_Utelle",
+    "lat": 43.90856,
+    "lon": 7.22165,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602002",
+    "nom": "ITA_ValleeDeLaVesubi",
+    "lat": 44.00667,
+    "lon": 7.33806,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302704",
+    "nom": "LaCadiereAzur:Presby",
+    "lat": 43.19611,
+    "lon": 5.75277,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302702",
+    "nom": "La Cadiere-d'azur:St",
+    "lat": 43.1957,
+    "lon": 5.73803,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0604402",
+    "nom": "La-Colle/Loup:Vaullo",
+    "lat": 43.68807,
+    "lon": 7.08868,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0604404",
+    "nom": "LA COLLE S-846_1043",
+    "lat": 43.68954,
+    "lon": 7.10543,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304702",
+    "nom": "La Crau Chemin Long",
+    "lat": 43.13222,
+    "lon": 6.055,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304710",
+    "nom": "LaCrau:Dom Castille",
+    "lat": 43.1629,
+    "lon": 6.06892,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304709",
+    "nom": "LaCrau:Presbytere",
+    "lat": 43.1503,
+    "lon": 6.07039,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304802",
+    "nom": "LaCroixValmer:Eglise",
+    "lat": 43.20444,
+    "lon": 6.56859,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305402",
+    "nom": "LA FARLEDE: Bureau",
+    "lat": 43.15543,
+    "lon": 6.04152,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306213",
+    "nom": "LA GARDE-847_1006",
+    "lat": 43.12758,
+    "lon": 6.01913,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306302",
+    "nom": "LaGardeFr:Presbyster",
+    "lat": 43.31816,
+    "lon": 6.46506,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306209",
+    "nom": "La Garde MISTRAL",
+    "lat": 43.14224,
+    "lon": 6.03775,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306205",
+    "nom": "La Garde-Plantades 2",
+    "lat": 43.14223,
+    "lon": 6.02551,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306220",
+    "nom": "La Garde-Plantades_3",
+    "lat": 43.14044,
+    "lon": 6.02449,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606504",
+    "nom": "La-Gaude:Cagnes",
+    "lat": 43.71849,
+    "lon": 7.14984,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088AB",
+    "nom": "LA_LANTERNE_BIS",
+    "lat": 43.68645,
+    "lon": 7.22233,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307102",
+    "nom": "LA LONDE LES MAU-731",
+    "lat": 43.13949,
+    "lon": 6.23823,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307103",
+    "nom": "La Londe Les Maures",
+    "lat": 43.14062,
+    "lon": 6.23335,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307101",
+    "nom": "La Londe-l-M:Matisse",
+    "lat": 43.13308,
+    "lon": 6.23173,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307401",
+    "nom": "LaMartre",
+    "lat": 43.76797,
+    "lon": 6.57403,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607401",
+    "nom": "Lantosque:Crott,Loda",
+    "lat": 43.95342,
+    "lon": 7.30952,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0512302",
+    "nom": "LA ROCHE DES ARNA_ZR",
+    "lat": 44.5461,
+    "lon": 5.99009,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312611",
+    "nom": "LA SEYNE-5314-Verlaq",
+    "lat": 43.0999,
+    "lon": 5.88607,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312612",
+    "nom": "LA SEYNE Armando",
+    "lat": 43.09862,
+    "lon": 5.89083,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312613",
+    "nom": "LA SEYNE Le Nourea",
+    "lat": 43.09786,
+    "lon": 5.88379,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312619",
+    "nom": "LaSeyne/Mer:CorseRes",
+    "lat": 43.0984,
+    "lon": 5.9042,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312616",
+    "nom": "LA SEYNE S-SNI_5512",
+    "lat": 43.11314,
+    "lon": 5.876,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0614911",
+    "nom": "LA TRINITE-SH9023",
+    "lat": 43.74544,
+    "lon": 7.32405,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0614910",
+    "nom": "LA TRINITE-SH9026",
+    "lat": 43.74315,
+    "lon": 7.31292,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0614913",
+    "nom": "LA TRINITE-SH9027",
+    "lat": 43.74699,
+    "lon": 7.32386,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0614909",
+    "nom": "LA TRINITE-SH9028",
+    "lat": 43.74194,
+    "lon": 7.31144,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0614912",
+    "nom": "LA TRINITE-SH9029",
+    "lat": 43.74551,
+    "lon": 7.32338,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615010",
+    "nom": "LA TURBIE-Mat Nord",
+    "lat": 43.7345,
+    "lon": 7.40342,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314417",
+    "nom": "LA VALETTE-852_0117",
+    "lat": 43.13252,
+    "lon": 5.99626,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314419",
+    "nom": "LA VALETTE-852_0220",
+    "lat": 43.13478,
+    "lon": 6.00315,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314424",
+    "nom": "La Valette_Ctr Comm",
+    "lat": 43.14161,
+    "lon": 6.01536,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314415",
+    "nom": "LA VALETTE DU-SH9015",
+    "lat": 43.13667,
+    "lon": 6.00879,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314412",
+    "nom": "LA VALETTE DU V 4513",
+    "lat": 43.15,
+    "lon": 5.99223,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314421",
+    "nom": "LaValetteDuV: Verdun",
+    "lat": 43.13861,
+    "lon": 5.98628,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314404",
+    "nom": "La Valette-d-V:Favie",
+    "lat": 43.15889,
+    "lon": 5.95694,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314418",
+    "nom": "LA VALETTE-SNI_5852",
+    "lat": 43.13383,
+    "lon": 6.00198,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8301604",
+    "nom": "LeBeausset:E DOrves",
+    "lat": 43.19953,
+    "lon": 5.79976,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8301605",
+    "nom": "LeBeausset:Presbyter",
+    "lat": 43.19789,
+    "lon": 5.80109,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8301606",
+    "nom": "Le Beausset :Rouve",
+    "lat": 43.17415,
+    "lon": 5.79425,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303102",
+    "nom": "LeCannetDesM:4eRepub",
+    "lat": 43.39219,
+    "lon": 6.33959,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0603015",
+    "nom": "LE CANNET-STUDIO AS",
+    "lat": 43.56917,
+    "lon": 7.01612,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303503",
+    "nom": "Le Castellet:Beausse",
+    "lat": 43.25361,
+    "lon": 5.75667,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303504",
+    "nom": "LeCastellet:Boucheri",
+    "lat": 43.20259,
+    "lon": 5.77681,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303505",
+    "nom": "Le Castellet_Tennis",
+    "lat": 43.25204,
+    "lon": 5.75674,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307005",
+    "nom": "LeLavandou:Presbyter",
+    "lat": 43.14069,
+    "lon": 6.37046,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307004",
+    "nom": "LeLavandou:Provence",
+    "lat": 43.13812,
+    "lon": 6.36745,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307310",
+    "nom": "LE LUC",
+    "lat": 43.36117,
+    "lon": 6.33914,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307302",
+    "nom": "LE LUC-83073",
+    "lat": 43.38315,
+    "lon": 6.30708,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307307",
+    "nom": "LE LUC_Goirannes",
+    "lat": 43.35308,
+    "lon": 6.29688,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307306",
+    "nom": "LeLuc:Pl Verdun",
+    "lat": 43.39503,
+    "lon": 6.3111,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307301",
+    "nom": "Le Luc:vall,rougies",
+    "lat": 43.4046,
+    "lon": 6.28611,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0507904",
+    "nom": "Le Monetier",
+    "lat": 44.9832,
+    "lon": 6.49689,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8308658",
+    "nom": "LE MUY_1_Marlouche",
+    "lat": 43.47152,
+    "lon": 6.57386,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8308659",
+    "nom": "LE MUY2",
+    "lat": 43.46657,
+    "lon": 6.59318,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8308652",
+    "nom": "LeMuy:A8_JasDeLaParo",
+    "lat": 43.45667,
+    "lon": 6.54426,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8308654",
+    "nom": "LeMuy :RN7",
+    "lat": 43.47171,
+    "lon": 6.5656,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8308655",
+    "nom": "LE MUY_Rte Frejus",
+    "lat": 43.46829,
+    "lon": 6.58545,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309806",
+    "nom": "LE_PRADET_CRAVERO",
+    "lat": 43.10863,
+    "lon": 6.01987,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309805",
+    "nom": "Le Pradet_Opalines",
+    "lat": 43.10597,
+    "lon": 6.02885,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088AD",
+    "nom": "LE_RAY_BIS",
+    "lat": 43.7235,
+    "lon": 7.25806,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300405",
+    "nom": "Les Arcs:Presbytere",
+    "lat": 43.46429,
+    "lon": 6.48094,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300411",
+    "nom": "LES ARCS_Roque Rouss",
+    "lat": 43.45743,
+    "lon": 6.52604,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313762",
+    "nom": "LES TERRASSES",
+    "lat": 43.14319,
+    "lon": 5.93454,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0422003",
+    "nom": "LES THUILES_ZR",
+    "lat": 44.38587,
+    "lon": 6.57352,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314301",
+    "nom": "Le Val:Presbytere",
+    "lat": 43.43971,
+    "lon": 6.07278,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0603301",
+    "nom": "Levens:Carros:Pl,Var",
+    "lat": 43.80075,
+    "lon": 7.18307,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607507",
+    "nom": "Levens :Ste Claire",
+    "lat": 43.8399,
+    "lon": 7.24373,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307006",
+    "nom": "L-Lavandou:Juin",
+    "lat": 43.13651,
+    "lon": 6.35787,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307201",
+    "nom": "Lorgues:p,cervier oc",
+    "lat": 43.49117,
+    "lon": 6.31341,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307203",
+    "nom": "Lorgues_Rougons",
+    "lat": 43.50617,
+    "lon": 6.33777,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303101",
+    "nom": "LT Cannet des Maures",
+    "lat": 43.39572,
+    "lon": 6.3553,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607701",
+    "nom": "Luceram",
+    "lat": 43.85901,
+    "lon": 7.34053,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607703",
+    "nom": "Luceram:RD 2566",
+    "lat": 43.89231,
+    "lon": 7.34596,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607801",
+    "nom": "Malaussene:Vespareo",
+    "lat": 43.93256,
+    "lon": 7.12576,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0411001",
+    "nom": "MALLEMOISSON_ZR",
+    "lat": 44.03844,
+    "lon": 6.12698,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607917",
+    "nom": "MANDELIEU",
+    "lat": 43.52638,
+    "lon": 6.94201,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607908",
+    "nom": "Mandelieu:Barbossi",
+    "lat": 43.53533,
+    "lon": 6.905,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607913",
+    "nom": "MANDELIEU L-846_1002",
+    "lat": 43.53846,
+    "lon": 6.91906,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607914",
+    "nom": "MANDELIEU L-846_1006",
+    "lat": 43.54282,
+    "lon": 6.93004,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607915",
+    "nom": "MANDELIEU L-846_1090",
+    "lat": 43.54586,
+    "lon": 6.93775,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607901",
+    "nom": "Mandelieu-Riviera",
+    "lat": 43.51778,
+    "lon": 6.94,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607902",
+    "nom": "Mandelieu-San-Peyre",
+    "lat": 43.52583,
+    "lon": 6.91528,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607903",
+    "nom": "Mandelieu:SFR",
+    "lat": 43.54972,
+    "lon": 6.94222,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607918",
+    "nom": "Mandelieu StudTVAZUR",
+    "lat": 43.52593,
+    "lon": 6.91499,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8308301",
+    "nom": "M-Argent:Rue",
+    "lat": 43.47301,
+    "lon": 6.12255,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608001",
+    "nom": "Marie:Tennis",
+    "lat": 44.03779,
+    "lon": 7.12956,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609108",
+    "nom": "MCR la Madone",
+    "lat": 43.78924,
+    "lon": 7.41848,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608310",
+    "nom": "MENTON-369",
+    "lat": 43.80756,
+    "lon": 7.47777,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608319",
+    "nom": "Menton:Baousset",
+    "lat": 43.79235,
+    "lon": 7.50464,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0610401",
+    "nom": "Menton:Cap-Martin",
+    "lat": 43.75252,
+    "lon": 7.48111,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608306",
+    "nom": "Menton:Castellar",
+    "lat": 43.79758,
+    "lon": 7.49277,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608307",
+    "nom": "Menton:Colle Superie",
+    "lat": 43.78701,
+    "lon": 7.50728,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "9913802",
+    "nom": "Monaco : Antoine 1er",
+    "lat": 43.73302,
+    "lon": 7.42618,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "9913826",
+    "nom": "Monaco:StadeLouis II",
+    "lat": 43.72759,
+    "lon": 7.41571,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "9913820",
+    "nom": "Monaco:Studio CE TMC",
+    "lat": 43.77002,
+    "lon": 7.41982,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "9913813",
+    "nom": "Monaco TMC Antoine",
+    "lat": 43.73279,
+    "lon": 7.42496,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "9913825",
+    "nom": "Monaco Venus",
+    "lat": 43.73838,
+    "lon": 7.42394,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609164",
+    "nom": "MONT AGEL-Mat-FH-MC",
+    "lat": 43.7699,
+    "lon": 7.41962,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609166",
+    "nom": "MONT AGEL-Mat OUEST",
+    "lat": 43.77028,
+    "lon": 7.41962,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609165",
+    "nom": "MONT AGEL-Mat-SIRA",
+    "lat": 43.7699,
+    "lon": 7.41962,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609161",
+    "nom": "MONT AGEL-Pyl CabFM",
+    "lat": 43.7699,
+    "lon": 7.41962,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609163",
+    "nom": "MONT AGEL-Pyl Est",
+    "lat": 43.7699,
+    "lon": 7.41962,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609162",
+    "nom": "MONT AGEL-Pyl TMC",
+    "lat": 43.77,
+    "lon": 7.4199,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8308103",
+    "nom": "MONTAUROUX 1",
+    "lat": 43.59107,
+    "lon": 6.78348,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8308102",
+    "nom": "Montauroux:Presbyter",
+    "lat": 43.61837,
+    "lon": 6.76785,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310302",
+    "nom": "MONT CAUME_FT",
+    "lat": 43.18487,
+    "lon": 5.90669,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0412603",
+    "nom": "MONTCLAR_ZR",
+    "lat": 44.38792,
+    "lon": 6.329,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "9913801",
+    "nom": "Monte-Carlo:ETV-TMC",
+    "lat": 43.72806,
+    "lon": 7.41556,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8308201",
+    "nom": "Montferrat 2",
+    "lat": 43.61639,
+    "lon": 6.47583,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8308202",
+    "nom": "Montferrat:Colette",
+    "lat": 43.61694,
+    "lon": 6.47607,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0412701",
+    "nom": "MONTFORT-SH9004",
+    "lat": 44.06542,
+    "lon": 5.97444,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0614502",
+    "nom": "Mont Vial 1",
+    "lat": 43.89617,
+    "lon": 7.15013,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609155",
+    "nom": "MORGELLE-P1-702",
+    "lat": 43.7946,
+    "lon": 7.41648,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609156",
+    "nom": "MORGELLE-P2-702",
+    "lat": 43.79431,
+    "lon": 7.41569,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609154",
+    "nom": "MORGELLE-Pyl-Madone",
+    "lat": 43.7965,
+    "lon": 7.41497,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608403",
+    "nom": "MouansSartouxJournet",
+    "lat": 43.62095,
+    "lon": 6.97183,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608504",
+    "nom": "Mougins-Cabrieres",
+    "lat": 43.59111,
+    "lon": 6.98694,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608502",
+    "nom": "Mougins-Chabert:SFR",
+    "lat": 43.59833,
+    "lon": 6.98583,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608503",
+    "nom": "Mougins-Ortelli:SFR",
+    "lat": 43.585,
+    "lon": 7.00889,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608501",
+    "nom": "Mougins-Piragranel",
+    "lat": 43.60889,
+    "lon": 6.98917,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0614501",
+    "nom": "Mt-Vial",
+    "lat": 43.89474,
+    "lon": 7.1529,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8308701",
+    "nom": "Nans-les-Pins",
+    "lat": 43.35528,
+    "lon": 5.80083,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8308801",
+    "nom": "NEOULES",
+    "lat": 43.31602,
+    "lon": 6.0165,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609101",
+    "nom": "Nice 1:Mt-Agel",
+    "lat": 43.77115,
+    "lon": 7.42507,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608801",
+    "nom": "Nice 2:Mt-Alban",
+    "lat": 43.69922,
+    "lon": 7.2989,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0600601",
+    "nom": "Nice 3:Mt-Chauve",
+    "lat": 43.77039,
+    "lon": 7.25368,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608802",
+    "nom": "Nice 4:Madeleine",
+    "lat": 43.71694,
+    "lon": 7.21972,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060883V",
+    "nom": "NICE-5459",
+    "lat": 43.70779,
+    "lon": 7.25738,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886L",
+    "nom": "NICE-846_1001",
+    "lat": 43.71495,
+    "lon": 7.2921,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886I",
+    "nom": "NICE-846_1009",
+    "lat": 43.70446,
+    "lon": 7.28988,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886T",
+    "nom": "NICE-846_1011",
+    "lat": 43.7407,
+    "lon": 7.30633,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060885S",
+    "nom": "NICE-846_1015",
+    "lat": 43.70732,
+    "lon": 7.26691,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060885O",
+    "nom": "NICE-846_1016",
+    "lat": 43.70503,
+    "lon": 7.25643,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060885N",
+    "nom": "NICE-846_1021",
+    "lat": 43.69736,
+    "lon": 7.23969,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886A",
+    "nom": "NICE-846_1023",
+    "lat": 43.70446,
+    "lon": 7.28167,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886O",
+    "nom": "NICE-846_1028",
+    "lat": 43.71931,
+    "lon": 7.2938,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886M",
+    "nom": "NICE-846_1030",
+    "lat": 43.71821,
+    "lon": 7.2935,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886N",
+    "nom": "NICE-846_1031",
+    "lat": 43.70654,
+    "lon": 7.2937,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060885M",
+    "nom": "NICE-846_1033",
+    "lat": 43.7025,
+    "lon": 7.23582,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060885Q",
+    "nom": "NICE-846_1037",
+    "lat": 43.70674,
+    "lon": 7.26556,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060885R",
+    "nom": "NICE-846_1040",
+    "lat": 43.70701,
+    "lon": 7.26627,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060885Z",
+    "nom": "NICE-846_1042",
+    "lat": 43.70293,
+    "lon": 7.28155,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060885K",
+    "nom": "NICE-846_1048",
+    "lat": 43.69983,
+    "lon": 7.22653,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060885I",
+    "nom": "NICE-846_1049",
+    "lat": 43.70602,
+    "lon": 7.22097,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886G",
+    "nom": "NICE-846_1050",
+    "lat": 43.69627,
+    "lon": 7.28712,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886D",
+    "nom": "NICE-846_1053",
+    "lat": 43.71338,
+    "lon": 7.28235,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060885X",
+    "nom": "NICE-846_1057",
+    "lat": 43.70355,
+    "lon": 7.27904,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886C",
+    "nom": "NICE-846_1059",
+    "lat": 43.70483,
+    "lon": 7.28286,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886Q",
+    "nom": "NICE-846_1065",
+    "lat": 43.7132,
+    "lon": 7.29425,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060885Y",
+    "nom": "NICE-846_1067",
+    "lat": 43.70569,
+    "lon": 7.28014,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886F",
+    "nom": "NICE-846_1068",
+    "lat": 43.72434,
+    "lon": 7.28628,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886B",
+    "nom": "NICE-846_1069",
+    "lat": 43.71507,
+    "lon": 7.28151,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886R",
+    "nom": "NICE-846_1092",
+    "lat": 43.71817,
+    "lon": 7.29667,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060885H",
+    "nom": "NICE-846_1093",
+    "lat": 43.69196,
+    "lon": 7.20032,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060885W",
+    "nom": "NICE-846_1101",
+    "lat": 43.70351,
+    "lon": 7.27544,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886S",
+    "nom": "NICE-846_1105",
+    "lat": 43.73772,
+    "lon": 7.30285,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886J",
+    "nom": "NICE-846_1126",
+    "lat": 43.7082,
+    "lon": 7.29123,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608826",
+    "nom": "Nice:Aeroport:SFR",
+    "lat": 43.67333,
+    "lon": 7.20417,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060887A",
+    "nom": "Nice:Allianz Riviera",
+    "lat": 43.70502,
+    "lon": 7.19275,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088A4",
+    "nom": "Nice:Archet",
+    "lat": 43.69472,
+    "lon": 7.22889,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608810",
+    "nom": "Nice:Barrimasson:SFR",
+    "lat": 43.69167,
+    "lon": 7.23583,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608830",
+    "nom": "Nice:Bd-Madeleine",
+    "lat": 43.69889,
+    "lon": 7.23972,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088A1",
+    "nom": "Nice:Bellet",
+    "lat": 43.70333,
+    "lon": 7.22611,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608834",
+    "nom": "Nice:Bornala:SFR",
+    "lat": 43.69528,
+    "lon": 7.23306,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608811",
+    "nom": "Nice:Borriglione:SFR",
+    "lat": 43.71667,
+    "lon": 7.26111,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608812",
+    "nom": "Nice:Brancolar:SFR",
+    "lat": 43.71944,
+    "lon": 7.26611,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608818",
+    "nom": "Nice:Californie:SFR",
+    "lat": 43.69278,
+    "lon": 7.24528,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0603106",
+    "nom": "Nice_Cantaron",
+    "lat": 43.76751,
+    "lon": 7.29577,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060883J",
+    "nom": "NICE_Capcroixbaum",
+    "lat": 43.73167,
+    "lon": 7.27861,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608813",
+    "nom": "Nice:Caucade:SFR",
+    "lat": 43.68,
+    "lon": 7.21306,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088A0",
+    "nom": "Nice:Corniche des Ol",
+    "lat": 43.73556,
+    "lon": 7.23167,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088A3",
+    "nom": "Nice:Cremat",
+    "lat": 43.71554,
+    "lon": 7.20535,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608829",
+    "nom": "Nice:Croix:SFR",
+    "lat": 43.725,
+    "lon": 7.26778,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0600403",
+    "nom": "Nice : F3",
+    "lat": 43.61167,
+    "lon": 7.12361,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608814",
+    "nom": "Nice:Fabron:SFR",
+    "lat": 43.6975,
+    "lon": 7.22667,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608822",
+    "nom": "Nice : Feric : SFR",
+    "lat": 43.70944,
+    "lon": 7.24556,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608803",
+    "nom": "Nice:Gaude(La)",
+    "lat": 43.74056,
+    "lon": 7.195,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608815",
+    "nom": "Nice:Grosso:SFR",
+    "lat": 43.69944,
+    "lon": 7.25056,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608816",
+    "nom": "Nice:Imperial:SFR",
+    "lat": 43.70611,
+    "lon": 7.25111,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0690802",
+    "nom": "Nice InterRoute",
+    "lat": 43.71,
+    "lon": 7.19287,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608827",
+    "nom": "Nice:Lanterne:SFR",
+    "lat": 43.68722,
+    "lon": 7.21889,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088AE",
+    "nom": "NICE_LIBERATION",
+    "lat": 43.71266,
+    "lon": 7.25363,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608817",
+    "nom": "Nice:Maison d'Arret",
+    "lat": 43.71083,
+    "lon": 7.27972,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088AF",
+    "nom": "NICE_MAS_DE_FABRON",
+    "lat": 43.70123,
+    "lon": 7.20727,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060884O",
+    "nom": "Nice Massena",
+    "lat": 43.69766,
+    "lon": 7.26956,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060880B",
+    "nom": "Nice:Micro-Liberte1",
+    "lat": 43.69821,
+    "lon": 7.26503,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608819",
+    "nom": "Nice:Moulins:SFR",
+    "lat": 43.68083,
+    "lon": 7.19972,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608820",
+    "nom": "Nice:Pancrace:SFR",
+    "lat": 43.73917,
+    "lon": 7.23611,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060880A",
+    "nom": "Nice:Passage Magnan",
+    "lat": 43.69139,
+    "lon": 7.24556,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060887G",
+    "nom": "Nice : Passy",
+    "lat": 43.69952,
+    "lon": 7.25307,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608831",
+    "nom": "Nice:Quatre-Chemins",
+    "lat": 43.72556,
+    "lon": 7.27111,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608821",
+    "nom": "Nice:Rimiez:SFR",
+    "lat": 43.7425,
+    "lon": 7.27333,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060887C",
+    "nom": "Nice:Solazur Califor",
+    "lat": 43.68439,
+    "lon": 7.23422,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060884Q",
+    "nom": "NICE:Std Virgin",
+    "lat": 43.70333,
+    "lon": 7.26556,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060886Z",
+    "nom": "Nice Ste Marie",
+    "lat": 43.73157,
+    "lon": 7.28222,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608823",
+    "nom": "Nice:St-Etienne:SFR",
+    "lat": 43.70694,
+    "lon": 7.26028,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608833",
+    "nom": "Nice:St-Isidore:SFR",
+    "lat": 43.70972,
+    "lon": 7.19333,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608824",
+    "nom": "Nice:St-joseph:SFR",
+    "lat": 43.69194,
+    "lon": 7.21556,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608805",
+    "nom": "Nice:St,M6",
+    "lat": 43.69361,
+    "lon": 7.27778,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088AJ",
+    "nom": "Nice:Studio NRJ",
+    "lat": 43.66756,
+    "lon": 7.21393,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060883O",
+    "nom": "NICE: Studio RFrance",
+    "lat": 43.69944,
+    "lon": 7.28361,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060884R",
+    "nom": "Nice Studio Riviera",
+    "lat": 43.67449,
+    "lon": 7.21847,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060884G",
+    "nom": "Nice:studio Virgin",
+    "lat": 43.70444,
+    "lon": 7.26639,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060885B",
+    "nom": "NICE-STUD NICE RADIO",
+    "lat": 43.6979,
+    "lon": 7.26939,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060887B",
+    "nom": "Nice Stu RCF",
+    "lat": 43.71398,
+    "lon": 7.25648,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608825",
+    "nom": "Nice:Sylvestre:SFR",
+    "lat": 43.72556,
+    "lon": 7.25194,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0614905",
+    "nom": "Nice:Trinite-Soanes",
+    "lat": 43.75187,
+    "lon": 7.37461,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608808",
+    "nom": "Nice:T,R,PC Malraux",
+    "lat": 43.70722,
+    "lon": 7.27722,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088AO",
+    "nom": "Nice Tunnel",
+    "lat": 43.71156,
+    "lon": 7.28417,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088AQ",
+    "nom": "Nice Tunnel Biasini",
+    "lat": 43.70839,
+    "lon": 7.27164,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060882P",
+    "nom": "NICE_Tunnel_Escota",
+    "lat": 43.72167,
+    "lon": 7.22861,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088AM",
+    "nom": "Nice Tunnel Garibald",
+    "lat": 43.69935,
+    "lon": 7.27753,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088AP",
+    "nom": "Nice Tunnel Lycee",
+    "lat": 43.71538,
+    "lon": 7.28263,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088AN",
+    "nom": "Nice Tunnel Maraldi",
+    "lat": 43.70636,
+    "lon": 7.28263,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608809",
+    "nom": "Nice:Tunnel Paillon",
+    "lat": 43.69528,
+    "lon": 7.27,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088AL",
+    "nom": "Nice Tunnel Phoceen",
+    "lat": 43.69667,
+    "lon": 7.27056,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615004",
+    "nom": "Nice:Turbie-Mt Agel",
+    "lat": 43.74701,
+    "lon": 7.39948,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088AG",
+    "nom": "NICE_VALPURGA",
+    "lat": 43.71051,
+    "lon": 7.21588,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608832",
+    "nom": "Nice:Verdi:SFR",
+    "lat": 43.7,
+    "lon": 7.25639,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608828",
+    "nom": "Nice:Viaduc-Magnan",
+    "lat": 43.72694,
+    "lon": 7.22861,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309002",
+    "nom": "Ollioules:Noisetiers",
+    "lat": 43.1292,
+    "lon": 5.84167,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608902",
+    "nom": "OPIO",
+    "lat": 43.66765,
+    "lon": 6.99861,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609001",
+    "nom": "Pegomas",
+    "lat": 43.59639,
+    "lon": 6.94389,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609104",
+    "nom": "PEILLE MONT OURS",
+    "lat": 43.8375,
+    "lon": 7.44306,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609201",
+    "nom": "Peillon:les Laras",
+    "lat": 43.76807,
+    "lon": 7.37266,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0414503",
+    "nom": "PEIPIN-SH9047",
+    "lat": 44.1325,
+    "lon": 5.95472,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609401",
+    "nom": "Peone 1 : Chastellan",
+    "lat": 44.09955,
+    "lon": 6.93032,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609402",
+    "nom": "Peone 2 : Amignons",
+    "lat": 44.10406,
+    "lon": 6.90983,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609403",
+    "nom": "Peone 3 : La-Parat",
+    "lat": 44.11506,
+    "lon": 6.90486,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609502",
+    "nom": "PEYMEINADE MATISSE",
+    "lat": 43.64593,
+    "lon": 6.88237,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309102",
+    "nom": "PierrefeuDuV:Presbyt",
+    "lat": 43.22642,
+    "lon": 6.1425,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309103",
+    "nom": "PIERREFEU_GRIGNOTIER",
+    "lat": 43.22412,
+    "lon": 6.14816,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309104",
+    "nom": "PIERREFEU_JOSELETTE",
+    "lat": 43.23281,
+    "lon": 6.16241,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309201",
+    "nom": "Pignans:ND-des-Anges",
+    "lat": 43.28151,
+    "lon": 6.29419,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309203",
+    "nom": "Pignans:RN 97",
+    "lat": 43.31001,
+    "lon": 6.25002,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309202",
+    "nom": "Pignans:Vall,Caudet",
+    "lat": 43.31278,
+    "lon": 6.21528,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0600497",
+    "nom": "PKANTIBESSoleau",
+    "lat": 43.58648,
+    "lon": 7.12013,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0601104",
+    "nom": "PKBEAULIEUGare",
+    "lat": 43.70717,
+    "lon": 7.33186,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602729",
+    "nom": "PKCAGNESgare",
+    "lat": 43.65878,
+    "lon": 7.14927,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608320",
+    "nom": "PKMENTONVII",
+    "lat": 43.77488,
+    "lon": 7.49364,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311508",
+    "nom": "PKSTEGaulle",
+    "lat": 43.30815,
+    "lon": 6.64008,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311509",
+    "nom": "PKSTETour",
+    "lat": 43.31739,
+    "lon": 6.63006,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615555",
+    "nom": "PKVALLAURISSemard",
+    "lat": 43.56678,
+    "lon": 7.07419,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309302",
+    "nom": "PlanDAups:Pl eglise",
+    "lat": 43.32751,
+    "lon": 5.71094,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0690701",
+    "nom": "PLAN DE GRASSE PAOU,",
+    "lat": 43.64236,
+    "lon": 6.95755,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309401",
+    "nom": "Plan-de-la-Tour",
+    "lat": 43.31482,
+    "lon": 6.55834,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060883R",
+    "nom": "POP Orange Nice",
+    "lat": 43.70286,
+    "lon": 7.26016,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309601",
+    "nom": "Pourcieux:Olliere",
+    "lat": 43.47329,
+    "lon": 5.80996,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309602",
+    "nom": "Pourcieux:Rougett_A8",
+    "lat": 43.47978,
+    "lon": 5.7657,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309701",
+    "nom": "Pourrieres:Puyloubie",
+    "lat": 43.50224,
+    "lon": 5.73281,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0510601",
+    "nom": "PRUNIERES",
+    "lat": 44.52559,
+    "lon": 6.34675,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0600801",
+    "nom": "Puget-Rostang",
+    "lat": 43.98509,
+    "lon": 6.90239,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309907",
+    "nom": "PUGET-SUR-ARGENS",
+    "lat": 43.45434,
+    "lon": 6.68236,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0609901",
+    "nom": "Puget-Theniers",
+    "lat": 43.94667,
+    "lon": 6.91778,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310006",
+    "nom": "PUGET-VILLE",
+    "lat": 43.26779,
+    "lon": 6.10117,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310008",
+    "nom": "PUGET-VILLE:Chateau",
+    "lat": 43.27415,
+    "lon": 6.1227,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310007",
+    "nom": "PUGET-VILLE_Moutte",
+    "lat": 43.26195,
+    "lon": 6.09685,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0511103",
+    "nom": "PUY-SANIERES1",
+    "lat": 44.54239,
+    "lon": 6.42978,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0511104",
+    "nom": "PUY-SANIERES2",
+    "lat": 44.5496,
+    "lon": 6.46454,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310106",
+    "nom": "Ramatuelle:Chapelle",
+    "lat": 43.23178,
+    "lon": 6.65144,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310105",
+    "nom": "RAMATUELLE-Collebass",
+    "lat": 43.19519,
+    "lon": 6.60891,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310101",
+    "nom": "Ramatuelle:L'escalet",
+    "lat": 43.18474,
+    "lon": 6.63792,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310107",
+    "nom": "Ramatuelle:Presbyter",
+    "lat": 43.21521,
+    "lon": 6.6124,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8315201",
+    "nom": "Rayol-Canadel 1:park",
+    "lat": 43.16,
+    "lon": 6.47333,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8315202",
+    "nom": "Rayol-Canadel 2:Pram",
+    "lat": 43.15806,
+    "lon": 6.45333,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0511603",
+    "nom": "Reotier 1",
+    "lat": 44.65838,
+    "lon": 6.58775,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310404",
+    "nom": "Rians:Presbytere",
+    "lat": 43.60623,
+    "lon": 5.75667,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0610101",
+    "nom": "Rigaud",
+    "lat": 43.982,
+    "lon": 6.98588,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0512202",
+    "nom": "Roche_De_Rame_2",
+    "lat": 44.75166,
+    "lon": 6.57687,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0512203",
+    "nom": "Roche_De_Rame_3",
+    "lat": 44.73138,
+    "lon": 6.58351,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0610302",
+    "nom": "Roquebilliere:Veilla",
+    "lat": 44.02231,
+    "lon": 7.30005,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310702",
+    "nom": "Roquebr,s-Ar:anc RN",
+    "lat": 43.46444,
+    "lon": 6.62333,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310703",
+    "nom": "Roquebr,S,Ar:Belvede",
+    "lat": 43.35077,
+    "lon": 6.70564,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310705",
+    "nom": "Roquebr,s-Ar:cavalie",
+    "lat": 43.43845,
+    "lon": 6.63556,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310706",
+    "nom": "Roquebr,s-Ar:reservo",
+    "lat": 43.50783,
+    "lon": 6.63704,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310701",
+    "nom": "Roquebrune 1",
+    "lat": 43.35641,
+    "lon": 6.69628,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310709",
+    "nom": "Roquebrune/A:Presbyt",
+    "lat": 43.44313,
+    "lon": 6.63698,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310711",
+    "nom": "ROQUEBRUNE ARGENS 1",
+    "lat": 43.45608,
+    "lon": 6.62897,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310712",
+    "nom": "ROQUEBRUNE ARGENS_2",
+    "lat": 43.4639,
+    "lon": 6.64962,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0610410",
+    "nom": "ROQUEBRUNE CAP M-612",
+    "lat": 43.76388,
+    "lon": 7.45788,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0610412",
+    "nom": "ROQUEBRUNE CM-SH9463",
+    "lat": 43.75833,
+    "lon": 7.47694,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0610403",
+    "nom": "Roquebrune:St-Roman",
+    "lat": 43.75389,
+    "lon": 7.43861,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0610411",
+    "nom": "ROQUEBRUNE Vallieres",
+    "lat": 43.76744,
+    "lon": 7.45677,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8307701",
+    "nom": "Roquebrussanne (La)",
+    "lat": 43.24859,
+    "lon": 5.97072,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310901",
+    "nom": "Roque-Esclapon (La)",
+    "lat": 43.71934,
+    "lon": 6.61846,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0417202",
+    "nom": "Roumoules: MCR",
+    "lat": 43.79417,
+    "lon": 6.15111,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0611102",
+    "nom": "Roure:RD 130",
+    "lat": 44.09422,
+    "lon": 7.09934,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0611602",
+    "nom": "Saint Auban:Collet",
+    "lat": 43.84315,
+    "lon": 6.73685,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311507",
+    "nom": "SAINTE MAXIME MARCHE",
+    "lat": 43.31006,
+    "lon": 6.64132,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312101",
+    "nom": "Salernes:Cx-Sollies",
+    "lat": 43.55912,
+    "lon": 6.22378,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088AH",
+    "nom": "SALT_Nice Co Olivier",
+    "lat": 43.73957,
+    "lon": 7.23617,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312307",
+    "nom": "Sanary/Mer:Tourelle2",
+    "lat": 43.13804,
+    "lon": 5.80434,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0613301",
+    "nom": "Sauze",
+    "lat": 44.08083,
+    "lon": 6.81444,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0516402",
+    "nom": "SAVINES-LE-LAC1",
+    "lat": 44.5393,
+    "lon": 6.4006,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0516403",
+    "nom": "SAVINES-LE-LAC2",
+    "lat": 44.53223,
+    "lon": 6.37112,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312501",
+    "nom": "SeillonsSourceArgens",
+    "lat": 43.49562,
+    "lon": 5.87723,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8308001",
+    "nom": "Seranon:Lachens",
+    "lat": 43.74731,
+    "lon": 6.66124,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312922",
+    "nom": "S-F-Plage:Republiq",
+    "lat": 43.09419,
+    "lon": 5.83448,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312921",
+    "nom": "S-F-Plages:Raynaud",
+    "lat": 43.09172,
+    "lon": 5.84281,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312701",
+    "nom": "Signes:Ste-Croix",
+    "lat": 43.28335,
+    "lon": 5.84769,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312801",
+    "nom": "SILLANS LA CASCADE",
+    "lat": 43.57486,
+    "lon": 6.18043,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312915",
+    "nom": "SIX-FOURS",
+    "lat": 43.11556,
+    "lon": 5.82462,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312903",
+    "nom": "SIX FOURS BELLEVUE",
+    "lat": 43.09333,
+    "lon": 5.83944,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312918",
+    "nom": "SIX FOURS CAMBAUD",
+    "lat": 43.08851,
+    "lon": 5.82813,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312917",
+    "nom": "SIX FOURS COLLEGIALE",
+    "lat": 43.10056,
+    "lon": 5.84727,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312912",
+    "nom": "SixFoursLesPlages 3",
+    "lat": 43.07459,
+    "lon": 5.80281,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312909",
+    "nom": "SIX FOURS LES-SH9087",
+    "lat": 43.09212,
+    "lon": 5.84806,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312919",
+    "nom": "SIX FOURS MALOGINEST",
+    "lat": 43.08243,
+    "lon": 5.81653,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312920",
+    "nom": "SIX FOURS PERTUADE",
+    "lat": 43.11225,
+    "lon": 5.83364,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312913",
+    "nom": "Six Fours:Repentance",
+    "lat": 43.09259,
+    "lon": 5.81586,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312311",
+    "nom": "S-Mer:Desma",
+    "lat": 43.11775,
+    "lon": 5.79835,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312310",
+    "nom": "S-Mer:Huile",
+    "lat": 43.12318,
+    "lon": 5.80322,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313773",
+    "nom": "SNI Toulon Catherine",
+    "lat": 43.12337,
+    "lon": 5.94541,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313009",
+    "nom": "SOLLIES_DES_ANDUES",
+    "lat": 43.20699,
+    "lon": 6.04551,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313001",
+    "nom": "Sollies-Pont:Chap,ND",
+    "lat": 43.179,
+    "lon": 6.03706,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313002",
+    "nom": "Sollies-Pont:Poulass",
+    "lat": 43.19845,
+    "lon": 6.04611,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313101",
+    "nom": "Sollies-Toucas:Valau",
+    "lat": 43.20214,
+    "lon": 6.01389,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313003",
+    "nom": "SOLLIES VILLE",
+    "lat": 43.19,
+    "lon": 6.04111,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615251",
+    "nom": "Sophia-Antipolis:SFR",
+    "lat": 43.62056,
+    "lon": 7.04444,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0613601",
+    "nom": "Sospel",
+    "lat": 43.87708,
+    "lon": 7.40929,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0613602",
+    "nom": "Sospel:RD 2204",
+    "lat": 43.87697,
+    "lon": 7.40946,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306502",
+    "nom": "SP NRJ Gassin",
+    "lat": 43.26278,
+    "lon": 6.61056,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602965",
+    "nom": "SP Radio Azur",
+    "lat": 43.55333,
+    "lon": 7.02611,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0611403",
+    "nom": "ST ANDRE DE-846_1070",
+    "lat": 43.74456,
+    "lon": 7.28919,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0611402",
+    "nom": "ST ANDRE DE-846_1071",
+    "lat": 43.74133,
+    "lon": 7.28792,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0611404",
+    "nom": "ST ANDRE DE-846_1072",
+    "lat": 43.74823,
+    "lon": 7.28962,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0512801",
+    "nom": "ST-ANDRE-D-EMBRUN",
+    "lat": 44.62683,
+    "lon": 6.55448,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0611401",
+    "nom": "St-Andre-de-Nice",
+    "lat": 43.74972,
+    "lon": 7.28861,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608101",
+    "nom": "St-Auban 1",
+    "lat": 43.81334,
+    "lon": 6.80786,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0611601",
+    "nom": "St-Auban 2",
+    "lat": 43.80862,
+    "lon": 6.72532,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0513603",
+    "nom": "ST_CREPIN_1",
+    "lat": 44.68703,
+    "lon": 6.61581,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311217",
+    "nom": "ST CYR MADRAGUE",
+    "lat": 43.17031,
+    "lon": 5.69772,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311207",
+    "nom": "StCyr/Mer:Presbytere",
+    "lat": 43.18283,
+    "lon": 5.70976,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311214",
+    "nom": "ST-CYR-SUR-MER",
+    "lat": 43.14544,
+    "lon": 5.72221,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311212",
+    "nom": "ST-CYR-SUR-MER_EHPAD",
+    "lat": 43.18281,
+    "lon": 5.67429,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311211",
+    "nom": "ST-CYR-SUR-MER_Recen",
+    "lat": 43.17243,
+    "lon": 5.71551,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0606958",
+    "nom": "Std Agora Cote Azur",
+    "lat": 43.65763,
+    "lon": 6.92486,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314413",
+    "nom": "STD VIRGIN LAVALETTE",
+    "lat": 43.13917,
+    "lon": 5.98361,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311501",
+    "nom": "Ste-Maxime",
+    "lat": 43.31242,
+    "lon": 6.61656,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311505",
+    "nom": "SteMaxime:Albrecht",
+    "lat": 43.30764,
+    "lon": 6.64255,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311506",
+    "nom": "SteMaxime:ChNartelle",
+    "lat": 43.32474,
+    "lon": 6.6627,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311504",
+    "nom": "SteMaxime:Cparoissia",
+    "lat": 43.31448,
+    "lon": 6.63641,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0513905",
+    "nom": "ST ETIENNE",
+    "lat": 44.68834,
+    "lon": 5.94678,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0612001",
+    "nom": "St-Etienne-de-Tinee1",
+    "lat": 44.20813,
+    "lon": 6.9138,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0612002",
+    "nom": "St-Etienne-de-Tinee2",
+    "lat": 44.22595,
+    "lon": 6.965,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0612004",
+    "nom": "St-Etienne-de-Tinee4",
+    "lat": 44.18111,
+    "lon": 6.93361,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0612007",
+    "nom": "ST-Etienne-de-Tinee5",
+    "lat": 44.19114,
+    "lon": 6.93045,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0417805",
+    "nom": "ST ETIENNE LES ORGUE",
+    "lat": 44.0509,
+    "lon": 5.77846,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0612006",
+    "nom": "St-Etienne-Tinee:SFR",
+    "lat": 44.22556,
+    "lon": 6.96556,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0514502",
+    "nom": "ST JEAN",
+    "lat": 44.66987,
+    "lon": 6.22786,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0612101",
+    "nom": "St-Jean-Cap-Ferrat",
+    "lat": 43.68333,
+    "lon": 7.32694,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311301",
+    "nom": "St-Julien-Montagnier",
+    "lat": 43.70722,
+    "lon": 5.90194,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0612316",
+    "nom": "StLaurentDuV:Bureau",
+    "lat": 43.70865,
+    "lon": 7.18317,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0612317",
+    "nom": "StLaurent Var_Pugets",
+    "lat": 43.68473,
+    "lon": 7.18276,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0514901",
+    "nom": "ST LEGER",
+    "lat": 44.64454,
+    "lon": 6.17592,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8315306",
+    "nom": "StMandrier:PinRoland",
+    "lat": 43.07416,
+    "lon": 5.91075,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8315305",
+    "nom": "StMandrier:Presbyter",
+    "lat": 43.07622,
+    "lon": 5.92795,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0612601",
+    "nom": "ST MARTIN -846_1098",
+    "lat": 43.82262,
+    "lon": 7.19152,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0612501",
+    "nom": "St-Martin-Entraunes",
+    "lat": 44.155,
+    "lon": 6.74694,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615601",
+    "nom": "St-Martin-Vesubie 1",
+    "lat": 44.05444,
+    "lon": 7.25139,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0612701",
+    "nom": "St-Martin-Vesubie 2",
+    "lat": 44.08874,
+    "lon": 7.24245,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311604",
+    "nom": "StMaximin:Presbytere",
+    "lat": 43.45258,
+    "lon": 5.86419,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310801",
+    "nom": "St-Maximin-Ste-Baume",
+    "lat": 43.36875,
+    "lon": 5.99233,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311603",
+    "nom": "St Maximin-Ste-B:Rou",
+    "lat": 43.40826,
+    "lon": 5.82671,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311216",
+    "nom": "ST_MICHEL_BIS",
+    "lat": 43.17039,
+    "lon": 5.6976,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0612802",
+    "nom": "ST PAUL-846_1102",
+    "lat": 43.6972,
+    "lon": 7.122,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311868",
+    "nom": "ST RAPHAEL1",
+    "lat": 43.41179,
+    "lon": 6.78721,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311869",
+    "nom": "ST RAPHAEL2",
+    "lat": 43.41706,
+    "lon": 6.81187,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311802",
+    "nom": "St-Raphael 2:Cap-Dra",
+    "lat": 43.41697,
+    "lon": 6.85652,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311870",
+    "nom": "ST RAPHAEL3",
+    "lat": 43.42887,
+    "lon": 6.87629,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311803",
+    "nom": "St-Raphael 3:Defens",
+    "lat": 43.43278,
+    "lon": 6.81167,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311871",
+    "nom": "ST RAPHAEL4",
+    "lat": 43.44151,
+    "lon": 6.89567,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311872",
+    "nom": "ST RAPHAEL5",
+    "lat": 43.45434,
+    "lon": 6.91949,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311873",
+    "nom": "ST RAPHAEL6",
+    "lat": 43.46705,
+    "lon": 6.92234,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311874",
+    "nom": "ST RAPHAEL7",
+    "lat": 43.47948,
+    "lon": 6.92892,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311875",
+    "nom": "ST RAPHAEL8",
+    "lat": 43.41987,
+    "lon": 6.82811,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311809",
+    "nom": "ST RAPHAEL-83118",
+    "lat": 43.50202,
+    "lon": 6.81919,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311857",
+    "nom": "St Raphael:Aicard",
+    "lat": 43.42278,
+    "lon": 6.76767,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311858",
+    "nom": "St Raphael:A, Juin",
+    "lat": 43.41912,
+    "lon": 6.78679,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311862",
+    "nom": "St Raphael:Charcot",
+    "lat": 43.42793,
+    "lon": 6.77405,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311804",
+    "nom": "St Raphael: Gargalon",
+    "lat": 43.47775,
+    "lon": 6.76117,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311859",
+    "nom": "St Raphael:Goujon",
+    "lat": 43.41724,
+    "lon": 6.80703,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311855",
+    "nom": "St Raphael:Guichard1",
+    "lat": 43.47971,
+    "lon": 6.92809,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311856",
+    "nom": "St Raphael:Guichard2",
+    "lat": 43.47972,
+    "lon": 6.92813,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311801",
+    "nom": "St-Raphael:Pic-Ours",
+    "lat": 43.47644,
+    "lon": 6.90561,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311805",
+    "nom": "StRaphael:StFUN/RTL2",
+    "lat": 43.42306,
+    "lon": 6.76972,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311860",
+    "nom": "StRaphael:Suveret",
+    "lat": 43.44484,
+    "lon": 6.77561,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311807",
+    "nom": "St Raphael:Valescure",
+    "lat": 43.43417,
+    "lon": 6.77383,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311861",
+    "nom": "StRaphael:Valescure",
+    "lat": 43.43358,
+    "lon": 6.77349,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311882",
+    "nom": "StRaph:RCF83std",
+    "lat": 43.41727,
+    "lon": 6.80694,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311908",
+    "nom": "S-Tropez:Levant",
+    "lat": 43.26794,
+    "lon": 6.64426,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311907",
+    "nom": "S-Tropez:Lices",
+    "lat": 43.26995,
+    "lon": 6.63993,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0612901",
+    "nom": "St-Sauveur:Blavets:",
+    "lat": 44.08139,
+    "lon": 7.10583,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311906",
+    "nom": "StTropez:BelleIsnard",
+    "lat": 43.26659,
+    "lon": 6.6455,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311502",
+    "nom": "St Tropez:Golf Maxim",
+    "lat": 43.339,
+    "lon": 6.64362,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311909",
+    "nom": "St Tropez St Antoine",
+    "lat": 43.26596,
+    "lon": 6.64179,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602305",
+    "nom": "Studio de R,Vallee F",
+    "lat": 43.94031,
+    "lon": 7.51194,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608312",
+    "nom": "Studio NRJ Menton",
+    "lat": 43.77468,
+    "lon": 7.49516,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060885D",
+    "nom": "Studio NRJ Nice",
+    "lat": 43.66758,
+    "lon": 7.21254,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060884F",
+    "nom": "Studio Radio Chalom",
+    "lat": 43.69811,
+    "lon": 7.26948,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060883X",
+    "nom": "Studio Radio Emotion",
+    "lat": 43.69944,
+    "lon": 7.26528,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "060883Y",
+    "nom": "Studio RCF Nice",
+    "lat": 43.69194,
+    "lon": 7.2925,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602306",
+    "nom": "STUDIO Vallee FM",
+    "lat": 43.9378,
+    "lon": 7.5157,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313004",
+    "nom": "Stu: Mistral Toulon",
+    "lat": 43.19083,
+    "lon": 6.04111,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0613001",
+    "nom": "St-Vallier-de-Thiey",
+    "lat": 43.71031,
+    "lon": 6.83446,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0613006",
+    "nom": "St Vallier Thiey 3",
+    "lat": 43.69235,
+    "lon": 6.89629,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0613004",
+    "nom": "ST VALLIER THIEY CAB",
+    "lat": 43.69917,
+    "lon": 6.86694,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0613003",
+    "nom": "St-Vallier-Thiey:D85",
+    "lat": 43.7111,
+    "lon": 6.83749,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0613005",
+    "nom": "ST VALLIER THIEY GOB",
+    "lat": 43.69694,
+    "lon": 6.85019,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312002",
+    "nom": "ST ZACHARIE-847_1006",
+    "lat": 43.3854,
+    "lon": 5.70904,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312003",
+    "nom": "ST ZACHARIE-852_0224",
+    "lat": 43.38539,
+    "lon": 5.70925,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312004",
+    "nom": "StZacharie:Presbyter",
+    "lat": 43.385,
+    "lon": 5.70792,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313303",
+    "nom": "Tanneron:A8_Barniere",
+    "lat": 43.53379,
+    "lon": 6.86869,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313401",
+    "nom": "Taradeau",
+    "lat": 43.45881,
+    "lon": 6.42775,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602307",
+    "nom": "T_BREIL-SUR-ROYA 1",
+    "lat": 43.92641,
+    "lon": 7.49962,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615553",
+    "nom": "T_CannesVallauris",
+    "lat": 43.57851,
+    "lon": 7.03556,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0407011",
+    "nom": "T_DIGNE le Saumon",
+    "lat": 44.11294,
+    "lon": 6.21525,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8305017",
+    "nom": "T_DRAGUIGNAN 1",
+    "lat": 43.52306,
+    "lon": 6.44528,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0515605",
+    "nom": "T_EMBRUN",
+    "lat": 44.54361,
+    "lon": 6.52278,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0616301",
+    "nom": "Tende 1:Ville",
+    "lat": 44.08629,
+    "lon": 7.59214,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0616302",
+    "nom": "Tende 2:St-Dalmas",
+    "lat": 44.05563,
+    "lon": 7.58744,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0506129",
+    "nom": "T_GAP 2",
+    "lat": 44.61472,
+    "lon": 6.11528,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0506119",
+    "nom": "T_GAP : Laudet",
+    "lat": 44.58826,
+    "lon": 6.06083,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0613806",
+    "nom": "THEOULE-SUR-MER",
+    "lat": 43.50619,
+    "lon": 6.93806,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313601",
+    "nom": "Thoronet (le)",
+    "lat": 43.45331,
+    "lon": 6.30769,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0614002",
+    "nom": "TIGNET PROVENCE CLAO",
+    "lat": 43.63282,
+    "lon": 6.86023,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0603052",
+    "nom": "T_LeCannet:LePezou",
+    "lat": 43.56962,
+    "lon": 7.03518,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0516102",
+    "nom": "T_LE MONETIER-LES-BA",
+    "lat": 44.95333,
+    "lon": 6.56222,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0414303",
+    "nom": "T_ORAISON",
+    "lat": 43.90028,
+    "lon": 5.92167,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0614301",
+    "nom": "Touet/Var:Piste ONF",
+    "lat": 43.94333,
+    "lon": 6.98639,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312901",
+    "nom": "Toulon 1:Cap-Sicie",
+    "lat": 43.05306,
+    "lon": 5.84556,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313701",
+    "nom": "Toulon 2:Hubac",
+    "lat": 43.1498,
+    "lon": 5.92323,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313702",
+    "nom": "Toulon 3:Faron",
+    "lat": 43.14917,
+    "lon": 5.95222,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313711",
+    "nom": "Toulon 4:Faron",
+    "lat": 43.13889,
+    "lon": 5.95083,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313753",
+    "nom": "TOULON-5130",
+    "lat": 43.12659,
+    "lon": 5.95788,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313743",
+    "nom": "TOULON-5179",
+    "lat": 43.12262,
+    "lon": 5.94295,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313744",
+    "nom": "TOULON-5190",
+    "lat": 43.12461,
+    "lon": 5.94758,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313754",
+    "nom": "TOULON-5289",
+    "lat": 43.12156,
+    "lon": 5.94452,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313755",
+    "nom": "TOULON-5316-TILLEUL",
+    "lat": 43.12717,
+    "lon": 5.98269,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313746",
+    "nom": "TOULON-552-StPaul-La",
+    "lat": 43.11059,
+    "lon": 5.94727,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313750",
+    "nom": "TOULON-805",
+    "lat": 43.11188,
+    "lon": 5.93351,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313765",
+    "nom": "TOULON-83137",
+    "lat": 43.13722,
+    "lon": 5.91009,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313707",
+    "nom": "Toulon:BAV&St,FR3",
+    "lat": 43.13222,
+    "lon": 5.86556,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371N",
+    "nom": "Toulon:BdMichelet",
+    "lat": 43.11123,
+    "lon": 5.94821,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313792",
+    "nom": "Toulon:Bellegarde",
+    "lat": 43.12711,
+    "lon": 5.9609,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831372B",
+    "nom": "Toulon:Bizet",
+    "lat": 43.12374,
+    "lon": 5.94772,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371M",
+    "nom": "Toulon:C Bouisson",
+    "lat": 43.13655,
+    "lon": 5.90313,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371O",
+    "nom": "Toulon:Cdt Nicolas",
+    "lat": 43.12914,
+    "lon": 5.92982,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371G",
+    "nom": "Toulon:ChapelleND",
+    "lat": 43.14806,
+    "lon": 5.9015,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313776",
+    "nom": "TOULON-Completel",
+    "lat": 43.13139,
+    "lon": 5.91035,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371I",
+    "nom": "Toulon:Corn,DeGaulle",
+    "lat": 43.10471,
+    "lon": 5.97187,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831372C",
+    "nom": "Toulon:Corps",
+    "lat": 43.12841,
+    "lon": 5.91068,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371E",
+    "nom": "Toulon:C SteTherese",
+    "lat": 43.11694,
+    "lon": 5.98181,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313793",
+    "nom": "Toulon:Eveche",
+    "lat": 43.1323,
+    "lon": 5.97389,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313799",
+    "nom": "Toulon:Faidherbe",
+    "lat": 43.12986,
+    "lon": 5.91569,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371D",
+    "nom": "Toulon:GRichard",
+    "lat": 43.12925,
+    "lon": 5.94285,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371R",
+    "nom": "Toulon:imp Des Roses",
+    "lat": 43.1291,
+    "lon": 5.96117,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371A",
+    "nom": "Toulon:Jcesar",
+    "lat": 43.14012,
+    "lon": 5.89225,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371T",
+    "nom": "Toulon:Joffre",
+    "lat": 43.12353,
+    "lon": 5.94871,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371Q",
+    "nom": "Toulon:L Ferrand",
+    "lat": 43.13595,
+    "lon": 5.92175,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313717",
+    "nom": "TOULON MAYOL",
+    "lat": 43.125,
+    "lon": 5.93056,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831372A",
+    "nom": "Toulon:Picot",
+    "lat": 43.12661,
+    "lon": 5.95987,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313797",
+    "nom": "Toulon:Pl Lblanc",
+    "lat": 43.11988,
+    "lon": 5.93371,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371B",
+    "nom": "Toulon:poincare",
+    "lat": 43.12095,
+    "lon": 5.94156,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371K",
+    "nom": "Toulon:PSemard",
+    "lat": 43.12312,
+    "lon": 5.93006,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371C",
+    "nom": "Toulon:R DesOliviers",
+    "lat": 43.16123,
+    "lon": 5.92519,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313751",
+    "nom": "TOULON-Res Richelieu",
+    "lat": 43.11902,
+    "lon": 5.98152,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371L",
+    "nom": "Toulon:RP Cueno",
+    "lat": 43.10854,
+    "lon": 5.93142,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371F",
+    "nom": "Toulon:r Uranie",
+    "lat": 43.12347,
+    "lon": 5.98417,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371U",
+    "nom": "Toulon: Site 10N",
+    "lat": 43.12811,
+    "lon": 5.93075,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371W",
+    "nom": "TOULON : Site 10S",
+    "lat": 43.13094,
+    "lon": 5.91165,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371Y",
+    "nom": "TOULON: Site 14N",
+    "lat": 43.12768,
+    "lon": 5.9217,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371X",
+    "nom": "TOULON: Site 4N",
+    "lat": 43.1218,
+    "lon": 5.94146,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371Z",
+    "nom": "TOULON : Site 4S",
+    "lat": 43.12711,
+    "lon": 5.92121,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "831371V",
+    "nom": "TOULON: site UV2",
+    "lat": 43.12379,
+    "lon": 5.93865,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313786",
+    "nom": "Toulon:Stade Mayol",
+    "lat": 43.11931,
+    "lon": 5.93669,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313708",
+    "nom": "Toulon:St,Arc-en-cie",
+    "lat": 43.1325,
+    "lon": 5.97389,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314402",
+    "nom": "Toulon :ST Cherie FM",
+    "lat": 43.13833,
+    "lon": 6.00528,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313758",
+    "nom": "TOULON-Studio RCF",
+    "lat": 43.12667,
+    "lon": 5.93361,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313713",
+    "nom": "TOULON STU FR BLEU",
+    "lat": 43.12,
+    "lon": 5.9325,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314401",
+    "nom": "Toulon: Valette Rcom",
+    "lat": 43.13671,
+    "lon": 6.01013,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0614701",
+    "nom": "Tourrette-Levens",
+    "lat": 43.77673,
+    "lon": 7.26436,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313801",
+    "nom": "Tourrettes:RD562",
+    "lat": 43.60963,
+    "lon": 6.74063,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314001",
+    "nom": "Tourves",
+    "lat": 43.40861,
+    "lon": 5.93222,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314004",
+    "nom": "Tourves:A8_Caudiere",
+    "lat": 43.43334,
+    "lon": 5.93657,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314005",
+    "nom": "TOURVES_LeJonquier",
+    "lat": 43.42372,
+    "lon": 5.96933,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314006",
+    "nom": "Tourves:Presbytere",
+    "lat": 43.40764,
+    "lon": 5.92156,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309402",
+    "nom": "T_PLAN-DE-LA-TOUR",
+    "lat": 43.31444,
+    "lon": 6.55778,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314104",
+    "nom": "TransEnProv:Eglise",
+    "lat": 43.50253,
+    "lon": 6.48736,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0507603",
+    "nom": "T_SERRES_05",
+    "lat": 44.38528,
+    "lon": 5.68556,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0404302",
+    "nom": "Ubraye",
+    "lat": 43.90583,
+    "lon": 6.7275,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0403303",
+    "nom": "UNBAYE SERRE PONC_ZR",
+    "lat": 44.43745,
+    "lon": 6.36601,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0403304",
+    "nom": "UNBAYE SERRE PON_ZR2",
+    "lat": 44.44356,
+    "lon": 6.38195,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615101",
+    "nom": "Utelle 1:la-Madone",
+    "lat": 43.90833,
+    "lon": 7.22222,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0607501",
+    "nom": "Utelle 3:le-Cros",
+    "lat": 43.87417,
+    "lon": 7.23722,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0690601",
+    "nom": "Valberg:Std Oxygene",
+    "lat": 44.09649,
+    "lon": 6.92954,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615205",
+    "nom": "VALBONNE",
+    "lat": 43.63426,
+    "lon": 7.01072,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0610201",
+    "nom": "Valdeblore 1",
+    "lat": 44.06269,
+    "lon": 7.13094,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615301",
+    "nom": "Valdeblore 2",
+    "lat": 44.07194,
+    "lon": 7.22083,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0404301",
+    "nom": "Val-de-Chalvagne 1",
+    "lat": 43.91833,
+    "lon": 6.83278,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0404303",
+    "nom": "Val-de-Chalvagne 2",
+    "lat": 43.88722,
+    "lon": 6.76139,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314403",
+    "nom": "Valette(La ):Vitamin",
+    "lat": 43.13722,
+    "lon": 6.00222,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314422",
+    "nom": "VALETTE_MOULIERS",
+    "lat": 43.15048,
+    "lon": 6.01292,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615511",
+    "nom": "Vallauris:Tuilieres",
+    "lat": 43.59669,
+    "lon": 7.05402,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0602001",
+    "nom": "Vallee-de-la-Vesubie",
+    "lat": 44.00794,
+    "lon": 7.33898,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0423502",
+    "nom": "VERDACHES_ZR",
+    "lat": 44.26209,
+    "lon": 6.36162,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314808",
+    "nom": "VIDAUBAN",
+    "lat": 43.40532,
+    "lon": 6.41004,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314804",
+    "nom": "Vidauban:ch Adrechs",
+    "lat": 43.42895,
+    "lon": 6.44223,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314806",
+    "nom": "VIDAUBAN_Pons_Occide",
+    "lat": 43.41181,
+    "lon": 6.42293,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314805",
+    "nom": "VIDAUBAN_Ramatuelle",
+    "lat": 43.40395,
+    "lon": 6.3839,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615801",
+    "nom": "Villars/Var",
+    "lat": 43.94462,
+    "lon": 7.07563,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314902",
+    "nom": "Villecroze:G Joseph",
+    "lat": 43.58263,
+    "lon": 6.27362,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314901",
+    "nom": "Villecroze:Reservoir",
+    "lat": 43.5459,
+    "lon": 6.30512,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615910",
+    "nom": "Villefranche/Mer:Bd",
+    "lat": 43.71278,
+    "lon": 7.33028,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615901",
+    "nom": "Villefranche:MtLeuze",
+    "lat": 43.72167,
+    "lon": 7.32083,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615911",
+    "nom": "VILLEFRANCHE S M-412",
+    "lat": 43.70331,
+    "lon": 7.32425,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0615916",
+    "nom": "Villefranche-S-M_Eau",
+    "lat": 43.7071,
+    "lon": 7.32291,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0616110",
+    "nom": "VILLENEUVE LOUBET",
+    "lat": 43.66639,
+    "lon": 7.11694,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0616101",
+    "nom": "Villeneuve-Loubet",
+    "lat": 43.65397,
+    "lon": 7.12214,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8315003",
+    "nom": "Vinon/Verdon:Presbyt",
+    "lat": 43.72645,
+    "lon": 5.81154,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8315101",
+    "nom": "Vins Sur Caramy",
+    "lat": 43.43227,
+    "lon": 6.12853,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0424505",
+    "nom": "VOIX_ZR",
+    "lat": 43.85806,
+    "lon": 5.84562,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0613604",
+    "nom": "ZR_06_GARE_02",
+    "lat": 43.87649,
+    "lon": 7.44694,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0616307",
+    "nom": "ZR_06_GARE_09",
+    "lat": 44.09422,
+    "lon": 7.59158,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088AI",
+    "nom": "ZRLA_Nice_Archet-2",
+    "lat": 43.6962,
+    "lon": 7.22781,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0414505",
+    "nom": "ZRP_AUBIGNOSC_AIRE2",
+    "lat": 44.14765,
+    "lon": 5.96573,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0601206",
+    "nom": "ZRP_Beausoleil Cimet",
+    "lat": 43.74663,
+    "lon": 7.42603,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302609",
+    "nom": "ZRP_CABASSE4",
+    "lat": 43.40062,
+    "lon": 6.21796,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303306",
+    "nom": "ZRP_CARNOULES",
+    "lat": 43.29629,
+    "lon": 6.21669,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304904",
+    "nom": "ZRP_CUERS",
+    "lat": 43.2187,
+    "lon": 6.07013,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0407501",
+    "nom": "ZRP_ENTREPIERRES_AI",
+    "lat": 44.17169,
+    "lon": 5.95559,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8306705",
+    "nom": "ZRP_GONFARON_AIRE",
+    "lat": 43.34306,
+    "lon": 6.32191,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0403402",
+    "nom": "ZRP_LA BRILLANNE_AI",
+    "lat": 43.92395,
+    "lon": 5.89384,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302705",
+    "nom": "ZRP_LA CADIERE-D'AZ",
+    "lat": 43.20266,
+    "lon": 5.75652,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8302706",
+    "nom": "ZRP_LA CADIERE-D'AZ2",
+    "lat": 43.16549,
+    "lon": 5.76292,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8304708",
+    "nom": "ZRP_La Crau:Giavis",
+    "lat": 43.12626,
+    "lon": 6.06601,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310902",
+    "nom": "ZRP_LA ROQUE-ESCLA",
+    "lat": 43.71962,
+    "lon": 6.61833,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8303106",
+    "nom": "ZRP_LE CANNET-DES-M2",
+    "lat": 43.3835,
+    "lon": 6.33619,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300104",
+    "nom": "ZRP_LES ADRETS-DE-L",
+    "lat": 43.54506,
+    "lon": 6.80982,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300105",
+    "nom": "ZRP_LES ADRETS-DE-L2",
+    "lat": 43.54695,
+    "lon": 6.83151,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300406",
+    "nom": "ZRP_LES ARCS",
+    "lat": 43.45211,
+    "lon": 6.46325,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8300412",
+    "nom": "ZRP_LES ARCS5",
+    "lat": 43.44029,
+    "lon": 6.47506,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0410602",
+    "nom": "ZRP_LURS",
+    "lat": 43.95246,
+    "lon": 5.89515,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8308401",
+    "nom": "ZRP_Montmeyan:Costes",
+    "lat": 43.64753,
+    "lon": 6.0546,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0414504",
+    "nom": "ZRP_PEIPIN",
+    "lat": 44.14955,
+    "lon": 5.96461,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309603",
+    "nom": "ZRP_POURCIEUX",
+    "lat": 43.47999,
+    "lon": 5.76613,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309903",
+    "nom": "ZRP_PUGET SUR ARGEN",
+    "lat": 43.46588,
+    "lon": 6.66841,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8309904",
+    "nom": "ZRP_PUGET-SUR-ARGEN",
+    "lat": 43.45958,
+    "lon": 6.68752,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0511501",
+    "nom": "ZRP_REMOLLON",
+    "lat": 44.46978,
+    "lon": 6.16418,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8310713",
+    "nom": "ZRP_RoquabruneArgens",
+    "lat": 43.45866,
+    "lon": 6.60348,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312308",
+    "nom": "ZRP_SANARY-SUR-MER",
+    "lat": 43.13985,
+    "lon": 5.77608,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312309",
+    "nom": "ZRP_SANARY-SUR-MER2",
+    "lat": 43.26195,
+    "lon": 6.09684,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8312916",
+    "nom": "ZRP_SIX-FOURS-LES-PL",
+    "lat": 43.12125,
+    "lon": 5.83379,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311206",
+    "nom": "ZRP_StCyr/Mer:Alon",
+    "lat": 43.15196,
+    "lon": 5.70696,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311208",
+    "nom": "ZRP_ST CYR SUR MER",
+    "lat": 43.15956,
+    "lon": 5.71536,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311215",
+    "nom": "ZRP_ST-CYR-SUR-MER",
+    "lat": 43.14585,
+    "lon": 5.72247,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311606",
+    "nom": "ZRP_ST-MAXIMIN-LA-Sb",
+    "lat": 43.46922,
+    "lon": 5.83405,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311877",
+    "nom": "ZRP_ST-RAPHAEL10",
+    "lat": 43.4727,
+    "lon": 6.9215,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311878",
+    "nom": "ZRP_ST RAPHAEL 11",
+    "lat": 43.43988,
+    "lon": 6.89485,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311879",
+    "nom": "ZRP_ST RAPHAEL 12",
+    "lat": 43.45446,
+    "lon": 6.92025,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8311876",
+    "nom": "ZRP_ST-RAPHAEL9",
+    "lat": 43.41256,
+    "lon": 6.78989,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313304",
+    "nom": "ZRP_TANNERON",
+    "lat": 43.53935,
+    "lon": 6.85123,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313305",
+    "nom": "ZRP_TANNERON2",
+    "lat": 43.53379,
+    "lon": 6.86857,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8313404",
+    "nom": "ZRP_TARADEAU2",
+    "lat": 43.44958,
+    "lon": 6.44925,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0613804",
+    "nom": "ZRP_THEOULE-SUR-MER",
+    "lat": 43.48855,
+    "lon": 6.93257,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314010",
+    "nom": "ZRP_TOURVES4",
+    "lat": 43.43334,
+    "lon": 5.93657,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "8314809",
+    "nom": "ZRP_VIDAUBAN",
+    "lat": 43.43819,
+    "lon": 6.43271,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0424203",
+    "nom": "ZRP_VILLENEUVE",
+    "lat": 43.87118,
+    "lon": 5.87088,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0424504",
+    "nom": "ZRP_VOLX_AIRE",
+    "lat": 43.84322,
+    "lon": 5.84848,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "0608316",
+    "nom": "ZRT_Menton_Baousset",
+    "lat": 43.79279,
+    "lon": 7.5044,
+    "equipe": "ZC SE COTE_AZUR"
+  },
+  {
+    "ig": "06088A5",
+    "nom": "ZRT_Nice JeanMedecin",
+    "lat": 43.70427,
+    "lon": 7.26565,
+    "equipe": "ZC SE COTE_AZUR"
+  }
+]
