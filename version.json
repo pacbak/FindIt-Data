@@ -1,46 +1,15 @@
 {
   "version": 1,
   "lastUpdate": "2026-05-11",
+  "baseUrl": "https://raw.githubusercontent.com/pacbak/FindIt-Data/main/",
   "files": {
-    "national": {
-      "version": 1,
-      "hash": "abc123",
-      "file": "data_national.json"
-    },
-    "sud_est": {
-      "version": 1,
-      "hash": "def456",
-      "file": "data_sud_est.json"
-    },
-    "provence_alpes": {
-      "version": 1,
-      "hash": "hash_provence",
-      "file": "data_provence_alpes.json"
-    },
-    "cote_azur": {
-      "version": 1,
-      "hash": "hash_cote",
-      "file": "data_cote_d_azur.json"
-    },
-    "rhone_ardeche": {
-      "version": 1,
-      "hash": "hash_rhone",
-      "file": "data_rhone_ardeche.json"
-    },
-    "auvergne_loire": {
-      "version": 1,
-      "hash": "hash_auvergne",
-      "file": "data_auvergne_loire.json"
-    },
-    "alpes_nord": {
-      "version": 1,
-      "hash": "hash_alpes",
-      "file": "data_alpes_nord.json"
-    },
-    "corse": {
-      "version": 1,
-      "hash": "hash_corse",
-      "file": "data_corse.json"
-    }
+    "national": "data_national.json",
+    "sud_est": "data_sud_est.json",
+    "provence_alpes": "data_provence_alpes.json",
+    "cote_azur": "data_cote_d_azur.json",
+    "rhone_ardeche": "data_rhone_ardeche.json",
+    "auvergne_loire": "data_auvergne_loire.json",
+    "alpes_nord": "data_alpes_nord.json",
+    "corse": "data_corse.json"
   }
 }
