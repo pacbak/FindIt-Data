@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "lastUpdate": "2026-05-11",
+  "files": {
+    "national": "data_national.json",
+    "sud_est": "data_sud_est.json",
+    "provence_alpes": "data_provence_alpes.json",
+    "cote_azur": "data_cote_d_azur.json",
+    "rhone_ardeche": "data_rhone_ardeche.json",
+    "auvergne_loire": "data_auvergne_loire.json",
+    "alpes_nord": "data_alpes_nord.json",
+    "corse": "data_corse.json"
+  }
+}
