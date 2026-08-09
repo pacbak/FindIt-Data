@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-05-11",
+  "lastUpdate": "2026-08-09",
   "baseUrl": "https://raw.githubusercontent.com/pacbak/FindIt-Data/main/",
   "files": {
     "national": "data_national.json",
@@ -11,5 +11,6 @@
     "auvergne_loire": "data_auvergne_loire.json",
     "alpes_nord": "data_alpes_nord.json",
     "corse": "data_corse.json"
+    "dasf": "dasf.json"
   }
 }
