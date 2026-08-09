@@ -10,7 +10,7 @@
     "rhone_ardeche": "data_rhone_ardeche.json",
     "auvergne_loire": "data_auvergne_loire.json",
     "alpes_nord": "data_alpes_nord.json",
-    "corse": "data_corse.json"
+    "corse": "data_corse.json",
     "dasf": "dasf.json"
   }
 }
