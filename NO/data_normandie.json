@@ -1,0 +1,7926 @@
+[
+  {
+    "ig": "6121401",
+    "nom": "Aigle(l'):Gd Chaply",
+    "lat": 48.74722,
+    "lon": 0.62139,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7645112",
+    "nom": "Aignan:Monod",
+    "lat": 49.48018,
+    "lon": 1.1,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2700501",
+    "nom": "Ailly",
+    "lat": 49.14089,
+    "lon": 1.25634,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2700553",
+    "nom": "Ailly Bec d'Erant",
+    "lat": 49.15653,
+    "lon": 1.27559,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5000402",
+    "nom": "AIREL2",
+    "lat": 49.19822,
+    "lon": -1.09198,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5000403",
+    "nom": "Airel Jardin Godet",
+    "lat": 49.20308,
+    "lon": -1.08919,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6106401",
+    "nom": "Alencon:Mts-d'Amain",
+    "lat": 48.67028,
+    "lon": 0.34694,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6139701",
+    "nom": "Alencon:St Germain",
+    "lat": 48.40987,
+    "lon": 0.0453,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6100102",
+    "nom": "Alencon:studio NFM",
+    "lat": 48.41778,
+    "lon": 0.08944,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6100201",
+    "nom": "Almeneches",
+    "lat": 48.692,
+    "lon": 0.085,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2701401",
+    "nom": "Amfreville/Iton",
+    "lat": 49.15222,
+    "lon": 1.14056,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7600601",
+    "nom": "Amfreville-les-champ",
+    "lat": 49.70167,
+    "lon": 0.825,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7601001",
+    "nom": "ANCRETIEVILLE",
+    "lat": 49.64206,
+    "lon": 0.95841,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2701603",
+    "nom": "Andelys (Les)",
+    "lat": 49.25417,
+    "lon": 1.4375,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2701601",
+    "nom": "Andelys (Les):1",
+    "lat": 49.24056,
+    "lon": 1.41611,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2701602",
+    "nom": "Andelys (Les):2",
+    "lat": 49.25271,
+    "lon": 1.37817,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7601502",
+    "nom": "Angiens",
+    "lat": 49.83562,
+    "lon": 0.8031,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2702003",
+    "nom": "ARNIERES-SUR-ITON",
+    "lat": 48.99424,
+    "lon": 1.07409,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1402602",
+    "nom": "Audrieu",
+    "lat": 49.21484,
+    "lon": -0.62349,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7603401",
+    "nom": "Auffay",
+    "lat": 49.72085,
+    "lon": 1.09169,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7603501",
+    "nom": "Aumale",
+    "lat": 49.76661,
+    "lon": 1.74594,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1402705",
+    "nom": "AUNAY SUR O-843_0037",
+    "lat": 49.01888,
+    "lon": -0.63714,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1402703",
+    "nom": "AUNAY SUR O-843_0038",
+    "lat": 49.02273,
+    "lon": -0.63442,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1402704",
+    "nom": "AUNAY SUR O-843_0039",
+    "lat": 49.02028,
+    "lon": -0.6365,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1402702",
+    "nom": "AUNAY SUR O-843_0228",
+    "lat": 49.01744,
+    "lon": -0.63401,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1402706",
+    "nom": "AUNAY SUR O-843_0404",
+    "lat": 49.02032,
+    "lon": -0.63736,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7604201",
+    "nom": "Auvilliers",
+    "lat": 49.74768,
+    "lon": 1.57597,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5055401",
+    "nom": "Avranches:St-Senier",
+    "lat": 48.6875,
+    "lon": -1.3475,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5061201",
+    "nom": "Avranches:Vains",
+    "lat": 48.67417,
+    "lon": -1.42306,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6102201",
+    "nom": "Bagnoles-de-l'Orne",
+    "lat": 48.55139,
+    "lon": -0.40889,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7674301",
+    "nom": "Barentin",
+    "lat": 49.54369,
+    "lon": 0.94308,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7605713",
+    "nom": "Barentin Alain VB",
+    "lat": 49.55185,
+    "lon": 0.9545,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7605715",
+    "nom": "BARENTINBRIAND49",
+    "lat": 49.5423,
+    "lon": 0.95669,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7605716",
+    "nom": "BARENTINDUBOC18",
+    "lat": 49.54383,
+    "lon": 0.95377,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7605717",
+    "nom": "BARENTINFERRY11",
+    "lat": 49.55489,
+    "lon": 0.95612,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7605718",
+    "nom": "BARENTINGABIN16",
+    "lat": 49.5499,
+    "lon": 0.95682,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7605719",
+    "nom": "BARENTINHERRIOT6",
+    "lat": 49.5446,
+    "lon": 0.95297,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7605720",
+    "nom": "BARENTINHEUZE2",
+    "lat": 49.54417,
+    "lon": 0.95,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7605721",
+    "nom": "BARENTINJEUX2",
+    "lat": 49.54876,
+    "lon": 0.9564,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7605722",
+    "nom": "BARENTINLakana1",
+    "lat": 49.53946,
+    "lon": 0.95456,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7605723",
+    "nom": "BARENTINLamarck5",
+    "lat": 49.53911,
+    "lon": 0.95577,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7605724",
+    "nom": "BARENTINMAUROIS65",
+    "lat": 49.55441,
+    "lon": 0.95448,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7605725",
+    "nom": "BARENTINMITTERRAND1",
+    "lat": 49.54388,
+    "lon": 0.95366,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7613501",
+    "nom": "Barentin:Norma",
+    "lat": 49.53,
+    "lon": 0.97018,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7605726",
+    "nom": "BARENTINREPUBLIQUE19",
+    "lat": 49.54615,
+    "lon": 0.95266,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7605712",
+    "nom": "Barentin St Hellier",
+    "lat": 49.54351,
+    "lon": 0.98307,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5003101",
+    "nom": "Barneville",
+    "lat": 49.39472,
+    "lon": -1.76778,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2704003",
+    "nom": "Barquet_Romilly _LP",
+    "lat": 49.04072,
+    "lon": 0.873,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7615906",
+    "nom": "BARVILLESOUVERAINE17",
+    "lat": 49.78647,
+    "lon": 0.63727,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1437701",
+    "nom": "Bayeux:Longues/Mer",
+    "lat": 49.33972,
+    "lon": -0.71833,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1466301",
+    "nom": "Bayeux:St-Vigor",
+    "lat": 49.27647,
+    "lon": -0.6903,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2705101",
+    "nom": "Beaumont-le-Roger",
+    "lat": 49.09556,
+    "lon": 0.73861,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7606601",
+    "nom": "BEAUTOT",
+    "lat": 49.63688,
+    "lon": 1.04347,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7606801",
+    "nom": "Bec-de-Mortagne",
+    "lat": 49.70056,
+    "lon": 0.44806,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7607001",
+    "nom": "Bellencombre",
+    "lat": 49.71806,
+    "lon": 1.21667,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7607301",
+    "nom": "BELLEVILLE/MER",
+    "lat": 49.95202,
+    "lon": 1.16798,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6104001",
+    "nom": "Bellou en Houlme",
+    "lat": 48.71418,
+    "lon": -0.41792,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6104201",
+    "nom": "Bellou sur Huisne",
+    "lat": 48.41313,
+    "lon": 0.76882,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7607701",
+    "nom": "Benesville:RD29",
+    "lat": 49.76098,
+    "lon": 0.83676,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2705601",
+    "nom": "Bernay",
+    "lat": 49.08278,
+    "lon": 0.58833,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2706001",
+    "nom": "BERTHENONVILLE",
+    "lat": 49.185,
+    "lon": 1.63879,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5004802",
+    "nom": "Beslon",
+    "lat": 48.87407,
+    "lon": -1.1624,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7609002",
+    "nom": "Beuzeville L Grenier",
+    "lat": 49.60184,
+    "lon": 0.41628,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7609201",
+    "nom": "Beuzevillette",
+    "lat": 49.56954,
+    "lon": 0.52919,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7609505",
+    "nom": "BIHORELLECOQ31",
+    "lat": 49.45362,
+    "lon": 1.12115,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7610103",
+    "nom": "Blangy sur Bresle",
+    "lat": 49.92482,
+    "lon": 1.63861,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6104801",
+    "nom": "Boece",
+    "lat": 48.51822,
+    "lon": 0.44791,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6137501",
+    "nom": "Boischampre",
+    "lat": 48.68367,
+    "lon": 0.03456,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2707401",
+    "nom": "BOISNEY",
+    "lat": 49.15372,
+    "lon": 0.62863,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7611401",
+    "nom": "Bolbec",
+    "lat": 49.5685,
+    "lon": 0.46849,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7611411",
+    "nom": "BOLBECCHARROST65",
+    "lat": 49.57252,
+    "lon": 0.47112,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7611412",
+    "nom": "BOLBECCoty32",
+    "lat": 49.57327,
+    "lon": 0.4723,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7611413",
+    "nom": "BOLBECPETIT40",
+    "lat": 49.56246,
+    "lon": 0.47395,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7611502",
+    "nom": "Bolleville",
+    "lat": 49.60975,
+    "lon": 0.55681,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2708201",
+    "nom": "Bonneville/Iton (la)",
+    "lat": 48.99333,
+    "lon": 1.03249,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7610306",
+    "nom": "Bonsecours",
+    "lat": 49.42264,
+    "lon": 1.12604,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7610307",
+    "nom": "BONSECOURS-843_0232",
+    "lat": 49.42251,
+    "lon": 1.12633,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7610308",
+    "nom": "BONSECOURSBOULEAUX49",
+    "lat": 49.42389,
+    "lon": 1.13172,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7610309",
+    "nom": "BONSECOURSCHATEAU10",
+    "lat": 49.42941,
+    "lon": 1.12167,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7611604",
+    "nom": "BOOS-843_0236",
+    "lat": 49.3872,
+    "lon": 1.20691,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7612602",
+    "nom": "Bosc_Mesnil",
+    "lat": 49.67623,
+    "lon": 1.32982,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7612601",
+    "nom": "BOSC-MESNIL",
+    "lat": 49.67921,
+    "lon": 1.34531,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2709503",
+    "nom": "BOSROBERT",
+    "lat": 49.21475,
+    "lon": 0.76821,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7613102",
+    "nom": "BOUILLESAULES18",
+    "lat": 49.35042,
+    "lon": 0.93481,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2710352",
+    "nom": "Bourg Achard",
+    "lat": 49.3281,
+    "lon": 0.82318,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7613301",
+    "nom": "Bourg-Dun",
+    "lat": 49.87542,
+    "lon": 0.88474,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7613601",
+    "nom": "Brachy-Mer",
+    "lat": 49.81831,
+    "lon": 0.95438,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7614102",
+    "nom": "Breaute",
+    "lat": 49.60358,
+    "lon": 0.41558,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7614103",
+    "nom": "Breaute-Tilleuls",
+    "lat": 49.62594,
+    "lon": 0.40038,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7614201",
+    "nom": "Bremontier Merval",
+    "lat": 49.51644,
+    "lon": 1.65462,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6106107",
+    "nom": "BRETONCELLES 1",
+    "lat": 48.44227,
+    "lon": 0.92675,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5008201",
+    "nom": "Bricquebec:Piqueray",
+    "lat": 49.46738,
+    "lon": -1.64005,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2711601",
+    "nom": "Brionne",
+    "lat": 49.19678,
+    "lon": 0.70734,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2711604",
+    "nom": "BRIONNE-843_0205",
+    "lat": 49.19459,
+    "lon": 0.72143,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2711602",
+    "nom": "Brionne:Anquetil",
+    "lat": 49.15564,
+    "lon": 0.73475,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6106303",
+    "nom": "Briouze La Mulochere",
+    "lat": 48.71919,
+    "lon": -0.41665,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6106501",
+    "nom": "Bubertre:Le Perche",
+    "lat": 48.59472,
+    "lon": 0.60917,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7614603",
+    "nom": "Buchy",
+    "lat": 49.59247,
+    "lon": 1.31052,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2711902",
+    "nom": "Bueil",
+    "lat": 48.93855,
+    "lon": 1.44825,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1411501",
+    "nom": "Bures les Monts Alt",
+    "lat": 48.9614,
+    "lon": -0.95339,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2712002",
+    "nom": "BUREY",
+    "lat": 48.99168,
+    "lon": 0.9395,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1411883",
+    "nom": "CAEN-5291",
+    "lat": 49.18565,
+    "lon": -0.40588,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1416701",
+    "nom": "Caen:Colombelles",
+    "lat": 49.19569,
+    "lon": -0.2784,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1411887",
+    "nom": "Caen Falaise",
+    "lat": 49.1722,
+    "lon": -0.3546,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1411897",
+    "nom": "Caen Gardin",
+    "lat": 49.17867,
+    "lon": -0.36719,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1432737",
+    "nom": "Caen Herouville alt",
+    "lat": 49.21159,
+    "lon": -0.3464,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1411888",
+    "nom": "Caen:Mendes",
+    "lat": 49.17724,
+    "lon": -0.34973,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1443701",
+    "nom": "Caen:Mondeville",
+    "lat": 49.17028,
+    "lon": -0.32139,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1450801",
+    "nom": "Caen:Mt-Pincon",
+    "lat": 48.97111,
+    "lon": -0.60972,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1411847",
+    "nom": "Caen-Normandy",
+    "lat": 49.18229,
+    "lon": -0.40223,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1450804",
+    "nom": "Caen:Plessis",
+    "lat": 48.97139,
+    "lon": -0.61111,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1411886",
+    "nom": "Caen Poincare",
+    "lat": 49.16425,
+    "lon": -0.34659,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1456601",
+    "nom": "Caen:St-Contest",
+    "lat": 49.21207,
+    "lon": -0.40313,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1411811",
+    "nom": "Caen:St,Europe2",
+    "lat": 49.1738,
+    "lon": -0.37816,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1411810",
+    "nom": "Caen:St,Nostalgie",
+    "lat": 49.20139,
+    "lon": -0.36111,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1412002",
+    "nom": "CAHAGNES",
+    "lat": 49.05152,
+    "lon": -0.78192,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2712201",
+    "nom": "Cahaignes Vexin/Epte",
+    "lat": 49.19851,
+    "lon": 1.59279,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7612201",
+    "nom": "CALLENGEVILLE",
+    "lat": 49.81283,
+    "lon": 1.51378,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2712502",
+    "nom": "Calleville",
+    "lat": 49.175,
+    "lon": 0.74729,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5009252",
+    "nom": "Cambernon",
+    "lat": 49.08087,
+    "lon": -1.40623,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5009301",
+    "nom": "Cametours",
+    "lat": 49.07147,
+    "lon": -1.27996,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1412901",
+    "nom": "Campeaux:n, 174",
+    "lat": 48.96278,
+    "lon": -0.9475,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1413101",
+    "nom": "CANAPVILLE",
+    "lat": 49.31461,
+    "lon": 0.14036,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7615709",
+    "nom": "CANTELEUBOULET40",
+    "lat": 49.4539,
+    "lon": 1.05095,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7615708",
+    "nom": "Canteleu:Flaubert",
+    "lat": 49.44018,
+    "lon": 1.03273,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7615710",
+    "nom": "CANTELEURESISTANCE49",
+    "lat": 49.45146,
+    "lon": 1.03881,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7615707",
+    "nom": "CANTELEU-SNI_4092",
+    "lat": 49.45735,
+    "lon": 1.03195,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7615901",
+    "nom": "Cany-Barville",
+    "lat": 49.78143,
+    "lon": 0.63232,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7615905",
+    "nom": "Cany Barville Alt",
+    "lat": 49.78313,
+    "lon": 0.62904,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5038501",
+    "nom": "Cap-de-la-Hague",
+    "lat": 49.68,
+    "lon": -1.88148,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5009901",
+    "nom": "Carentan:D903",
+    "lat": 49.29944,
+    "lon": -1.25333,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5009953",
+    "nom": "Carentan_Les_Marais",
+    "lat": 49.34341,
+    "lon": -1.28292,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5010101",
+    "nom": "Carneville",
+    "lat": 49.66621,
+    "lon": -1.45736,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1413704",
+    "nom": "CARPIQUET-843_0448",
+    "lat": 49.18916,
+    "lon": -0.44874,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1413701",
+    "nom": "Carpiquet r,poirier",
+    "lat": 49.19365,
+    "lon": -0.45006,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1413802",
+    "nom": "CARTIGNY-L'EPINAY",
+    "lat": 49.23484,
+    "lon": -0.99656,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635163",
+    "nom": "Caucriauville",
+    "lat": 49.51382,
+    "lon": 0.1735,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616512",
+    "nom": "Caudebec:Blanc",
+    "lat": 49.28523,
+    "lon": 1.02097,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616511",
+    "nom": "Caudebec:Carnot",
+    "lat": 49.28467,
+    "lon": 1.02017,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616516",
+    "nom": "Caudebec:Caudrieres",
+    "lat": 49.28143,
+    "lon": 1.03002,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616508",
+    "nom": "Caudebec:Faure",
+    "lat": 49.28706,
+    "lon": 1.02505,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616513",
+    "nom": "Caudebec:Fourni",
+    "lat": 49.28393,
+    "lon": 1.02535,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623108",
+    "nom": "Caudebec:Hugo",
+    "lat": 49.28183,
+    "lon": 1.01299,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616507",
+    "nom": "Caudebec:Kest",
+    "lat": 49.28021,
+    "lon": 1.01469,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623107",
+    "nom": "Caudebec:Liberte",
+    "lat": 49.28426,
+    "lon": 1.01675,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616509",
+    "nom": "Caudebec:L'Octroi",
+    "lat": 49.2862,
+    "lon": 1.01943,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616506",
+    "nom": "Caudebec:Mouli",
+    "lat": 49.27736,
+    "lon": 1.03155,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616510",
+    "nom": "Caudebec:Moulin",
+    "lat": 49.27673,
+    "lon": 1.03136,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616514",
+    "nom": "Caudebec:Repu112",
+    "lat": 49.28348,
+    "lon": 1.01935,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616504",
+    "nom": "Caudebec:Sequo91",
+    "lat": 49.27483,
+    "lon": 1.0343,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616505",
+    "nom": "Caudebec:Syco24",
+    "lat": 49.27563,
+    "lon": 1.03376,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616515",
+    "nom": "Caudebec:Trividic",
+    "lat": 49.28044,
+    "lon": 1.02698,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1414502",
+    "nom": "Cauvicourt",
+    "lat": 49.05211,
+    "lon": -0.28463,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1454303",
+    "nom": "CC_CORA_IND_ROTS",
+    "lat": 49.19873,
+    "lon": -0.46095,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6107502",
+    "nom": "CEAUCE",
+    "lat": 48.53189,
+    "lon": -0.6331,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1414902",
+    "nom": "Cesny_aux_Vignes",
+    "lat": 49.08538,
+    "lon": -0.1224,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6107901",
+    "nom": "Ceton",
+    "lat": 48.22778,
+    "lon": 0.81667,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6108104",
+    "nom": "CHAILLOUE 1",
+    "lat": 48.64879,
+    "lon": 0.21875,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6109101",
+    "nom": "Champsecret",
+    "lat": 48.61056,
+    "lon": -0.54248,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5051401",
+    "nom": "Chaulieu:Bourg",
+    "lat": 48.73583,
+    "lon": -0.86127,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6110352",
+    "nom": "CHAUMONT 1",
+    "lat": 48.83423,
+    "lon": 0.35436,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6110353",
+    "nom": "Chaumont (61)",
+    "lat": 48.82833,
+    "lon": 0.36022,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5016201",
+    "nom": "Cherbourg:Digosville",
+    "lat": 49.61944,
+    "lon": -1.54889,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5020304",
+    "nom": "CHERBOURG GLACERIE",
+    "lat": 49.61966,
+    "lon": -1.59695,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5020303",
+    "nom": "Cherbourg:Glacerie3",
+    "lat": 49.60889,
+    "lon": -1.60222,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5038301",
+    "nom": "Cherbourg:Octeville1",
+    "lat": 49.62389,
+    "lon": -1.62333,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5012929",
+    "nom": "CHERBOURG std NRJ",
+    "lat": 49.63465,
+    "lon": -1.65286,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1416201",
+    "nom": "Clecy moto crossd562",
+    "lat": 48.88934,
+    "lon": -0.49472,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7617803",
+    "nom": "Cleon:Oliviers1",
+    "lat": 49.31397,
+    "lon": 1.03438,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7617804",
+    "nom": "Cleon:Oliviers2",
+    "lat": 49.3145,
+    "lon": 1.0347,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7617805",
+    "nom": "CLEONPEINTRES21",
+    "lat": 49.30744,
+    "lon": 1.03776,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7617806",
+    "nom": "CLEONSCULPTEURS17",
+    "lat": 49.307,
+    "lon": 1.03677,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7617802",
+    "nom": "Cleon:Tourville",
+    "lat": 49.30647,
+    "lon": 1.0281,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1407605",
+    "nom": "Colbert 1",
+    "lat": 49.22889,
+    "lon": -0.30139,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1407602",
+    "nom": "Colbert 2",
+    "lat": 49.22778,
+    "lon": -0.30139,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1407603",
+    "nom": "Colbert 3",
+    "lat": 49.22833,
+    "lon": -0.30167,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1407606",
+    "nom": "Colbert 4",
+    "lat": 49.2275,
+    "lon": -0.3025,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1407604",
+    "nom": "Colbert 5",
+    "lat": 49.22778,
+    "lon": -0.30472,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1416705",
+    "nom": "COLOMBELLES-843",
+    "lat": 49.18605,
+    "lon": -0.30535,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2716505",
+    "nom": "Conches_En_Ouche",
+    "lat": 48.9714,
+    "lon": 0.91082,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1417401",
+    "nom": "Conde/Noireau:Stade",
+    "lat": 48.84639,
+    "lon": -0.55676,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2759101",
+    "nom": "Cormeilles",
+    "lat": 49.24114,
+    "lon": 0.37005,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2717202",
+    "nom": "Corneuil",
+    "lat": 48.87406,
+    "lon": 1.14868,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6112201",
+    "nom": "Coulmer",
+    "lat": 48.78039,
+    "lon": 0.32152,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649709",
+    "nom": "COURONNEETIENNE24",
+    "lat": 49.38862,
+    "lon": 1.02423,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649710",
+    "nom": "COURONNEPOMMERET54",
+    "lat": 49.38361,
+    "lon": 1.02849,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5014707",
+    "nom": "Coutances:C,Fontaine",
+    "lat": 49.06652,
+    "lon": -1.42402,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5014704",
+    "nom": "Coutances:Godefrairi",
+    "lat": 49.05667,
+    "lon": -1.46361,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5014702",
+    "nom": "Coutances:les-Sapins",
+    "lat": 49.04917,
+    "lon": -1.43778,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5014701",
+    "nom": "Coutances:Lycee Agri",
+    "lat": 49.04778,
+    "lon": -1.45528,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5014703",
+    "nom": "Coutances:Pasteur",
+    "lat": 49.05944,
+    "lon": -1.42917,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1411873",
+    "nom": "Couvrechef",
+    "lat": 49.20029,
+    "lon": -0.38518,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1419802",
+    "nom": "Cresseveuille",
+    "lat": 49.249,
+    "lon": 0.00306,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7619202",
+    "nom": "Criel/Mer:Mesnil-Val",
+    "lat": 50.04,
+    "lon": 1.33167,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7619201",
+    "nom": "Criel/Mer:Mt-Blanc",
+    "lat": 50.02806,
+    "lon": 1.32528,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2718803",
+    "nom": "CRIQUEBEUF/SEINE_RF",
+    "lat": 49.30501,
+    "lon": 1.11475,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2718802",
+    "nom": "Criquebeuf/S:LaForge",
+    "lat": 49.30571,
+    "lon": 1.09698,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7619701",
+    "nom": "Criquetot s longuevi",
+    "lat": 49.7789,
+    "lon": 1.05868,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6113801",
+    "nom": "Croisilles 1",
+    "lat": 48.74424,
+    "lon": 0.26978,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7620302",
+    "nom": "Croix-Mare",
+    "lat": 49.60382,
+    "lon": 0.8421,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1420902",
+    "nom": "CROUAY",
+    "lat": 49.25796,
+    "lon": -0.82023,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1421101",
+    "nom": "Culey-le-patry:ru,39",
+    "lat": 48.95917,
+    "lon": -0.51444,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1421601",
+    "nom": "Damblainville",
+    "lat": 48.92196,
+    "lon": -0.11822,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1402708",
+    "nom": "Danvou la Ferriere",
+    "lat": 48.95799,
+    "lon": -0.67547,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7621201",
+    "nom": "Darnetal",
+    "lat": 49.43794,
+    "lon": 1.15589,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7621205",
+    "nom": "DARNETAL-843_0149",
+    "lat": 49.43943,
+    "lon": 1.14855,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654057",
+    "nom": "Demi Lune",
+    "lat": 49.42595,
+    "lon": 1.05723,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1422101",
+    "nom": "DEMOUVILLE-843_0174",
+    "lat": 49.18725,
+    "lon": -0.27144,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7621607",
+    "nom": "Deville les Rouen",
+    "lat": 49.47262,
+    "lon": 1.04617,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7621707",
+    "nom": "DIEPPE-ANTALIS TV",
+    "lat": 49.92351,
+    "lon": 1.11319,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7621702",
+    "nom": "Dieppe:Neuville",
+    "lat": 49.92139,
+    "lon": 1.09917,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7621701",
+    "nom": "Dieppe:Puys",
+    "lat": 49.93861,
+    "lon": 1.115,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7621719",
+    "nom": "DIEPPERIBAULT15",
+    "lat": 49.92125,
+    "lon": 1.07771,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7621703",
+    "nom": "Dieppes2:Neuville",
+    "lat": 49.92083,
+    "lon": 1.09923,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1422505",
+    "nom": "Dives sur mer",
+    "lat": 49.29118,
+    "lon": -0.10268,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7621901",
+    "nom": "Doudeville",
+    "lat": 49.72182,
+    "lon": 0.77938,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1422801",
+    "nom": "Douvres-l-delivrande",
+    "lat": 49.28534,
+    "lon": -0.37038,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7631902",
+    "nom": "DT Haute-Normandie",
+    "lat": 49.34139,
+    "lon": 1.01528,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6134102",
+    "nom": "Ecouves",
+    "lat": 48.49973,
+    "lon": 0.12287,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6134101",
+    "nom": "ECOUVES ZR",
+    "lat": 48.49396,
+    "lon": 0.11953,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7622502",
+    "nom": "Ecretteville_ les_B",
+    "lat": 49.63787,
+    "lon": 0.68031,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7678102",
+    "nom": "Elbeuf",
+    "lat": 49.28323,
+    "lon": 0.99823,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623153",
+    "nom": "Elbeuf:Anger",
+    "lat": 49.28702,
+    "lon": 0.99471,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616517",
+    "nom": "ELBEUFArenes5",
+    "lat": 49.27784,
+    "lon": 1.02599,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623142",
+    "nom": "Elbeuf:Bertaud",
+    "lat": 49.28785,
+    "lon": 0.997,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616518",
+    "nom": "ELBEUFBLANQUI22",
+    "lat": 49.28557,
+    "lon": 1.01569,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623138",
+    "nom": "Elbeuf:Carn",
+    "lat": 49.28738,
+    "lon": 1.01431,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623125",
+    "nom": "Elbeuf:Carnot",
+    "lat": 49.28696,
+    "lon": 1.01664,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623145",
+    "nom": "Elbeuf:Cirque1",
+    "lat": 49.28884,
+    "lon": 1.01245,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623149",
+    "nom": "Elbeuf:Cirque2",
+    "lat": 49.28963,
+    "lon": 1.01288,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616519",
+    "nom": "ELBEUFColisee13",
+    "lat": 49.27805,
+    "lon": 1.02709,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623137",
+    "nom": "Elbeuf:Corb",
+    "lat": 49.28641,
+    "lon": 1.01226,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616520",
+    "nom": "ELBEUFCOURTOIS13",
+    "lat": 49.28601,
+    "lon": 1.01587,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616521",
+    "nom": "ELBEUFD'ALESIA6",
+    "lat": 49.27775,
+    "lon": 1.02634,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623132",
+    "nom": "Elbeuf:Dautre",
+    "lat": 49.28473,
+    "lon": 1.01351,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616522",
+    "nom": "ELBEUFDruides21",
+    "lat": 49.27732,
+    "lon": 1.02651,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616523",
+    "nom": "ELBEUFd'Uggatte9",
+    "lat": 49.27665,
+    "lon": 1.0265,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623112",
+    "nom": "Elbeuf:Echelettes",
+    "lat": 49.28926,
+    "lon": 1.0001,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623136",
+    "nom": "Elbeuf:Elbe",
+    "lat": 49.28526,
+    "lon": 1.01153,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623131",
+    "nom": "Elbeuf:Gari",
+    "lat": 49.28362,
+    "lon": 1.01209,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623133",
+    "nom": "Elbeuf:Gariel4",
+    "lat": 49.28373,
+    "lon": 1.01023,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616524",
+    "nom": "ELBEUFGaulois9",
+    "lat": 49.27628,
+    "lon": 1.02581,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623110",
+    "nom": "Elbeuf:Gaument1",
+    "lat": 49.28983,
+    "lon": 1.00676,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623123",
+    "nom": "Elbeuf:Gaument2",
+    "lat": 49.29024,
+    "lon": 1.00566,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623129",
+    "nom": "Elbeuf:Gaument3",
+    "lat": 49.29106,
+    "lon": 1.00583,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623130",
+    "nom": "Elbeuf:Gaument 4",
+    "lat": 49.29011,
+    "lon": 1.00507,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623109",
+    "nom": "Elbeuf:Grace",
+    "lat": 49.29209,
+    "lon": 0.99905,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623148",
+    "nom": "Elbeuf:Guynemer",
+    "lat": 49.29086,
+    "lon": 1.00355,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623139",
+    "nom": "Elbeuf:Hoch19",
+    "lat": 49.28822,
+    "lon": 1.01937,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623147",
+    "nom": "Elbeuf:ilot Duval 1",
+    "lat": 49.29032,
+    "lon": 1.00481,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623150",
+    "nom": "Elbeuf:ilot Duval 2",
+    "lat": 49.29006,
+    "lon": 1.00394,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623135",
+    "nom": "Elbeuf:Jacqu",
+    "lat": 49.29072,
+    "lon": 1.00507,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623113",
+    "nom": "Elbeuf:Le Calvaire",
+    "lat": 49.28643,
+    "lon": 1.00883,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623121",
+    "nom": "Elbeuf:Lecerf",
+    "lat": 49.2885,
+    "lon": 1.001,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623122",
+    "nom": "Elbeuf:Les Fleurs",
+    "lat": 49.29223,
+    "lon": 1.00406,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623128",
+    "nom": "Elbeuf:Les pins",
+    "lat": 49.27657,
+    "lon": 1.00432,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623124",
+    "nom": "Elbeuf:Mai",
+    "lat": 49.29153,
+    "lon": 1.011,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623146",
+    "nom": "Elbeuf:MontLecomte",
+    "lat": 49.27739,
+    "lon": 1.00878,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623143",
+    "nom": "Elbeuf:Nov",
+    "lat": 49.28995,
+    "lon": 1.01375,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2710504",
+    "nom": "Elbeuf:Parc",
+    "lat": 49.29866,
+    "lon": 0.88179,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623111",
+    "nom": "Elbeuf:P Fraenckel",
+    "lat": 49.29112,
+    "lon": 1.00864,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623127",
+    "nom": "Elbeuf:Pica",
+    "lat": 49.28917,
+    "lon": 0.99817,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623140",
+    "nom": "Elbeuf:Pins",
+    "lat": 49.27697,
+    "lon": 1.00477,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623152",
+    "nom": "Elbeuf:Poussin",
+    "lat": 49.28509,
+    "lon": 1.00477,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623141",
+    "nom": "Elbeuf:Proudhon",
+    "lat": 49.28995,
+    "lon": 1.00117,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623114",
+    "nom": "Elbeuf:Puchot1",
+    "lat": 49.29166,
+    "lon": 0.99891,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623115",
+    "nom": "Elbeuf:Puchot2",
+    "lat": 49.29259,
+    "lon": 0.99779,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623120",
+    "nom": "Elbeuf:Puchot 3",
+    "lat": 49.29124,
+    "lon": 1.00061,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623126",
+    "nom": "Elbeuf:Repu16",
+    "lat": 49.29061,
+    "lon": 1.00165,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623117",
+    "nom": "Elbeuf:Roche4",
+    "lat": 49.2936,
+    "lon": 0.99925,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623134",
+    "nom": "Elbeuf:Rouen21",
+    "lat": 49.29418,
+    "lon": 0.99616,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623151",
+    "nom": "Elbeuf:Saussaye",
+    "lat": 49.27891,
+    "lon": 1.00682,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623118",
+    "nom": "Elbeuf:Ste Therese",
+    "lat": 49.27844,
+    "lon": 1.00705,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623116",
+    "nom": "Elbeuf:St Jean 1",
+    "lat": 49.29194,
+    "lon": 1.00146,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623119",
+    "nom": "Elbeuf:St jean 2",
+    "lat": 49.29295,
+    "lon": 1.00206,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623144",
+    "nom": "Elbeuf:Traites27",
+    "lat": 49.28843,
+    "lon": 1.01394,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656002",
+    "nom": "EPINAYCOFFRE79",
+    "lat": 49.4217,
+    "lon": 1.1811,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623901",
+    "nom": "EPRETOT",
+    "lat": 49.5539,
+    "lon": 0.3316,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1424201",
+    "nom": "Epron",
+    "lat": 49.21652,
+    "lon": -0.36877,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5017301",
+    "nom": "Equeurdreville",
+    "lat": 49.65175,
+    "lon": -1.67503,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5017302",
+    "nom": "Equeurdreville-hainn",
+    "lat": 49.64788,
+    "lon": -1.69245,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7624201",
+    "nom": "Ernemont la Vilette",
+    "lat": 49.45433,
+    "lon": 1.68011,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7624401",
+    "nom": "Esclavelles",
+    "lat": 49.71224,
+    "lon": 1.40907,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7625102",
+    "nom": "Etalleville",
+    "lat": 49.74204,
+    "lon": 0.82278,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7625301",
+    "nom": "ETOUTTEVILLE",
+    "lat": 49.6579,
+    "lon": 0.80056,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7625401",
+    "nom": "Etretat",
+    "lat": 49.70444,
+    "lon": 0.21556,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722701",
+    "nom": "Etreville",
+    "lat": 49.37116,
+    "lon": 0.6358,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7625501",
+    "nom": "Eu",
+    "lat": 50.04194,
+    "lon": 1.40139,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722941",
+    "nom": "Evreux:Abruzo",
+    "lat": 49.03964,
+    "lon": 1.12877,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722942",
+    "nom": "Evreux:Bart22",
+    "lat": 49.03002,
+    "lon": 1.16856,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722938",
+    "nom": "Evreux:Bd Gambetta",
+    "lat": 49.01875,
+    "lon": 1.14725,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722943",
+    "nom": "Evreux:Boileau",
+    "lat": 49.00765,
+    "lon": 1.15345,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722944",
+    "nom": "Evreux:Boileau6",
+    "lat": 49.00729,
+    "lon": 1.15293,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722945",
+    "nom": "Evreux:Broglie",
+    "lat": 49.02486,
+    "lon": 1.13415,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722947",
+    "nom": "Evreux:Bruyere",
+    "lat": 49.00421,
+    "lon": 1.15391,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722948",
+    "nom": "Evreux:Bruyere10",
+    "lat": 49.00466,
+    "lon": 1.15612,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722949",
+    "nom": "Evreux:Bruyere4",
+    "lat": 49.00433,
+    "lon": 1.15439,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722950",
+    "nom": "Evreux:Bruyere6",
+    "lat": 49.00458,
+    "lon": 1.15477,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722951",
+    "nom": "Evreux:Camus6",
+    "lat": 49.01405,
+    "lon": 1.16016,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722953",
+    "nom": "Evreux:Copernic",
+    "lat": 49.02481,
+    "lon": 1.13278,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722954",
+    "nom": "Evreux:Esperanto",
+    "lat": 49.0081,
+    "lon": 1.1545,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722955",
+    "nom": "Evreux:Esperanto12",
+    "lat": 49.00868,
+    "lon": 1.15516,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722956",
+    "nom": "Evreux:Federation",
+    "lat": 49.00503,
+    "lon": 1.14848,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722957",
+    "nom": "Evreux:Federation41",
+    "lat": 49.00518,
+    "lon": 1.14884,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722958",
+    "nom": "Evreux:Ferre",
+    "lat": 49.01378,
+    "lon": 1.15945,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722959",
+    "nom": "Evreux:Flaubert",
+    "lat": 49.00848,
+    "lon": 1.15556,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722960",
+    "nom": "Evreux:Foch",
+    "lat": 49.0244,
+    "lon": 1.1329,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722961",
+    "nom": "Evreux:Fontaine",
+    "lat": 49.00653,
+    "lon": 1.15332,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722962",
+    "nom": "Evreux:Fontaine11",
+    "lat": 49.00559,
+    "lon": 1.15375,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722963",
+    "nom": "Evreux:Fontaine6",
+    "lat": 49.00511,
+    "lon": 1.15329,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722964",
+    "nom": "Evreux:Foret80",
+    "lat": 49.00908,
+    "lon": 1.15305,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722965",
+    "nom": "Evreux:Garanbouville",
+    "lat": 49.03535,
+    "lon": 1.15456,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722966",
+    "nom": "Evreux:Germain",
+    "lat": 49.01841,
+    "lon": 1.12878,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722967",
+    "nom": "Evreux:Lamartine",
+    "lat": 49.00494,
+    "lon": 1.15239,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722968",
+    "nom": "Evreux:Langevin",
+    "lat": 49.01249,
+    "lon": 1.15981,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722969",
+    "nom": "Evreux:Maillot",
+    "lat": 49.02923,
+    "lon": 1.15877,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722970",
+    "nom": "Evreux:Melville7",
+    "lat": 49.01389,
+    "lon": 1.16056,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722971",
+    "nom": "Evreux:Merimee",
+    "lat": 49.00541,
+    "lon": 1.15289,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722972",
+    "nom": "Evreux:Moliere",
+    "lat": 49.00677,
+    "lon": 1.15432,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722973",
+    "nom": "Evreux:Moliere16",
+    "lat": 49.00563,
+    "lon": 1.15508,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722974",
+    "nom": "Evreux:Moliere22",
+    "lat": 49.0048,
+    "lon": 1.1554,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722975",
+    "nom": "Evreux:Moulin",
+    "lat": 49.01008,
+    "lon": 1.15226,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722976",
+    "nom": "Evreux:Moulin83bis",
+    "lat": 49.00885,
+    "lon": 1.15188,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722901",
+    "nom": "Evreux:Nettreville",
+    "lat": 49.03,
+    "lon": 1.17,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722977",
+    "nom": "Evreux:Passot",
+    "lat": 49.03009,
+    "lon": 1.16007,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722978",
+    "nom": "Evreux:Passot43",
+    "lat": 49.02932,
+    "lon": 1.15905,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722979",
+    "nom": "Evreux:Pouget",
+    "lat": 49.01697,
+    "lon": 1.12433,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722980",
+    "nom": "Evreux:Racine",
+    "lat": 49.00628,
+    "lon": 1.15406,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722981",
+    "nom": "Evreux:Racine10",
+    "lat": 49.00588,
+    "lon": 1.15392,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722936",
+    "nom": "Evreux:Rochette",
+    "lat": 49.02641,
+    "lon": 1.14012,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722982",
+    "nom": "Evreux:Rugby",
+    "lat": 49.00733,
+    "lon": 1.15427,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722983",
+    "nom": "Evreux:Rugby14",
+    "lat": 49.00755,
+    "lon": 1.15551,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722984",
+    "nom": "Evreux:Rugby9",
+    "lat": 49.00889,
+    "lon": 1.15988,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722985",
+    "nom": "Evreux:Saint Jean",
+    "lat": 49.02685,
+    "lon": 1.16718,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722986",
+    "nom": "Evreux:Saint Jean28",
+    "lat": 49.02556,
+    "lon": 1.16788,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722987",
+    "nom": "Evreux:September",
+    "lat": 49.01645,
+    "lon": 1.12457,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722988",
+    "nom": "Evreux:September22",
+    "lat": 49.01634,
+    "lon": 1.12466,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722937",
+    "nom": "EVREUX-SNI_4748",
+    "lat": 49.02649,
+    "lon": 1.14024,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722920",
+    "nom": "EVREUX-studio",
+    "lat": 49.01389,
+    "lon": 1.1825,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722989",
+    "nom": "Evreux:Suffren",
+    "lat": 49.02669,
+    "lon": 1.17371,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722990",
+    "nom": "Evreux:Suffren2",
+    "lat": 49.02622,
+    "lon": 1.17294,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722904",
+    "nom": "Evreux:Tremouille",
+    "lat": 49.0025,
+    "lon": 1.13861,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722991",
+    "nom": "Evreux:Verlaine",
+    "lat": 49.00639,
+    "lon": 1.14893,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722996",
+    "nom": "EVREUX: Virgin Radio",
+    "lat": 49.01361,
+    "lon": 1.18259,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722992",
+    "nom": "Evreux:Zola",
+    "lat": 49.00535,
+    "lon": 1.15477,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722993",
+    "nom": "Evreux:Zola14",
+    "lat": 49.00503,
+    "lon": 1.15491,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1425801",
+    "nom": "Falaise:Oliviers",
+    "lat": 48.901,
+    "lon": -0.19909,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6135201",
+    "nom": "Falaise:Ronai",
+    "lat": 48.8225,
+    "lon": -0.14694,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1475301",
+    "nom": "Falaise:Villers",
+    "lat": 48.91139,
+    "lon": -0.28028,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7625901",
+    "nom": "Fecamp",
+    "lat": 49.76505,
+    "lon": 0.37554,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7625911",
+    "nom": "Fecamp:Clement",
+    "lat": 49.75569,
+    "lon": 0.39735,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5017802",
+    "nom": "FERMANVILLE",
+    "lat": 49.67535,
+    "lon": -1.46264,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6116952",
+    "nom": "Flers la Valette",
+    "lat": 48.75094,
+    "lon": -0.54006,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6139101",
+    "nom": "Flers:St-Georges",
+    "lat": 48.76139,
+    "lon": -0.555,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6117001",
+    "nom": "FLEURE",
+    "lat": 48.69632,
+    "lon": -0.03219,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1427104",
+    "nom": "FLEURY S OR-843_0163",
+    "lat": 49.14348,
+    "lon": -0.38354,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5018701",
+    "nom": "Flottemanville-Hague",
+    "lat": 49.63111,
+    "lon": -1.75503,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2751703",
+    "nom": "Fontaine:Sablon",
+    "lat": 49.18074,
+    "lon": 1.25457,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1428102",
+    "nom": "Formigny",
+    "lat": 49.32347,
+    "lon": -0.87537,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2725802",
+    "nom": "FORT-MOVILLE",
+    "lat": 49.32098,
+    "lon": 0.37822,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2725801",
+    "nom": "Fort Moville Vc 23",
+    "lat": 49.33832,
+    "lon": 0.41083,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7602901",
+    "nom": "Foucarmont",
+    "lat": 49.82407,
+    "lon": 1.57269,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7627801",
+    "nom": "Foucarmont:Fromentel",
+    "lat": 49.85278,
+    "lon": 1.57812,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7627904",
+    "nom": "FOUCART 1",
+    "lat": 49.61931,
+    "lon": 0.58521,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7647505",
+    "nom": "FRANQUEVILL-843_0332",
+    "lat": 49.39989,
+    "lon": 1.17156,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7647504",
+    "nom": "FRANQUEVILL-843_0358",
+    "lat": 49.39981,
+    "lon": 1.1715,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7647502",
+    "nom": "FRANQUEVILLE843_0341",
+    "lat": 49.40762,
+    "lon": 1.16442,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7647503",
+    "nom": "Franqueville_St_Pier",
+    "lat": 49.40395,
+    "lon": 1.17192,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7628201",
+    "nom": "Freneuse:Elbeuf",
+    "lat": 49.30566,
+    "lon": 1.05917,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7628101",
+    "nom": "Freynaye (La)",
+    "lat": 49.52562,
+    "lon": 0.58108,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635164",
+    "nom": "Frileuse",
+    "lat": 49.50523,
+    "lon": 0.15342,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7629102",
+    "nom": "Froberville",
+    "lat": 49.71896,
+    "lon": 0.33766,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7629301",
+    "nom": "Fultot",
+    "lat": 49.75942,
+    "lon": 0.79509,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2727503",
+    "nom": "GAILLON-843_0187",
+    "lat": 49.16233,
+    "lon": 1.33836,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2727504",
+    "nom": "Gaillon_ND_Garenne",
+    "lat": 49.16812,
+    "lon": 1.37104,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2727501",
+    "nom": "Gaillon:St-Aubin",
+    "lat": 49.15212,
+    "lon": 1.33788,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7629701",
+    "nom": "Gancourt St Etienne",
+    "lat": 49.53707,
+    "lon": 1.69252,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5046301",
+    "nom": "Gavray:St-Denis",
+    "lat": 48.91861,
+    "lon": -1.32944,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6100152",
+    "nom": "GC_Alencon",
+    "lat": 48.43406,
+    "lon": 0.09866,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6100652",
+    "nom": "GC_Argentan",
+    "lat": 48.73869,
+    "lon": -0.0253,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1402601",
+    "nom": "GC_Audrieu",
+    "lat": 49.21614,
+    "lon": -0.59613,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7603403",
+    "nom": "GC_Auffay",
+    "lat": 49.71618,
+    "lon": 1.09851,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7603504",
+    "nom": "GC_Aumale",
+    "lat": 49.76506,
+    "lon": 1.75618,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5002552",
+    "nom": "GC_Avranches",
+    "lat": 48.69041,
+    "lon": -1.37012,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7605711",
+    "nom": "GC_Barentin",
+    "lat": 49.54928,
+    "lon": 0.95364,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1404706",
+    "nom": "GC_Bayeux",
+    "lat": 49.26991,
+    "lon": -0.69806,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2705105",
+    "nom": "GC_Beaumont-le-Roger",
+    "lat": 49.07417,
+    "lon": 0.77279,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2705606",
+    "nom": "GC_Bernay",
+    "lat": 49.0872,
+    "lon": 0.59569,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7610102",
+    "nom": "GC_Blangy-sur-Bresle",
+    "lat": 49.93268,
+    "lon": 1.62595,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1407902",
+    "nom": "GC_Blonville-sur-Mer",
+    "lat": 49.33139,
+    "lon": 0.03577,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7611410",
+    "nom": "GC_Bolbec - Nointot",
+    "lat": 49.59151,
+    "lon": 0.48488,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2763701",
+    "nom": "GC_Bourgtheroulde",
+    "lat": 49.31758,
+    "lon": 0.8385,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2710803",
+    "nom": "GC_Bourth",
+    "lat": 48.76585,
+    "lon": 0.80476,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7614101",
+    "nom": "GC_Breaute - Beuzevi",
+    "lat": 49.60344,
+    "lon": 0.41767,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6106106",
+    "nom": "GC_Bretoncelles",
+    "lat": 48.43279,
+    "lon": 0.89249,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1409802",
+    "nom": "GC_Bretteville - Nor",
+    "lat": 49.20375,
+    "lon": -0.51257,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2711605",
+    "nom": "GC_Brionne",
+    "lat": 49.19644,
+    "lon": 0.71162,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6106302",
+    "nom": "GC_Briouze",
+    "lat": 48.70199,
+    "lon": -0.3683,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2711901",
+    "nom": "GC_Bueil",
+    "lat": 48.92545,
+    "lon": 1.44376,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1411898",
+    "nom": "GC_Caen",
+    "lat": 49.1765,
+    "lon": -0.34767,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5009802",
+    "nom": "GC_Carantilly - Mari",
+    "lat": 49.06791,
+    "lon": -1.24458,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5009952",
+    "nom": "GC_Carentan",
+    "lat": 49.30265,
+    "lon": -1.24508,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5012933",
+    "nom": "GC_Cherbourg",
+    "lat": 49.63355,
+    "lon": -1.62152,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7617904",
+    "nom": "GC_Cleres",
+    "lat": 49.59901,
+    "lon": 1.10623,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2716504",
+    "nom": "GC_Conches",
+    "lat": 48.96245,
+    "lon": 0.93796,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6111603",
+    "nom": "GC_Conde-sur-Huisne",
+    "lat": 48.38358,
+    "lon": 0.84876,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1445201",
+    "nom": "GC_Couliboeuf",
+    "lat": 48.92384,
+    "lon": -0.09854,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5014708",
+    "nom": "GC_Coutances",
+    "lat": 49.04303,
+    "lon": -1.44176,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7621717",
+    "nom": "GC_Dieppe",
+    "lat": 49.92187,
+    "lon": 1.08114,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1422506",
+    "nom": "GC_Dives - Cabourg",
+    "lat": 49.28653,
+    "lon": -0.10768,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6115302",
+    "nom": "GC_Ecoucheles-Vallee",
+    "lat": 48.71517,
+    "lon": -0.12104,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656104",
+    "nom": "GC_Elbeuf - Saint-Au",
+    "lat": 49.30294,
+    "lon": 1.01006,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623803",
+    "nom": "GC_Epouville",
+    "lat": 49.56395,
+    "lon": 0.2237,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7625004",
+    "nom": "GC_Etainhus",
+    "lat": 49.56128,
+    "lon": 0.33115,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7625506",
+    "nom": "GC_Eu",
+    "lat": 50.05422,
+    "lon": 1.41695,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722994",
+    "nom": "GC_Evreux Normandie",
+    "lat": 49.01864,
+    "lon": 1.14975,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7625910",
+    "nom": "GC_Fecamp",
+    "lat": 49.75935,
+    "lon": 0.37529,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6116953",
+    "nom": "GC_Flers",
+    "lat": 48.74482,
+    "lon": -0.57332,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5018804",
+    "nom": "GC_Folligny",
+    "lat": 48.83009,
+    "lon": -1.40722,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7627903",
+    "nom": "GC_Foucart - Alvimar",
+    "lat": 49.60844,
+    "lon": 0.59697,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1428702",
+    "nom": "GC_Frenouville - Cag",
+    "lat": 49.14112,
+    "lon": -0.26036,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2702203",
+    "nom": "GC_Gaillon - Aubevoy",
+    "lat": 49.17475,
+    "lon": 1.35262,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2728406",
+    "nom": "GC_Gisors",
+    "lat": 49.2852,
+    "lon": 1.78462,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2728801",
+    "nom": "GC_Glos - Montfort",
+    "lat": 49.27174,
+    "lon": 0.68288,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7630202",
+    "nom": "GC_Goderville",
+    "lat": 49.60344,
+    "lon": 0.41767,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7626004",
+    "nom": "GC_Gournay - Ferrier",
+    "lat": 49.48154,
+    "lon": 1.73811,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2710503",
+    "nom": "GC_GrandBourtherould",
+    "lat": 49.31758,
+    "lon": 0.8385,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5021853",
+    "nom": "GC_Granville",
+    "lat": 48.83874,
+    "lon": -1.58748,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7634105",
+    "nom": "GC_Harfleur Halte",
+    "lat": 49.50597,
+    "lon": 0.19218,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1433804",
+    "nom": "GC_Houlgate",
+    "lat": 49.30012,
+    "lon": -0.07723,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2708203",
+    "nom": "GC_La Bonneville-sur",
+    "lat": 48.98855,
+    "lon": 1.03502,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6121403",
+    "nom": "GC_L'Aigle",
+    "lat": 48.76631,
+    "lon": 0.62002,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1436614",
+    "nom": "GC_Le Grand Jardin",
+    "lat": 49.1506,
+    "lon": 0.22723,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635189",
+    "nom": "GC_Le Havre",
+    "lat": 49.49275,
+    "lon": 0.12475,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635190",
+    "nom": "GC_Le Havre Graville",
+    "lat": 49.49998,
+    "lon": 0.16097,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1437003",
+    "nom": "GC_Le Molay-Littry",
+    "lat": 49.24943,
+    "lon": -0.88106,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6135601",
+    "nom": "GC_Le Theil - La Rou",
+    "lat": 48.26734,
+    "lon": 0.69446,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7671102",
+    "nom": "GC_Le Treport - Mers",
+    "lat": 50.06291,
+    "lon": 1.37655,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1436615",
+    "nom": "GC_Lisieux",
+    "lat": 49.13846,
+    "lon": 0.23116,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5035602",
+    "nom": "GC_Lison",
+    "lat": 49.22694,
+    "lon": -1.05038,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7639401",
+    "nom": "GC_Longroy - Gamache",
+    "lat": 49.98204,
+    "lon": 1.55276,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7673802",
+    "nom": "GC_Longuerue - Vieux",
+    "lat": 49.55669,
+    "lon": 1.2763,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7639701",
+    "nom": "GC_Longuevilsur-Scie",
+    "lat": 49.79181,
+    "lon": 1.11038,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7636601",
+    "nom": "GC_Malaunay - Le Hou",
+    "lat": 49.51351,
+    "lon": 1.03966,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7647404",
+    "nom": "GC_Maromme",
+    "lat": 49.48007,
+    "lon": 1.05062,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6127503",
+    "nom": "GC_Merlerault",
+    "lat": 48.70266,
+    "lon": 0.28332,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1443102",
+    "nom": "GC_Mezidon",
+    "lat": 49.07111,
+    "lon": -0.07512,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7644502",
+    "nom": "GC_Monterolier - Buc",
+    "lat": 49.60327,
+    "lon": 1.33476,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7644710",
+    "nom": "GC_Montivilliers",
+    "lat": 49.54311,
+    "lon": 0.1896,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7624503",
+    "nom": "GC_Montville",
+    "lat": 49.5514,
+    "lon": 1.07007,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7645302",
+    "nom": "GC_Morgny--Pommeraye",
+    "lat": 49.52332,
+    "lon": 1.2479,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7645601",
+    "nom": "GC_Motteville",
+    "lat": 49.63669,
+    "lon": 0.84985,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1445603",
+    "nom": "GC_Moult - Argences",
+    "lat": 49.11123,
+    "lon": -0.18646,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2743803",
+    "nom": "GC_Nonancourt",
+    "lat": 48.77584,
+    "lon": 1.193,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6131001",
+    "nom": "GC_Nonant-le-Pin",
+    "lat": 48.70389,
+    "lon": 0.21948,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7648409",
+    "nom": "GC_Oissel",
+    "lat": 49.34306,
+    "lon": 1.10188,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649502",
+    "nom": "GC_Pavilly",
+    "lat": 49.5639,
+    "lon": 0.9507,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2700802",
+    "nom": "GC_Pont-de-l'Arche",
+    "lat": 49.31719,
+    "lon": 1.1598,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5040904",
+    "nom": "GC_Pont-Hebert",
+    "lat": 49.16257,
+    "lon": -1.1267,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1451404",
+    "nom": "GC_Pont-l'Eveque",
+    "lat": 49.2871,
+    "lon": 0.19236,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5041054",
+    "nom": "GC_Pontorson-Mt-StMi",
+    "lat": 48.55288,
+    "lon": -1.50507,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6134201",
+    "nom": "GC_Rai - Aube",
+    "lat": 48.74378,
+    "lon": 0.55375,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7653403",
+    "nom": "GC_Rolleville",
+    "lat": 49.58211,
+    "lon": 0.21593,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2749201",
+    "nom": "GC_Romilly-la-Puthen",
+    "lat": 49.00394,
+    "lon": 0.85495,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656501",
+    "nom": "GC_SaintAubinScie",
+    "lat": 49.8718,
+    "lon": 1.06685,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6138903",
+    "nom": "GC_Sainte-Gauburge",
+    "lat": 48.71729,
+    "lon": 0.42814,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2754801",
+    "nom": "GC_Saint-GermainREM",
+    "lat": 48.75861,
+    "lon": 1.2574,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5050255",
+    "nom": "GC_Saint-Lo",
+    "lat": 49.117,
+    "lon": -1.09958,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1465802",
+    "nom": "GC_Saint-Sever",
+    "lat": 48.84379,
+    "lon": -1.05172,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7660201",
+    "nom": "GC_Saint-Victor",
+    "lat": 49.67709,
+    "lon": 1.10989,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6146454",
+    "nom": "GC_Sees",
+    "lat": 48.60001,
+    "lon": 0.16623,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7667202",
+    "nom": "GC_Serqueux",
+    "lat": 49.63159,
+    "lon": 1.53958,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2762205",
+    "nom": "GC_Serquigny",
+    "lat": 49.10813,
+    "lon": 0.71976,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7667804",
+    "nom": "GC_Sommery",
+    "lat": 49.62972,
+    "lon": 1.43544,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7668114",
+    "nom": "GC_Sotteville",
+    "lat": 49.41255,
+    "lon": 1.10175,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7657518",
+    "nom": "GC_StEtienneRouvr",
+    "lat": 49.37698,
+    "lon": 1.10952,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7659602",
+    "nom": "GC_STLaurentBreveden",
+    "lat": 49.52872,
+    "lon": 0.25234,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1461002",
+    "nom": "GC_ST-Manvieu-Norrey",
+    "lat": 49.20346,
+    "lon": -0.5129,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7661703",
+    "nom": "GC_ST-MartinduVivier",
+    "lat": 49.4705,
+    "lon": 1.16164,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2759853",
+    "nom": "GC_St-Pierredu-Vauvr",
+    "lat": 49.23393,
+    "lon": 1.22501,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1465403",
+    "nom": "GC_St-Pierre-surdive",
+    "lat": 49.02314,
+    "lon": -0.0406,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7665601",
+    "nom": "GC_ST-Victorl'Abbaye",
+    "lat": 49.67709,
+    "lon": 1.10989,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6110101",
+    "nom": "GC_Surdon",
+    "lat": 48.6648,
+    "lon": 0.13457,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2764303",
+    "nom": "GC_TillieressurAvre",
+    "lat": 48.76088,
+    "lon": 1.05464,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7670503",
+    "nom": "GC_Tourville",
+    "lat": 49.32488,
+    "lon": 1.09901,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1422009",
+    "nom": "GC_Trouville - Deauv",
+    "lat": 49.36,
+    "lon": 0.08417,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6148403",
+    "nom": "GC_Val-au-Perche",
+    "lat": 48.26734,
+    "lon": 0.69446,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2770106",
+    "nom": "GC_Val-de-Reuil",
+    "lat": 49.27554,
+    "lon": 1.22431,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5061552",
+    "nom": "GC_Valognes",
+    "lat": 49.50557,
+    "lon": -1.47995,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2767905",
+    "nom": "GC_Verneuil-sur-Avre",
+    "lat": 48.74266,
+    "lon": 0.92921,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2768116",
+    "nom": "GC_Vernon",
+    "lat": 49.09133,
+    "lon": 1.47866,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5063953",
+    "nom": "GC_Villedieu-les-Poe",
+    "lat": 48.83415,
+    "lon": -1.22556,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1475405",
+    "nom": "GC_Villers-sur-Mer",
+    "lat": 49.31609,
+    "lon": 0.01006,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1476210",
+    "nom": "GC_Vire",
+    "lat": 48.84647,
+    "lon": -0.88295,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7674701",
+    "nom": "GC_Virville - Mannev",
+    "lat": 49.58377,
+    "lon": 0.35434,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7675804",
+    "nom": "GC_Yvetot",
+    "lat": 49.62209,
+    "lon": 0.75019,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2728301",
+    "nom": "Gisay la coudre",
+    "lat": 48.94083,
+    "lon": 0.59972,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2728401",
+    "nom": "Gisors",
+    "lat": 49.25583,
+    "lon": 1.78361,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2728501",
+    "nom": "GIVERNY",
+    "lat": 49.07546,
+    "lon": 1.52159,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2728702",
+    "nom": "Glisolles",
+    "lat": 48.97736,
+    "lon": 1.00294,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7630505",
+    "nom": "GONFREVILLE-843_0313",
+    "lat": 49.51212,
+    "lon": 0.23541,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7630506",
+    "nom": "GONFREVILLE-L'ORCH",
+    "lat": 49.52404,
+    "lon": 0.22078,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5020901",
+    "nom": "Gonneville:les Lande",
+    "lat": 49.64176,
+    "lon": -1.49611,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5020904",
+    "nom": "Gonneville_Le_Theil",
+    "lat": 49.60678,
+    "lon": -1.46697,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6119401",
+    "nom": "GOULET",
+    "lat": 48.7477,
+    "lon": -0.07683,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7626001",
+    "nom": "Gournay:Ferrieres",
+    "lat": 49.47719,
+    "lon": 1.75311,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5021452",
+    "nom": "Gouvets",
+    "lat": 48.91444,
+    "lon": -1.09318,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1431101",
+    "nom": "GRAINVILL",
+    "lat": 49.14397,
+    "lon": -0.52412,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7631503",
+    "nom": "Grainville Bertheauv",
+    "lat": 49.74905,
+    "lon": 0.59912,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7631501",
+    "nom": "Grainville-Teinturie",
+    "lat": 49.73861,
+    "lon": 0.65611,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1432719",
+    "nom": "Grande Delle 1",
+    "lat": 49.20417,
+    "lon": -0.34267,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1432720",
+    "nom": "Grande Delle 2",
+    "lat": 49.20567,
+    "lon": -0.34125,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1432721",
+    "nom": "Grande Delle 3",
+    "lat": 49.20389,
+    "lon": -0.34044,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5021802",
+    "nom": "Granville:Acqueville",
+    "lat": 48.83389,
+    "lon": -1.58472,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5021801",
+    "nom": "Granville:Prairies",
+    "lat": 48.84056,
+    "lon": -1.57694,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7632302",
+    "nom": "GRAVAL",
+    "lat": 49.73673,
+    "lon": 1.544,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2729901",
+    "nom": "Gravigny",
+    "lat": 49.05111,
+    "lon": 1.14028,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5022202",
+    "nom": "Grosville Alt",
+    "lat": 49.50871,
+    "lon": -1.73282,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7655601",
+    "nom": "Gruchet-le-Valasse",
+    "lat": 49.54919,
+    "lon": 0.48279,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2730601",
+    "nom": "Guichainville",
+    "lat": 48.98412,
+    "lon": 1.21328,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5022402",
+    "nom": "Guilberville",
+    "lat": 48.993,
+    "lon": -0.92508,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7610813",
+    "nom": "GUILLAUMEDARNETAL26",
+    "lat": 49.46984,
+    "lon": 1.12034,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7610814",
+    "nom": "GUILLAUMEDUBOIS64",
+    "lat": 49.47144,
+    "lon": 1.11211,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2730702",
+    "nom": "Guiseniers",
+    "lat": 49.20941,
+    "lon": 1.47552,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7634101",
+    "nom": "Harfleur",
+    "lat": 49.50841,
+    "lon": 0.17469,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7644702",
+    "nom": "Harfleur:Montivillie",
+    "lat": 49.52333,
+    "lon": 0.19556,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7634402",
+    "nom": "HAUDRICOURT",
+    "lat": 49.75476,
+    "lon": 1.6951,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1432722",
+    "nom": "Haute Folie 1",
+    "lat": 49.20082,
+    "lon": -0.33928,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1432727",
+    "nom": "Haute Folie 2",
+    "lat": 49.20018,
+    "lon": -0.33945,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5023201",
+    "nom": "Hauteville Guichard",
+    "lat": 49.12377,
+    "lon": -1.29982,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7634901",
+    "nom": "Hautot/Mer",
+    "lat": 49.90694,
+    "lon": 1.06,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2731601",
+    "nom": "Hauville",
+    "lat": 49.41722,
+    "lon": 0.76583,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635193",
+    "nom": "HAVREBRINDEAU31",
+    "lat": 49.48953,
+    "lon": 0.14265,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635194",
+    "nom": "HAVREFERRER66",
+    "lat": 49.49012,
+    "lon": 0.14169,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635195",
+    "nom": "HAVRELAMARTINE22",
+    "lat": 49.49183,
+    "lon": 0.14232,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635101",
+    "nom": "Havre (le):Harfleur",
+    "lat": 49.50427,
+    "lon": 0.17557,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635196",
+    "nom": "HAVRERISPAL40",
+    "lat": 49.49232,
+    "lon": 0.14125,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635197",
+    "nom": "HAVRERISPAL48",
+    "lat": 49.49255,
+    "lon": 0.1422,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635198",
+    "nom": "HAVREVAULX18",
+    "lat": 49.48925,
+    "lon": 0.1422,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635199",
+    "nom": "HAVREVAULX6",
+    "lat": 49.48877,
+    "lon": 0.14143,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6120301",
+    "nom": "Heloup",
+    "lat": 48.3912,
+    "lon": 0.03123,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635601",
+    "nom": "Hermanville",
+    "lat": 49.82068,
+    "lon": 0.98141,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1432725",
+    "nom": "Herouvil Eglantines",
+    "lat": 49.20092,
+    "lon": -0.34212,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1432732",
+    "nom": "HEROUVILLE-843_0033",
+    "lat": 49.2088,
+    "lon": -0.33289,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1432734",
+    "nom": "HEROUVILLE-843_0169",
+    "lat": 49.21695,
+    "lon": -0.34114,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1432733",
+    "nom": "HEROUVILLE-843_0179",
+    "lat": 49.2179,
+    "lon": -0.34093,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1432728",
+    "nom": "Herouville le Val 2",
+    "lat": 49.20488,
+    "lon": -0.33306,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1432724",
+    "nom": "Herouville Roseraie",
+    "lat": 49.1981,
+    "lon": -0.33902,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2733501",
+    "nom": "Heurdreville / Eure",
+    "lat": 49.12007,
+    "lon": 1.18723,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1433306",
+    "nom": "HONFLEUR-843_0165",
+    "lat": 49.399,
+    "lon": 0.24837,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1433305",
+    "nom": "HONFLEUR-843_0194",
+    "lat": 49.39888,
+    "lon": 0.24823,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1433304",
+    "nom": "HONFLEUR-843_0248",
+    "lat": 49.41671,
+    "lon": 0.22845,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1433301",
+    "nom": "Honfleur:Vassale",
+    "lat": 49.41389,
+    "lon": 0.23667,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7636501",
+    "nom": "Houdetot",
+    "lat": 49.82056,
+    "lon": 0.79213,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1433801",
+    "nom": "Houlgate:Caumont",
+    "lat": 49.29364,
+    "lon": -0.085,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7636602",
+    "nom": "HOULMEGAULLE15",
+    "lat": 49.50933,
+    "lon": 1.03933,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7636704",
+    "nom": "Houppeville",
+    "lat": 49.51807,
+    "lon": 1.07588,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7636702",
+    "nom": "Houppeville:V Maline",
+    "lat": 49.51083,
+    "lon": 1.09056,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1434109",
+    "nom": "IFS-843_0051",
+    "lat": 49.14101,
+    "lon": -0.35455,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1434110",
+    "nom": "IFS-843_0052",
+    "lat": 49.13948,
+    "lon": -0.35514,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1434107",
+    "nom": "IFS-843_0133",
+    "lat": 49.14266,
+    "lon": -0.34641,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1434105",
+    "nom": "IFS-843_0153",
+    "lat": 49.14016,
+    "lon": -0.34181,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1434106",
+    "nom": "IFS-843_0191",
+    "lat": 49.13835,
+    "lon": -0.34462,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1434108",
+    "nom": "IFS-843_0245",
+    "lat": 49.14975,
+    "lon": -0.35261,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1434111",
+    "nom": "IFS-843_0354",
+    "lat": 49.15001,
+    "lon": -0.35783,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1434114",
+    "nom": "Ifs:Boucherot",
+    "lat": 49.14176,
+    "lon": -0.33154,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7637203",
+    "nom": "ILLOIS 1",
+    "lat": 49.738,
+    "lon": 1.63458,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7637401",
+    "nom": "Incheville",
+    "lat": 50.00972,
+    "lon": 1.49944,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5025603",
+    "nom": "Isigny le Buat",
+    "lat": 48.66004,
+    "lon": -1.17806,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2701402",
+    "nom": "ITA_Amfreville/Iton",
+    "lat": 49.15233,
+    "lon": 1.1393,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6148302",
+    "nom": "ITA_BagnolesDeL'Orne",
+    "lat": 48.55172,
+    "lon": -0.4094,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7605709",
+    "nom": "ITA_Barentin",
+    "lat": 49.54374,
+    "lon": 0.94344,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1466303",
+    "nom": "ITA_BAYEUX",
+    "lat": 49.27377,
+    "lon": -0.67855,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1417404",
+    "nom": "ITA_Conde/Noireau",
+    "lat": 48.84604,
+    "lon": -0.55762,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5046302",
+    "nom": "ITA_Gavray",
+    "lat": 48.91879,
+    "lon": -1.32962,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7626003",
+    "nom": "ITA_Gournay",
+    "lat": 49.47712,
+    "lon": 1.75306,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1457404",
+    "nom": "ITA_Lisieux",
+    "lat": 49.14889,
+    "lon": 0.21095,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1437103",
+    "nom": "ITA_Livarot",
+    "lat": 49.00417,
+    "lon": 0.16917,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5035903",
+    "nom": "ITA_Mortain",
+    "lat": 48.64734,
+    "lon": -0.92647,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1415402",
+    "nom": "ITA_StMartinDeBienfa",
+    "lat": 49.05351,
+    "lon": 0.35917,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5044202",
+    "nom": "ITA_Surtainville",
+    "lat": 49.47705,
+    "lon": -1.83653,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5063952",
+    "nom": "ITA_VilledieuLPoeles",
+    "lat": 48.82333,
+    "lon": -1.23806,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5025901",
+    "nom": "Juilley:D43",
+    "lat": 48.61373,
+    "lon": -1.35297,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5026004",
+    "nom": "Juvigny les Vallees",
+    "lat": 48.68089,
+    "lon": -1.0294,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5006401",
+    "nom": "La Bonneville",
+    "lat": 49.40008,
+    "lon": -1.4551,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7613101",
+    "nom": "LaBouille:Canadiens",
+    "lat": 49.35181,
+    "lon": 0.93128,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7613103",
+    "nom": "La Bouille Vellevue",
+    "lat": 49.35282,
+    "lon": 0.92961,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616901",
+    "nom": "LA CERLANGUE",
+    "lat": 49.49953,
+    "lon": 0.39794,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2755401",
+    "nom": "La_Chapelle_Longuev",
+    "lat": 49.11195,
+    "lon": 1.45219,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1415403",
+    "nom": "LA_CHAPELLE_YVON",
+    "lat": 49.06302,
+    "lon": 0.32993,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5015402",
+    "nom": "La Croix Avranchin",
+    "lat": 48.54598,
+    "lon": -1.37062,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6116401",
+    "nom": "La Ferriere Bechet",
+    "lat": 48.59021,
+    "lon": 0.0732,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6116501",
+    "nom": "La_Ferriere_Bochard",
+    "lat": 48.4178,
+    "lon": -0.031,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6116702",
+    "nom": "LA FERTE-EN-OUCHE",
+    "lat": 48.88033,
+    "lon": 0.38177,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6116801",
+    "nom": "La Ferte Mace",
+    "lat": 48.61194,
+    "lon": -0.35028,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5020352",
+    "nom": "LaGlacerie:CDO",
+    "lat": 49.6012,
+    "lon": -1.59696,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2728901",
+    "nom": "LA GOULAFRIERE",
+    "lat": 48.9267,
+    "lon": 0.40943,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654056",
+    "nom": "La Grand Mare",
+    "lat": 49.45037,
+    "lon": 1.13757,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1433201",
+    "nom": "LA HOGUETTE",
+    "lat": 48.85401,
+    "lon": -0.18018,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6121404",
+    "nom": "L'Aigle Bouverie",
+    "lat": 48.74733,
+    "lon": 0.62174,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6121301",
+    "nom": "Lalacelle:Communal",
+    "lat": 48.47972,
+    "lon": -0.13444,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5028102",
+    "nom": "La Lucerne Outremer",
+    "lat": 48.78722,
+    "lon": -1.38913,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7646402",
+    "nom": "LA NEUVILLE-843_0362",
+    "lat": 49.3681,
+    "lon": 1.24289,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7638202",
+    "nom": "Lanquetot",
+    "lat": 49.59794,
+    "lon": 0.54839,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5039501",
+    "nom": "La Pernelle",
+    "lat": 49.61944,
+    "lon": -1.30821,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7610811",
+    "nom": "La Prevotiere",
+    "lat": 49.46612,
+    "lon": 1.11931,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1453601",
+    "nom": "LA RIVIERE StSauv_RF",
+    "lat": 49.40018,
+    "lon": 0.26,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5060701",
+    "nom": "La Trinite",
+    "lat": 48.7764,
+    "lon": -1.26901,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2762701",
+    "nom": "La Vastine-Theil:Nol",
+    "lat": 49.14861,
+    "lon": 0.54361,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5021701",
+    "nom": "Le Grand Celland",
+    "lat": 48.68641,
+    "lon": -1.18126,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5022702",
+    "nom": "Le Ham chateau d'eau",
+    "lat": 49.45233,
+    "lon": -1.4145,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635191",
+    "nom": "LE HAVRE 1",
+    "lat": 49.5018,
+    "lon": 0.18607,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635183",
+    "nom": "LE HAVRE-843_0124",
+    "lat": 49.51822,
+    "lon": 0.16762,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635180",
+    "nom": "LE HAVRE-843_0160",
+    "lat": 49.48583,
+    "lon": 0.135,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635179",
+    "nom": "LE HAVRE-843_0201",
+    "lat": 49.48563,
+    "lon": 0.13414,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635181",
+    "nom": "LE HAVRE-843_0410",
+    "lat": 49.49711,
+    "lon": 0.13763,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635177",
+    "nom": "LE HAVRE-843_0417",
+    "lat": 49.49923,
+    "lon": 0.13281,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635178",
+    "nom": "LeHavre Beaumarchais",
+    "lat": 49.48671,
+    "lon": 0.13383,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635182",
+    "nom": "Le Havre Boutiller",
+    "lat": 49.48632,
+    "lon": 0.14506,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635187",
+    "nom": "Le Havre Guerin",
+    "lat": 49.48844,
+    "lon": 0.1339,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635162",
+    "nom": "Le Havre Humbert",
+    "lat": 49.48998,
+    "lon": 0.14178,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635186",
+    "nom": "Le Havre:J Durand",
+    "lat": 49.49341,
+    "lon": 0.17002,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635161",
+    "nom": "Le Havre Lamartine",
+    "lat": 49.49288,
+    "lon": 0.14254,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635188",
+    "nom": "LeHavre:StdRESONANCE",
+    "lat": 49.49597,
+    "lon": 0.10969,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635110",
+    "nom": "Le Havre: Studio RCF",
+    "lat": 49.49167,
+    "lon": 0.10222,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2738601",
+    "nom": "Le_Manoir_s_Seine",
+    "lat": 49.3103,
+    "lon": 1.19842,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1437001",
+    "nom": "Le molay-littry:rur,",
+    "lat": 49.24139,
+    "lon": -0.88194,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7647506",
+    "nom": "Le_Mouchel_Franquevi",
+    "lat": 49.39808,
+    "lon": 1.18707,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2742805",
+    "nom": "LE NEUBOURG-843_0239",
+    "lat": 49.14986,
+    "lon": 0.90527,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649814",
+    "nom": "LE PETIT QU-843_0199",
+    "lat": 49.42285,
+    "lon": 1.0671,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1452002",
+    "nom": "LE PRE D' AUGE",
+    "lat": 49.15084,
+    "lon": 0.13403,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7610810",
+    "nom": "Les Erables",
+    "lat": 49.47691,
+    "lon": 1.12786,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1445801",
+    "nom": "LES MOUTIERS en C",
+    "lat": 49.01985,
+    "lon": -0.42821,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5040252",
+    "nom": "Les Pieux",
+    "lat": 49.50662,
+    "lon": -1.82037,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5032801",
+    "nom": "Lessay:Millieres",
+    "lat": 49.17639,
+    "lon": -1.45833,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5059002",
+    "nom": "Le Tanu",
+    "lat": 48.80863,
+    "lon": -1.34089,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7669103",
+    "nom": "Le Thil Riberpre",
+    "lat": 49.63594,
+    "lon": 1.58499,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2736601",
+    "nom": "LETTEGUIVES",
+    "lat": 49.42265,
+    "lon": 1.32791,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1432723",
+    "nom": "Le Val 1",
+    "lat": 49.20462,
+    "lon": -0.3325,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5061601",
+    "nom": "LE VAL-SAINT-PERE",
+    "lat": 48.67241,
+    "lon": -1.37418,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2736801",
+    "nom": "Lignerolles",
+    "lat": 48.84622,
+    "lon": 1.26171,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7659201",
+    "nom": "Lillebonne",
+    "lat": 49.51432,
+    "lon": 0.52627,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7638405",
+    "nom": "LILLEBONNEKINKER23",
+    "lat": 49.51761,
+    "lon": 0.53956,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7638404",
+    "nom": "LILLEBONNEMOULINS11",
+    "lat": 49.53368,
+    "lon": 0.54964,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7638504",
+    "nom": "Limesy",
+    "lat": 49.60715,
+    "lon": 0.92396,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7638503",
+    "nom": "Limesy 1",
+    "lat": 49.59034,
+    "lon": 0.92016,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1436401",
+    "nom": "Lingevres",
+    "lat": 49.16962,
+    "lon": -0.66845,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1436613",
+    "nom": "Lisieux:Pavements",
+    "lat": 49.13962,
+    "lon": 0.23162,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1436611",
+    "nom": "LISIEUX-SNI_X100",
+    "lat": 49.1438,
+    "lon": 0.23516,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1457401",
+    "nom": "Lisieux:St-Desir",
+    "lat": 49.1475,
+    "lon": 0.21222,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2737001",
+    "nom": "Lisors",
+    "lat": 49.34545,
+    "lon": 1.46308,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5027301",
+    "nom": "Lithaire:Mont Castre",
+    "lat": 49.28944,
+    "lon": -1.47667,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1436901",
+    "nom": "Litteau:d,122a",
+    "lat": 49.1625,
+    "lon": -0.90479,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1437101",
+    "nom": "Livarot:La Tuilerie",
+    "lat": 49.00583,
+    "lon": 0.15944,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5027602",
+    "nom": "Lolif Gaspaillere",
+    "lat": 48.71957,
+    "lon": -1.38831,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1437702",
+    "nom": "Longues sur mer Alt",
+    "lat": 49.34062,
+    "lon": -0.71637,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7657001",
+    "nom": "Longueville/Scie",
+    "lat": 49.78194,
+    "lon": 1.11833,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6123402",
+    "nom": "Lonrai",
+    "lat": 48.44679,
+    "lon": 0.04197,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2737501",
+    "nom": "Louviers",
+    "lat": 49.20694,
+    "lon": 1.19778,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2737512",
+    "nom": "LOUVIERS-843_0237",
+    "lat": 49.21556,
+    "lon": 1.16689,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2737511",
+    "nom": "LOUVIERS-843_0324",
+    "lat": 49.21596,
+    "lon": 1.16626,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2737510",
+    "nom": "LOUVIERS-843_0382",
+    "lat": 49.2199,
+    "lon": 1.16039,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2737513",
+    "nom": "LOUVIERSCAMUS28",
+    "lat": 49.20673,
+    "lon": 1.16711,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2737514",
+    "nom": "Louviers_St_Germain",
+    "lat": 49.22033,
+    "lon": 1.17292,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1438302",
+    "nom": "LOUVIGNY-843_0259",
+    "lat": 49.16295,
+    "lon": -0.40874,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6124001",
+    "nom": "Mace",
+    "lat": 48.65735,
+    "lon": 0.14024,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1438901",
+    "nom": "Maisoncelles Pelvey",
+    "lat": 49.05902,
+    "lon": -0.65857,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1431202",
+    "nom": "MAISY",
+    "lat": 49.37525,
+    "lon": -1.05589,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7640206",
+    "nom": "MALAUNAYAVENIR2",
+    "lat": 49.52265,
+    "lon": 1.03647,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7640207",
+    "nom": "MALAUNAYCOTON1",
+    "lat": 49.52379,
+    "lon": 1.04005,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7640208",
+    "nom": "MALAUNAYCOTON8",
+    "lat": 49.52421,
+    "lon": 1.03956,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7640209",
+    "nom": "MALAUNAYDIEPPE16",
+    "lat": 49.52283,
+    "lon": 1.04068,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7624501",
+    "nom": "Malaunay:Eslettes",
+    "lat": 49.54795,
+    "lon": 1.0629,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7640210",
+    "nom": "MALAUNAYLEROY1",
+    "lat": 49.52423,
+    "lon": 1.04033,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6124601",
+    "nom": "Male:Malbroue",
+    "lat": 48.2625,
+    "lon": 0.73444,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7640701",
+    "nom": "Manneville es Plains",
+    "lat": 49.86389,
+    "lon": 0.73667,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1440301",
+    "nom": "Marolles:vert piquet",
+    "lat": 49.14194,
+    "lon": 0.36056,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7641005",
+    "nom": "MAROMME194536",
+    "lat": 49.47453,
+    "lon": 1.03669,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7641006",
+    "nom": "MAROMMECLERETTE1",
+    "lat": 49.47564,
+    "lon": 1.04498,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7641007",
+    "nom": "MAROMMEDUFLO6",
+    "lat": 49.47582,
+    "lon": 1.04333,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7641008",
+    "nom": "MAROMMEEFFEL2",
+    "lat": 49.4826,
+    "lon": 1.04009,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7636701",
+    "nom": "Maromme:Houpeville",
+    "lat": 49.48792,
+    "lon": 1.05573,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7641004",
+    "nom": "Maromme:Resis",
+    "lat": 49.4817,
+    "lon": 1.04538,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7641003",
+    "nom": "MAROMME-SNI",
+    "lat": 49.48438,
+    "lon": 1.02861,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7641301",
+    "nom": "MARTIGNY",
+    "lat": 49.85558,
+    "lon": 1.14944,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7641401",
+    "nom": "Martin-Eglise",
+    "lat": 49.92056,
+    "lon": 1.13361,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5029403",
+    "nom": "Martinvast",
+    "lat": 49.59141,
+    "lon": -1.67199,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7642101",
+    "nom": "Melamare",
+    "lat": 49.54012,
+    "lon": 0.42828,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6126901",
+    "nom": "Menil-Hubert/Orne",
+    "lat": 48.84667,
+    "lon": -0.39111,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2739801",
+    "nom": "Menneval",
+    "lat": 49.09917,
+    "lon": 0.61417,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6127501",
+    "nom": "Merlerault:Chambre",
+    "lat": 48.71611,
+    "lon": 0.32083,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5030201",
+    "nom": "Mesnil-Amey:Quesnott",
+    "lat": 49.10583,
+    "lon": -1.22389,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2704901",
+    "nom": "Mesnil en Ouche",
+    "lat": 49.04915,
+    "lon": 0.72459,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7642904",
+    "nom": "Mesnil Esnard 310",
+    "lat": 49.41239,
+    "lon": 1.13767,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7642901",
+    "nom": "Mesnil-Esnard (le)",
+    "lat": 49.42472,
+    "lon": 1.14,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7642906",
+    "nom": "MESNIL-ESNARDPARIS14",
+    "lat": 49.41515,
+    "lon": 1.13516,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1443104",
+    "nom": "MEZIDON-CANON",
+    "lat": 49.0633,
+    "lon": -0.07719,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5032802",
+    "nom": "Millieres",
+    "lat": 49.17597,
+    "lon": -1.46391,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2741101",
+    "nom": "MOISVILLE",
+    "lat": 48.85474,
+    "lon": 1.1785,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1443710",
+    "nom": "Mondeville Alt",
+    "lat": 49.16452,
+    "lon": -0.32091,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5033801",
+    "nom": "Montbray:la Bruyere",
+    "lat": 48.89306,
+    "lon": -1.11889,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1444301",
+    "nom": "Montchauvet",
+    "lat": 48.93383,
+    "lon": -0.73579,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5034001",
+    "nom": "Montcuit-Mesnilbus",
+    "lat": 49.11912,
+    "lon": -1.34941,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7644709",
+    "nom": "MONTIVILLIE-843_0167",
+    "lat": 49.54442,
+    "lon": 0.18894,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7644708",
+    "nom": "MONTIVILLIE-843_0195",
+    "lat": 49.54431,
+    "lon": 0.18842,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7644701",
+    "nom": "Montivilliers",
+    "lat": 49.53565,
+    "lon": 0.16888,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1432717",
+    "nom": "Montmorency 1",
+    "lat": 49.19723,
+    "lon": -0.3271,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1432726",
+    "nom": "Montmorency 2",
+    "lat": 49.19568,
+    "lon": -0.32579,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1432718",
+    "nom": "Montmorency 3",
+    "lat": 49.19167,
+    "lon": -0.32962,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7645111",
+    "nom": "MONT ST AIG-843_0164",
+    "lat": 49.47319,
+    "lon": 1.08806,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5035401",
+    "nom": "Montsurvent:D68",
+    "lat": 49.10889,
+    "lon": -1.50222,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7645202",
+    "nom": "MONTVILLEDEPORTES2",
+    "lat": 49.54876,
+    "lon": 1.07514,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7645303",
+    "nom": "Morgny la Pommeraye",
+    "lat": 49.52766,
+    "lon": 1.25406,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5035901",
+    "nom": "Mortain:Gd Fontaine",
+    "lat": 48.64861,
+    "lon": -0.92611,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6129401",
+    "nom": "MORTREE",
+    "lat": 48.6571,
+    "lon": 0.10012,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2742201",
+    "nom": "Muids",
+    "lat": 49.22735,
+    "lon": 1.28913,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7647405",
+    "nom": "ND-Bondevil:Fontaine",
+    "lat": 49.48761,
+    "lon": 1.04747,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7647403",
+    "nom": "N D de Bondeville",
+    "lat": 49.4876,
+    "lon": 1.04407,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7647601",
+    "nom": "N,D,-de-Gravenchon",
+    "lat": 49.49861,
+    "lon": 0.56698,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6130101",
+    "nom": "NEAUPHE-SOUS-ESSAI",
+    "lat": 48.55715,
+    "lon": 0.17868,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5036902",
+    "nom": "Negreville",
+    "lat": 49.51934,
+    "lon": -1.55793,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7620201",
+    "nom": "Neufchatel:Croixdall",
+    "lat": 49.78588,
+    "lon": 1.37457,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1446201",
+    "nom": "Neuilly la Foret",
+    "lat": 49.27638,
+    "lon": -1.11222,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7646403",
+    "nom": "NEUVILLE CHANT OISEL",
+    "lat": 49.37311,
+    "lon": 1.26008,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5012934",
+    "nom": "Nhood_P_Cherbourg-1",
+    "lat": 49.60112,
+    "lon": -1.60098,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7646802",
+    "nom": "NOINTOT 1",
+    "lat": 49.60679,
+    "lon": 0.46182,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2743801",
+    "nom": "Nonancourt",
+    "lat": 48.77083,
+    "lon": 1.20278,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7647101",
+    "nom": "Norville-Cours",
+    "lat": 49.47872,
+    "lon": 0.63814,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1465803",
+    "nom": "Noues de Sienne",
+    "lat": 48.85451,
+    "lon": -0.96039,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5038502",
+    "nom": "Omonville-la-Petite",
+    "lat": 49.70306,
+    "lon": -1.87611,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1402707",
+    "nom": "Ondefontaine",
+    "lat": 48.99676,
+    "lon": -0.6805,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1447801",
+    "nom": "Orbec:BeauSoleil",
+    "lat": 49.0248,
+    "lon": 0.41481,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5038701",
+    "nom": "Orglandes",
+    "lat": 49.427,
+    "lon": -1.44414,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2744601",
+    "nom": "Ormes",
+    "lat": 49.05319,
+    "lon": 0.95321,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7648903",
+    "nom": "OUDALLE",
+    "lat": 49.49684,
+    "lon": 0.27882,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649501",
+    "nom": "Pavilly",
+    "lat": 49.57389,
+    "lon": 0.95168,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649503",
+    "nom": "PAVILLYBLANCHE21",
+    "lat": 49.56467,
+    "lon": 0.9553,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649504",
+    "nom": "PAVILLYFRECKENHORST3",
+    "lat": 49.56867,
+    "lon": 0.94257,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649505",
+    "nom": "PAVILLYINGRES1",
+    "lat": 49.57006,
+    "lon": 0.94029,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649506",
+    "nom": "PAVILLYJouvenet64",
+    "lat": 49.57522,
+    "lon": 0.94505,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649507",
+    "nom": "PAVILLYLASNE5",
+    "lat": 49.56583,
+    "lon": 0.95357,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649508",
+    "nom": "PAVILLYLASNE7",
+    "lat": 49.56565,
+    "lon": 0.95365,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649509",
+    "nom": "PAVILLYLAURENT23",
+    "lat": 49.56725,
+    "lon": 0.95526,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649510",
+    "nom": "PAVILLYMARTIN13",
+    "lat": 49.565,
+    "lon": 0.95291,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649511",
+    "nom": "PAVILLYMEMOIRE1",
+    "lat": 49.5649,
+    "lon": 0.95237,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649512",
+    "nom": "PAVILLYPAINLEVE12",
+    "lat": 49.57139,
+    "lon": 0.94924,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649513",
+    "nom": "PAVILLYQuesne15",
+    "lat": 49.56899,
+    "lon": 0.95473,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649514",
+    "nom": "PAVILLYSOURCES4",
+    "lat": 49.57389,
+    "lon": 0.94429,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5039301",
+    "nom": "Percy",
+    "lat": 48.92889,
+    "lon": -1.16139,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5039403",
+    "nom": "Periers",
+    "lat": 49.19408,
+    "lon": -1.39377,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2733801",
+    "nom": "Perriers/Andelle",
+    "lat": 49.42894,
+    "lon": 1.38523,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649705",
+    "nom": "Petit Couronne 311",
+    "lat": 49.38516,
+    "lon": 1.02203,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649707",
+    "nom": "Petit Couronne 317",
+    "lat": 49.39651,
+    "lon": 1.03131,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649708",
+    "nom": "Petit Couronne 371",
+    "lat": 49.39069,
+    "lon": 1.03493,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649706",
+    "nom": "Petit Couronne 387",
+    "lat": 49.38736,
+    "lon": 1.02447,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7666303",
+    "nom": "PETITES_DALLES",
+    "lat": 49.81249,
+    "lon": 0.52944,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5040601",
+    "nom": "Plomb:Champ Carrefou",
+    "lat": 48.74722,
+    "lon": -1.3009,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5040602",
+    "nom": "Plomb le Parc",
+    "lat": 48.74834,
+    "lon": -1.30406,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2746708",
+    "nom": "PONT AUDEME-843_0370",
+    "lat": 49.35512,
+    "lon": 0.51756,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2754901",
+    "nom": "Pont-Audemer",
+    "lat": 49.34444,
+    "lon": 0.50639,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1451301",
+    "nom": "Pont-farcy:les cin",
+    "lat": 48.94788,
+    "lon": -1.055,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5041053",
+    "nom": "PONTORSON 1",
+    "lat": 48.58664,
+    "lon": -1.49801,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5041001",
+    "nom": "Pontorson:rural 10",
+    "lat": 48.54861,
+    "lon": -1.49838,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5041101",
+    "nom": "Ponts",
+    "lat": 48.71786,
+    "lon": -1.31682,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1411838",
+    "nom": "POP 9C Caen",
+    "lat": 49.19611,
+    "lon": -0.40111,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1467803",
+    "nom": "POTIGNY",
+    "lat": 48.97833,
+    "lon": -0.25556,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1452001",
+    "nom": "pre d'auge-blague,",
+    "lat": 49.1425,
+    "lon": 0.12694,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1476401",
+    "nom": "Pt-d'Ouilly:Roi",
+    "lat": 48.87472,
+    "lon": -0.40583,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1457202",
+    "nom": "Pt-d'Ouilly:St-Denis",
+    "lat": 48.87083,
+    "lon": -0.47472,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5029701",
+    "nom": "Pt-Hebert:Meauffe(La",
+    "lat": 49.1625,
+    "lon": -1.12306,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5040902",
+    "nom": "Pt-Hebert:ZA",
+    "lat": 49.17333,
+    "lon": -1.13694,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1405501",
+    "nom": "Pt-l'Eveque:Beaumont",
+    "lat": 49.27194,
+    "lon": 0.1075,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1468201",
+    "nom": "Pt-l'Eveque:Survil",
+    "lat": 49.30472,
+    "lon": 0.20111,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6133902",
+    "nom": "PUTANGES Pt Ecrepin",
+    "lat": 48.77404,
+    "lon": -0.24212,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5041903",
+    "nom": "Quettreville/ Sienne",
+    "lat": 48.97001,
+    "lon": -1.45413,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649819",
+    "nom": "Quevilly:Alemb",
+    "lat": 49.41487,
+    "lon": 1.06514,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7632216",
+    "nom": "Quevilly:Girard",
+    "lat": 49.41398,
+    "lon": 1.06596,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649818",
+    "nom": "Quevilly:Indu",
+    "lat": 49.42776,
+    "lon": 1.04701,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7632215",
+    "nom": "Quevilly:Verdun",
+    "lat": 49.41018,
+    "lon": 1.05,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5042001",
+    "nom": "Quibou",
+    "lat": 49.07093,
+    "lon": -1.22185,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7651801",
+    "nom": "RAFFETOT_ZR",
+    "lat": 49.59437,
+    "lon": 0.49999,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5042301",
+    "nom": "RAMPAN",
+    "lat": 49.14892,
+    "lon": -1.13425,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1452902",
+    "nom": "Ranchy 2",
+    "lat": 49.25792,
+    "lon": -0.76822,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5042801",
+    "nom": "Reffuveille",
+    "lat": 48.68455,
+    "lon": -1.10787,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2748801",
+    "nom": "Renneville Ravin",
+    "lat": 49.4048,
+    "lon": 1.31147,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7664002",
+    "nom": "residence l'oison",
+    "lat": 49.28083,
+    "lon": 1.04278,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6134901",
+    "nom": "RI",
+    "lat": 48.78567,
+    "lon": -0.12675,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7652801",
+    "nom": "Rieux",
+    "lat": 49.92958,
+    "lon": 1.58005,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1453801",
+    "nom": "Rocquancourt",
+    "lat": 49.09401,
+    "lon": -0.31042,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7653401",
+    "nom": "Rolleville",
+    "lat": 49.58194,
+    "lon": 0.22111,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2749301",
+    "nom": "Romilly/Andelle",
+    "lat": 49.32917,
+    "lon": 1.24472,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2749303",
+    "nom": "Romilly/Andelle Alt",
+    "lat": 49.32508,
+    "lon": 1.24369,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7653502",
+    "nom": "Roncherolles en Bray",
+    "lat": 49.61875,
+    "lon": 1.48667,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654073",
+    "nom": "ROUEN-843_0377",
+    "lat": 49.43003,
+    "lon": 1.07899,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654072",
+    "nom": "ROUEN-843_0436",
+    "lat": 49.4231,
+    "lon": 1.07118,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654098",
+    "nom": "ROUEN:A,Houzeau",
+    "lat": 49.4381,
+    "lon": 1.09812,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654084",
+    "nom": "Rouen Annie de Pene",
+    "lat": 49.43561,
+    "lon": 1.11476,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654058",
+    "nom": "Rouen Bammeville",
+    "lat": 49.42981,
+    "lon": 1.09014,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7615701",
+    "nom": "Rouen:Canteleu",
+    "lat": 49.44713,
+    "lon": 1.03954,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654086",
+    "nom": "Rouen Chasselievre",
+    "lat": 49.45387,
+    "lon": 1.06146,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654090",
+    "nom": "ROUEN:Ch, De Mars2",
+    "lat": 49.43694,
+    "lon": 1.10731,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654091",
+    "nom": "ROUEN:Ch, De Mars3",
+    "lat": 49.43778,
+    "lon": 1.10611,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654092",
+    "nom": "ROUEN:Ch, De Mars4",
+    "lat": 49.43731,
+    "lon": 1.10481,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654085",
+    "nom": "Rouen Clos Marqueurs",
+    "lat": 49.44516,
+    "lon": 1.10563,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654094",
+    "nom": "ROUEN:Darnetal",
+    "lat": 49.44178,
+    "lon": 1.11945,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654096",
+    "nom": "ROUEN:elbeuvienne1",
+    "lat": 49.44273,
+    "lon": 1.10778,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654097",
+    "nom": "ROUEN:elbeuvienne2",
+    "lat": 49.4425,
+    "lon": 1.10778,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7668125",
+    "nom": "ROUENFRANCE31",
+    "lat": 49.41196,
+    "lon": 1.09286,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7631901",
+    "nom": "Rouen:Gd-Couronne",
+    "lat": 49.34139,
+    "lon": 1.01472,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654099",
+    "nom": "ROUEN:La Chasse",
+    "lat": 49.43556,
+    "lon": 1.12556,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7621609",
+    "nom": "ROUENLECLERC4",
+    "lat": 49.4574,
+    "lon": 1.05611,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649807",
+    "nom": "Rouen Massard",
+    "lat": 49.42543,
+    "lon": 1.08657,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654087",
+    "nom": "Rouen Moise 2",
+    "lat": 49.45285,
+    "lon": 1.06179,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654095",
+    "nom": "ROUEN:Robec",
+    "lat": 49.44167,
+    "lon": 1.105,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654088",
+    "nom": "Rouen Sapins 1",
+    "lat": 49.46106,
+    "lon": 1.13147,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654053",
+    "nom": "Rouen : SP Europe 2",
+    "lat": 49.42972,
+    "lon": 1.07889,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654055",
+    "nom": "Rouen Std RF Bleu HN",
+    "lat": 49.44112,
+    "lon": 1.08068,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654501",
+    "nom": "Rouxmesnil-Delaporte",
+    "lat": 49.90087,
+    "lon": 1.11909,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654801",
+    "nom": "Ry",
+    "lat": 49.47361,
+    "lon": 1.33778,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6111604",
+    "nom": "SABLONS1",
+    "lat": 48.38903,
+    "lon": 0.86176,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7655101",
+    "nom": "Sainneville",
+    "lat": 49.53783,
+    "lon": 0.28431,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5046801",
+    "nom": "Saint_Fromond",
+    "lat": 49.21486,
+    "lon": -1.12738,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5048754",
+    "nom": "Saint_James_2",
+    "lat": 48.5146,
+    "lon": -1.3479,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1463201",
+    "nom": "Saint Martin-Don",
+    "lat": 48.92561,
+    "lon": -0.93922,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5056554",
+    "nom": "Sartilly Baie Bocage",
+    "lat": 48.75263,
+    "lon": -1.40975,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7666601",
+    "nom": "Saumont la Poterie",
+    "lat": 49.5893,
+    "lon": 1.6256,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6146301",
+    "nom": "Sauvagere:Regueiller",
+    "lat": 48.62015,
+    "lon": -0.40111,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5056901",
+    "nom": "Savigny",
+    "lat": 49.05147,
+    "lon": -1.33261,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5014706",
+    "nom": "Sea FM Coutance",
+    "lat": 49.05028,
+    "lon": -1.44351,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6146401",
+    "nom": "Sees:Zone Indusriell",
+    "lat": 48.59698,
+    "lon": 0.16204,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7647603",
+    "nom": "SEINECOTY54",
+    "lat": 49.4918,
+    "lon": 0.57686,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7647604",
+    "nom": "SEINEGIDE4",
+    "lat": 49.48895,
+    "lon": 0.57647,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7647605",
+    "nom": "SEINEGIDE5",
+    "lat": 49.489,
+    "lon": 0.57668,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7647606",
+    "nom": "SEINEHALLETTES7",
+    "lat": 49.48942,
+    "lon": 0.5664,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7647607",
+    "nom": "SEINEHUGO25",
+    "lat": 49.48922,
+    "lon": 0.57061,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7616402",
+    "nom": "SEINEROMAINE5",
+    "lat": 49.53215,
+    "lon": 0.72398,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7647608",
+    "nom": "SEINESEGUIN8",
+    "lat": 49.48377,
+    "lon": 0.57244,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7667001",
+    "nom": "Senneville/Fecamp",
+    "lat": 49.76167,
+    "lon": 0.41111,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6147103",
+    "nom": "SERIGNY",
+    "lat": 48.38048,
+    "lon": 0.58405,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7667203",
+    "nom": "Serqueux",
+    "lat": 49.63473,
+    "lon": 1.54617,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5057401",
+    "nom": "Servon Lieutiere",
+    "lat": 48.60981,
+    "lon": -1.40974,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1457901",
+    "nom": "SEULLINE",
+    "lat": 49.05471,
+    "lon": -0.70388,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6147201",
+    "nom": "Sevigny",
+    "lat": 48.76667,
+    "lon": -0.01861,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7667504",
+    "nom": "Sierville",
+    "lat": 49.60873,
+    "lon": 1.04932,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7667503",
+    "nom": "SIERVILLE 1",
+    "lat": 49.58669,
+    "lon": 1.04846,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5057601",
+    "nom": "Siouville-Hague",
+    "lat": 49.56739,
+    "lon": -1.83697,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5057902",
+    "nom": "Sottevast",
+    "lat": 49.53034,
+    "lon": -1.61608,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7668113",
+    "nom": "SOTTEVILLE-843_0142",
+    "lat": 49.41172,
+    "lon": 1.08423,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7668115",
+    "nom": "Sotteville:Ara",
+    "lat": 49.42251,
+    "lon": 1.10514,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7668123",
+    "nom": "Sotteville:J Barret",
+    "lat": 49.41626,
+    "lon": 1.0898,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7668124",
+    "nom": "Sotteville le Moine",
+    "lat": 49.4214,
+    "lon": 1.08653,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7668120",
+    "nom": "SottevilleLesR:Mazot",
+    "lat": 49.41681,
+    "lon": 1.09122,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7668121",
+    "nom": "Sotteville:Mendes Fr",
+    "lat": 49.41419,
+    "lon": 1.09151,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7668122",
+    "nom": "Sotteville:Republiq",
+    "lat": 49.42094,
+    "lon": 1.09134,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1406102",
+    "nom": "SOULEUVRE",
+    "lat": 49.01558,
+    "lon": -0.8551,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649817",
+    "nom": "Stade Rouen:Robert-D",
+    "lat": 49.41111,
+    "lon": 1.07083,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2751002",
+    "nom": "ST-AQUILIN-DE-PACY",
+    "lat": 49.00462,
+    "lon": 1.35056,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5044701",
+    "nom": "St-Aubin-des-Preaux",
+    "lat": 48.79722,
+    "lon": -1.51667,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656113",
+    "nom": "StAubinE:Catalpas",
+    "lat": 49.29737,
+    "lon": 1.02656,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656108",
+    "nom": "StAubinE:Cedres",
+    "lat": 49.29734,
+    "lon": 1.02002,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656109",
+    "nom": "StAubinE:Chenes",
+    "lat": 49.29813,
+    "lon": 1.02048,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656110",
+    "nom": "StAubinE:Feugrais",
+    "lat": 49.30546,
+    "lon": 1.02739,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656117",
+    "nom": "StAubinE:Gambetta",
+    "lat": 49.29753,
+    "lon": 1.00737,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656111",
+    "nom": "StAubinE:J Jaures",
+    "lat": 49.29696,
+    "lon": 1.01609,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656114",
+    "nom": "StAubinE:Lamboy",
+    "lat": 49.29732,
+    "lon": 1.01314,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656115",
+    "nom": "StAubinE:Leclerc",
+    "lat": 49.30349,
+    "lon": 1.01574,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656119",
+    "nom": "StAubinE:Newton",
+    "lat": 49.30084,
+    "lon": 1.03851,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656107",
+    "nom": "StAubinE:Ormes",
+    "lat": 49.29879,
+    "lon": 1.02013,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656001",
+    "nom": "ST AUBIN EP-843_0256",
+    "lat": 49.42282,
+    "lon": 1.17819,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656118",
+    "nom": "StAubinE:Raspail",
+    "lat": 49.29795,
+    "lon": 1.00976,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656116",
+    "nom": "StAubinE:Repu25",
+    "lat": 49.30025,
+    "lon": 1.01133,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656112",
+    "nom": "StAubinE:St Remy",
+    "lat": 49.29849,
+    "lon": 1.01853,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7664053",
+    "nom": "StAubinE:Teinturiers",
+    "lat": 49.29756,
+    "lon": 1.01189,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656120",
+    "nom": "ST-AUBIN-GAMBETTA1",
+    "lat": 49.29738,
+    "lon": 1.011,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656201",
+    "nom": "St-Aubin le Cauf:RD1",
+    "lat": 49.87413,
+    "lon": 1.1629,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7623101",
+    "nom": "St-Aubin-les-Elbeuf",
+    "lat": 49.27413,
+    "lon": 1.01383,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7656121",
+    "nom": "ST-AUBIN-MARNE3",
+    "lat": 49.30383,
+    "lon": 1.01619,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2751801",
+    "nom": "St Aubin/Quillebeuf",
+    "lat": 49.46001,
+    "lon": 0.51145,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6136901",
+    "nom": "ST BOMER LES FORGES",
+    "lat": 48.6307,
+    "lon": -0.6289,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5046201",
+    "nom": "St-Cyr-du-Bailleul",
+    "lat": 48.55194,
+    "lon": -0.795,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1457001",
+    "nom": "St_Cyr_du_Ronceray",
+    "lat": 49.05461,
+    "lon": 0.29314,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7668111",
+    "nom": "std BEUR FM ROUEN",
+    "lat": 49.41144,
+    "lon": 1.09812,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7654059",
+    "nom": "std Chaine Normande",
+    "lat": 49.44504,
+    "lon": 1.0681,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2753201",
+    "nom": "St-Denis-du-Behelan",
+    "lat": 48.86566,
+    "lon": 0.95482,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6138201",
+    "nom": "St-Denis/Sarthon",
+    "lat": 48.43472,
+    "lon": -0.03389,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1457402",
+    "nom": "St-Desir: Lisieux",
+    "lat": 49.14901,
+    "lon": 0.18655,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635156",
+    "nom": "Std F-Bleu LE HAVRE",
+    "lat": 49.48924,
+    "lon": 0.10752,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1411885",
+    "nom": "Std FBN CAEN",
+    "lat": 49.17861,
+    "lon": -0.34863,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1411871",
+    "nom": "Std RCF CAEN",
+    "lat": 49.18548,
+    "lon": -0.39541,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1411882",
+    "nom": "Std RCF Calvados",
+    "lat": 49.18529,
+    "lon": -0.39667,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5048402",
+    "nom": "Std Virgin StHilaire",
+    "lat": 48.57758,
+    "lon": -1.09194,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7655201",
+    "nom": "Ste-Adresse",
+    "lat": 49.51298,
+    "lon": 0.08125,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2754002",
+    "nom": "STE GENEVIEVE GASNY",
+    "lat": 49.08458,
+    "lon": 1.57304,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1459101",
+    "nom": "Ste-Honorine",
+    "lat": 49.3375,
+    "lon": -0.82417,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7660501",
+    "nom": "Ste Marguerite / mer",
+    "lat": 49.9078,
+    "lon": 0.94743,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7660901",
+    "nom": "Ste_Marie_au_Bosc",
+    "lat": 49.66674,
+    "lon": 0.19592,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5053503",
+    "nom": "Ste_Pience_le_Parc",
+    "lat": 48.77795,
+    "lon": -1.27646,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6138501",
+    "nom": "ST-EVROULT",
+    "lat": 48.8022,
+    "lon": 0.34317,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6139001",
+    "nom": "St Georges d'Annebec",
+    "lat": 48.62812,
+    "lon": -0.26101,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2754203",
+    "nom": "St_Georges_du_Vievre",
+    "lat": 49.2375,
+    "lon": 0.56464,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5047501",
+    "nom": "St-Georges Montcocq",
+    "lat": 49.13472,
+    "lon": -1.09583,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5047552",
+    "nom": "ST-GEORGES-MONTCOCQ",
+    "lat": 49.12885,
+    "lon": -1.13614,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2754702",
+    "nom": "ST-GERMAIN",
+    "lat": 49.03176,
+    "lon": 0.44488,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1458701",
+    "nom": "ST GERMAIN -843_0189",
+    "lat": 49.20025,
+    "lon": -0.4117,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1458201",
+    "nom": "St-Germain de Livet",
+    "lat": 49.06389,
+    "lon": 0.18528,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2754701",
+    "nom": "St-Germain-la-Cpge",
+    "lat": 49.07656,
+    "lon": 0.39419,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1458901",
+    "nom": "ST GERMAIN LE VASSON",
+    "lat": 48.99384,
+    "lon": -0.2967,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7658601",
+    "nom": "St-Gilles_Neuville",
+    "lat": 49.58032,
+    "lon": 0.35397,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5048752",
+    "nom": "St James",
+    "lat": 48.50985,
+    "lon": -1.32306,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5049203",
+    "nom": "St-Jean-des-Baisants",
+    "lat": 49.08398,
+    "lon": -1.01365,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2755201",
+    "nom": "ST-JEAN-DU-THENNEY",
+    "lat": 49.00481,
+    "lon": 0.44263,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7659302",
+    "nom": "St_Jean_Neuville1",
+    "lat": 49.57513,
+    "lon": 0.39646,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7659303",
+    "nom": "St_Jean_Neuville2",
+    "lat": 49.58035,
+    "lon": 0.44121,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6141402",
+    "nom": "ST LANGIS MORTAGNE",
+    "lat": 48.5324,
+    "lon": 0.5151,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5000201",
+    "nom": "St-Lo:Agneaux",
+    "lat": 49.11418,
+    "lon": -1.10737,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5050253",
+    "nom": "St Lo Neptune",
+    "lat": 49.09882,
+    "lon": -1.06813,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5050201",
+    "nom": "St-Lo:Ronchettes",
+    "lat": 49.10306,
+    "lon": -1.06611,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2756302",
+    "nom": "St-Mards-Blacarville",
+    "lat": 49.38424,
+    "lon": 0.50046,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2756301",
+    "nom": "St-Mards-de-Blacarvi",
+    "lat": 49.36583,
+    "lon": 0.5125,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2756304",
+    "nom": "ST MARDS DE BLACA_ZR",
+    "lat": 49.3745,
+    "lon": 0.49004,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6142102",
+    "nom": "StMars_d'Egrenne_alt",
+    "lat": 48.55572,
+    "lon": -0.73334,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7661103",
+    "nom": "ST MARTIN AUX ARBRE2",
+    "lat": 49.6557,
+    "lon": 0.88078,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1415401",
+    "nom": "St-Martin-Bienfaite",
+    "lat": 49.05278,
+    "lon": 0.35944,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7661301",
+    "nom": "St-Martin-Buneaux",
+    "lat": 49.81836,
+    "lon": 0.5307,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7661302",
+    "nom": "St Martin Buneaux 2",
+    "lat": 49.82051,
+    "lon": 0.53062,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7661801",
+    "nom": "St-Martin-Campagne",
+    "lat": 49.97033,
+    "lon": 1.20315,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5051001",
+    "nom": "St-Martin-d'Aubigny",
+    "lat": 49.15366,
+    "lon": -1.33434,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1462901",
+    "nom": "St-martin-d-besaces",
+    "lat": 49.01694,
+    "lon": -0.81556,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7661602",
+    "nom": "ST-MARTIN DU MANOIR",
+    "lat": 49.53076,
+    "lon": 0.24541,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2756901",
+    "nom": "ST MARTIN DU TILLEUL",
+    "lat": 49.10841,
+    "lon": 0.51489,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6142801",
+    "nom": "ST MAURICE DU DESERT",
+    "lat": 48.61083,
+    "lon": -0.39583,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7662401",
+    "nom": "St-Nicolas-d'Aliermo",
+    "lat": 49.87874,
+    "lon": 1.24312,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7663102",
+    "nom": "St_Paer",
+    "lat": 49.51486,
+    "lon": 0.88884,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2759903",
+    "nom": "ST-PIERRE",
+    "lat": 49.14276,
+    "lon": 1.41522,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2758901",
+    "nom": "ST PIERREdeBAILLEUL",
+    "lat": 49.12365,
+    "lon": 1.37892,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2759401",
+    "nom": "St-Pierre-des-Ifs",
+    "lat": 49.26278,
+    "lon": 0.61111,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2759801",
+    "nom": "St-Pierre-du-Vauvray",
+    "lat": 49.22028,
+    "lon": 1.215,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7664065",
+    "nom": "StPierreEl :Emmaus",
+    "lat": 49.2642,
+    "lon": 1.04965,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7663701",
+    "nom": "St-Pierre-en-Port",
+    "lat": 49.80927,
+    "lon": 0.49157,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7663801",
+    "nom": "St-Pierre-en-Val",
+    "lat": 50.0175,
+    "lon": 1.44389,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7664063",
+    "nom": "StPierreLE:B Gancel",
+    "lat": 49.2802,
+    "lon": 1.03938,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7664060",
+    "nom": "StPierreLE:Brassens",
+    "lat": 49.27604,
+    "lon": 1.04488,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7664062",
+    "nom": "StPierreLE:Saulniers",
+    "lat": 49.27761,
+    "lon": 1.04108,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7664052",
+    "nom": "StPierreLesE:Due",
+    "lat": 49.28671,
+    "lon": 1.03784,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7664064",
+    "nom": "StPierreLesE:Haline",
+    "lat": 49.27612,
+    "lon": 1.05005,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7664059",
+    "nom": "StPierreLesE:Piaf",
+    "lat": 49.27626,
+    "lon": 1.0461,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7664061",
+    "nom": "StPierreLE:StExupery",
+    "lat": 49.27627,
+    "lon": 1.04254,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7664058",
+    "nom": "StPierreLE:Thuyas169",
+    "lat": 49.27787,
+    "lon": 1.03685,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7664057",
+    "nom": "StPierreLE:Thuyas71",
+    "lat": 49.2775,
+    "lon": 1.03783,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5054302",
+    "nom": "ST QUENTIN/LE HOMME",
+    "lat": 48.64731,
+    "lon": -1.34818,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7664801",
+    "nom": "St-Saens",
+    "lat": 49.67139,
+    "lon": 1.29056,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5055452",
+    "nom": "St Senier/ Avranches",
+    "lat": 48.68331,
+    "lon": -1.32148,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5055302",
+    "nom": "St Senier Beuvron",
+    "lat": 48.57387,
+    "lon": -1.3342,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2760601",
+    "nom": "St Symphorien",
+    "lat": 49.31341,
+    "lon": 0.45646,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5055701",
+    "nom": "St-Symphorien-des-mt",
+    "lat": 48.54444,
+    "lon": -1.0025,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5012917",
+    "nom": "Studio NRJ Cherbourg",
+    "lat": 49.6421,
+    "lon": -1.61594,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7646603",
+    "nom": "Studio NRJ DIEPPE",
+    "lat": 49.92389,
+    "lon": 1.10583,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2746701",
+    "nom": "Studio TL1 PtAudemer",
+    "lat": 49.35278,
+    "lon": 0.52056,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7665501",
+    "nom": "St-Valery-en-Caux",
+    "lat": 49.86964,
+    "lon": 0.70524,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7665602",
+    "nom": "St Victor L'Abbaye",
+    "lat": 49.6605,
+    "lon": 1.13079,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7665702",
+    "nom": "ST-VIGOR",
+    "lat": 49.48011,
+    "lon": 0.3371,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7665901",
+    "nom": "St-Wandrille-Rancon",
+    "lat": 49.52282,
+    "lon": 0.7614,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5044201",
+    "nom": "Surtainville:Rozel",
+    "lat": 49.47583,
+    "lon": -1.83833,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7668401",
+    "nom": "Tancarville",
+    "lat": 49.48324,
+    "lon": 0.45149,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5058902",
+    "nom": "Tanis",
+    "lat": 48.57501,
+    "lon": -1.44464,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5016203",
+    "nom": "T_Digosville",
+    "lat": 49.61723,
+    "lon": -1.54504,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5050218",
+    "nom": "Tendance Ouest St Lo",
+    "lat": 49.11529,
+    "lon": -1.10115,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5059203",
+    "nom": "Tessy-B Beuvrigny",
+    "lat": 48.95038,
+    "lon": -1.01544,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5059202",
+    "nom": "Tessy Bocage PtFarcy",
+    "lat": 48.94788,
+    "lon": -1.05165,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7668901",
+    "nom": "Thietreville:RD926",
+    "lat": 49.70431,
+    "lon": 0.50694,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1468901",
+    "nom": "Thury-Harcourt",
+    "lat": 48.98917,
+    "lon": -0.47694,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2764301",
+    "nom": "Tillieres/Avre",
+    "lat": 48.75862,
+    "lon": 1.05471,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2764304",
+    "nom": "Tillieres /Avre2",
+    "lat": 48.75847,
+    "lon": 1.04614,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6148602",
+    "nom": "Tinchebray_Bocage",
+    "lat": 48.7614,
+    "lon": -0.75334,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5059952",
+    "nom": "Tollevast:Hts Vents",
+    "lat": 49.59706,
+    "lon": -1.60347,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7670001",
+    "nom": "Totes:CD25 Bras Long",
+    "lat": 49.67472,
+    "lon": 1.05139,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7670201",
+    "nom": "Touffrevil,Corbeline",
+    "lat": 49.58492,
+    "lon": 0.76154,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7670301",
+    "nom": "Touffreville/Eu",
+    "lat": 49.99922,
+    "lon": 1.32366,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7670302",
+    "nom": "Touffreville /Eu 2",
+    "lat": 49.99589,
+    "lon": 1.33418,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1469903",
+    "nom": "Touques",
+    "lat": 49.34895,
+    "lon": 0.09911,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1470002",
+    "nom": "Tour en Bessin",
+    "lat": 49.30065,
+    "lon": -0.80121,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5060253",
+    "nom": "Tourlaville:Blde Est",
+    "lat": 49.6359,
+    "lon": -1.59209,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5029601",
+    "nom": "Tourlaville:Brick",
+    "lat": 49.6675,
+    "lon": -1.49417,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1470502",
+    "nom": "TOURNIERES",
+    "lat": 49.24112,
+    "lon": -0.9384,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6149102",
+    "nom": "Tourouvre au Perche",
+    "lat": 48.57065,
+    "lon": 0.63268,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2765602",
+    "nom": "Toutainville",
+    "lat": 49.35038,
+    "lon": 0.43861,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7640101",
+    "nom": "Trait (Le)",
+    "lat": 49.46619,
+    "lon": 0.78101,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7670902",
+    "nom": "TRAITPAPIN31",
+    "lat": 49.48241,
+    "lon": 0.80788,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5060601",
+    "nom": "Tribehou",
+    "lat": 49.21812,
+    "lon": -1.23366,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2766101",
+    "nom": "Trinite Thouberville",
+    "lat": 49.36163,
+    "lon": 0.86763,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1471204",
+    "nom": "Troarn",
+    "lat": 49.1921,
+    "lon": -0.1831,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1471501",
+    "nom": "Trouville",
+    "lat": 49.36897,
+    "lon": 0.11707,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6149401",
+    "nom": "TRUN",
+    "lat": 48.84655,
+    "lon": 0.02059,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7621206",
+    "nom": "Tunnel Grand Mare",
+    "lat": 49.44019,
+    "lon": 1.13212,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5061102",
+    "nom": "Urville-Nacquevil:At",
+    "lat": 49.67333,
+    "lon": -1.72944,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5061101",
+    "nom": "Urville-Nacqueville",
+    "lat": 49.67696,
+    "lon": -1.7395,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1407401",
+    "nom": "Valambray-Billy",
+    "lat": 49.09677,
+    "lon": -0.18593,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1472603",
+    "nom": "Valdalliere",
+    "lat": 48.8153,
+    "lon": -0.74175,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1447501",
+    "nom": "Val d'Arry",
+    "lat": 49.11561,
+    "lon": -0.58484,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2770107",
+    "nom": "VAL-DE-REUIL",
+    "lat": 49.25203,
+    "lon": 1.23184,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2770105",
+    "nom": "VAL DE REUI-SNI_X107",
+    "lat": 49.27077,
+    "lon": 1.21401,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6149701",
+    "nom": "Valframbert",
+    "lat": 48.46056,
+    "lon": 0.08694,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7627201",
+    "nom": "Vallee-du-Dun:Fontai",
+    "lat": 49.81896,
+    "lon": 0.84411,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7671801",
+    "nom": "VALLIQUERVILLE",
+    "lat": 49.61616,
+    "lon": 0.69081,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7668801",
+    "nom": "Valmont",
+    "lat": 49.73583,
+    "lon": 0.5025,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7671902",
+    "nom": "Valmont2",
+    "lat": 49.74097,
+    "lon": 0.5307,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5061504",
+    "nom": "VALOGNES",
+    "lat": 49.51282,
+    "lon": -1.50044,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2767301",
+    "nom": "VATTEVILLE",
+    "lat": 49.27568,
+    "lon": 1.30402,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5062301",
+    "nom": "Vauville:Sud",
+    "lat": 49.63278,
+    "lon": -1.84194,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2767602",
+    "nom": "VENABLES",
+    "lat": 49.20212,
+    "lon": 1.28194,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5062502",
+    "nom": "Vengeons la Briere",
+    "lat": 48.73641,
+    "lon": -0.93571,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5062501",
+    "nom": "Vengeons:la Lisse",
+    "lat": 48.73361,
+    "lon": -0.93694,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1473901",
+    "nom": "Ver/mer-voie-maine 4",
+    "lat": 49.33583,
+    "lon": -0.53333,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2767901",
+    "nom": "Verneuil sur Avre",
+    "lat": 48.74139,
+    "lon": 0.90444,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2767904",
+    "nom": "VERNEUIL SUR AVRE 2",
+    "lat": 48.75255,
+    "lon": 0.92368,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2768101",
+    "nom": "Vernon",
+    "lat": 49.08032,
+    "lon": 1.45422,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2768115",
+    "nom": "Vernon:Loubet",
+    "lat": 49.0931,
+    "lon": 1.47678,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2768104",
+    "nom": "Vernon :studio",
+    "lat": 49.09139,
+    "lon": 1.48583,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2768201",
+    "nom": "VESLY (27)",
+    "lat": 49.23672,
+    "lon": 1.6611,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7673601",
+    "nom": "Veulettes/Mer",
+    "lat": 49.84886,
+    "lon": 0.59314,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1475101",
+    "nom": "Vignats",
+    "lat": 48.85744,
+    "lon": -0.11405,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5063954",
+    "nom": "VILLEDIEU",
+    "lat": 48.81059,
+    "lon": -1.25737,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5063901",
+    "nom": "Villedieu:Saultchevr",
+    "lat": 48.83376,
+    "lon": -1.22709,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2768901",
+    "nom": "Villegats",
+    "lat": 48.99871,
+    "lon": 1.47112,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2769101",
+    "nom": "VILLERS",
+    "lat": 49.19878,
+    "lon": 1.32271,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2769003",
+    "nom": "Villers en Vexin",
+    "lat": 49.25128,
+    "lon": 1.57794,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6150801",
+    "nom": "Vimoutiers:Parnasse",
+    "lat": 48.92811,
+    "lon": 0.2059,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1476202",
+    "nom": "Vire:Epingle",
+    "lat": 48.83361,
+    "lon": -0.90417,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1476211",
+    "nom": "Vire G Degrenne",
+    "lat": 48.84864,
+    "lon": -0.8726,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1476201",
+    "nom": "Vire:la-Besnardiere",
+    "lat": 48.83326,
+    "lon": -0.88883,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1476203",
+    "nom": "Vire:Les Hauts-Vents",
+    "lat": 48.83917,
+    "lon": -0.87722,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1476206",
+    "nom": "VIRE_Std_Vire_FM",
+    "lat": 48.85558,
+    "lon": -0.87905,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2769801",
+    "nom": "Vitot",
+    "lat": 49.16361,
+    "lon": 0.90778,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2769901",
+    "nom": "VOISCREVILLE",
+    "lat": 49.27545,
+    "lon": 0.76881,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2770002",
+    "nom": "Vraiville",
+    "lat": 49.22929,
+    "lon": 1.02882,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7675103",
+    "nom": "Yebleron",
+    "lat": 49.61709,
+    "lon": 0.5262,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7675401",
+    "nom": "Yport",
+    "lat": 49.73941,
+    "lon": 0.30545,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7604101",
+    "nom": "Yvetot:Autretot",
+    "lat": 49.6575,
+    "lon": 0.73861,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7675805",
+    "nom": "YVETOTBELLANGER4",
+    "lat": 49.61621,
+    "lon": 0.75394,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7675806",
+    "nom": "YVETOTBellemere22",
+    "lat": 49.61638,
+    "lon": 0.76726,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7675807",
+    "nom": "YVETOTBESSON1",
+    "lat": 49.62,
+    "lon": 0.77453,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5064801",
+    "nom": "Yvetot Bocage",
+    "lat": 49.5034,
+    "lon": -1.49796,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7675808",
+    "nom": "YVETOTBriqueterie16",
+    "lat": 49.61799,
+    "lon": 0.76269,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7675809",
+    "nom": "YVETOTD'ARQUES6",
+    "lat": 49.61423,
+    "lon": 0.76212,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7675810",
+    "nom": "YVETOTLANARCK10",
+    "lat": 49.61674,
+    "lon": 0.76667,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7675811",
+    "nom": "YVETOTLATHAM2",
+    "lat": 49.61345,
+    "lon": 0.76512,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7675812",
+    "nom": "YVETOTL'UNION1",
+    "lat": 49.61612,
+    "lon": 0.75369,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7675817",
+    "nom": "Yvetot Mendes France",
+    "lat": 49.61704,
+    "lon": 0.76504,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7675813",
+    "nom": "YVETOTNIATEL9",
+    "lat": 49.61456,
+    "lon": 0.7527,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7675814",
+    "nom": "YVETOTPRIES1",
+    "lat": 49.61533,
+    "lon": 0.76543,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7675815",
+    "nom": "YVETOTsartre3",
+    "lat": 49.61906,
+    "lon": 0.76431,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7675816",
+    "nom": "YVETOTVieillot2",
+    "lat": 49.61196,
+    "lon": 0.75402,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1411874",
+    "nom": "ZAC Beaulieu",
+    "lat": 49.18168,
+    "lon": -0.40017,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7635160",
+    "nom": "ZAC Coty",
+    "lat": 49.49597,
+    "lon": 0.11234,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649808",
+    "nom": "ZAC Nobel-Bozel",
+    "lat": 49.42812,
+    "lon": 1.06174,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7632905",
+    "nom": "ZR-Gruchet-Valasse",
+    "lat": 49.56326,
+    "lon": 0.49656,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5025904",
+    "nom": "ZR_Mt_St_Michel_AIRE",
+    "lat": 48.58542,
+    "lon": -1.35589,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7649816",
+    "nom": "ZR-O-PETIT-QUEVILLY",
+    "lat": 49.42889,
+    "lon": 1.06972,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2701502",
+    "nom": "ZRP_Ande",
+    "lat": 49.21973,
+    "lon": 1.23803,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1401603",
+    "nom": "ZRP_ANNEBAULT",
+    "lat": 49.24726,
+    "lon": 0.0472,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5004201",
+    "nom": "ZRP_Beauvoir",
+    "lat": 48.59558,
+    "lon": -1.49923,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1405701",
+    "nom": "ZRP_Bellengreville",
+    "lat": 49.12117,
+    "lon": -0.21263,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7622503",
+    "nom": "ZRP_BERMONVILLE_AIR",
+    "lat": 49.63461,
+    "lon": 0.65756,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2706552",
+    "nom": "ZRP_BEUZEVILLE_AIRE",
+    "lat": 49.32504,
+    "lon": 0.32845,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2707601",
+    "nom": "ZRP_BOISSET-LES-PRE",
+    "lat": 48.97851,
+    "lon": 1.3329,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7611501",
+    "nom": "ZRP_BOLLEVILLE_AIRE",
+    "lat": 49.60143,
+    "lon": 0.56012,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2709502",
+    "nom": "ZRP_BOSROBERT_AIRE",
+    "lat": 49.24254,
+    "lon": 0.77434,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6106105",
+    "nom": "ZRP_BRETONCELLES",
+    "lat": 48.42456,
+    "lon": 0.88087,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2711403",
+    "nom": "ZRP_BREUILPONT",
+    "lat": 48.95056,
+    "lon": 1.42538,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7612202",
+    "nom": "ZRP_CALLENGEVILLE_A",
+    "lat": 49.81299,
+    "lon": 1.50951,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2712901",
+    "nom": "ZRP_CAORCHES-ST-NIC",
+    "lat": 49.09457,
+    "lon": 0.55292,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2712902",
+    "nom": "ZRP_CAORCHES-ST-NIC2",
+    "lat": 49.08433,
+    "lon": 0.51646,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2713001",
+    "nom": "ZRP_CAPELLE-LES-GRA",
+    "lat": 49.04442,
+    "lon": 0.44264,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6108103",
+    "nom": "ZRP_CHAILLOUE_AIRE",
+    "lat": 48.64862,
+    "lon": 0.21875,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2715401",
+    "nom": "ZRP_CHAVIGNY-BAILLE",
+    "lat": 48.85251,
+    "lon": 1.18299,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2716201",
+    "nom": "ZRP_COLLANDRES-QUIN",
+    "lat": 48.99622,
+    "lon": 0.87008,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6113001",
+    "nom": "ZRP_COURGEOUT_AIRE2",
+    "lat": 48.52347,
+    "lon": 0.48784,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1419402",
+    "nom": "ZRP_COURTONNE 1",
+    "lat": 49.08625,
+    "lon": 0.36232,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1419301",
+    "nom": "ZRP_COURTONNE-LA-ME",
+    "lat": 49.1125,
+    "lon": 0.35227,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5014902",
+    "nom": "ZRP_COUVILLE",
+    "lat": 49.55398,
+    "lon": -1.66987,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1420901",
+    "nom": "ZRP_CROUAY",
+    "lat": 49.25683,
+    "lon": -0.81778,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2722852",
+    "nom": "ZRP_ETURQUERAYE_AIR",
+    "lat": 49.37696,
+    "lon": 0.67846,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2724902",
+    "nom": "ZRP_FONTAINE-BELLEN",
+    "lat": 49.1769,
+    "lon": 1.24209,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2725102",
+    "nom": "ZRP_FONTAINE-L'ABBE",
+    "lat": 49.09036,
+    "lon": 0.67029,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2726002",
+    "nom": "ZRP_FOULBEC",
+    "lat": 49.39444,
+    "lon": 0.42129,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2726301",
+    "nom": "ZRP_FOURMETOT",
+    "lat": 49.38676,
+    "lon": 0.56427,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1430303",
+    "nom": "ZRP_GLOS",
+    "lat": 49.12869,
+    "lon": 0.29817,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1430801",
+    "nom": "ZRP_GOUSTRANVILLE",
+    "lat": 49.22604,
+    "lon": -0.09075,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7632501",
+    "nom": "ZRP_Gremonville",
+    "lat": 49.64647,
+    "lon": 0.83734,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2730001",
+    "nom": "ZRP_GROSLEY-SUR-RIS",
+    "lat": 49.04141,
+    "lon": 0.79843,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2730002",
+    "nom": "ZRP_GROSLEY-SUR-RIS2",
+    "lat": 49.06175,
+    "lon": 0.79346,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7634401",
+    "nom": "ZRP_HAUDRICOURT_AIRE",
+    "lat": 49.76755,
+    "lon": 1.6976,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2735102",
+    "nom": "ZRP_INCARVILLE",
+    "lat": 49.25127,
+    "lon": 1.16502,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2718901",
+    "nom": "ZRP_La_Croisille",
+    "lat": 48.97456,
+    "lon": 0.97726,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1433701",
+    "nom": "ZRP_LA HOUBLONNIERE",
+    "lat": 49.12333,
+    "lon": 0.09444,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1442202",
+    "nom": "ZRP_LE MESNIL-MAUGE",
+    "lat": 49.08728,
+    "lon": 0.01862,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7603901",
+    "nom": "ZRP_LesAuthieux/Port",
+    "lat": 49.34285,
+    "lon": 1.13294,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5034803",
+    "nom": "ZRP_LES VEYS_AIRE",
+    "lat": 49.28834,
+    "lon": -1.16438,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5026901",
+    "nom": "ZRP_LIESVILLE-SUR-D",
+    "lat": 49.35456,
+    "lon": -1.3183,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1438303",
+    "nom": "ZRP_LOUVIGNY 2",
+    "lat": 49.1523,
+    "lon": -0.40289,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2740001",
+    "nom": "ZRP_MEREY",
+    "lat": 48.96521,
+    "lon": 1.39145,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5034802",
+    "nom": "ZRP_MONTMARTIN-EN-G",
+    "lat": 49.2895,
+    "lon": -1.16137,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7645702",
+    "nom": "ZRP_MOULINEAUX",
+    "lat": 49.33865,
+    "lon": 0.96513,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1445602",
+    "nom": "ZRP_MOULT",
+    "lat": 49.10276,
+    "lon": -0.16534,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5036901",
+    "nom": "ZRP_NEGREVILLE",
+    "lat": 49.50483,
+    "lon": -1.56699,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7648408",
+    "nom": "ZRP_OISSEL",
+    "lat": 49.34389,
+    "lon": 1.05731,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1449301",
+    "nom": "ZRP_PERCY-EN-AUGE",
+    "lat": 49.07108,
+    "lon": -0.04919,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2746902",
+    "nom": "ZRP_PONT-DE-L'ARCHE",
+    "lat": 49.27709,
+    "lon": 1.12752,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1451302",
+    "nom": "ZRP_Pont-Farcy_2",
+    "lat": 48.95144,
+    "lon": -1.01581,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7651704",
+    "nom": "ZRP_QUINCAMPOIX_AIR",
+    "lat": 49.53104,
+    "lon": 1.2085,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5042502",
+    "nom": "ZRP_RAUVILLE-LA-BIG",
+    "lat": 49.53902,
+    "lon": -1.62668,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2748901",
+    "nom": "ZRP_REUILLY",
+    "lat": 47.07114,
+    "lon": 2.05624,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5043501",
+    "nom": "ZRP_ROCHEVILLE",
+    "lat": 49.51649,
+    "lon": -1.58331,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7666001",
+    "nom": "ZRP_SANDOUVILLE_AIR",
+    "lat": 49.45096,
+    "lon": 0.27223,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6146453",
+    "nom": "ZRP_SEES_AIRE",
+    "lat": 48.6317,
+    "lon": 0.19086,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2762204",
+    "nom": "ZRP_SERQUIGNY",
+    "lat": 49.11177,
+    "lon": 0.72236,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1455502",
+    "nom": "ZRP_ST-ANDRE-D'HEBE",
+    "lat": 49.30888,
+    "lon": 0.29655,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5055301",
+    "nom": "ZRP_ST-AUBIN-DE-TERR",
+    "lat": 48.57596,
+    "lon": -1.32257,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2751702",
+    "nom": "ZRP_ST-AUBIN-SUR-GA",
+    "lat": 49.13239,
+    "lon": 1.31651,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1457405",
+    "nom": "ZRP_ST-DESIR",
+    "lat": 49.12101,
+    "lon": 0.18556,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5052303",
+    "nom": "ZRP_STE-MERE-EGLISE",
+    "lat": 49.4053,
+    "lon": -1.35344,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "6139301",
+    "nom": "ZRP_StGermain_Cl",
+    "lat": 48.70324,
+    "lon": 0.24597,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "7658402",
+    "nom": "ZRP_ST-GERMAIN/E",
+    "lat": 49.74899,
+    "lon": 1.47942,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1459301",
+    "nom": "ZRP_ST-HYMER",
+    "lat": 49.26585,
+    "lon": 0.16664,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1412001",
+    "nom": "ZRP_ST-JEAN-DES-ESSA",
+    "lat": 49.05147,
+    "lon": -0.78175,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1461001",
+    "nom": "ZRP_ST-MANVIEU-NORR",
+    "lat": 49.20252,
+    "lon": -0.50802,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1463001",
+    "nom": "ZRP_ST-MARTIN-DES-E",
+    "lat": 49.24641,
+    "lon": -0.6582,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2758052",
+    "nom": "ZRP_ST-OUEN-DE-THOU",
+    "lat": 49.34473,
+    "lon": 0.92016,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1464801",
+    "nom": "ZRP_ST-PIERRE-DES-I",
+    "lat": 49.12225,
+    "lon": 0.13974,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "2761201",
+    "nom": "ZRP_ST-VINCENT-DES",
+    "lat": 49.07169,
+    "lon": 1.40573,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "1470501",
+    "nom": "ZRP_TOURNIERES",
+    "lat": 49.23886,
+    "lon": -0.9391,
+    "equipe": "ZC NO NORMANDIE"
+  },
+  {
+    "ig": "5048753",
+    "nom": "ZR_ST-JAMES",
+    "lat": 48.54282,
+    "lon": -1.34111,
+    "equipe": "ZC NO NORMANDIE"
+  }
+]

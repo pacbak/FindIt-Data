@@ -1,0 +1,6659 @@
+[
+  {
+    "ig": "2922004",
+    "nom": "ABBELouverture1",
+    "lat": 47.86183,
+    "lon": -4.22236,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2922005",
+    "nom": "ABBELouverture2",
+    "lat": 47.86186,
+    "lon": -4.22239,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5600105",
+    "nom": "ALLAIRE AVOCAT",
+    "lat": 47.60962,
+    "lon": -2.17953,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5600104",
+    "nom": "ALLAIRE BRELAN",
+    "lat": 47.64165,
+    "lon": -2.20074,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5600101",
+    "nom": "Allaire:la Lande",
+    "lat": 47.63259,
+    "lon": -2.16083,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2200102",
+    "nom": "Allineuc:lesLandes",
+    "lat": 48.2979,
+    "lon": -2.83768,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3500401",
+    "nom": "Antrain:Le Stade",
+    "lat": 48.45611,
+    "lon": -1.4825,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3500610",
+    "nom": "Argentre Branchettes",
+    "lat": 48.07556,
+    "lon": -1.13984,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3500609",
+    "nom": "Argentre du P - D111",
+    "lat": 48.04004,
+    "lon": -1.16738,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3500601",
+    "nom": "ARGENTRE-DU-PLESSIS",
+    "lat": 48.05473,
+    "lon": -1.16706,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2919702",
+    "nom": "Audierne:Plouhinec",
+    "lat": 48.02,
+    "lon": -4.5225,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5600601",
+    "nom": "AUGAN bois Lohin",
+    "lat": 47.92201,
+    "lon": -2.24812,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5600710",
+    "nom": "AURAYMermoz3",
+    "lat": 47.67841,
+    "lon": -3.0012,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5600711",
+    "nom": "AURAYMermoz5",
+    "lat": 47.67853,
+    "lon": -3.00093,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3500901",
+    "nom": "Baguer-Morvan Martin",
+    "lat": 48.49961,
+    "lon": -1.77956,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3501003",
+    "nom": "BAGUER PICAN",
+    "lat": 48.53639,
+    "lon": -1.69505,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3501001",
+    "nom": "Baguer Pican Chenaie",
+    "lat": 48.53614,
+    "lon": -1.69572,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3501004",
+    "nom": "Baguer Pican Eperon",
+    "lat": 48.56322,
+    "lon": -1.67565,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3501201",
+    "nom": "Bain-de-Bretagne",
+    "lat": 47.79722,
+    "lon": -1.64778,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3501252",
+    "nom": "Bain de Bret Bodais",
+    "lat": 47.83519,
+    "lon": -1.69592,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3501401",
+    "nom": "BAIS",
+    "lat": 48.01015,
+    "lon": -1.30298,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5601001",
+    "nom": "Baud:Kerpolican",
+    "lat": 47.89522,
+    "lon": -3.0495,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5601002",
+    "nom": "Baud:la metairie",
+    "lat": 47.87167,
+    "lon": -3.03028,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5601052",
+    "nom": "BAUD_ZR",
+    "lat": 47.83425,
+    "lon": -3.03865,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3501602",
+    "nom": "Baulon Lardillouze",
+    "lat": 47.99572,
+    "lon": -1.95295,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2200501",
+    "nom": "Belle-Isle-en-Terre",
+    "lat": 48.54417,
+    "lon": -3.38806,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2200504",
+    "nom": "Belle Isle en Terre2",
+    "lat": 48.5446,
+    "lon": -3.38844,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5601303",
+    "nom": "BELZKerdonnerch3",
+    "lat": 47.67496,
+    "lon": -3.16959,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3502405",
+    "nom": "BETTON 2",
+    "lat": 48.17111,
+    "lon": -1.63922,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3502407",
+    "nom": "BETTONForge5",
+    "lat": 48.18646,
+    "lon": -1.63227,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3502408",
+    "nom": "BETTONForge7",
+    "lat": 48.18643,
+    "lon": -1.6327,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3502409",
+    "nom": "Betton:Trieux4",
+    "lat": 48.18322,
+    "lon": -1.6515,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3502501",
+    "nom": "Bille stade",
+    "lat": 48.28923,
+    "lon": -1.25002,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2201101",
+    "nom": "Boqueho:St-Jude",
+    "lat": 48.49122,
+    "lon": -2.98871,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2901503",
+    "nom": "BourgBlanc Lagaduzic",
+    "lat": 48.50768,
+    "lon": -4.49515,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2201501",
+    "nom": "Brehand Moulin Hesry",
+    "lat": 48.38982,
+    "lon": -2.56513,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5602401",
+    "nom": "Brehan:Loge Beauval",
+    "lat": 48.06639,
+    "lon": -2.70083,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2901905",
+    "nom": "Brest:Casabianca",
+    "lat": 48.37457,
+    "lon": -4.53274,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2901904",
+    "nom": "Brest:Eden-Roc",
+    "lat": 48.39317,
+    "lon": -4.46783,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2901914",
+    "nom": "Brest:Fernand Forest",
+    "lat": 48.42944,
+    "lon": -4.45845,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2901995",
+    "nom": "BRESTJaouen10",
+    "lat": 48.39975,
+    "lon": -4.45701,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2901996",
+    "nom": "BRESTJaouen12",
+    "lat": 48.39975,
+    "lon": -4.45704,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2901997",
+    "nom": "BRESTJaouen14",
+    "lat": 48.40011,
+    "lon": -4.4572,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2901998",
+    "nom": "BRESTJaouen16",
+    "lat": 48.40013,
+    "lon": -4.4575,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2901999",
+    "nom": "BRESTJaouen2",
+    "lat": 48.39901,
+    "lon": -4.45724,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2918901",
+    "nom": "Brest:Plougastel",
+    "lat": 48.35639,
+    "lon": -4.42722,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2901903",
+    "nom": "Brest:Queliverz'an",
+    "lat": 48.39227,
+    "lon": -4.50489,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2930201",
+    "nom": "Brest:Quimerch",
+    "lat": 48.275,
+    "lon": -4.15111,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2920201",
+    "nom": "Brest:Roc-Tredudon",
+    "lat": 48.41333,
+    "lon": -3.88944,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2901988",
+    "nom": "BREST-SNI_0556",
+    "lat": 48.39143,
+    "lon": -4.50783,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2901987",
+    "nom": "BREST-SNI_5871",
+    "lat": 48.4022,
+    "lon": -4.50393,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2901902",
+    "nom": "Brest:Tour",
+    "lat": 48.40392,
+    "lon": -4.46838,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3504001",
+    "nom": "Breteil:champ presso",
+    "lat": 48.14856,
+    "lon": -1.89383,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3504004",
+    "nom": "Breteil Guerinais",
+    "lat": 48.13341,
+    "lon": -1.92396,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3504102",
+    "nom": "Brie Cerisier a deux",
+    "lat": 47.97289,
+    "lon": -1.55397,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902002",
+    "nom": "Briec:Goarem ar blei",
+    "lat": 48.09889,
+    "lon": -4.02444,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902003",
+    "nom": "Briec:Toul Blei",
+    "lat": 48.15346,
+    "lon": -4.04023,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3504201",
+    "nom": "BRIELLES_TGV",
+    "lat": 48.01601,
+    "lon": -1.1012,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2202005",
+    "nom": "BROONS",
+    "lat": 48.32894,
+    "lon": -2.22856,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2202007",
+    "nom": "BROONS Le Friche",
+    "lat": 48.29479,
+    "lon": -2.21836,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2202001",
+    "nom": "Broons:les champs",
+    "lat": 48.31156,
+    "lon": -2.26643,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2202103",
+    "nom": "BRUSVILY_CENTRE",
+    "lat": 48.39035,
+    "lon": -2.13671,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2202101",
+    "nom": "Brusvily:jardin-clos",
+    "lat": 48.38286,
+    "lon": -2.08977,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3504721",
+    "nom": "Bruz-Bousquet",
+    "lat": 48.02226,
+    "lon": -1.75651,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3504714",
+    "nom": "Bruz Europe SNI 5673",
+    "lat": 48.02735,
+    "lon": -1.75616,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3504716",
+    "nom": "BRUZGallais2",
+    "lat": 48.02482,
+    "lon": -1.74478,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3504720",
+    "nom": "Bruz-Genetais",
+    "lat": 48.02217,
+    "lon": -1.73007,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3504701",
+    "nom": "Bruz:la pavais-cd177",
+    "lat": 48.03946,
+    "lon": -1.72726,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3504717",
+    "nom": "BRUZPagnol11",
+    "lat": 48.02449,
+    "lon": -1.7449,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3504718",
+    "nom": "BRUZPagnol23",
+    "lat": 48.02425,
+    "lon": -1.74485,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3504719",
+    "nom": "BRUZRossignols15",
+    "lat": 48.02598,
+    "lon": -1.76307,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5602601",
+    "nom": "BUBRY Kerlevic",
+    "lat": 47.97065,
+    "lon": -3.15693,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5602701",
+    "nom": "Buleon:ZA Maigris",
+    "lat": 47.92509,
+    "lon": -2.68396,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5602801",
+    "nom": "CADEN",
+    "lat": 47.62942,
+    "lon": -2.27307,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2202601",
+    "nom": "Calorguen les Marees",
+    "lat": 48.40844,
+    "lon": -2.03576,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5603103",
+    "nom": "Camor Mane Morvan",
+    "lat": 47.79904,
+    "lon": -3.01265,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5603101",
+    "nom": "Camors:Lann Penher",
+    "lat": 47.83756,
+    "lon": -2.99539,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5603301",
+    "nom": "Carentoir:gourdelais",
+    "lat": 47.83531,
+    "lon": -2.11559,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902401",
+    "nom": "Carhaix-Plouguer",
+    "lat": 48.28417,
+    "lon": -3.56972,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902402",
+    "nom": "CARHAIX-PLOUGUER BT",
+    "lat": 48.26394,
+    "lon": -3.58484,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902501",
+    "nom": "Cast",
+    "lat": 48.16088,
+    "lon": -4.08423,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5603602",
+    "nom": "Caudan",
+    "lat": 47.80268,
+    "lon": -3.34689,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5603608",
+    "nom": "Caudan Kerbaudrec",
+    "lat": 47.78559,
+    "lon": -3.31962,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2203206",
+    "nom": "CAULNES 2",
+    "lat": 48.28373,
+    "lon": -2.16448,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2203204",
+    "nom": "Caulnes Es Ferre",
+    "lat": 48.2887,
+    "lon": -2.1965,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2203201",
+    "nom": "Caulnes:za d-gante,",
+    "lat": 48.30225,
+    "lon": -2.14404,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2203402",
+    "nom": "Cavan Rumilio",
+    "lat": 48.67822,
+    "lon": -3.35997,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3521009",
+    "nom": "CC_CORA_IND_PACE",
+    "lat": 48.13877,
+    "lon": -1.76757,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528405",
+    "nom": "CC_CORA_IND_SAINT-JO",
+    "lat": 48.60646,
+    "lon": -1.97808,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505101",
+    "nom": "Cesson:CCETT",
+    "lat": 48.12472,
+    "lon": -1.62722,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505142",
+    "nom": "Cesson Sev Chp Blanc",
+    "lat": 48.13602,
+    "lon": -1.62361,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505130",
+    "nom": "CESSON_SEV_TGV",
+    "lat": 48.09635,
+    "lon": -1.56014,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505516",
+    "nom": "Chantepie-3 le Hil",
+    "lat": 48.07399,
+    "lon": -1.64207,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505515",
+    "nom": "Chantepie-Beauvoir",
+    "lat": 48.09196,
+    "lon": -1.60711,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505508",
+    "nom": "Chantepie:Breil",
+    "lat": 48.09508,
+    "lon": -1.62316,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505512",
+    "nom": "Chantepie:Mitterr15",
+    "lat": 48.08628,
+    "lon": 1.60447,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505513",
+    "nom": "Chantepie:Mitterr17",
+    "lat": 48.08615,
+    "lon": 1.60406,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505510",
+    "nom": "CHANTEPIEMitterran15",
+    "lat": 48.0861,
+    "lon": -1.60452,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505511",
+    "nom": "CHANTEPIEMitterran17",
+    "lat": 48.08607,
+    "lon": -1.60418,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5603701",
+    "nom": "Chapelle-Caro:Lande",
+    "lat": 47.85408,
+    "lon": -2.42291,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3506201",
+    "nom": "Chapelle-Janson",
+    "lat": 48.36,
+    "lon": -1.06639,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3506202",
+    "nom": "Chapelle-Janson 2",
+    "lat": 48.35972,
+    "lon": -1.06639,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505702",
+    "nom": "CHAPL_BOUEXIC_BRULAY",
+    "lat": 47.95919,
+    "lon": -1.90877,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3506604",
+    "nom": "ChartresBretagne-Als",
+    "lat": 48.03906,
+    "lon": -1.70686,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3506605",
+    "nom": "ChartresBretagne-Boi",
+    "lat": 48.03268,
+    "lon": -1.70842,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3506801",
+    "nom": "Chateaubourg:Bellevu",
+    "lat": 48.10194,
+    "lon": -1.40306,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902604",
+    "nom": "Chateaulin:Coatifite",
+    "lat": 48.21222,
+    "lon": -4.08231,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902601",
+    "nom": "Chateaulin Garront",
+    "lat": 48.21285,
+    "lon": -4.06009,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902612",
+    "nom": "Chateaulin Quivouidi",
+    "lat": 48.18894,
+    "lon": -4.04561,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902605",
+    "nom": "Chateaulin:Roz",
+    "lat": 48.19889,
+    "lon": -4.09218,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902701",
+    "nom": "Chateauneuf-du-Faou1",
+    "lat": 48.18389,
+    "lon": -3.80111,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2218201",
+    "nom": "Chatelaudren:Plelo1",
+    "lat": 48.54389,
+    "lon": -2.96972,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2218202",
+    "nom": "Chatelaudren:Plelo2",
+    "lat": 48.53889,
+    "lon": -2.96056,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3507903",
+    "nom": "Chevaigne-Geminais",
+    "lat": 48.20321,
+    "lon": -1.63119,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3507204",
+    "nom": "Cht en Vendelais",
+    "lat": 48.22974,
+    "lon": -1.12284,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902903",
+    "nom": "Cleden Poher Kerdivo",
+    "lat": 48.25432,
+    "lon": -3.61007,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902902",
+    "nom": "CLEDEN POHER_ZR",
+    "lat": 48.25438,
+    "lon": -3.61003,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5604101",
+    "nom": "Cleguerec:Camping",
+    "lat": 48.13018,
+    "lon": -3.07571,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3508201",
+    "nom": "Coesmes Le Matz",
+    "lat": 47.87323,
+    "lon": -1.41621,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2204401",
+    "nom": "Coetmieux:l-Landes",
+    "lat": 48.47556,
+    "lon": -2.58278,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2229701",
+    "nom": "Collinee:St-Goueno",
+    "lat": 48.30149,
+    "lon": -2.54433,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3508501",
+    "nom": "Combourg",
+    "lat": 48.43045,
+    "lon": -1.76194,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3508505",
+    "nom": "Combourg Ch du Ruant",
+    "lat": 48.41518,
+    "lon": -1.7246,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3508506",
+    "nom": "Combourg Racinais",
+    "lat": 48.42006,
+    "lon": -1.72878,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2903752",
+    "nom": "COMBRIT_RF",
+    "lat": 47.92,
+    "lon": -4.19,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2903901",
+    "nom": "Concarneau:Kerandon",
+    "lat": 47.882,
+    "lon": -3.91768,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2903904",
+    "nom": "Concarneau:Kergrac'h",
+    "lat": 47.93208,
+    "lon": -3.89571,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2903953",
+    "nom": "Concarneau:Noel Sane",
+    "lat": 47.90705,
+    "lon": -3.90976,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2903955",
+    "nom": "Concarneau:PiriouSta",
+    "lat": 47.88934,
+    "lon": -3.91369,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3535309",
+    "nom": "COQUETGlenan1",
+    "lat": 48.11735,
+    "lon": -1.74972,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3535310",
+    "nom": "COQUETGlenan20",
+    "lat": 48.11641,
+    "lon": -1.74847,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3535311",
+    "nom": "COQUETGlenan7",
+    "lat": 48.11681,
+    "lon": -1.74832,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3508805",
+    "nom": "Corps nuds Liberte",
+    "lat": 47.98584,
+    "lon": -1.5924,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2204801",
+    "nom": "Corseul Le Villeu",
+    "lat": 48.48674,
+    "lon": -2.11731,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5604601",
+    "nom": "CRACH",
+    "lat": 47.62312,
+    "lon": -2.99102,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5604605",
+    "nom": "Crach rue du stade",
+    "lat": 47.62144,
+    "lon": -3.005,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3509001",
+    "nom": "Crevin:des sports",
+    "lat": 47.94114,
+    "lon": -1.66139,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904201",
+    "nom": "Crozon:Alsace-Lorrai",
+    "lat": 48.24528,
+    "lon": -4.4925,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904252",
+    "nom": "Crozon Le Pouldu",
+    "lat": 48.22638,
+    "lon": -4.52012,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904253",
+    "nom": "CROZONMenhir10",
+    "lat": 48.24453,
+    "lon": -4.49081,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904254",
+    "nom": "CROZONMenhir6",
+    "lat": 48.24394,
+    "lon": -4.48682,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904255",
+    "nom": "CROZONPortzic10",
+    "lat": 48.24367,
+    "lon": -4.49074,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904256",
+    "nom": "CROZONPortzic12",
+    "lat": 48.24363,
+    "lon": -4.49057,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904257",
+    "nom": "CROZONPortzic14",
+    "lat": 48.24337,
+    "lon": -4.49058,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904258",
+    "nom": "CROZONPortzic2",
+    "lat": 48.24414,
+    "lon": -4.49088,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904259",
+    "nom": "CROZONPortzic4",
+    "lat": 48.24395,
+    "lon": -4.49097,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904260",
+    "nom": "CROZONPortzic6",
+    "lat": 48.24364,
+    "lon": -4.49104,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904261",
+    "nom": "CROZONPortzic8",
+    "lat": 48.24398,
+    "lon": -4.49073,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3509202",
+    "nom": "Cuguen ZA Ateliers",
+    "lat": 48.44919,
+    "lon": -1.6706,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904301",
+    "nom": "Daoulas:Pouligou",
+    "lat": 48.35028,
+    "lon": -4.26306,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2212301",
+    "nom": "Dinan:Lehon",
+    "lat": 48.44194,
+    "lon": -2.06917,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2205001",
+    "nom": "Dinan:Le Viaduc",
+    "lat": 48.45445,
+    "lon": -2.03866,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3509301",
+    "nom": "Dinard:Gallic",
+    "lat": 48.63417,
+    "lon": -2.05528,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3509302",
+    "nom": "Dinard:Haut Chemin",
+    "lat": 48.61611,
+    "lon": -2.05528,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904401",
+    "nom": "Dineault:Kerarveil",
+    "lat": 48.20001,
+    "lon": -4.12437,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904403",
+    "nom": "Dineault_Menez_Guen",
+    "lat": 48.22011,
+    "lon": -4.15172,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3509405",
+    "nom": "Dinge Bois Gautier",
+    "lat": 48.36054,
+    "lon": -1.72196,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904503",
+    "nom": "Dirinon Trebeolin",
+    "lat": 48.37685,
+    "lon": -4.28045,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904502",
+    "nom": "Dirinon ZA Stum",
+    "lat": 48.40875,
+    "lon": -4.24781,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2205101",
+    "nom": "Dolo:le plenitre",
+    "lat": 48.38212,
+    "lon": -2.34076,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3509604",
+    "nom": "DOMAGNE_TGV",
+    "lat": 48.05552,
+    "lon": -1.38764,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3509701",
+    "nom": "Domalain:za la vague",
+    "lat": 48.01641,
+    "lon": -1.19995,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3509802",
+    "nom": "Dominelais Biliais",
+    "lat": 47.77985,
+    "lon": -1.6914,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3520706",
+    "nom": "DOMLOUP_TGV",
+    "lat": 48.0725,
+    "lon": -1.50012,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904602",
+    "nom": "Douarnenez:Kerguest",
+    "lat": 48.08222,
+    "lon": -4.35333,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904601",
+    "nom": "Douarnenez:Pouldavid",
+    "lat": 48.08162,
+    "lon": -4.33151,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904902",
+    "nom": "Elliant:keryannic",
+    "lat": 47.99143,
+    "lon": -3.87621,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5605304",
+    "nom": "Elven:Kercointe",
+    "lat": 47.73224,
+    "lon": -2.58513,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5605401",
+    "nom": "Erdeven:compl,sport,",
+    "lat": 47.63786,
+    "lon": -3.16542,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5605405",
+    "nom": "Erdeven: Etel",
+    "lat": 47.64631,
+    "lon": -3.19091,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2905153",
+    "nom": "ERGUE GABERIC_ZR",
+    "lat": 47.98369,
+    "lon": -3.96789,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2205401",
+    "nom": "Erquy:Langourian",
+    "lat": 48.62611,
+    "lon": -2.44972,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3510802",
+    "nom": "Esse Bourace",
+    "lat": 47.93792,
+    "lon": -1.4768,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3510903",
+    "nom": "ETRELLES_TGV",
+    "lat": 48.05041,
+    "lon": -1.202,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5614401",
+    "nom": "EVELLYS_RF",
+    "lat": 47.99,
+    "lon": -2.88,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5605601",
+    "nom": "EVRIGUET-Jugevent",
+    "lat": 48.09127,
+    "lon": -2.40227,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3511001",
+    "nom": "FEINS La Chaumiere",
+    "lat": 48.3265,
+    "lon": -1.63094,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2905801",
+    "nom": "Fouesnant : Beg-Meil",
+    "lat": 47.89333,
+    "lon": -4.01222,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3515001",
+    "nom": "Fougeres:Lecousse",
+    "lat": 48.36611,
+    "lon": -1.22167,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3511501",
+    "nom": "Fougeres:Rille",
+    "lat": 48.36005,
+    "lon": -1.20902,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505905",
+    "nom": "FOUGERETZArpents1",
+    "lat": 48.172,
+    "lon": -1.73682,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505906",
+    "nom": "FOUGERETZArpents3",
+    "lat": 48.17202,
+    "lon": -1.737,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505907",
+    "nom": "FOUGERETZArpents5",
+    "lat": 48.17201,
+    "lon": -1.7378,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505908",
+    "nom": "FOUGERETZBesneraie33",
+    "lat": 48.18213,
+    "lon": -1.72682,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505909",
+    "nom": "FOUGERETZBesneraie35",
+    "lat": 48.18225,
+    "lon": -1.72706,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505910",
+    "nom": "FOUGERETZBesneraie38",
+    "lat": 48.18223,
+    "lon": -1.72671,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505911",
+    "nom": "FOUGERETZBesneraie40",
+    "lat": 48.18244,
+    "lon": -1.72687,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505912",
+    "nom": "FOUGERETZBois2",
+    "lat": 48.18178,
+    "lon": -1.72747,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505913",
+    "nom": "FOUGERETZBois4",
+    "lat": 48.18199,
+    "lon": -1.72733,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2217905",
+    "nom": "FREHEL",
+    "lat": 48.62357,
+    "lon": -2.37532,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2217903",
+    "nom": "Frehel Malabry",
+    "lat": 48.62292,
+    "lon": -2.37481,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5600709",
+    "nom": "GC_Auray",
+    "lat": 47.68029,
+    "lon": -3.00034,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2900405",
+    "nom": "GC_Bannalec",
+    "lat": 47.9268,
+    "lon": -3.70662,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3502406",
+    "nom": "GC_Betton",
+    "lat": 48.18154,
+    "lon": -1.63452,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3502902",
+    "nom": "GC_Bonnemain",
+    "lat": 48.47641,
+    "lon": -1.7655,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5602104",
+    "nom": "GC_Branderion",
+    "lat": 47.78238,
+    "lon": -3.19414,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2221201",
+    "nom": "GC_Brelidy - Plouec",
+    "lat": 48.66923,
+    "lon": -3.19637,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2901992",
+    "nom": "GC_Brest",
+    "lat": 48.38783,
+    "lon": -4.48026,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3504003",
+    "nom": "GC_Breteil",
+    "lat": 48.14058,
+    "lon": -1.89738,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2202004",
+    "nom": "GC_Broons",
+    "lat": 48.33345,
+    "lon": -2.23572,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3504715",
+    "nom": "GC_Bruz",
+    "lat": 48.02878,
+    "lon": -1.7519,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2202502",
+    "nom": "GC_Callac",
+    "lat": 48.40629,
+    "lon": -3.41982,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902410",
+    "nom": "GC_Carhaix",
+    "lat": 48.27815,
+    "lon": -3.5624,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2203205",
+    "nom": "GC_Caulnes",
+    "lat": 48.2846,
+    "lon": -2.15562,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3506804",
+    "nom": "GC_Chateaubourg",
+    "lat": 48.10652,
+    "lon": -1.40526,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902611",
+    "nom": "GC_Chateaulin",
+    "lat": 48.20175,
+    "lon": -4.0944,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2220603",
+    "nom": "GC_Chatelaudren - Pl",
+    "lat": 48.53332,
+    "lon": -2.97483,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3507902",
+    "nom": "GC_Chevaigne",
+    "lat": 48.20891,
+    "lon": -1.6309,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3508504",
+    "nom": "GC_Combourg",
+    "lat": 48.41626,
+    "lon": -1.72801,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3508804",
+    "nom": "GC_Corps-Nuds",
+    "lat": 47.98528,
+    "lon": -1.5756,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2205008",
+    "nom": "GC_Dinan_PL 11 nov",
+    "lat": 48.45667,
+    "lon": -2.05351,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3509404",
+    "nom": "GC_Dinge",
+    "lat": 48.35086,
+    "lon": -1.68606,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2914052",
+    "nom": "GC_Dirinon",
+    "lat": 48.39272,
+    "lon": -4.28565,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3509506",
+    "nom": "GC_Dol",
+    "lat": 48.54431,
+    "lon": -1.7507,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2205202",
+    "nom": "GC_Duault",
+    "lat": 48.36475,
+    "lon": -3.47656,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2905603",
+    "nom": "GC_Forest-Landerneau",
+    "lat": 48.42644,
+    "lon": -4.3076,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3511605",
+    "nom": "GC_Fresnais",
+    "lat": 48.59368,
+    "lon": -1.84333,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5606303",
+    "nom": "GC_Gestel",
+    "lat": 47.80313,
+    "lon": -3.44319,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3512202",
+    "nom": "GC_Gouesniere",
+    "lat": 48.61459,
+    "lon": -1.90598,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2206802",
+    "nom": "GC_Graces",
+    "lat": 48.56111,
+    "lon": -3.16692,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3512609",
+    "nom": "GC_Guichen",
+    "lat": 47.93516,
+    "lon": -1.76031,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2907401",
+    "nom": "GC_Guimiliau",
+    "lat": 48.48544,
+    "lon": -3.99973,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2207009",
+    "nom": "GC_Guingamp_Gare",
+    "lat": 48.5557,
+    "lon": -3.14335,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5608303",
+    "nom": "GC_Hennebont",
+    "lat": 47.79926,
+    "lon": -3.28597,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513603",
+    "nom": "GC_Janze",
+    "lat": 47.95542,
+    "lon": -1.49756,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5623404",
+    "nom": "GC_Kerhostin",
+    "lat": 47.53695,
+    "lon": -3.13656,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3518406",
+    "nom": "GC_La Brohiniere",
+    "lat": 48.21356,
+    "lon": -2.11056,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3529903",
+    "nom": "GC_La Gouesniere - C",
+    "lat": 48.61459,
+    "lon": -1.90598,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513906",
+    "nom": "GC_Laille",
+    "lat": 47.97181,
+    "lon": -1.74964,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2209313",
+    "nom": "GC_Lamballe",
+    "lat": 48.46621,
+    "lon": -2.51165,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5609603",
+    "nom": "GC_Landaul",
+    "lat": 47.73609,
+    "lon": -3.08614,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2209601",
+    "nom": "GC_Landebia",
+    "lat": 48.50755,
+    "lon": -2.33154,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2910353",
+    "nom": "GC_Landerneau",
+    "lat": 48.45373,
+    "lon": -4.25662,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5609703",
+    "nom": "GC_Landevant",
+    "lat": 47.75967,
+    "lon": -3.12522,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2910509",
+    "nom": "GC_Landivisiau",
+    "lat": 48.49611,
+    "lon": -4.08234,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2210501",
+    "nom": "GC_Languenan",
+    "lat": 48.4962,
+    "lon": -2.14146,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2211352",
+    "nom": "GC_Lannion",
+    "lat": 48.72773,
+    "lon": -3.4604,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513106",
+    "nom": "GC_L'Hermitage - Mor",
+    "lat": 48.1232,
+    "lon": -1.81938,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2212802",
+    "nom": "GC_Locarn",
+    "lat": 48.34069,
+    "lon": -3.49091,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5612135",
+    "nom": "GC_Lorient",
+    "lat": 47.75562,
+    "lon": -3.36629,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2213505",
+    "nom": "GC_Louargat",
+    "lat": 48.59376,
+    "lon": -3.3229,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5612304",
+    "nom": "GC_Malansac",
+    "lat": 47.67566,
+    "lon": -2.29622,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3516702",
+    "nom": "GC_Martigne-Ferchaud",
+    "lat": 47.83225,
+    "lon": -1.31391,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2214401",
+    "nom": "GC_Meaugon",
+    "lat": 48.49972,
+    "lon": -2.84396,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3517607",
+    "nom": "GC_Messac - Guipry",
+    "lat": 47.82226,
+    "lon": -1.81833,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3517903",
+    "nom": "GC_Miniac-Morvan",
+    "lat": 48.53159,
+    "lon": -1.91483,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3518407",
+    "nom": "GC_Montauban-de-Bret",
+    "lat": 48.1904,
+    "lon": -2.05279,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3518804",
+    "nom": "GC_Montfort-sur-Meu",
+    "lat": 48.13906,
+    "lon": -1.94931,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3519503",
+    "nom": "GC_Montreuil-sur-Ill",
+    "lat": 48.30734,
+    "lon": -1.67433,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2915121",
+    "nom": "GC_Morlaix",
+    "lat": 48.57815,
+    "lon": -3.83263,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2201305",
+    "nom": "GC_Mousteru",
+    "lat": 48.5076,
+    "lon": -3.24362,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3520707",
+    "nom": "GC_Noyal - Acigne",
+    "lat": 48.11891,
+    "lon": -1.52794,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2216207",
+    "nom": "GC_Paimpol",
+    "lat": 48.77712,
+    "lon": -3.04627,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2207008",
+    "nom": "GC_P_Guingamp_Gare",
+    "lat": 48.55564,
+    "lon": -3.14424,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2217206",
+    "nom": "GC_Plancoet",
+    "lat": 48.52169,
+    "lon": -2.22894,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3522106",
+    "nom": "GC_Plechatel",
+    "lat": 47.87195,
+    "lon": -1.77653,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2218502",
+    "nom": "GC_Plenee-Jugon",
+    "lat": 48.37683,
+    "lon": -2.35472,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3522403",
+    "nom": "GC_Plerguer",
+    "lat": 48.53151,
+    "lon": -1.85061,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2219303",
+    "nom": "GC_Plestan",
+    "lat": 48.4257,
+    "lon": -2.44262,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2219601",
+    "nom": "GC_Pleudaniel",
+    "lat": 48.74872,
+    "lon": -3.13498,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2219703",
+    "nom": "GC_PleudihensurRance",
+    "lat": 48.49952,
+    "lon": -1.96181,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2916306",
+    "nom": "GC_Pleyber-Christ",
+    "lat": 48.50786,
+    "lon": -3.88259,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5616102",
+    "nom": "GC_Ploemel",
+    "lat": 47.65262,
+    "lon": -3.07236,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2220704",
+    "nom": "GC_Plouaret Tregor",
+    "lat": 48.60639,
+    "lon": -3.46693,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2221601",
+    "nom": "GC_Plougonver",
+    "lat": 48.45846,
+    "lon": -3.37058,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5616852",
+    "nom": "GC_Plouharnel - Carn",
+    "lat": 47.60438,
+    "lon": -3.11852,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2919909",
+    "nom": "GC_Plouigneau",
+    "lat": 48.56484,
+    "lon": -3.71017,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2222704",
+    "nom": "GC_Plounerin",
+    "lat": 48.58179,
+    "lon": -3.56835,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2223304",
+    "nom": "GC_Plourivo",
+    "lat": 48.72765,
+    "lon": -3.12853,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2223303",
+    "nom": "GC_Plourivo_lancerf",
+    "lat": 48.76201,
+    "lon": -3.11819,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2223402",
+    "nom": "GC_Plouvara",
+    "lat": 48.50875,
+    "lon": -2.89252,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5617602",
+    "nom": "GC_Pluneret",
+    "lat": 47.67874,
+    "lon": -2.96061,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2930209",
+    "nom": "GC_Pont-de-Buis",
+    "lat": 48.25456,
+    "lon": -4.08613,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2224902",
+    "nom": "GC_Pont-Melvez",
+    "lat": 48.47037,
+    "lon": -3.31148,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2224903",
+    "nom": "GC_Pont-MelvezCoat",
+    "lat": 48.48034,
+    "lon": -3.27393,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2225003",
+    "nom": "GC_Pontrieux",
+    "lat": 48.7057,
+    "lon": -3.15756,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3523404",
+    "nom": "GC_Quedillac",
+    "lat": 48.24857,
+    "lon": -2.14537,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5618409",
+    "nom": "GC_Questembert",
+    "lat": 47.68309,
+    "lon": -2.44986,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5618608",
+    "nom": "GC_Quiberon",
+    "lat": 47.48531,
+    "lon": -3.11827,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923279",
+    "nom": "GC_Quimper",
+    "lat": 47.99446,
+    "lon": -4.09221,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923307",
+    "nom": "GC_Quimperle",
+    "lat": 47.86951,
+    "lon": -3.55282,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3523609",
+    "nom": "GC_Redon",
+    "lat": 47.65204,
+    "lon": -2.08795,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923506",
+    "nom": "GC_Relecq-Kerhuon",
+    "lat": 48.40981,
+    "lon": -4.38831,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3523904",
+    "nom": "GC_Retiers",
+    "lat": 47.91339,
+    "lon": -1.38992,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923703",
+    "nom": "GC_Roche-Maurice",
+    "lat": 48.47422,
+    "lon": -4.20516,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923904",
+    "nom": "GC_Roscoff",
+    "lat": 48.72088,
+    "lon": -3.98335,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2924107",
+    "nom": "GC_Rosporden",
+    "lat": 47.96045,
+    "lon": -3.83294,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3525003",
+    "nom": "GC_Saint-Armel",
+    "lat": 48.01456,
+    "lon": -1.595,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2227822",
+    "nom": "GC_Saint-Brieuc",
+    "lat": 48.50758,
+    "lon": -2.76513,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528115",
+    "nom": "GC_SaintJacquLande",
+    "lat": 48.0672,
+    "lon": -1.71428,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528824",
+    "nom": "GC_Saint-Malo",
+    "lat": 48.64699,
+    "lon": -2.00433,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2925905",
+    "nom": "GC_Saint-Pol-de-Leon",
+    "lat": 48.67695,
+    "lon": -3.98737,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3531204",
+    "nom": "GC_Saint-Senoux",
+    "lat": 47.89792,
+    "lon": -1.76624,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3532706",
+    "nom": "GC_Servon",
+    "lat": 48.11222,
+    "lon": -1.46685,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2233801",
+    "nom": "GC_Squiffiec",
+    "lat": 48.62448,
+    "lon": -3.17431,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3525204",
+    "nom": "GC_ST-AubindesLandes",
+    "lat": 48.10961,
+    "lon": -1.32099,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3527401",
+    "nom": "GC_ST-Germain-surIle",
+    "lat": 48.2395,
+    "lon": -1.65419,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3529603",
+    "nom": "GC_ST-Medardsur-Ille",
+    "lat": 48.27425,
+    "lon": -1.66766,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2232701",
+    "nom": "GC_ST-Samson-suRance",
+    "lat": 48.49613,
+    "lon": -2.00369,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2926606",
+    "nom": "GC_STThegoncLocEguin",
+    "lat": 48.49423,
+    "lon": -3.94848,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2205007",
+    "nom": "GC_T_Dinan_PL 11 nov",
+    "lat": 48.45667,
+    "lon": -2.05351,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3533303",
+    "nom": "GC_Theil-de-Bretagne",
+    "lat": 47.91883,
+    "lon": -1.43202,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923277",
+    "nom": "GC_T_Quimper",
+    "lat": 47.99446,
+    "lon": -4.09221,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3535207",
+    "nom": "GC_Vern",
+    "lat": 48.04699,
+    "lon": -1.59682,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3536017",
+    "nom": "GC_Vitre",
+    "lat": 48.12268,
+    "lon": -1.2119,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2238903",
+    "nom": "GC_Yffiniac",
+    "lat": 48.47041,
+    "lon": -2.65262,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3512401",
+    "nom": "Gd-Fougeray:D,masse",
+    "lat": 47.72505,
+    "lon": -1.71389,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2206201",
+    "nom": "Gomene:N 164",
+    "lat": 48.19804,
+    "lon": -2.48227,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3515209",
+    "nom": "GOSNE 1",
+    "lat": 48.23569,
+    "lon": -1.48621,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3512104",
+    "nom": "GOSNE 2",
+    "lat": 48.24684,
+    "lon": -1.436,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2906001",
+    "nom": "Gouesnach:Hent kerjo",
+    "lat": 47.925,
+    "lon": -4.08222,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2906101",
+    "nom": "Gouesnou:Kergontes",
+    "lat": 48.45746,
+    "lon": -4.47754,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5606501",
+    "nom": "Gourhel ZA Bois Vert",
+    "lat": 47.9326,
+    "lon": -2.36791,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2206701",
+    "nom": "GRACES Kerbost",
+    "lat": 48.53732,
+    "lon": -3.16771,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2206702",
+    "nom": "Graces Kereven",
+    "lat": 48.52793,
+    "lon": -3.19309,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3527808",
+    "nom": "GREGOIREPierre2",
+    "lat": 48.15376,
+    "lon": -1.67831,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3527809",
+    "nom": "GREGOIREPierre4",
+    "lat": 48.15392,
+    "lon": -1.67857,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5607002",
+    "nom": "Guegon Poulbout",
+    "lat": 47.9389,
+    "lon": -2.62236,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5607003",
+    "nom": "Guegon Tregranteur",
+    "lat": 47.89816,
+    "lon": -2.54845,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5607301",
+    "nom": "Guemene-/Scorff:Ajon",
+    "lat": 48.07442,
+    "lon": -3.19578,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3512501",
+    "nom": "Guerche-de-bretagne",
+    "lat": 47.93393,
+    "lon": -1.22631,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5607501",
+    "nom": "Guer:L'Abbaye",
+    "lat": 47.91583,
+    "lon": -2.12306,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2906701",
+    "nom": "Guerlesquin:Stade",
+    "lat": 48.51833,
+    "lon": -3.59833,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5607503",
+    "nom": "Guer:les Vaux",
+    "lat": 47.90259,
+    "lon": -2.10953,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5607603",
+    "nom": "Guern Boderel",
+    "lat": 48.02385,
+    "lon": -3.04073,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5607507",
+    "nom": "GUER-SNI_0476",
+    "lat": 47.9408,
+    "lon": -2.13567,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5607502",
+    "nom": "Guer: ZA Val Coric",
+    "lat": 47.9304,
+    "lon": -2.12297,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2906002",
+    "nom": "Guesnach alternatif",
+    "lat": 47.91118,
+    "lon": -4.11507,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3512610",
+    "nom": "Guichen La Perrais",
+    "lat": 47.98962,
+    "lon": -1.78212,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3512611",
+    "nom": "GUICHEN La Rablais",
+    "lat": 47.98444,
+    "lon": -1.81725,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3512612",
+    "nom": "GUICHEN Pont Canut",
+    "lat": 47.94529,
+    "lon": -1.828,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2906801",
+    "nom": "Guiclan Kermat",
+    "lat": 48.51736,
+    "lon": -3.99931,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5607901",
+    "nom": "Guillac:Beausoleil",
+    "lat": 47.94014,
+    "lon": -2.50212,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5607903",
+    "nom": "GUILLAC-Gruchettes",
+    "lat": 47.91633,
+    "lon": -2.46512,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5607904",
+    "nom": "Guillac Le Clos Neuf",
+    "lat": 47.94006,
+    "lon": -2.46379,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5608002",
+    "nom": "Guilliers Les Orgons",
+    "lat": 48.02122,
+    "lon": -2.4214,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2907301",
+    "nom": "Guimaec Keroudot",
+    "lat": 48.67237,
+    "lon": -3.66547,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2207001",
+    "nom": "Guingamp:Castel Pic",
+    "lat": 48.56889,
+    "lon": -3.15167,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2907503",
+    "nom": "GUIPAVAS",
+    "lat": 48.42167,
+    "lon": -4.38639,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2907552",
+    "nom": "Guipavas KerarcHalet",
+    "lat": 48.41092,
+    "lon": -4.36795,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3512803",
+    "nom": "GUIPEL_2",
+    "lat": 48.29863,
+    "lon": -1.73751,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3512802",
+    "nom": "Guipel Ville Mouet",
+    "lat": 48.2893,
+    "lon": -1.71015,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3517605",
+    "nom": "Guippry-M Ferrandais",
+    "lat": 47.79319,
+    "lon": -1.83011,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3517608",
+    "nom": "GuipryMessac Bonabry",
+    "lat": 47.82728,
+    "lon": -1.81034,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3517609",
+    "nom": "GUIPRY MESS Treguily",
+    "lat": 47.81196,
+    "lon": -1.83794,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2907801",
+    "nom": "Hanvec:Penanvoas",
+    "lat": 48.3075,
+    "lon": -4.19649,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2907803",
+    "nom": "HANVEC Roudouhir",
+    "lat": 48.34212,
+    "lon": -4.13391,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2207701",
+    "nom": "Henansal:D768",
+    "lat": 48.52812,
+    "lon": -2.42114,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5608304",
+    "nom": "Hennebont Kergroix",
+    "lat": 47.8124,
+    "lon": -3.26647,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2907902",
+    "nom": "HENVIC_ZR",
+    "lat": 48.63087,
+    "lon": -3.92951,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513109",
+    "nom": "HERMITAGESource1",
+    "lat": 48.12445,
+    "lon": -1.80901,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513110",
+    "nom": "HERMITAGESource10",
+    "lat": 48.12435,
+    "lon": -1.809,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513111",
+    "nom": "HERMITAGESource12",
+    "lat": 48.12426,
+    "lon": -1.80865,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513112",
+    "nom": "HERMITAGESource2",
+    "lat": 48.12467,
+    "lon": -1.81015,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513113",
+    "nom": "HERMITAGESource3",
+    "lat": 48.12431,
+    "lon": -1.80873,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513114",
+    "nom": "HERMITAGESource4",
+    "lat": 48.12462,
+    "lon": -1.81012,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513115",
+    "nom": "HERMITAGESource6",
+    "lat": 48.12447,
+    "lon": -1.80986,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513116",
+    "nom": "HERMITAGESource8",
+    "lat": 48.12427,
+    "lon": -1.80925,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2208103",
+    "nom": "HILLION_ZR",
+    "lat": 48.48018,
+    "lon": -2.62196,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513304",
+    "nom": "IFFENDIC 1",
+    "lat": 48.15586,
+    "lon": -1.98452,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513303",
+    "nom": "Iffendic Barricade",
+    "lat": 48.074,
+    "lon": -1.98958,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513305",
+    "nom": "IFFENDIC_HAUT_COUT",
+    "lat": 48.09946,
+    "lon": -1.98421,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513301",
+    "nom": "Iffendic:la gree",
+    "lat": 48.12028,
+    "lon": -2.04417,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2908602",
+    "nom": "Irvillac Keranguinal",
+    "lat": 48.34154,
+    "lon": -4.23185,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2908601",
+    "nom": "Irvillac:Lesvreach",
+    "lat": 48.36458,
+    "lon": -4.2469,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902703",
+    "nom": "ITA_ChateauneufDuFao",
+    "lat": 48.1825,
+    "lon": -3.80028,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5607508",
+    "nom": "ITA_Guer2",
+    "lat": 47.91585,
+    "lon": -2.12311,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5612403",
+    "nom": "ITA_Malestroit",
+    "lat": 47.80333,
+    "lon": -2.39556,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505129",
+    "nom": "ITA_RennesCessonSev",
+    "lat": 48.09602,
+    "lon": -1.59057,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2928902",
+    "nom": "ITA_Tregarvan",
+    "lat": 48.24722,
+    "lon": -4.22333,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513604",
+    "nom": "JANZE 1",
+    "lat": 47.94042,
+    "lon": -1.48013,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5609101",
+    "nom": "Josselin:St-Laurent",
+    "lat": 47.94924,
+    "lon": -2.5479,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2208401",
+    "nom": "Jugon-les-Lacs",
+    "lat": 48.41109,
+    "lon": -2.32643,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923508",
+    "nom": "KERHUONCornouaill135",
+    "lat": 48.40183,
+    "lon": -4.40116,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923509",
+    "nom": "KERHUONCornouaille30",
+    "lat": 48.40209,
+    "lon": -4.4017,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923510",
+    "nom": "KERHUONCornouaille70",
+    "lat": 48.4019,
+    "lon": -4.40149,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923511",
+    "nom": "KERHUONCornouaille85",
+    "lat": 48.40177,
+    "lon": -4.4018,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923512",
+    "nom": "KERHUONCourbes22",
+    "lat": 48.40523,
+    "lon": -4.39034,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923513",
+    "nom": "KERHUONKerhorres2",
+    "lat": 48.40605,
+    "lon": -4.39011,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923515",
+    "nom": "KERHUONPort2",
+    "lat": 48.40536,
+    "lon": -4.39061,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923514",
+    "nom": "KERHUONVictoire1",
+    "lat": 48.406,
+    "lon": -4.39127,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2208801",
+    "nom": "Kerien",
+    "lat": 48.41444,
+    "lon": -3.20833,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2909503",
+    "nom": "Kersaint P Kerverzit",
+    "lat": 48.46203,
+    "lon": -4.37978,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5609405",
+    "nom": "Kervignac A Careme",
+    "lat": 47.78846,
+    "lon": -3.23073,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5609402",
+    "nom": "Kervignac:Braigno",
+    "lat": 47.7975,
+    "lon": -3.25194,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5609403",
+    "nom": "KERVIGNAC:KERMARIA",
+    "lat": 47.76388,
+    "lon": -3.24674,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3501801",
+    "nom": "La Bazouge du desert",
+    "lat": 48.43647,
+    "lon": -1.10786,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3503402",
+    "nom": "La Boussac Touchais",
+    "lat": 48.52076,
+    "lon": -1.62697,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505801",
+    "nom": "LA CHAPELLE CHAUSSEE",
+    "lat": 48.26667,
+    "lon": -1.85,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3506301",
+    "nom": "La Chapelle St Auber",
+    "lat": 48.31865,
+    "lon": -1.31359,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2203902",
+    "nom": "La Cheze Sepfaut",
+    "lat": 48.13704,
+    "lon": -2.66667,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5605002",
+    "nom": "LA_CROIX_HELLEAN",
+    "lat": 47.95403,
+    "lon": -2.51174,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2905605",
+    "nom": "LA FOREST2",
+    "lat": 48.43689,
+    "lon": -4.28953,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2905604",
+    "nom": "La Forest Landern 1",
+    "lat": 48.43988,
+    "lon": -4.28256,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5606801",
+    "nom": "La Gree St Laurent",
+    "lat": 47.99932,
+    "lon": -2.50266,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513907",
+    "nom": "LAILLEJour25",
+    "lat": 47.9785,
+    "lon": -1.71562,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2209702",
+    "nom": "La Landec Bouban",
+    "lat": 48.43357,
+    "lon": -2.16627,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2914401",
+    "nom": "La Martyre",
+    "lat": 48.43694,
+    "lon": -4.18833,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2209301",
+    "nom": "Lamballe:Camping",
+    "lat": 48.47444,
+    "lon": -2.50778,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2209302",
+    "nom": "Lamballe:clos neuf",
+    "lat": 48.45412,
+    "lon": -2.49736,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2209315",
+    "nom": "LAMBALLE La Lande",
+    "lat": 48.46131,
+    "lon": -2.5613,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2209317",
+    "nom": "LAMBALLE LandeBoinet",
+    "lat": 48.48878,
+    "lon": -2.4653,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2215501",
+    "nom": "LA MOTTE",
+    "lat": 48.24016,
+    "lon": -2.762,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2909708",
+    "nom": "Lampaul Cosquer Bras",
+    "lat": 48.49351,
+    "lon": -4.07569,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2909706",
+    "nom": "Lampaul-G Coat Escop",
+    "lat": 48.50028,
+    "lon": -4.04729,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2909707",
+    "nom": "Lampaul-G Traon ar V",
+    "lat": 48.49951,
+    "lon": -4.02413,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3514201",
+    "nom": "Landean champ carre",
+    "lat": 48.42937,
+    "lon": -1.14222,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528120",
+    "nom": "LANDEBlosne38A",
+    "lat": 48.09024,
+    "lon": -1.69721,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528129",
+    "nom": "LANDEBlosne38B",
+    "lat": 48.09013,
+    "lon": -1.69678,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528130",
+    "nom": "LANDEBlosne38C",
+    "lat": 48.0899,
+    "lon": -1.69615,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2209701",
+    "nom": "Landec:chanteloup",
+    "lat": 48.43042,
+    "lon": -2.17222,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528121",
+    "nom": "LANDEFusilles21",
+    "lat": 48.09094,
+    "lon": -1.69644,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528122",
+    "nom": "LANDEFusilles23",
+    "lat": 48.09105,
+    "lon": -1.69663,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528123",
+    "nom": "LANDEGaulle18",
+    "lat": 48.07978,
+    "lon": -1.71806,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528124",
+    "nom": "LANDEIris2",
+    "lat": 48.07983,
+    "lon": -1.71912,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2910202",
+    "nom": "Landeleau PeityRaoul",
+    "lat": 48.21819,
+    "lon": -3.707,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528127",
+    "nom": "LANDEPilate49",
+    "lat": 48.09097,
+    "lon": -1.6968,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528128",
+    "nom": "LANDEPilate51",
+    "lat": 48.09064,
+    "lon": -1.6971,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2910301",
+    "nom": "Landerneau:Bel-Air",
+    "lat": 48.45935,
+    "lon": -4.26253,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2918101",
+    "nom": "Landerneau:Plouedern",
+    "lat": 48.48333,
+    "lon": -4.25972,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2910502",
+    "nom": "Landivisiau:ZI Keriv",
+    "lat": 48.517,
+    "lon": -4.05235,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3514401",
+    "nom": "LANGAN",
+    "lat": 48.23861,
+    "lon": -1.85008,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3514501",
+    "nom": "Langon",
+    "lat": 47.71056,
+    "lon": -1.90028,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5610001",
+    "nom": "LANGONNET",
+    "lat": 48.11099,
+    "lon": -3.49178,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2210609",
+    "nom": "Langueux:Grignons",
+    "lat": 48.49508,
+    "lon": -2.72681,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2210603",
+    "nom": "LANGUEUX-Pare studio",
+    "lat": 48.49806,
+    "lon": -2.7315,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5610105",
+    "nom": "Languidic Branderion",
+    "lat": 47.82125,
+    "lon": -3.21529,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5610108",
+    "nom": "Languidic F Bodery",
+    "lat": 47.86698,
+    "lon": -3.07004,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5610107",
+    "nom": "Languidic LannMenhir",
+    "lat": 47.85421,
+    "lon": -3.12085,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2911601",
+    "nom": "Lanneufret Kerantra",
+    "lat": 48.49314,
+    "lon": -4.20345,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2911702",
+    "nom": "Lannilis l image 2",
+    "lat": 48.57135,
+    "lon": -4.50683,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2211301",
+    "nom": "Lannion:Beg-Ar-Land",
+    "lat": 48.7259,
+    "lon": -3.47565,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2211326",
+    "nom": "LANNION-St Marc 2",
+    "lat": 48.73475,
+    "lon": -3.43919,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5610201",
+    "nom": "Lanouee:Pissoue",
+    "lat": 47.96444,
+    "lon": -2.56226,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3514802",
+    "nom": "Lanrigan Les Rosais",
+    "lat": 48.38788,
+    "lon": -1.69982,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2911904",
+    "nom": "Lanrivoare Keribin",
+    "lat": 48.46008,
+    "lon": -4.64127,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2211902",
+    "nom": "LANVELLEC An Clozo",
+    "lat": 48.59233,
+    "lon": -3.51496,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5610502",
+    "nom": "Lanvenegen Alternati",
+    "lat": 47.99816,
+    "lon": -3.54241,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5610503",
+    "nom": "LanvenegenKerbrestou",
+    "lat": 47.99719,
+    "lon": -3.533,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5610501",
+    "nom": "Lanvenegen villeneuv",
+    "lat": 48.00616,
+    "lon": -3.53673,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5610704",
+    "nom": "LarmorPlage Kervihan",
+    "lat": 47.71541,
+    "lon": -3.39003,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923704",
+    "nom": "LA ROCHE-MAURICE",
+    "lat": 48.47453,
+    "lon": -4.20914,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3535801",
+    "nom": "LaVille Es Nonais_RF",
+    "lat": 48.54018,
+    "lon": -1.97,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5626103",
+    "nom": "LA VRAIECROIX borger",
+    "lat": 47.68748,
+    "lon": -2.50367,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2904001",
+    "nom": "LE CONQUET",
+    "lat": 48.35424,
+    "lon": -4.78009,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5604501",
+    "nom": "Le Cours Grde Loge",
+    "lat": 47.76265,
+    "lon": -2.53735,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5605701",
+    "nom": "Le Faouet:Er Ster",
+    "lat": 48.04707,
+    "lon": -3.49334,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3515702",
+    "nom": "Le Loroux Huard",
+    "lat": 48.39195,
+    "lon": -1.07142,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3521701",
+    "nom": "LE_PERTRE_TGV",
+    "lat": 48.01589,
+    "lon": -1.06198,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2901993",
+    "nom": "LE RELECQ KERUHON_RF",
+    "lat": 48.39,
+    "lon": -4.4,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3524006",
+    "nom": "Le Rheu:Clos Meles",
+    "lat": 48.08704,
+    "lon": -1.78517,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3524008",
+    "nom": "Le Rheu La Glehuais",
+    "lat": 48.092,
+    "lon": -1.77169,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2912401",
+    "nom": "Lesneven:Kerlaouen",
+    "lat": 48.57151,
+    "lon": -4.33314,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3533304",
+    "nom": "LE THEIL_D_B Tidiere",
+    "lat": 47.91644,
+    "lon": -1.41591,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2238703",
+    "nom": "Le Vx Marche Lannec",
+    "lat": 48.60927,
+    "lon": -3.43653,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513108",
+    "nom": "L'Hermitage",
+    "lat": 48.12701,
+    "lon": -1.83309,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513107",
+    "nom": "L HERMITAGE2",
+    "lat": 48.12509,
+    "lon": -1.81431,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3515211",
+    "nom": "LIFFRE2",
+    "lat": 48.20975,
+    "lon": -1.52311,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3515201",
+    "nom": "Liffre : CMA TDF",
+    "lat": 48.19639,
+    "lon": -1.48611,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3515208",
+    "nom": "Liffre: lande beauge",
+    "lat": 48.23569,
+    "lon": -1.48621,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3515210",
+    "nom": "Liffre le Boulais",
+    "lat": 48.1942,
+    "lon": -1.52625,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5611201",
+    "nom": "LIZIO",
+    "lat": 47.85231,
+    "lon": -2.53207,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2912802",
+    "nom": "Loc-Eguiner",
+    "lat": 48.49412,
+    "lon": -4.09769,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5611301",
+    "nom": "Locmalo Ajoncs",
+    "lat": 48.07475,
+    "lon": -3.19423,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5611702",
+    "nom": "Locmine-Bouillerie",
+    "lat": 47.88035,
+    "lon": -2.83182,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5611704",
+    "nom": "Locmine J Moulin",
+    "lat": 47.88045,
+    "lon": -2.83069,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2913501",
+    "nom": "Loctudy:Glevian",
+    "lat": 47.82709,
+    "lon": -4.17169,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3515601",
+    "nom": "Longaulnay",
+    "lat": 48.30167,
+    "lon": -1.93778,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5612136",
+    "nom": "Lorient Alphonse Rio",
+    "lat": 47.73025,
+    "lon": -3.36337,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5612138",
+    "nom": "LORIENTBusson3",
+    "lat": 47.75282,
+    "lon": -3.35941,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5612139",
+    "nom": "LORIENTBusson5",
+    "lat": 47.75292,
+    "lon": -3.35959,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5612124",
+    "nom": "Lorient-Cassard",
+    "lat": 47.7381,
+    "lon": -3.38039,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5603601",
+    "nom": "Lorient:Caudan",
+    "lat": 47.79167,
+    "lon": -3.32028,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5612101",
+    "nom": "Lorient:Guemene",
+    "lat": 47.74601,
+    "lon": -3.35682,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5609401",
+    "nom": "Lorient:Kervignac",
+    "lat": 47.75861,
+    "lon": -3.28861,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5616201",
+    "nom": "Lorient:Ploemeur",
+    "lat": 47.74944,
+    "lon": -3.39778,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5612137",
+    "nom": "Lorient St Armel",
+    "lat": 47.7645,
+    "lon": -3.38149,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2213301",
+    "nom": "LOSCOUET SUR MEU_RF",
+    "lat": 48.20124,
+    "lon": -2.24379,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2213401",
+    "nom": "LOUANNEC",
+    "lat": 48.78848,
+    "lon": -3.39784,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3516102",
+    "nom": "LOUVIGNE_BAIS_TGV",
+    "lat": 48.05567,
+    "lon": -1.34544,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5612303",
+    "nom": "Malansac Ville Allo",
+    "lat": 47.67852,
+    "lon": -2.25532,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5612401",
+    "nom": "Malestroit:Solon",
+    "lat": 47.80361,
+    "lon": -2.39583,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528838",
+    "nom": "MALOBasseRoux16",
+    "lat": 48.67758,
+    "lon": -1.97863,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528825",
+    "nom": "MALOBeaulieu22",
+    "lat": 48.65307,
+    "lon": -1.97986,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528826",
+    "nom": "MALOBeaulieu24",
+    "lat": 48.65349,
+    "lon": -1.98001,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528837",
+    "nom": "MALOBeaulieu26",
+    "lat": 48.65291,
+    "lon": -1.97962,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528828",
+    "nom": "MALOBeaulieu28",
+    "lat": 48.65283,
+    "lon": -1.97982,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528829",
+    "nom": "MALOChenes4",
+    "lat": 48.6561,
+    "lon": -1.97977,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528830",
+    "nom": "MALOChenes6",
+    "lat": 48.65601,
+    "lon": -1.97972,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528831",
+    "nom": "MALOChenes8",
+    "lat": 48.65574,
+    "lon": -1.9795,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528832",
+    "nom": "MALOComptoirs40",
+    "lat": 48.62768,
+    "lon": -1.99446,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528833",
+    "nom": "MALOManoir18",
+    "lat": 48.62856,
+    "lon": -1.99473,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528834",
+    "nom": "MALORuellan48",
+    "lat": 48.65601,
+    "lon": -1.98053,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528835",
+    "nom": "MALORuellan50",
+    "lat": 48.65608,
+    "lon": -1.98031,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528836",
+    "nom": "MALORuellan52",
+    "lat": 48.65614,
+    "lon": -1.98007,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3516402",
+    "nom": "MARCILLE_RAOUL",
+    "lat": 48.38695,
+    "lon": -1.61054,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3516703",
+    "nom": "MARTIGNE-FERCHAUD1",
+    "lat": 47.85585,
+    "lon": -1.34482,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3516704",
+    "nom": "Martigne-F Matz",
+    "lat": 47.805,
+    "lon": -1.2935,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5612602",
+    "nom": "Marzan Parc Michaud",
+    "lat": 47.54067,
+    "lon": -2.35607,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3517304",
+    "nom": "MELESSE Grd Champs",
+    "lat": 48.23347,
+    "lon": -1.65766,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2914601",
+    "nom": "Melgven:ZA Kerampaou",
+    "lat": 47.89278,
+    "lon": -3.79862,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3517402",
+    "nom": "Melle Launay",
+    "lat": 48.49916,
+    "lon": -1.19043,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5613001",
+    "nom": "MERLEVENEZ",
+    "lat": 47.73014,
+    "lon": -3.22721,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3517501",
+    "nom": "Mernel:bel air",
+    "lat": 47.89583,
+    "lon": -1.98611,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3516706",
+    "nom": "M-Ferchaud La Balue",
+    "lat": 47.855,
+    "lon": -1.34488,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2907601",
+    "nom": "Milizac-Guipronvel",
+    "lat": 48.49172,
+    "lon": -4.58121,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3517904",
+    "nom": "MiniacMorvan Beliere",
+    "lat": 48.4865,
+    "lon": -1.91074,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3517905",
+    "nom": "MiniacMorvan le Beau",
+    "lat": 48.50764,
+    "lon": -1.90455,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3517901",
+    "nom": "Miniac morvan:za 35",
+    "lat": 48.53537,
+    "lon": -1.915,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5613401",
+    "nom": "MOHON",
+    "lat": 48.06099,
+    "lon": -2.50293,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3518409",
+    "nom": "Montauban_Bretagne",
+    "lat": 48.21199,
+    "lon": -2.10925,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3518408",
+    "nom": "MONTAUBAN BRETAGNE2",
+    "lat": 48.17868,
+    "lon": -2.02588,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3518603",
+    "nom": "Mont Dol La Portrais",
+    "lat": 48.56746,
+    "lon": -1.7759,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5613701",
+    "nom": "Monterblanc",
+    "lat": 47.72,
+    "lon": -2.68667,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3518703",
+    "nom": "MONTERFIL_RF",
+    "lat": 48.06771,
+    "lon": -1.97919,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5613901",
+    "nom": "MONTERTELOT Bruyeres",
+    "lat": 47.88197,
+    "lon": -2.4117,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3519102",
+    "nom": "MONTOURS",
+    "lat": 48.44004,
+    "lon": -1.31266,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3519601",
+    "nom": "Mordelles:sermon",
+    "lat": 48.07417,
+    "lon": -1.83028,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5614001",
+    "nom": "Moreac:Kerrozet",
+    "lat": 47.90218,
+    "lon": -2.80613,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2915124",
+    "nom": "MORLAIXAulnes2",
+    "lat": 48.58602,
+    "lon": -3.81462,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2915125",
+    "nom": "MORLAIXCedres13",
+    "lat": 48.58614,
+    "lon": -3.81299,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2915126",
+    "nom": "MORLAIXCourbet8",
+    "lat": 48.58808,
+    "lon": -3.81521,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2915127",
+    "nom": "MORLAIXErables10",
+    "lat": 48.58683,
+    "lon": -3.81394,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2915101",
+    "nom": "Morlaix:Le Creou",
+    "lat": 48.57973,
+    "lon": -3.82651,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2915123",
+    "nom": "Morlaix le Creou 2",
+    "lat": 48.57958,
+    "lon": -3.82639,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2915122",
+    "nom": "Morlaix Pelodeyer",
+    "lat": 48.58906,
+    "lon": -3.79607,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2920701",
+    "nom": "Morlaix:Plourin",
+    "lat": 48.56096,
+    "lon": -3.82095,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2915128",
+    "nom": "Morlaix T Prigent",
+    "lat": 48.58796,
+    "lon": -3.8197,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5614102",
+    "nom": "Moustoir'ac:LOG -OP",
+    "lat": 47.82013,
+    "lon": -2.88485,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2215802",
+    "nom": "Mur-de-bretagne",
+    "lat": 48.21145,
+    "lon": -2.99895,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2215801",
+    "nom": "Mur de Bretagne",
+    "lat": 48.21778,
+    "lon": -2.99722,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5614502",
+    "nom": "Neant sur Y:Moulinet",
+    "lat": 48.017,
+    "lon": -2.33678,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5614503",
+    "nom": "Neant/Yvel Ormeau",
+    "lat": 48.01598,
+    "lon": -2.33705,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5614602",
+    "nom": "Neuillac Kerallain",
+    "lat": 48.1358,
+    "lon": -2.97616,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5614752",
+    "nom": "Nivillac La Roche B",
+    "lat": 47.51975,
+    "lon": -2.28086,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5614753",
+    "nom": "Nivilliac Sauvage",
+    "lat": 47.51121,
+    "lon": -2.27117,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5614803",
+    "nom": "Nostang Parc Crane",
+    "lat": 47.77531,
+    "lon": -3.1846,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3520604",
+    "nom": "NOYAL CHATI-SNI_5875",
+    "lat": 48.03313,
+    "lon": -1.66553,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5615103",
+    "nom": "Noyal Pontivy Menec",
+    "lat": 48.07061,
+    "lon": -2.87558,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3520705",
+    "nom": "NOYAL_SUD_TGV",
+    "lat": 48.09266,
+    "lon": -1.5268,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3520710",
+    "nom": "Noyal-sur-Vilaine",
+    "lat": 48.12039,
+    "lon": -1.53371,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3520709",
+    "nom": "Noyal/Vilaine Patis",
+    "lat": 48.07806,
+    "lon": -1.51178,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3520803",
+    "nom": "Orgeres Hermitiere",
+    "lat": 47.9596,
+    "lon": -1.6812,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3509603",
+    "nom": "OSSE_BIS_TGV",
+    "lat": 48.06394,
+    "lon": -1.41892,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3520901",
+    "nom": "OSSE_TGV",
+    "lat": 48.06245,
+    "lon": -1.46282,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3521010",
+    "nom": "Pace J-B Guerin",
+    "lat": 48.14425,
+    "lon": -1.77009,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3521011",
+    "nom": "Pace la Garenne",
+    "lat": 48.15682,
+    "lon": -1.76203,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2216201",
+    "nom": "Paimpol:Parc Langen",
+    "lat": 48.75898,
+    "lon": -3.03861,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2221001",
+    "nom": "Paimpol:Ploubazlanec",
+    "lat": 48.79972,
+    "lon": -3.0475,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3521101",
+    "nom": "Paimpont",
+    "lat": 48.02556,
+    "lon": -2.21639,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5615201",
+    "nom": "Palais (Le):Ste-Croi",
+    "lat": 47.3468,
+    "lon": -3.15892,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2216301",
+    "nom": "Paule:Bellevue",
+    "lat": 48.21556,
+    "lon": -3.46056,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2216302",
+    "nom": "Paule kerleran 1",
+    "lat": 48.26397,
+    "lon": -3.45865,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5615301",
+    "nom": "PEAULE",
+    "lat": 47.57434,
+    "lon": -2.36561,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2216404",
+    "nom": "PEDERNEC 1",
+    "lat": 48.58849,
+    "lon": -3.29817,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2216401",
+    "nom": "Pedernec:keranguer",
+    "lat": 48.58083,
+    "lon": -3.24889,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2216403",
+    "nom": "Pedernec Treglamus",
+    "lat": 48.57254,
+    "lon": -3.2862,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2216801",
+    "nom": "Perros-Guirec",
+    "lat": 48.81806,
+    "lon": -3.43722,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3521901",
+    "nom": "Pipriac:lande hinois",
+    "lat": 47.78306,
+    "lon": -1.91917,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2207010",
+    "nom": "PKGUINGAMPmarne",
+    "lat": 48.55569,
+    "lon": -3.14341,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5612140",
+    "nom": "PKLORIENTGahinet",
+    "lat": 47.74167,
+    "lon": -3.35376,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2915130",
+    "nom": "PKMORLAIXROUSSEAU",
+    "lat": 48.57834,
+    "lon": -3.8353,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2915129",
+    "nom": "PKMORLAIXSNCF",
+    "lat": 48.57758,
+    "lon": -3.83348,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923290",
+    "nom": "PKPOITIERSAchardSol",
+    "lat": 46.57975,
+    "lon": 0.33181,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923291",
+    "nom": "PKQUIMPERgare",
+    "lat": 47.99446,
+    "lon": -4.09271,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528843",
+    "nom": "PKSTBourse",
+    "lat": 48.64631,
+    "lon": -2.0249,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2227823",
+    "nom": "PKSTCharner",
+    "lat": 48.50756,
+    "lon": -2.7632,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528846",
+    "nom": "PKSTCLEMENCEAU",
+    "lat": 48.64086,
+    "lon": -2.01978,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528839",
+    "nom": "PKSTConti",
+    "lat": 48.64708,
+    "lon": -2.00508,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528847",
+    "nom": "PKSTFeval",
+    "lat": 48.64343,
+    "lon": -1.99416,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528842",
+    "nom": "PKSTLouis",
+    "lat": 48.64744,
+    "lon": -2.02356,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528840",
+    "nom": "PKSTSILLON",
+    "lat": 48.6519,
+    "lon": -2.02056,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528845",
+    "nom": "PKSTTabarly",
+    "lat": 48.64394,
+    "lon": -2.02259,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528844",
+    "nom": "PKSTTrouin",
+    "lat": 48.65174,
+    "lon": -2.01623,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528841",
+    "nom": "PKSTVincent",
+    "lat": 48.64952,
+    "lon": -2.02291,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2236501",
+    "nom": "PKTREMARGATSNCF",
+    "lat": 48.46627,
+    "lon": -2.51154,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2217104",
+    "nom": "Plaintel Alternatif",
+    "lat": 48.409,
+    "lon": -2.82311,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2217101",
+    "nom": "Plaintel les coteaux",
+    "lat": 48.43278,
+    "lon": -2.80889,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2217102",
+    "nom": "Plaintel les tertres",
+    "lat": 48.409,
+    "lon": -2.8231,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2217201",
+    "nom": "Plancoet:Brandefert",
+    "lat": 48.51483,
+    "lon": -2.23322,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3522105",
+    "nom": "PLECHATE Brossais",
+    "lat": 47.88348,
+    "lon": -1.78062,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3522101",
+    "nom": "PLECHATEL",
+    "lat": 47.88454,
+    "lon": -1.75179,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3522107",
+    "nom": "PLECHATEL Bouilleres",
+    "lat": 47.88647,
+    "lon": -1.74678,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3522301",
+    "nom": "Plelan-le-gd:josset,",
+    "lat": 48.02228,
+    "lon": -2.07465,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2218003",
+    "nom": "Plelan le Petit Ains",
+    "lat": 48.42063,
+    "lon": -2.23004,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2218208",
+    "nom": "Plelo quatre vents",
+    "lat": 48.56122,
+    "lon": -2.95331,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2218601",
+    "nom": "Pleneuf:Les Garennes",
+    "lat": 48.58581,
+    "lon": -2.55522,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3522404",
+    "nom": "PLERGUER_ZR",
+    "lat": 48.5274,
+    "lon": -1.838,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2218701",
+    "nom": "Plerin:La Combe",
+    "lat": 48.53056,
+    "lon": -2.82194,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2218703",
+    "nom": "Plerin:Viaduc",
+    "lat": 48.52417,
+    "lon": -2.75083,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5615803",
+    "nom": "PLESCOPPaix3",
+    "lat": 47.6888,
+    "lon": -2.79901,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2234601",
+    "nom": "Plessala:Bel Air",
+    "lat": 48.32222,
+    "lon": -2.58389,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2219401",
+    "nom": "Plestin-les-Greves",
+    "lat": 48.66694,
+    "lon": -3.59306,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2219402",
+    "nom": "Plestin-l-greves:p,",
+    "lat": 48.65213,
+    "lon": -3.62337,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2218004",
+    "nom": "PLETAN LE PETIT_RF",
+    "lat": 48.43,
+    "lon": -2.2,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3522602",
+    "nom": "Pleugeuneuc Clairaie",
+    "lat": 48.42562,
+    "lon": -1.89239,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5616002",
+    "nom": "Pleugriffet Pinguily",
+    "lat": 47.98426,
+    "lon": -2.6948,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2219803",
+    "nom": "Pleumeur-Bodou",
+    "lat": 48.77278,
+    "lon": -3.52,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2220103",
+    "nom": "Plevenon Peregras",
+    "lat": 48.66042,
+    "lon": -2.30634,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2916203",
+    "nom": "PLEYBEN Kroaz Ru",
+    "lat": 48.21898,
+    "lon": -4.01668,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2916308",
+    "nom": "PLEYBER-CHRIST2",
+    "lat": 48.53774,
+    "lon": -3.86877,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2916301",
+    "nom": "Pleyber-Christ:parme",
+    "lat": 48.51028,
+    "lon": -3.87889,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5616202",
+    "nom": "Ploemeur:Keradean",
+    "lat": 47.72556,
+    "lon": -3.40444,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5616302",
+    "nom": "Ploerdut Kermarrec",
+    "lat": 48.09778,
+    "lon": -3.2812,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5616402",
+    "nom": "PLOEREN",
+    "lat": 47.66389,
+    "lon": -2.86889,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5616405",
+    "nom": "Ploeren:Etouffreau",
+    "lat": 47.66141,
+    "lon": -2.79998,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5616503",
+    "nom": "Ploermel:Camaillon",
+    "lat": 47.91674,
+    "lon": -2.39098,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5616502",
+    "nom": "Ploermel:Le Harda",
+    "lat": 47.91139,
+    "lon": -2.36361,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5616506",
+    "nom": "Ploermel Ville Orhan",
+    "lat": 47.92541,
+    "lon": -2.33312,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2220301",
+    "nom": "Ploeuc/lie-d-'eglise",
+    "lat": 48.3525,
+    "lon": -2.75194,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2916802",
+    "nom": "PLOGOFF_2",
+    "lat": 48.03889,
+    "lon": -4.73212,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2916902",
+    "nom": "Plogonnec:Prat Youen",
+    "lat": 48.09028,
+    "lon": -4.19083,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2917301",
+    "nom": "PLONEIS",
+    "lat": 48.02118,
+    "lon": -4.23065,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2917302",
+    "nom": "PLONEIS_kergreis",
+    "lat": 48.01675,
+    "lon": -4.18237,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2220601",
+    "nom": "Plouagat:lande ker,",
+    "lat": 48.53292,
+    "lon": -3.014,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2220705",
+    "nom": "Plouaret",
+    "lat": 48.5881,
+    "lon": -3.49614,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2917701",
+    "nom": "Plouarzel:Kerleac'h",
+    "lat": 48.45044,
+    "lon": -4.7364,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2917705",
+    "nom": "Plouarzel Le Rheum",
+    "lat": 48.42945,
+    "lon": -4.6915,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2221003",
+    "nom": "Ploubazlanec:l'alle,",
+    "lat": 48.7972,
+    "lon": -3.04969,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2221002",
+    "nom": "Ploubazlanec:Loguivy",
+    "lat": 48.81833,
+    "lon": -3.06083,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2918001",
+    "nom": "PLOUDIRY",
+    "lat": 48.48838,
+    "lon": -4.13059,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2918002",
+    "nom": "Ploudiry Grall",
+    "lat": 48.45787,
+    "lon": -4.13933,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2918104",
+    "nom": "PLOUEDERN_RF",
+    "lat": 48.49,
+    "lon": -4.22,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2918103",
+    "nom": "Plouedern ZI Keriel",
+    "lat": 48.48847,
+    "lon": -4.25749,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2918304",
+    "nom": "PLouegat-M Kervian",
+    "lat": 48.58109,
+    "lon": -3.63917,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2918305",
+    "nom": "PLOUEGAT-MOYSAN2",
+    "lat": 48.57589,
+    "lon": -3.59175,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2918401",
+    "nom": "Plouenan:Kerbiniou",
+    "lat": 48.63318,
+    "lon": -3.9914,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2918502",
+    "nom": "Plouescat:ZA Kergris",
+    "lat": 48.66193,
+    "lon": -4.18732,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2221403",
+    "nom": "Plouezec Petit Train",
+    "lat": 48.73898,
+    "lon": -2.97118,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2221508",
+    "nom": "Ploufragan Chapelle",
+    "lat": 48.45579,
+    "lon": -2.80273,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2918902",
+    "nom": "Plougastel:Keralcun",
+    "lat": 48.33303,
+    "lon": -4.39516,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2918903",
+    "nom": "Plougastel -OP",
+    "lat": 48.35116,
+    "lon": -4.40309,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923501",
+    "nom": "Plougastel:Relecq",
+    "lat": 48.40694,
+    "lon": -4.41722,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2919001",
+    "nom": "Plougonvelin:lannou",
+    "lat": 48.35056,
+    "lon": -4.72293,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2911401",
+    "nom": "Plougonven Lanneanou",
+    "lat": 48.48381,
+    "lon": -3.68234,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2221903",
+    "nom": "PLOUGUENAST:Touchett",
+    "lat": 48.28907,
+    "lon": -2.70634,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2222002",
+    "nom": "Plouguernevel:n°36",
+    "lat": 48.24556,
+    "lon": -3.25111,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902412",
+    "nom": "PLOUGUERQuijeau20",
+    "lat": 48.27405,
+    "lon": -3.56737,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2902413",
+    "nom": "PLOUGUERQuijeau6",
+    "lat": 48.27389,
+    "lon": -3.56851,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2222101",
+    "nom": "Plouguiel:parc turgl",
+    "lat": 48.80109,
+    "lon": -3.23653,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5616907",
+    "nom": "Plouhinec Cordanguy",
+    "lat": 47.67502,
+    "lon": -3.22315,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2919911",
+    "nom": "PLOUIGNEAU2",
+    "lat": 48.56602,
+    "lon": -3.71399,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2919916",
+    "nom": "PLOUIGNEAU 2 _RF",
+    "lat": 48.58018,
+    "lon": -3.65,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2919912",
+    "nom": "Plouigneau Coat Don",
+    "lat": 48.54935,
+    "lon": -3.65062,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2919915",
+    "nom": "Plouigneau Kerdiles",
+    "lat": 48.57755,
+    "lon": -3.72067,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2919908",
+    "nom": "Plouigneau Kerg_SALT",
+    "lat": 48.58389,
+    "lon": -3.76236,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2919913",
+    "nom": "Plouigneau Kersroff",
+    "lat": 48.55788,
+    "lon": -3.70803,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2919903",
+    "nom": "Plouigneau:Lancazin",
+    "lat": 48.57349,
+    "lon": -3.67417,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2919918",
+    "nom": "Plouigneau Pendon",
+    "lat": 48.54919,
+    "lon": -3.68005,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2919902",
+    "nom": "Plouigneau:Toulgoat",
+    "lat": 48.58004,
+    "lon": -3.76862,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2919917",
+    "nom": "PLOUIGNEAU_ZR",
+    "lat": 48.54809,
+    "lon": -3.67986,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2222304",
+    "nom": "Plouisy Le Lannec",
+    "lat": 48.56312,
+    "lon": -3.18818,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2222301",
+    "nom": "Plouisy:parc ar gro,",
+    "lat": 48.56362,
+    "lon": -3.18769,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2222503",
+    "nom": "PLOUMAGOAR",
+    "lat": 48.54818,
+    "lon": -3.06,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2222502",
+    "nom": "Ploumagoar D712",
+    "lat": 48.54246,
+    "lon": -3.07546,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2222702",
+    "nom": "Plounerin 4 Chemins",
+    "lat": 48.56831,
+    "lon": -3.56246,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2222706",
+    "nom": "Plounerin Kergoat Br",
+    "lat": 48.56774,
+    "lon": -3.57974,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2222705",
+    "nom": "PLounerin m A Rousse",
+    "lat": 48.58812,
+    "lon": -3.54895,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2222703",
+    "nom": "Plounerin PosteNeuve",
+    "lat": 48.56334,
+    "lon": -3.51638,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2920402",
+    "nom": "PLOUNEVENTER 1",
+    "lat": 48.48901,
+    "lon": -4.16779,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5617001",
+    "nom": "PLOURAY-Kerpallec",
+    "lat": 48.13069,
+    "lon": -3.34731,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2920801",
+    "nom": "PLOURIN",
+    "lat": 48.50134,
+    "lon": -4.68733,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2920702",
+    "nom": "Plourin-les-Morlaix",
+    "lat": 48.53365,
+    "lon": -3.7829,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2223403",
+    "nom": "PLOUVARA",
+    "lat": 48.51406,
+    "lon": -2.92616,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2921252",
+    "nom": "PLOUZANEKroas-Salio1",
+    "lat": 48.38001,
+    "lon": -4.60306,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2921253",
+    "nom": "PLOUZANEKroas-Salio2",
+    "lat": 48.37988,
+    "lon": -4.60294,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2921254",
+    "nom": "PLOUZANEKroas-Salio3",
+    "lat": 48.37989,
+    "lon": -4.60275,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2921255",
+    "nom": "PLOUZANEKroas-Salio4",
+    "lat": 48.38001,
+    "lon": -4.60258,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2921256",
+    "nom": "PLOUZANEKroas-Salio5",
+    "lat": 48.38035,
+    "lon": -4.60262,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2921257",
+    "nom": "PLOUZANEKroas-Salio6",
+    "lat": 48.38012,
+    "lon": -4.6023,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2921258",
+    "nom": "PLOUZANEKroas-Salio7",
+    "lat": 48.38002,
+    "lon": -4.60204,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5617306",
+    "nom": "Plumeliau-B Menez",
+    "lat": 47.98281,
+    "lon": -2.98056,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5617301",
+    "nom": "Plumeliau:Kermaniec",
+    "lat": 47.96972,
+    "lon": -3.0325,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5617302",
+    "nom": "Plumeliau:Stade",
+    "lat": 47.96091,
+    "lon": -2.97667,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5617402",
+    "nom": "PLUMELIN_KERANNA",
+    "lat": 47.89265,
+    "lon": -2.87239,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5617401",
+    "nom": "Plumelin Kerichelard",
+    "lat": 47.8919,
+    "lon": -2.88344,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5617704",
+    "nom": "PLUVIGNER Talhouet",
+    "lat": 47.75277,
+    "lon": -3.03013,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5617703",
+    "nom": "PLUVIGNER_ZR",
+    "lat": 47.79522,
+    "lon": -3.01205,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3523101",
+    "nom": "Poligne La Noirie",
+    "lat": 47.89014,
+    "lon": -1.69089,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2224604",
+    "nom": "Pommeret la Cloture",
+    "lat": 48.47591,
+    "lon": -2.61759,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2224801",
+    "nom": "Pommerit-le-vicomte",
+    "lat": 48.62316,
+    "lon": -3.13066,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2921752",
+    "nom": "Pont-Aven Bossulan",
+    "lat": 47.88535,
+    "lon": -3.74906,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2930210",
+    "nom": "PONT DE BUIS LesQ_ZR",
+    "lat": 48.30628,
+    "lon": -4.10479,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5617809",
+    "nom": "Pontivy Felix Robo",
+    "lat": 48.06294,
+    "lon": -2.94432,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5617801",
+    "nom": "Pontivy:Kerousse",
+    "lat": 48.08258,
+    "lon": -2.9659,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5624601",
+    "nom": "Pontivy:Le Sourn",
+    "lat": 48.05583,
+    "lon": -3.00694,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2225001",
+    "nom": "Pontrieux:Keremarc'h",
+    "lat": 48.69972,
+    "lon": -3.15194,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2922152",
+    "nom": "Porspoder Messoudalc",
+    "lat": 48.50349,
+    "lon": -4.75225,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2922701",
+    "nom": "POULLAOUEN",
+    "lat": 48.33917,
+    "lon": -3.63642,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2921701",
+    "nom": "Pt-Aven:Bois d'A,",
+    "lat": 47.85889,
+    "lon": -3.74667,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2930202",
+    "nom": "Pt-Buis-L:LOG -OP",
+    "lat": 48.25444,
+    "lon": -4.08944,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2919701",
+    "nom": "Pt-Croix:Plouhinec",
+    "lat": 48.03278,
+    "lon": -4.48083,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2930203",
+    "nom": "Pt-de-Buis:Golves",
+    "lat": 48.25671,
+    "lon": -4.08035,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2930205",
+    "nom": "Pt-de-Buis-Quimerc'h",
+    "lat": 48.25444,
+    "lon": -4.08944,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3536301",
+    "nom": "Pt-Pean:gde betuauda",
+    "lat": 48.00616,
+    "lon": -1.71069,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3523405",
+    "nom": "Quedillac Ranleon",
+    "lat": 48.22115,
+    "lon": -2.14099,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2225801",
+    "nom": "Quessoy:du stade",
+    "lat": 48.41813,
+    "lon": -2.66341,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2225804",
+    "nom": "Quessoy Esperance",
+    "lat": 48.44415,
+    "lon": -2.64636,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2225803",
+    "nom": "Quessoy La Roche",
+    "lat": 48.44112,
+    "lon": -2.69656,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5618408",
+    "nom": "Questembert:Oceane",
+    "lat": 47.67084,
+    "lon": -2.4493,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5618504",
+    "nom": "Queven Kevillien",
+    "lat": 47.77679,
+    "lon": -3.45146,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923282",
+    "nom": "QUIMPERBatz10",
+    "lat": 47.98547,
+    "lon": -4.08605,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923283",
+    "nom": "QUIMPERBatz12",
+    "lat": 47.98541,
+    "lon": -4.08504,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923284",
+    "nom": "QUIMPERBatz2",
+    "lat": 47.98538,
+    "lon": -4.08444,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923285",
+    "nom": "QUIMPERBatz4",
+    "lat": 47.98541,
+    "lon": -4.08438,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923286",
+    "nom": "QUIMPERBatz6",
+    "lat": 47.98507,
+    "lon": -4.08444,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923287",
+    "nom": "QUIMPERBatz8",
+    "lat": 47.98521,
+    "lon": -4.0845,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923201",
+    "nom": "Quimper:Brizeux",
+    "lat": 47.99418,
+    "lon": -4.11397,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923206",
+    "nom": "Quimper:Croaz-Caer",
+    "lat": 48.0275,
+    "lon": -4.13278,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923288",
+    "nom": "QUIMPERd'Houat1",
+    "lat": 47.9852,
+    "lon": -4.08525,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923289",
+    "nom": "QUIMPERd'Houat3",
+    "lat": 47.98521,
+    "lon": -4.08506,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923278",
+    "nom": "Quimper:FB BreizIzel",
+    "lat": 47.97231,
+    "lon": -4.09574,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923301",
+    "nom": "Quimperle:J, Public",
+    "lat": 47.86861,
+    "lon": -3.54556,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923208",
+    "nom": "Quimper:le-Merdy",
+    "lat": 47.97894,
+    "lon": -4.12375,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2929751",
+    "nom": "Quimperle:Tremeven",
+    "lat": 47.89694,
+    "lon": -3.51889,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923303",
+    "nom": "Quimperle:ty Bordeau",
+    "lat": 47.86348,
+    "lon": -3.55111,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923207",
+    "nom": "Quimper:Parc Expo",
+    "lat": 48.01194,
+    "lon": -4.10111,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923275",
+    "nom": "Quimper:PhareEckmuhl",
+    "lat": 48.01417,
+    "lon": -4.08451,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923209",
+    "nom": "Quimper:Ty Sanquer",
+    "lat": 48.04,
+    "lon": -4.06889,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2227704",
+    "nom": "Quintin Cardry2",
+    "lat": 48.39441,
+    "lon": -2.91154,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923401",
+    "nom": "Redene:ty lann",
+    "lat": 47.86431,
+    "lon": -3.47346,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3523601",
+    "nom": "Redon:Beaumont",
+    "lat": 47.65853,
+    "lon": -2.09251,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923507",
+    "nom": "Relecq_Plougastel",
+    "lat": 48.40466,
+    "lon": -4.41486,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3523701",
+    "nom": "Renac:comm, catfeon",
+    "lat": 47.72222,
+    "lon": -1.96222,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3523865",
+    "nom": "Rennes-campus-studio",
+    "lat": 48.11889,
+    "lon": -1.70167,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505103",
+    "nom": "Rennes:Cesson",
+    "lat": 48.09699,
+    "lon": -1.58289,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3523809",
+    "nom": "Rennes:Janvier",
+    "lat": 48.10833,
+    "lon": -1.6725,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3523807",
+    "nom": "Rennes:l'Eperon",
+    "lat": 48.10527,
+    "lon": -1.67949,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528118",
+    "nom": "Rennes Metro LB SJC",
+    "lat": 48.09641,
+    "lon": -1.69839,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528117",
+    "nom": "Rennes Metro LB SJG",
+    "lat": 48.09223,
+    "lon": -1.70313,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528119",
+    "nom": "Rennes Metro LB T1",
+    "lat": 48.09401,
+    "lon": -1.7001,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3523810",
+    "nom": "Rennes:OPAC",
+    "lat": 48.1181,
+    "lon": -1.69093,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3530703",
+    "nom": "Rennes:St-Pern",
+    "lat": 48.28806,
+    "lon": -1.95917,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505509",
+    "nom": "RENNES STUDIO NRJ",
+    "lat": 48.09926,
+    "lon": -1.61782,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3533503",
+    "nom": "Rennes:Thourie",
+    "lat": 47.85513,
+    "lon": -1.4862,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923601",
+    "nom": "Riec/Belon:Liziou",
+    "lat": 47.87684,
+    "lon": -3.64179,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923653",
+    "nom": "Riec / Belon Liziou2",
+    "lat": 47.87497,
+    "lon": -3.63473,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5614701",
+    "nom": "Roche-Bernard (La)",
+    "lat": 47.5225,
+    "lon": -2.30028,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5619801",
+    "nom": "Rohan:St-Samson",
+    "lat": 48.06889,
+    "lon": -2.74583,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3524301",
+    "nom": "Romagne:hte moriere",
+    "lat": 48.35639,
+    "lon": -1.28083,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3524303",
+    "nom": "Romagne Mon Idee",
+    "lat": 48.35574,
+    "lon": -1.28175,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3524602",
+    "nom": "Roz-Landrieux",
+    "lat": 48.53112,
+    "lon": -1.78619,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2227821",
+    "nom": "Saint Brieuc:Chaptal",
+    "lat": 48.50724,
+    "lon": -2.73319,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2228301",
+    "nom": "SAINT-CLET",
+    "lat": 48.67222,
+    "lon": -3.11722,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528820",
+    "nom": "Saint Malo:Gare",
+    "lat": 48.64738,
+    "lon": -2.00365,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2927001",
+    "nom": "Saint Urbain Penbran",
+    "lat": 48.3835,
+    "lon": -4.23779,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2927401",
+    "nom": "Scaer",
+    "lat": 48.00333,
+    "lon": -3.69778,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3532301",
+    "nom": "Selle-en-cogles:Boul",
+    "lat": 48.45806,
+    "lon": -1.32667,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5624401",
+    "nom": "Serent:Malestroit",
+    "lat": 47.8225,
+    "lon": -2.49722,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3532707",
+    "nom": "Servon-sur-Vilaine",
+    "lat": 48.10233,
+    "lon": -1.44373,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3532701",
+    "nom": "Servon/Vilaine",
+    "lat": 48.1246,
+    "lon": -1.46562,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3532708",
+    "nom": "Serv/Vilaine Creuse",
+    "lat": 48.12697,
+    "lon": -1.46649,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2233703",
+    "nom": "SEVIGNAC St Cado",
+    "lat": 48.35821,
+    "lon": -2.31629,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505138",
+    "nom": "SEVIGNEPatissiaux2",
+    "lat": 48.11405,
+    "lon": -1.61623,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505139",
+    "nom": "SEVIGNERiviere2",
+    "lat": 48.11372,
+    "lon": -1.61968,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505140",
+    "nom": "SEVIGNERiviere3",
+    "lat": 48.11356,
+    "lon": -1.61939,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2927701",
+    "nom": "Sizun:ZA de bel air",
+    "lat": 48.39952,
+    "lon": -4.08389,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2927803",
+    "nom": "Spezet Coat Crenn",
+    "lat": 48.16952,
+    "lon": -3.63214,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2209316",
+    "nom": "ST_AARON",
+    "lat": 48.51178,
+    "lon": -2.49835,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5620301",
+    "nom": "St Aignan Botcol",
+    "lat": 48.18156,
+    "lon": -3.02019,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2227302",
+    "nom": "St_Alban_V_Cochard",
+    "lat": 48.56365,
+    "lon": -2.4816,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5620501",
+    "nom": "St-Armel:d'expl,20",
+    "lat": 47.55417,
+    "lon": -2.71165,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5620601",
+    "nom": "St-Ave :Kermelin",
+    "lat": 47.6789,
+    "lon": -2.73269,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5620608",
+    "nom": "St Ave Lescoudec",
+    "lat": 47.70199,
+    "lon": -2.70558,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5620701",
+    "nom": "St Barth Guerdoaric",
+    "lat": 47.93077,
+    "lon": -2.99848,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3525602",
+    "nom": "St Briac Belle Ville",
+    "lat": 48.6179,
+    "lon": -2.11648,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3525701",
+    "nom": "St-Brice-en-cogles",
+    "lat": 48.41655,
+    "lon": -1.3678,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2227804",
+    "nom": "St-brieuc:l'atlanti,",
+    "lat": 48.51694,
+    "lon": -2.79556,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2218704",
+    "nom": "St-Brieuc:Plerin SC",
+    "lat": 48.54833,
+    "lon": -2.79583,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2218702",
+    "nom": "St-Brieuc:Plerin VC",
+    "lat": 48.52639,
+    "lon": -2.76611,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2227902",
+    "nom": "St Caradec StLaurent",
+    "lat": 48.19337,
+    "lon": -2.86616,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2228201",
+    "nom": "St-Cast:Les Mielles",
+    "lat": 48.63704,
+    "lon": -2.25755,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2228204",
+    "nom": "St C Le Guildo Bouet",
+    "lat": 48.59732,
+    "lon": -2.24814,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5621102",
+    "nom": "ST CONGARD",
+    "lat": 47.76451,
+    "lon": -2.31841,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2924301",
+    "nom": "St Coulitz Keyryar",
+    "lat": 48.17045,
+    "lon": -4.06762,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3524802",
+    "nom": "ST-COULOMB",
+    "lat": 48.66701,
+    "lon": -1.90278,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3526403",
+    "nom": "St Didier Sibonniere",
+    "lat": 48.10515,
+    "lon": -1.33554,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5621201",
+    "nom": "St-Dolay:Garenne",
+    "lat": 47.54111,
+    "lon": -2.1475,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5621204",
+    "nom": "St Dolay La Fouee",
+    "lat": 47.54092,
+    "lon": -2.14716,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5612125",
+    "nom": "STD VIRGIN LORIENT",
+    "lat": 47.74528,
+    "lon": -3.36361,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2924601",
+    "nom": "ST ELOY Forsquilly",
+    "lat": 48.36138,
+    "lon": -4.15933,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2924753",
+    "nom": "St Evarzec Kermorvan",
+    "lat": 47.98212,
+    "lon": -3.98615,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2229001",
+    "nom": "St-gelven laneyer ro",
+    "lat": 48.21956,
+    "lon": -3.10046,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3524801",
+    "nom": "ST GEOR_REINTEMBAULT",
+    "lat": 48.51145,
+    "lon": -1.2511,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3527301",
+    "nom": "St Germain en Cogles",
+    "lat": 48.38609,
+    "lon": -1.30181,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3527506",
+    "nom": "ST GILLES-SNI_5653",
+    "lat": 48.1525,
+    "lon": -1.83008,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3527505",
+    "nom": "ST GILLES-SNI_5654",
+    "lat": 48.15283,
+    "lon": -1.83002,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3527601",
+    "nom": "St Gondran aux Aunay",
+    "lat": 48.2672,
+    "lon": -1.84292,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5621501",
+    "nom": "ST GONNERY_ZR",
+    "lat": 48.12762,
+    "lon": -2.82303,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3527810",
+    "nom": "St Gregoire Bernier",
+    "lat": 48.15411,
+    "lon": -1.6754,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5621901",
+    "nom": "St-Guyomard:-nouette",
+    "lat": 47.76987,
+    "lon": -2.47949,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2925001",
+    "nom": "St Hernin",
+    "lat": 48.22066,
+    "lon": -3.61931,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528114",
+    "nom": "ST JACQUES-SNI_5495",
+    "lat": 48.07755,
+    "lon": -1.71471,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5622101",
+    "nom": "St-Jacut-les-pins",
+    "lat": 47.66556,
+    "lon": -2.25056,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528406",
+    "nom": "St J des Gueret Alt",
+    "lat": 48.59912,
+    "lon": -1.97243,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5622201",
+    "nom": "St-Jean-brevelay",
+    "lat": 47.84056,
+    "lon": -2.72583,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2230402",
+    "nom": "ST J KERDANIEL_D712",
+    "lat": 48.53738,
+    "lon": -3.0307,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2230503",
+    "nom": "ST-JOUAN-DE-L'ISLE",
+    "lat": 48.26881,
+    "lon": -2.17619,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528401",
+    "nom": "St-Jouan-des-guerets",
+    "lat": 48.60427,
+    "lon": -1.95789,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2230901",
+    "nom": "St Launeuc Foeils",
+    "lat": 48.23179,
+    "lon": -2.38434,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528821",
+    "nom": "St Malo :G ferrie",
+    "lat": 48.639,
+    "lon": -1.98585,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528801",
+    "nom": "St-Malo:Hopital",
+    "lat": 48.63865,
+    "lon": -2.00765,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528803",
+    "nom": "St-Malo:Les Champs",
+    "lat": 48.6625,
+    "lon": -1.96472,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528822",
+    "nom": "St Malo:Peupleraie",
+    "lat": 48.6249,
+    "lon": -1.98975,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3529901",
+    "nom": "St-Malo:St-Meloir",
+    "lat": 48.6275,
+    "lon": -1.91583,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3528813",
+    "nom": "ST MALO:studio_RFM",
+    "lat": 48.64667,
+    "lon": -2.00833,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3529302",
+    "nom": "ST-MARC",
+    "lat": 48.2956,
+    "lon": -1.36474,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5622901",
+    "nom": "St Martin dur Oust",
+    "lat": 47.77489,
+    "lon": -2.22277,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2231601",
+    "nom": "St-Mayeux",
+    "lat": 48.25833,
+    "lon": -3.02972,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3529602",
+    "nom": "St Medard sur Ille",
+    "lat": 48.28585,
+    "lon": -1.66804,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3529701",
+    "nom": "St-Meen-le-grand",
+    "lat": 48.18829,
+    "lon": -2.18167,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2231701",
+    "nom": "St Meloir des Bois",
+    "lat": 48.45605,
+    "lon": -2.24792,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2231702",
+    "nom": "St Meloir Raffray",
+    "lat": 48.42098,
+    "lon": -2.26815,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2231901",
+    "nom": "St-Michel-en-Greve",
+    "lat": 48.68833,
+    "lon": -3.56694,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2232101",
+    "nom": "St-nicolas-du-pelem",
+    "lat": 48.31667,
+    "lon": -3.17,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2925601",
+    "nom": "St-Nic:Pentrez",
+    "lat": 48.19931,
+    "lon": -4.30489,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5623107",
+    "nom": "ST NOLFF_ZR",
+    "lat": 47.68578,
+    "lon": -2.6494,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5623203",
+    "nom": "St Perreux La Verie",
+    "lat": 47.67265,
+    "lon": -2.13394,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3530801",
+    "nom": "St-Pierre-de-Plesgue",
+    "lat": 48.43694,
+    "lon": -1.92444,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2926004",
+    "nom": "St Renan Atelier",
+    "lat": 48.42488,
+    "lon": -4.60757,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2911901",
+    "nom": "St-Renan:Lanrivoare",
+    "lat": 48.44411,
+    "lon": -4.63184,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2926001",
+    "nom": "St-Renan:pendoullic",
+    "lat": 48.44523,
+    "lon": -4.6142,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2926005",
+    "nom": "St Renan rue Brest",
+    "lat": 48.42955,
+    "lon": -4.6215,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2926102",
+    "nom": "ST RIVOAL",
+    "lat": 48.3575,
+    "lon": -3.96129,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2232702",
+    "nom": "ST SAMSON / RANCE_ZR",
+    "lat": 48.49742,
+    "lon": -2.00905,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3531001",
+    "nom": "ST-SAUVEUR 1",
+    "lat": 48.32175,
+    "lon": -1.30947,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2926607",
+    "nom": "St Thegonnec Marques",
+    "lat": 48.49031,
+    "lon": -3.95432,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3531901",
+    "nom": "St-Thurial:ZA Chatel",
+    "lat": 48.04167,
+    "lon": -1.92528,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3532001",
+    "nom": "St-Uniac Lezenach",
+    "lat": 48.17429,
+    "lon": -2.0178,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2927102",
+    "nom": "St Vougay",
+    "lat": 48.58798,
+    "lon": -4.15388,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2927204",
+    "nom": "St Yvi Keramut",
+    "lat": 47.98043,
+    "lon": -3.97841,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2927904",
+    "nom": "TAULE_RF",
+    "lat": 48.59,
+    "lon": -3.89,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3505122",
+    "nom": "TDF Nord Ouest",
+    "lat": 48.1144,
+    "lon": -1.59088,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2928003",
+    "nom": "Telgruc: Menez Caon",
+    "lat": 48.22662,
+    "lon": -4.38082,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3533803",
+    "nom": "TORCE_BIS_TGV",
+    "lat": 48.05765,
+    "lon": -1.26608,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3533802",
+    "nom": "TORCE_TGV",
+    "lat": 48.05787,
+    "lon": -1.30811,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3533806",
+    "nom": "TORCE_ZR",
+    "lat": 48.0519,
+    "lon": -1.23737,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2234106",
+    "nom": "TRAMAIN",
+    "lat": 48.40288,
+    "lon": -2.39062,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2234104",
+    "nom": "Tramain le Chateau",
+    "lat": 48.40065,
+    "lon": -2.41592,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2234304",
+    "nom": "Trebeurden Cabouton",
+    "lat": 48.76615,
+    "lon": -3.57056,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2234602",
+    "nom": "Tredaniel",
+    "lat": 48.32583,
+    "lon": -2.59028,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5625401",
+    "nom": "Tredion",
+    "lat": 47.7981,
+    "lon": -2.58561,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2234901",
+    "nom": "Tredrez-Locquemeau",
+    "lat": 48.72525,
+    "lon": -3.58339,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2928401",
+    "nom": "Treffiagat:stang an",
+    "lat": 47.80602,
+    "lon": -4.27083,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5625503",
+    "nom": "TREFFLEAN:PradMarais",
+    "lat": 47.69325,
+    "lon": -2.61381,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2928901",
+    "nom": "Tregarvan:Bel-Air",
+    "lat": 48.24667,
+    "lon": -4.22444,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2235403",
+    "nom": "Treglamus Kerbleust",
+    "lat": 48.56775,
+    "lon": -3.22417,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2235902",
+    "nom": "TREGROM",
+    "lat": 48.60402,
+    "lon": -3.3966,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2236001",
+    "nom": "Tregueux",
+    "lat": 48.48138,
+    "lon": -2.74125,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2236005",
+    "nom": "TREGUEUX N12",
+    "lat": 48.48142,
+    "lon": -2.69511,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2234701",
+    "nom": "Treguier:Tredarzec",
+    "lat": 48.79418,
+    "lon": -3.21497,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5625601",
+    "nom": "TREHORENTEUC",
+    "lat": 47.99459,
+    "lon": -2.3079,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2236401",
+    "nom": "Trelivan:la jeannaie",
+    "lat": 48.44028,
+    "lon": -2.08739,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2236403",
+    "nom": "TRELIVAN_RF",
+    "lat": 48.44018,
+    "lon": -2.12,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3534103",
+    "nom": "TREMBLAY-3031",
+    "lat": 48.41841,
+    "lon": -1.38878,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3534102",
+    "nom": "TREMBLAY-3033",
+    "lat": 48.4184,
+    "lon": -1.3888,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2236902",
+    "nom": "TREMEUR 2",
+    "lat": 48.34759,
+    "lon": -2.27521,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2237105",
+    "nom": "Tremorel Glairus",
+    "lat": 48.19639,
+    "lon": -2.33614,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2237101",
+    "nom": "Tremorel:ville au b,",
+    "lat": 48.19834,
+    "lon": -2.29777,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2237202",
+    "nom": "Tremuson St Trillac",
+    "lat": 48.52585,
+    "lon": -2.86894,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3534701",
+    "nom": "VAL-D'IZE",
+    "lat": 48.18371,
+    "lon": -1.32124,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5626040",
+    "nom": "VANNES-Favrel Lincy",
+    "lat": 47.66649,
+    "lon": -2.74845,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5606701",
+    "nom": "Vannes:Grand-Champ",
+    "lat": 47.75389,
+    "lon": -2.82139,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5614101",
+    "nom": "Vannes:Moustoir-Ac",
+    "lat": 47.82056,
+    "lon": -2.88556,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5626056",
+    "nom": "VANNES Petite Landes",
+    "lat": 47.6743,
+    "lon": -2.68944,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5616401",
+    "nom": "Vannes:Ploeren",
+    "lat": 47.65033,
+    "lon": -2.84538,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5626057",
+    "nom": "VANNESRenault3",
+    "lat": 47.65484,
+    "lon": -2.79058,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3535210",
+    "nom": "VERN/SEICHE Tournee",
+    "lat": 48.03128,
+    "lon": -1.60071,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3535502",
+    "nom": "VIEUX VY / COUESNON",
+    "lat": 48.33963,
+    "lon": -1.47041,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2238801",
+    "nom": "Vilde Guingalan",
+    "lat": 48.43471,
+    "lon": -2.16039,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3535901",
+    "nom": "Visseiche Haute Rame",
+    "lat": 47.9615,
+    "lon": -1.30167,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3536015",
+    "nom": "VITRE Bas Chalet",
+    "lat": 48.13544,
+    "lon": -1.22101,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3536001",
+    "nom": "Vitre:Beaulieu",
+    "lat": 48.13083,
+    "lon": -1.2175,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3536020",
+    "nom": "VITREChateaubriant37",
+    "lat": 48.11369,
+    "lon": -1.21035,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3536021",
+    "nom": "VITREChateaubriant39",
+    "lat": 48.1135,
+    "lon": -1.21011,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3536022",
+    "nom": "VITREChateaubriant41",
+    "lat": 48.11307,
+    "lon": -1.21007,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3536023",
+    "nom": "VITRE LEMAITRE",
+    "lat": 48.12204,
+    "lon": -1.21344,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3536003",
+    "nom": "Vitre:rue Plague",
+    "lat": 48.11917,
+    "lon": -1.19028,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3536019",
+    "nom": "Vitre: ZAC Ormeaux",
+    "lat": 48.13589,
+    "lon": -1.20921,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2238901",
+    "nom": "Yffiniac:Mln a Vent",
+    "lat": 48.48377,
+    "lon": -2.65757,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2239101",
+    "nom": "YVIGNAC-LA-TOUR",
+    "lat": 48.32489,
+    "lon": -2.19564,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3502304",
+    "nom": "ZRP_BEDEE",
+    "lat": 48.17101,
+    "lon": -1.91284,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3502404",
+    "nom": "ZRP_BETTON",
+    "lat": 48.18081,
+    "lon": -1.63501,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3504103",
+    "nom": "ZRP_BRIE (35)",
+    "lat": 47.97279,
+    "lon": -1.55157,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3510506",
+    "nom": "ZRP_ERBREE",
+    "lat": 48.08562,
+    "lon": -1.12324,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3512103",
+    "nom": "ZRP_GOSNE 2",
+    "lat": 48.25082,
+    "lon": -1.47442,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5607403",
+    "nom": "ZRP_GUENIN",
+    "lat": 47.89273,
+    "lon": -2.98641,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3512607",
+    "nom": "ZRP_GUICHEN",
+    "lat": 47.99397,
+    "lon": -1.75758,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5607807",
+    "nom": "ZRP_GUIDEL",
+    "lat": 47.80958,
+    "lon": -3.46173,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3517604",
+    "nom": "ZRP_GUIPRY-MESSAC",
+    "lat": 47.76736,
+    "lon": -1.84088,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5608601",
+    "nom": "ZRP_ILE D'HOUAT",
+    "lat": 47.38851,
+    "lon": -2.96167,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2208404",
+    "nom": "ZRP_JUGON-LES-LACS",
+    "lat": 48.38318,
+    "lon": -2.3619,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2905606",
+    "nom": "ZRP_LaForestLandern",
+    "lat": 48.42044,
+    "lon": -4.32513,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3511603",
+    "nom": "ZRP_LA FRESNAIS",
+    "lat": 48.58488,
+    "lon": -1.82228,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513905",
+    "nom": "ZRP_LAILLE2",
+    "lat": 47.96118,
+    "lon": -1.74229,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2214402",
+    "nom": "ZRP_LA MEAUGON 1",
+    "lat": 48.49892,
+    "lon": -2.85541,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2909705",
+    "nom": "ZRP_LAMPAUL-GUIMILI",
+    "lat": 48.48216,
+    "lon": -3.98926,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3514506",
+    "nom": "ZRP_LANGON",
+    "lat": 47.73619,
+    "lon": -1.85258,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3514801",
+    "nom": "ZRP_LANRIGAN",
+    "lat": 48.39199,
+    "lon": -1.69455,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3524007",
+    "nom": "ZRP_LE RHEU",
+    "lat": 48.08612,
+    "lon": -1.78485,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3513105",
+    "nom": "ZRP_L'HERMITAGE",
+    "lat": 48.12694,
+    "lon": -1.83032,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2213504",
+    "nom": "ZRP_LOUARGAT",
+    "lat": 48.55423,
+    "lon": -3.35875,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2213506",
+    "nom": "ZRP_LOUARGAT 1",
+    "lat": 48.59493,
+    "lon": -3.34876,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5612305",
+    "nom": "ZRP_MALANSAC",
+    "lat": 47.68378,
+    "lon": -2.25102,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3516705",
+    "nom": "ZRP_MartigneFerchaud",
+    "lat": 47.80306,
+    "lon": -1.30237,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2914703",
+    "nom": "ZRP_MELLAC",
+    "lat": 47.87035,
+    "lon": -3.59636,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3518404",
+    "nom": "ZRP_MONTAUBAN-DE-BR",
+    "lat": 48.21031,
+    "lon": -2.06667,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3518405",
+    "nom": "ZRP_MONTAUBAN-DE-BR3",
+    "lat": 48.1844,
+    "lon": -2.00317,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3519101",
+    "nom": "ZRP_MONTOURS_AIRE",
+    "lat": 48.44002,
+    "lon": -1.31261,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2915120",
+    "nom": "ZRP_MORLAIX",
+    "lat": 48.59541,
+    "lon": -3.81894,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5614303",
+    "nom": "ZRP_MUZILLAC",
+    "lat": 47.57536,
+    "lon": -2.52036,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5614304",
+    "nom": "ZRP_MUZILLAC2",
+    "lat": 47.54934,
+    "lon": -2.46287,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2915305",
+    "nom": "ZRP_NEVEZ 2",
+    "lat": 47.8082,
+    "lon": -3.75836,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5614802",
+    "nom": "ZRP_NOSTANG",
+    "lat": 47.7691,
+    "lon": -3.15952,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3521006",
+    "nom": "ZRP_PACE",
+    "lat": 48.14991,
+    "lon": -1.79352,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2217604",
+    "nom": "ZRP_PLEDRAN",
+    "lat": 48.44227,
+    "lon": -2.69628,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3522304",
+    "nom": "ZRP_PLELAN-LE-GRAND",
+    "lat": 47.96162,
+    "lon": -2.09098,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2218206",
+    "nom": "ZRP_PLELO",
+    "lat": 48.52343,
+    "lon": -2.86905,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2219302",
+    "nom": "ZRP_PLESTAN",
+    "lat": 48.4365,
+    "lon": -2.4699,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2219305",
+    "nom": "ZRP_PLESTAN2",
+    "lat": 48.43385,
+    "lon": -2.45985,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2918303",
+    "nom": "ZRP_PLOUEGAT-MOYSAN",
+    "lat": 48.5696,
+    "lon": -3.61905,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2918952",
+    "nom": "ZRP_PLOUGASTEL-DAOU",
+    "lat": 48.38007,
+    "lon": -4.39217,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2222852",
+    "nom": "ZRP_PLOUNEVEZ-MOEDE",
+    "lat": 48.55626,
+    "lon": -3.46393,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2222853",
+    "nom": "ZRP_PLOUNEVEZ-MOEDEC",
+    "lat": 48.55084,
+    "lon": -3.46599,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5617601",
+    "nom": "ZRP_PLUNERET",
+    "lat": 47.66952,
+    "lon": -2.94709,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3523102",
+    "nom": "ZRP_POLIGNE",
+    "lat": 47.88933,
+    "lon": -1.68918,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2930208",
+    "nom": "ZRP_PONT-DE-BUIS-LE",
+    "lat": 48.27774,
+    "lon": -4.11755,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5618002",
+    "nom": "ZRP_PORCARO",
+    "lat": 47.92504,
+    "lon": -2.18002,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3523403",
+    "nom": "ZRP_QUEDILLAC",
+    "lat": 48.22225,
+    "lon": -2.13823,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5618406",
+    "nom": "ZRP_QUESTEMBERT",
+    "lat": 47.6835,
+    "lon": -2.45372,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5618407",
+    "nom": "ZRP_QUESTEMBERT2",
+    "lat": 47.67591,
+    "lon": -2.40794,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923276",
+    "nom": "ZRP_QUIMPER",
+    "lat": 47.98803,
+    "lon": -4.02655,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2923452",
+    "nom": "ZRP_REDENE",
+    "lat": 47.8424,
+    "lon": -3.50003,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2230502",
+    "nom": "ZRP_SA-JOUAN-DE-L I",
+    "lat": 48.27281,
+    "lon": -2.17561,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3532705",
+    "nom": "ZRP_SERVON-SUR-VILA",
+    "lat": 48.10308,
+    "lon": -1.46276,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5620402",
+    "nom": "ZRP_ST-ALLOUESTRE",
+    "lat": 47.9131,
+    "lon": -2.74758,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2926501",
+    "nom": "ZRP_STE-SEVE",
+    "lat": 48.54369,
+    "lon": -3.89634,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3527303",
+    "nom": "ZRP_StGermain_Cogles",
+    "lat": 48.38768,
+    "lon": -1.30456,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3527507",
+    "nom": "ZRP_ST-GILLES_AIRE",
+    "lat": 48.16793,
+    "lon": -1.87004,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5622105",
+    "nom": "ZRP_ST-JACUT-LES-PI",
+    "lat": 47.67956,
+    "lon": -2.20932,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5623105",
+    "nom": "ZRP_ST-NOLFF",
+    "lat": 47.70561,
+    "lon": -2.61861,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5623106",
+    "nom": "ZRP_ST-NOLFF2",
+    "lat": 47.70661,
+    "lon": -2.66381,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3530803",
+    "nom": "ZRP_ST-PIERRE-DE-PLE",
+    "lat": 48.46342,
+    "lon": -1.91268,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2926302",
+    "nom": "ZRP_ST-SEGAL",
+    "lat": 48.24011,
+    "lon": -4.10534,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3531202",
+    "nom": "ZRP_ST-SENOUX",
+    "lat": 47.89204,
+    "lon": -1.78481,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3531203",
+    "nom": "ZRP_ST-SENOUX2",
+    "lat": 47.9236,
+    "lon": -1.76827,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "2926802",
+    "nom": "ZRP_ST-THONAN",
+    "lat": 48.47738,
+    "lon": -4.31358,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "5624802",
+    "nom": "ZRP_SURZUR",
+    "lat": 47.59836,
+    "lon": -2.57946,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3533804",
+    "nom": "ZRP_TORCE",
+    "lat": 48.07558,
+    "lon": -1.28043,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3534002",
+    "nom": "ZRP_TREFFENDEL",
+    "lat": 48.03265,
+    "lon": -1.98481,
+    "equipe": "ZC NO BRETAGNE"
+  },
+  {
+    "ig": "3536018",
+    "nom": "ZRP_VITRE 3",
+    "lat": 48.12003,
+    "lon": -1.22184,
+    "equipe": "ZC NO BRETAGNE"
+  }
+]
