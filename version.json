@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-08-09",
+  "lastUpdate": "2026-10-10",
   "baseUrl": "https://raw.githubusercontent.com/pacbak/FindIt-Data/main/",
   "files": {
     "national": "data_national.json",
