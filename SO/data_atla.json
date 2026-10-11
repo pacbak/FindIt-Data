@@ -1,0 +1,7947 @@
+[
+  {
+    "ig": "3300104",
+    "nom": "ABZAC1",
+    "lat": 45.01645,
+    "lon": -0.15763,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3300105",
+    "nom": "ABZAC:Fontenelle2",
+    "lat": 45.00676,
+    "lon": -0.12036,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7900503",
+    "nom": "AIRVAULT 1",
+    "lat": 46.81982,
+    "lon": -0.09064,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1600902",
+    "nom": "AMBERNAC_CHERONNIES",
+    "lat": 45.95814,
+    "lon": 0.57681,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3300403",
+    "nom": "AMBES:Foura",
+    "lat": 45.01427,
+    "lon": -0.54072,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3300402",
+    "nom": "Ambes:Paul",
+    "lat": 45.01171,
+    "lon": -0.5373,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7900902",
+    "nom": "AMURE",
+    "lat": 46.24484,
+    "lon": -0.59005,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3300552",
+    "nom": "ANDERNOS:Querquillas",
+    "lat": 44.7781,
+    "lon": -1.04641,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1700801",
+    "nom": "ANDILLY 2",
+    "lat": 46.27901,
+    "lon": -1.03641,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1700901",
+    "nom": "ANGLIERS_LONGEVES",
+    "lat": 46.21542,
+    "lon": -0.97712,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1601501",
+    "nom": "Angouleme1:Pt-Beaur",
+    "lat": 45.64028,
+    "lon": 0.15528,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1601502",
+    "nom": "Angouleme2:Gd-Font",
+    "lat": 45.65492,
+    "lon": 0.16969,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1601519",
+    "nom": "Angouleme:E Escalier",
+    "lat": 45.6539,
+    "lon": 0.16659,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1601504",
+    "nom": "Angouleme pac chaume",
+    "lat": 45.63472,
+    "lon": 0.17015,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1634801",
+    "nom": "Angouleme:Saturnin",
+    "lat": 45.66556,
+    "lon": 0.03472,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1601555",
+    "nom": "ANGOULEME TASSIGNY",
+    "lat": 45.65423,
+    "lon": 0.16563,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1621002",
+    "nom": "ANNAPURNA_MARSAC",
+    "lat": 45.72199,
+    "lon": 0.09227,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1601601",
+    "nom": "Ansac pac bois lacan",
+    "lat": 45.98573,
+    "lon": 0.60358,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606602",
+    "nom": "Antran",
+    "lat": 46.90472,
+    "lon": 0.52639,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8600701",
+    "nom": "Antran_Pac17",
+    "lat": 46.86663,
+    "lon": 0.52204,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1601701",
+    "nom": "Anville",
+    "lat": 45.83489,
+    "lon": -0.13441,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3300703",
+    "nom": "ARBANATS",
+    "lat": 44.67448,
+    "lon": -0.39556,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3300704",
+    "nom": "ARBANATS:Artigues",
+    "lat": 44.66813,
+    "lon": -0.41204,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3300905",
+    "nom": "Arcachon:Camicas",
+    "lat": 44.64744,
+    "lon": -1.1641,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3300901",
+    "nom": "Arcachon-Etoile",
+    "lat": 44.65139,
+    "lon": -1.17222,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3300954",
+    "nom": "Arcachon-Ozil",
+    "lat": 44.64501,
+    "lon": -1.18631,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3323601",
+    "nom": "Arcachon:Piraillan",
+    "lat": 44.70753,
+    "lon": -1.23138,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1701501",
+    "nom": "ARCES",
+    "lat": 45.55625,
+    "lon": -0.86361,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1701653",
+    "nom": "ARCHIAC_EB_OF",
+    "lat": 45.52168,
+    "lon": -0.30193,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3301103",
+    "nom": "Ares:La Saussouze",
+    "lat": 44.82047,
+    "lon": -1.11867,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3301101",
+    "nom": "Ares:zone artisanale",
+    "lat": 44.775,
+    "lon": -1.12083,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7930501",
+    "nom": "Argenton-Chateau",
+    "lat": 46.97944,
+    "lon": -0.44083,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3301201",
+    "nom": "Arsac le pacage 1",
+    "lat": 44.97361,
+    "lon": -0.72667,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1701901",
+    "nom": "Ars-en-Re",
+    "lat": 46.21457,
+    "lon": -1.53493,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1702001",
+    "nom": "ARTHENAC_ARCHIAC",
+    "lat": 45.51789,
+    "lon": -0.31001,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3301301",
+    "nom": "Artigues-pres-Bordea",
+    "lat": 44.85306,
+    "lon": -0.49889,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1702152",
+    "nom": "ARVERT_SUB_OF",
+    "lat": 45.74148,
+    "lon": -1.12374,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3301505",
+    "nom": "ARVEYRES",
+    "lat": 44.88751,
+    "lon": -0.28541,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3301501",
+    "nom": "Arveyres cantelaude,",
+    "lat": 44.88047,
+    "lon": -0.30272,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3301506",
+    "nom": "Arveyres_SALT",
+    "lat": 44.88114,
+    "lon": -0.30283,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1601904",
+    "nom": "ASNIERES_S_NOUERE_S",
+    "lat": 45.70925,
+    "lon": 0.06694,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1601901",
+    "nom": "Asnieres-sur-Nou",
+    "lat": 45.72757,
+    "lon": 0.0607,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1702401",
+    "nom": "Aulnay",
+    "lat": 46.03207,
+    "lon": -0.34599,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1702402",
+    "nom": "AULNAY_CDO",
+    "lat": 46.04333,
+    "lon": -0.36149,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3302102",
+    "nom": "Auros-Castets",
+    "lat": 44.49654,
+    "lon": -0.14397,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1602401",
+    "nom": "AUSSAC-VADALLE",
+    "lat": 45.82737,
+    "lon": 0.19377,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8601404",
+    "nom": "AVAILLES",
+    "lat": 46.75654,
+    "lon": 0.5787,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7902201",
+    "nom": "Availles-Thouarsais",
+    "lat": 46.8602,
+    "lon": -0.13336,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3302202",
+    "nom": "AVENSAN",
+    "lat": 45.04363,
+    "lon": -0.73613,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3302201",
+    "nom": "Avensan la herreyre",
+    "lat": 45.02056,
+    "lon": -0.78742,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1702855",
+    "nom": "AYTRE",
+    "lat": 46.13869,
+    "lon": -1.10026,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1702852",
+    "nom": "Aytre: Pascal",
+    "lat": 46.13236,
+    "lon": -1.09861,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1602501",
+    "nom": "Baignes-Ste-Radegond",
+    "lat": 45.37069,
+    "lon": -0.22675,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1602503",
+    "nom": "BAIGNES_ST_RADEGONDE",
+    "lat": 45.34889,
+    "lon": -0.21166,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1703001",
+    "nom": "Balanzac pac b,grill",
+    "lat": 45.74528,
+    "lon": -0.85542,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1703101",
+    "nom": "Ballans-Macqueville",
+    "lat": 45.8043,
+    "lon": -0.21438,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1602601",
+    "nom": "Balzac:fougerouses",
+    "lat": 45.72476,
+    "lon": 0.15034,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1602852",
+    "nom": "BARBEZIEUX",
+    "lat": 45.46962,
+    "lon": -0.15556,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1602801",
+    "nom": "Barbezieux st hilair",
+    "lat": 45.45759,
+    "lon": -0.1581,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7916402",
+    "nom": "Base de Maisonnay",
+    "lat": 46.19264,
+    "lon": -0.05388,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303208",
+    "nom": "Bassens-Francais",
+    "lat": 44.89811,
+    "lon": -0.53169,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303209",
+    "nom": "Bassens-Michelin",
+    "lat": 44.91417,
+    "lon": -0.52197,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303601",
+    "nom": "Bazas",
+    "lat": 44.45101,
+    "lon": -0.2349,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303603",
+    "nom": "Bazas_SALT",
+    "lat": 44.45101,
+    "lon": -0.2349,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7902801",
+    "nom": "BEAULIEU_ BRESSUIRE",
+    "lat": 46.87763,
+    "lon": -0.53104,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7902802",
+    "nom": "BEAULIEU_S_BRESSUIRE",
+    "lat": 46.87756,
+    "lon": -0.53085,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8601903",
+    "nom": "BEAUMONT3",
+    "lat": 46.73993,
+    "lon": 0.47515,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7903154",
+    "nom": "BEAUVOIR_S_NIORT",
+    "lat": 46.17306,
+    "lon": -0.46462,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7903101",
+    "nom": "Beauvoir-sur-Niort",
+    "lat": 46.17218,
+    "lon": -0.5056,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1703802",
+    "nom": "BEDENAC",
+    "lat": 45.18652,
+    "lon": -0.31534,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303801",
+    "nom": "BEGADAN",
+    "lat": 45.36406,
+    "lon": -0.92982,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303914",
+    "nom": "Begles:Cachin",
+    "lat": 44.81006,
+    "lon": -0.54335,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303915",
+    "nom": "Begles:Pomade",
+    "lat": 44.804,
+    "lon": -0.56629,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303910",
+    "nom": "BEGLES-SNI_5756",
+    "lat": 44.79122,
+    "lon": -0.5629,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303918",
+    "nom": "BEGLES:Std WIT FM",
+    "lat": 44.81268,
+    "lon": -0.55379,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303916",
+    "nom": "Belges:Preche",
+    "lat": 44.80904,
+    "lon": -0.54319,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3304252",
+    "nom": "BELIN-BELIET:Blanc",
+    "lat": 44.42841,
+    "lon": -0.81781,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3304204",
+    "nom": "BELIN BELIET-Le Guit",
+    "lat": 44.49902,
+    "lon": -0.77399,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1704101",
+    "nom": "Benon les combes 2",
+    "lat": 46.22056,
+    "lon": -0.8125,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1704402",
+    "nom": "BERNEUIL_A10",
+    "lat": 45.63279,
+    "lon": -0.61474,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3304603",
+    "nom": "Bernos-Beaulac",
+    "lat": 44.39015,
+    "lon": -0.23893,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3304601",
+    "nom": "Bernos-beaulac lart,",
+    "lat": 44.38361,
+    "lon": -0.24528,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3304701",
+    "nom": "Berson au barail 2",
+    "lat": 45.10889,
+    "lon": -0.57389,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7903402",
+    "nom": "BESSINE_TER",
+    "lat": 46.28113,
+    "lon": -0.5021,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3304901",
+    "nom": "BEYCHAC ET CAILLAU",
+    "lat": 44.87613,
+    "lon": -0.39558,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3305002",
+    "nom": "Bieujac menaubayle",
+    "lat": 44.53139,
+    "lon": -0.14,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3305106",
+    "nom": "BIGANOS",
+    "lat": 44.62649,
+    "lon": -0.99085,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3305101",
+    "nom": "Biganos:G,eiffel ZC",
+    "lat": 44.6367,
+    "lon": -0.95512,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3305103",
+    "nom": "Biganos:Gutenberg",
+    "lat": 44.64162,
+    "lon": -0.95267,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3305110",
+    "nom": "Biganos-PetitPort",
+    "lat": 44.65362,
+    "lon": -0.9889,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3305654",
+    "nom": "BLANQUEFORT:Coli",
+    "lat": 44.92528,
+    "lon": -0.62319,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3305601",
+    "nom": "Blanquefort lagrolon",
+    "lat": 44.92917,
+    "lon": -0.66806,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1625801",
+    "nom": "Blanzac",
+    "lat": 45.47093,
+    "lon": 0.04897,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1604603",
+    "nom": "Blanzac_3",
+    "lat": 45.44476,
+    "lon": 0.02531,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8602901",
+    "nom": "Blanzay",
+    "lat": 46.18472,
+    "lon": 0.21556,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8610006",
+    "nom": "BLANZAY_ZR",
+    "lat": 46.52903,
+    "lon": 0.24175,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1705201",
+    "nom": "BOISREDON",
+    "lat": 45.33413,
+    "lon": -0.555,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1705202",
+    "nom": "BOISREDON_SUD",
+    "lat": 45.32291,
+    "lon": -0.55963,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8603103",
+    "nom": "BONNES_SALT_V2",
+    "lat": 46.60976,
+    "lon": 0.61143,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306101",
+    "nom": "Bonnetan:pac debet",
+    "lat": 44.82611,
+    "lon": -0.4215,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8603201",
+    "nom": "Bonneuil-Matours",
+    "lat": 46.69037,
+    "lon": 0.57306,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306393",
+    "nom": "BORDEAUX-0002",
+    "lat": 44.82008,
+    "lon": -0.60063,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306398",
+    "nom": "BORDEAUX-0074",
+    "lat": 44.82479,
+    "lon": -0.554,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306395",
+    "nom": "BORDEAUX-0339",
+    "lat": 44.82429,
+    "lon": -0.57733,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328144",
+    "nom": "BORDEAUX 4 CHEMINS",
+    "lat": 44.83236,
+    "lon": -0.64591,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328143",
+    "nom": "BORDEAUX ARLAC",
+    "lat": 44.82726,
+    "lon": -0.62593,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3301306",
+    "nom": "Bordeaux_Bonnefin",
+    "lat": 44.84481,
+    "lon": -0.55144,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306502",
+    "nom": "Bordeaux:Bouliac",
+    "lat": 44.81977,
+    "lon": -0.50565,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3324912",
+    "nom": "BORDEAUX BUTTINIERE",
+    "lat": 44.86546,
+    "lon": -0.51825,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3316209",
+    "nom": "BORDEAUX CANTINOLLE",
+    "lat": 44.89379,
+    "lon": -0.66451,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306301",
+    "nom": "Bordeaux:Cauderan",
+    "lat": 44.84111,
+    "lon": -0.60194,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3301305",
+    "nom": "Bordeaux_Congres",
+    "lat": 44.85444,
+    "lon": -0.56472,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306372",
+    "nom": "BORDEAUX-Counord",
+    "lat": 44.86172,
+    "lon": -0.57594,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306397",
+    "nom": "BORDEAUX-MANDRON",
+    "lat": 44.85456,
+    "lon": -0.58195,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306373",
+    "nom": "BORDEAUX-Medoc-Marti",
+    "lat": 44.85883,
+    "lon": -0.56717,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306394",
+    "nom": "BORDEAUX : Murat",
+    "lat": 44.84728,
+    "lon": -0.62594,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306304",
+    "nom": "Bordeaux pac equip",
+    "lat": 44.88859,
+    "lon": -0.54906,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3355022",
+    "nom": "BORDEAUX PYRENEES",
+    "lat": 44.77491,
+    "lon": -0.56404,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306396",
+    "nom": "BORDEAUX-Simiot",
+    "lat": 44.82293,
+    "lon": -0.57699,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3331854",
+    "nom": "BORDEAUX_SMITH",
+    "lat": 44.82448,
+    "lon": -0.61255,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3301304",
+    "nom": "Bordeaux:Std TV7 Bx",
+    "lat": 44.84352,
+    "lon": -0.56352,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306392",
+    "nom": "BORDEAUX-St-Estephe",
+    "lat": 44.81944,
+    "lon": -0.60028,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306306",
+    "nom": "BORDEAUX: Studio RCF",
+    "lat": 44.82611,
+    "lon": -0.58185,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303905",
+    "nom": "Bordeaux : stud WIT",
+    "lat": 44.81225,
+    "lon": -0.55253,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306307",
+    "nom": "BORDEAUX STU E2",
+    "lat": 44.85306,
+    "lon": -0.59333,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306303",
+    "nom": "Bordeaux-TV7",
+    "lat": 44.8425,
+    "lon": -0.55556,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306375",
+    "nom": "BORDEAUX-Victor-Hugo",
+    "lat": 44.83443,
+    "lon": -0.57395,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1705305",
+    "nom": "BORDS 1",
+    "lat": 45.90062,
+    "lon": -0.76097,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352224",
+    "nom": "BORDX ARTS  METIERS",
+    "lat": 44.80599,
+    "lon": -0.60112,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1705401",
+    "nom": "Boresse-et-Martr",
+    "lat": 45.2682,
+    "lon": -0.11898,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1705403",
+    "nom": "BORESSE ET MARTRON",
+    "lat": 45.25571,
+    "lon": -0.13068,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1705501",
+    "nom": "Boscamnant",
+    "lat": 45.19595,
+    "lon": -0.06844,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306514",
+    "nom": "Bouliac-BordEau",
+    "lat": 44.81508,
+    "lon": -0.52492,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1705801",
+    "nom": "Bourcefranc-l-chapus",
+    "lat": 45.83861,
+    "lon": -1.13472,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306915",
+    "nom": "Bouscat:Marceau",
+    "lat": 44.85803,
+    "lon": -0.59337,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3307003",
+    "nom": "BRACH:D207_SALT",
+    "lat": 45.05667,
+    "lon": -0.96211,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3307001",
+    "nom": "Brach pac 104",
+    "lat": 45.03058,
+    "lon": -0.92889,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3307002",
+    "nom": "Brach pac d 207",
+    "lat": 45.0569,
+    "lon": -0.9627,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7904901",
+    "nom": "Bressuire1:Sicaudier",
+    "lat": 46.83833,
+    "lon": -0.51361,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7904902",
+    "nom": "Bressuire3:Bois-Rocc",
+    "lat": 46.83417,
+    "lon": -0.47417,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7904954",
+    "nom": "BRESSUIRE_BREUIL-CHA",
+    "lat": 46.84167,
+    "lon": -0.55565,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7904953",
+    "nom": "BRESSUIRE CLAZAY",
+    "lat": 46.81335,
+    "lon": -0.55725,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7904955",
+    "nom": "BRESSUIRE_NOIRLIEU",
+    "lat": 46.9245,
+    "lon": -0.42705,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1706301",
+    "nom": "BREUIL LA REORTE",
+    "lat": 46.05974,
+    "lon": -0.68312,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1706303",
+    "nom": "BREUIL_LA_REORTE_N",
+    "lat": 46.06564,
+    "lon": -0.67958,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1606002",
+    "nom": "BREVILLE_3",
+    "lat": 45.79322,
+    "lon": -0.26132,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1606103",
+    "nom": "BRIE",
+    "lat": 45.71599,
+    "lon": 0.30203,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1606401",
+    "nom": "Brigueuil",
+    "lat": 45.94611,
+    "lon": 0.88083,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7905701",
+    "nom": "Brioux:Vauvaines",
+    "lat": 46.15651,
+    "lon": -0.214,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1707001",
+    "nom": "Brizambourg pac b,C,",
+    "lat": 45.80528,
+    "lon": -0.45231,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1606603",
+    "nom": "Brossac 2",
+    "lat": 45.31372,
+    "lon": -0.04644,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1606601",
+    "nom": "Brossac -OP",
+    "lat": 45.33573,
+    "lon": -0.04866,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1606606",
+    "nom": "BROSSAC_ZR",
+    "lat": 45.33889,
+    "lon": -0.03053,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3307401",
+    "nom": "BROUQUEYRANT:Carpet",
+    "lat": 44.48642,
+    "lon": -0.19395,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8603901",
+    "nom": "Brux",
+    "lat": 46.25845,
+    "lon": 0.14223,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1711802",
+    "nom": "BUSSAC_FORET",
+    "lat": 45.22964,
+    "lon": -0.38425,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1707404",
+    "nom": "BUSSAC_FORET_2",
+    "lat": 45.15055,
+    "lon": -0.38603,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1707402",
+    "nom": "Bussac-Foret TER 44",
+    "lat": 45.1763,
+    "lon": -0.36987,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1707502",
+    "nom": "CABARIOT",
+    "lat": 45.93262,
+    "lon": -0.84485,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3309005",
+    "nom": "CANEJAN-849_0392",
+    "lat": 44.76433,
+    "lon": -0.65038,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3309506",
+    "nom": "CAPTIEUX 2",
+    "lat": 44.29483,
+    "lon": -0.25527,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3309509",
+    "nom": "CAPTIEUX2",
+    "lat": 44.28431,
+    "lon": -0.23126,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3309510",
+    "nom": "CAPTIEUX3",
+    "lat": 44.31561,
+    "lon": -0.22959,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3309511",
+    "nom": "Captieux:Aire",
+    "lat": 44.2858,
+    "lon": -0.23008,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3309501",
+    "nom": "Captieux:FH",
+    "lat": 44.20361,
+    "lon": -0.26111,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3320301",
+    "nom": "Carcans Hourtin:site",
+    "lat": 45.12748,
+    "lon": -1.04433,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3309704",
+    "nom": "CARCANS:Pouch",
+    "lat": 45.07087,
+    "lon": -1.09009,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3310101",
+    "nom": "Cartelegue:n°111",
+    "lat": 45.19757,
+    "lon": -0.59059,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3335201",
+    "nom": "Casseuil",
+    "lat": 44.59604,
+    "lon": -0.11863,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3310802",
+    "nom": "Castillon-bataille",
+    "lat": 44.86009,
+    "lon": -0.03944,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3310801",
+    "nom": "Castillon-la-Bataill",
+    "lat": 44.86278,
+    "lon": -0.02889,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3311601",
+    "nom": "Cazats:D 932 landes",
+    "lat": 44.47694,
+    "lon": -0.22583,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352901",
+    "nom": "Cazaux:pac Ter Comm",
+    "lat": 44.54944,
+    "lon": -1.15722,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352919",
+    "nom": "CAZAUX:Ter_Comm_SALT",
+    "lat": 44.54962,
+    "lon": -1.1574,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8604301",
+    "nom": "Ceaux-en-Cou:Moisais",
+    "lat": 46.3325,
+    "lon": 0.23667,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8604501",
+    "nom": "Celle-Levescault_Sud",
+    "lat": 46.37476,
+    "lon": 0.1846,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8604504",
+    "nom": "CELLE _LEVESCAUT_N",
+    "lat": 46.39652,
+    "lon": 0.19743,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3311801",
+    "nom": "Cenac-Mandin",
+    "lat": 44.773,
+    "lon": -0.45688,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7906201",
+    "nom": "Cerizay -OP",
+    "lat": 46.82528,
+    "lon": -0.64556,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7906202",
+    "nom": "Cerizay:Vieilles Roc",
+    "lat": 46.82922,
+    "lon": -0.66561,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3312203",
+    "nom": "Cestas",
+    "lat": 44.74323,
+    "lon": -0.76184,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3312210",
+    "nom": "CESTAS1",
+    "lat": 44.72485,
+    "lon": -0.78794,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3312211",
+    "nom": "CESTAS2",
+    "lat": 44.75286,
+    "lon": -0.73569,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3312212",
+    "nom": "CESTAS3",
+    "lat": 44.77713,
+    "lon": -0.69037,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3312213",
+    "nom": "Cestas:Aire",
+    "lat": 44.74562,
+    "lon": -0.70433,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3312202",
+    "nom": "Cestas compostelle",
+    "lat": 44.6975,
+    "lon": -0.71011,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3312214",
+    "nom": "CESTAS : Devoir",
+    "lat": 44.69875,
+    "lon": -0.75954,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3312206",
+    "nom": "CESTAS-MOUTINE",
+    "lat": 44.74116,
+    "lon": -0.66042,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3312302",
+    "nom": "Cezac:Echamps",
+    "lat": 45.08056,
+    "lon": -0.37444,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1607002",
+    "nom": "CHABANAIS",
+    "lat": 45.86802,
+    "lon": 0.7251,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1607101",
+    "nom": "Chabrac pac vignes",
+    "lat": 45.93889,
+    "lon": 0.73861,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1607201",
+    "nom": "Chadurie2",
+    "lat": 45.47944,
+    "lon": 0.14806,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1707902",
+    "nom": "Chaillevette-Mouil",
+    "lat": 45.7273,
+    "lon": -1.06612,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1607301",
+    "nom": "Chalais",
+    "lat": 45.26505,
+    "lon": 0.0486,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8605001",
+    "nom": "Chalandray:Vauperouz",
+    "lat": 46.66522,
+    "lon": -0.00762,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1708001",
+    "nom": "Chambon",
+    "lat": 46.10364,
+    "lon": -0.84935,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1708002",
+    "nom": "Chambon2",
+    "lat": 46.10992,
+    "lon": -0.82017,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1607501",
+    "nom": "Champagne-Vigny",
+    "lat": 45.4984,
+    "lon": 0.05108,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1607502",
+    "nom": "CHAMPAGNE_VIGNY_NORD",
+    "lat": 45.51434,
+    "lon": 0.05307,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1607853",
+    "nom": "CHAMPNIERS 1",
+    "lat": 45.73596,
+    "lon": 0.18896,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1607855",
+    "nom": "CHAMPNIERS_3",
+    "lat": 45.72454,
+    "lon": 0.18078,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1607854",
+    "nom": "CHAMPNIERS_4",
+    "lat": 45.69503,
+    "lon": 0.23219,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1607856",
+    "nom": "Champniers-Potagers",
+    "lat": 45.69928,
+    "lon": 0.20544,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1708601",
+    "nom": "Chaniers",
+    "lat": 45.71478,
+    "lon": -0.52713,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1708604",
+    "nom": "Chaniers Les Varenne",
+    "lat": 45.74423,
+    "lon": -0.52041,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1607901",
+    "nom": "Chantillac",
+    "lat": 45.32417,
+    "lon": -0.23056,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1608302",
+    "nom": "CHARME",
+    "lat": 45.95882,
+    "lon": 0.12175,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606101",
+    "nom": "CHARROUX",
+    "lat": 46.15238,
+    "lon": 0.38917,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606102",
+    "nom": "CHARROUX_SUD",
+    "lat": 46.13767,
+    "lon": 0.40225,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1608502",
+    "nom": "CHASSENEUIL/BONNIEUR",
+    "lat": 45.83512,
+    "lon": 0.4755,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606257",
+    "nom": "CHASSENEUIL_D_POITOU",
+    "lat": 46.63102,
+    "lon": 0.35988,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606256",
+    "nom": "CHASSENEUIL DU P 1",
+    "lat": 46.65626,
+    "lon": 0.35705,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1608802",
+    "nom": "CHASSORS_1",
+    "lat": 45.71753,
+    "lon": -0.19808,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1608901",
+    "nom": "Chateaubernard pac",
+    "lat": 45.68441,
+    "lon": -0.309,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1709301",
+    "nom": "CHATEAU_D_OLERON_SUB",
+    "lat": 45.89149,
+    "lon": -1.22722,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1609001",
+    "nom": "Chateauneuf/chte",
+    "lat": 45.60528,
+    "lon": -0.06694,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1709453",
+    "nom": "ChatelaillonPlag-Lib",
+    "lat": 46.0689,
+    "lon": -1.08838,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606601",
+    "nom": "Chatellerault",
+    "lat": 46.82778,
+    "lon": 0.54806,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606658",
+    "nom": "CHATELLERAULT 3",
+    "lat": 46.82596,
+    "lon": 0.52125,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606652",
+    "nom": "Chatellerault_Coste",
+    "lat": 46.84009,
+    "lon": 0.54399,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606654",
+    "nom": "Chatellerault:Garros",
+    "lat": 46.84102,
+    "lon": 0.54681,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606653",
+    "nom": "Chatellerault:Nunges",
+    "lat": 46.83787,
+    "lon": 0.54335,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1709501",
+    "nom": "CHATENET",
+    "lat": 45.29926,
+    "lon": -0.29548,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606701",
+    "nom": "Chatillon:Rte Payre",
+    "lat": 46.32232,
+    "lon": 0.19064,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606805",
+    "nom": "CHAUNAY",
+    "lat": 46.2165,
+    "lon": 0.14142,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606801",
+    "nom": "Chaunay:chp Valence",
+    "lat": 46.22611,
+    "lon": 0.16,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606804",
+    "nom": "CHAUNAY_ZR",
+    "lat": 46.21771,
+    "lon": 0.14039,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8607001",
+    "nom": "Chauvigny",
+    "lat": 46.5581,
+    "lon": 0.6499,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8607005",
+    "nom": "CHAUVIGNY 1",
+    "lat": 46.57705,
+    "lon": 0.67976,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1710101",
+    "nom": "Cherbonnieres",
+    "lat": 45.96815,
+    "lon": -0.33587,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1710401",
+    "nom": "CHEVANCEAUX_SUB",
+    "lat": 45.30181,
+    "lon": -0.23917,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7908701",
+    "nom": "Chey:Faugerit",
+    "lat": 46.28971,
+    "lon": -0.07438,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1710501",
+    "nom": "CHIVES",
+    "lat": 45.94397,
+    "lon": -0.11088,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3312501",
+    "nom": "Cissac-medoc beauch,",
+    "lat": 45.22167,
+    "lon": -0.87333,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8623301",
+    "nom": "Civaux",
+    "lat": 46.46889,
+    "lon": 0.66778,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8607704",
+    "nom": "CIVAUX_PAC_11",
+    "lat": 46.44307,
+    "lon": 0.64559,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3312601",
+    "nom": "Civrac-de-blaye:n°4",
+    "lat": 45.12444,
+    "lon": -0.47806,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1610101",
+    "nom": "Claix butte a fusil,",
+    "lat": 45.56696,
+    "lon": 0.03896,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1711002",
+    "nom": "Clerac 2",
+    "lat": 45.15503,
+    "lon": -0.28365,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1711004",
+    "nom": "CLERAC 5",
+    "lat": 45.17363,
+    "lon": -0.26189,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1711008",
+    "nom": "CLERAC_LGV",
+    "lat": 45.1828,
+    "lon": -0.23827,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1711009",
+    "nom": "CLERAC_NORD",
+    "lat": 45.19142,
+    "lon": -0.21448,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1711102",
+    "nom": "Clion sur Seugne",
+    "lat": 45.45473,
+    "lon": -0.48329,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1610201",
+    "nom": "Cognac",
+    "lat": 45.70268,
+    "lon": -0.33962,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1610253",
+    "nom": "Cognac-Melbourne",
+    "lat": 45.69811,
+    "lon": -0.31726,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3313001",
+    "nom": "COIMERES",
+    "lat": 44.50337,
+    "lon": -0.19679,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8608101",
+    "nom": "Colombiers",
+    "lat": 46.76137,
+    "lon": 0.39651,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1610601",
+    "nom": "Confolens1:Prechille",
+    "lat": 46.01988,
+    "lon": 0.68513,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1610602",
+    "nom": "Confolens2:Loge-Boir",
+    "lat": 46.03001,
+    "lon": 0.65707,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1604604",
+    "nom": "COTEAUX_D_BLANZACAIS",
+    "lat": 45.45777,
+    "lon": 0.02962,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1610701",
+    "nom": "COULGENS",
+    "lat": 45.81446,
+    "lon": 0.2785,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1610702",
+    "nom": "COULGENS_1",
+    "lat": 45.82704,
+    "lon": 0.26566,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8608303",
+    "nom": "COULOMBIERS 1",
+    "lat": 46.50231,
+    "lon": 0.21778,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8608302",
+    "nom": "COULOMBIERS BT",
+    "lat": 46.49474,
+    "lon": 0.18338,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8608304",
+    "nom": "COULOMBIERS_TER",
+    "lat": 46.47614,
+    "lon": 0.18309,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1611053",
+    "nom": "Courcome",
+    "lat": 45.97824,
+    "lon": 0.12349,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7910301",
+    "nom": "Courlay",
+    "lat": 46.78177,
+    "lon": -0.56298,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3313701",
+    "nom": "COURS LES BAINS",
+    "lat": 44.37319,
+    "lon": -0.02425,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8608601",
+    "nom": "Coussay-l-B:Chauvign",
+    "lat": 46.81667,
+    "lon": 0.73694,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3313803",
+    "nom": "COUTRAS",
+    "lat": 45.03325,
+    "lon": -0.08952,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3313804",
+    "nom": "COUTRAS-RF",
+    "lat": 45.04227,
+    "lon": -0.1107,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1713101",
+    "nom": "Cozes:chez j,grand",
+    "lat": 45.57319,
+    "lon": -0.80746,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1713152",
+    "nom": "COZES_SALT",
+    "lat": 45.57428,
+    "lon": -0.80589,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3314001",
+    "nom": "Creon 5 ZA",
+    "lat": 44.77045,
+    "lon": -0.33639,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1611601",
+    "nom": "CRITEUIL",
+    "lat": 45.53735,
+    "lon": -0.21588,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3314102",
+    "nom": "Croignon:pac sibille",
+    "lat": 44.82528,
+    "lon": -0.33654,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1713601",
+    "nom": "Croix-Chapeau",
+    "lat": 46.106,
+    "lon": -0.98514,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3314305",
+    "nom": "CUBZAC LES PONTS",
+    "lat": 44.95933,
+    "lon": -0.44356,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3314403",
+    "nom": "CUDOS:Escacq",
+    "lat": 44.39442,
+    "lon": -0.21015,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3314404",
+    "nom": "Cudos:Maugouvert",
+    "lat": 44.40252,
+    "lon": -0.14099,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3314601",
+    "nom": "CussacFortMedoc-Peyl",
+    "lat": 45.12091,
+    "lon": -0.73178,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8609201",
+    "nom": "Dange",
+    "lat": 46.93417,
+    "lon": 0.62361,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8604201",
+    "nom": "Descartes:Buxeuil",
+    "lat": 46.96475,
+    "lon": 0.6842,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1611801",
+    "nom": "Deviat",
+    "lat": 45.4155,
+    "lon": 0.00286,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1612001",
+    "nom": "Dirac2",
+    "lat": 45.61555,
+    "lon": 0.19275,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1714204",
+    "nom": "DompierreMer-Monplai",
+    "lat": 46.18292,
+    "lon": -1.04655,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1714203",
+    "nom": "DOMPIERRE_S_MER_NORD",
+    "lat": 46.18951,
+    "lon": -1.07367,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1714202",
+    "nom": "DOMPIERRE-S-MER-SUD",
+    "lat": 46.17561,
+    "lon": -1.05617,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1612101",
+    "nom": "DOUZAT_1",
+    "lat": 45.70963,
+    "lon": -0.00275,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1714601",
+    "nom": "ECHILLAIS",
+    "lat": 45.90041,
+    "lon": -0.96341,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7910902",
+    "nom": "ECHIRE_OUEST",
+    "lat": 46.41938,
+    "lon": -0.44689,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3315403",
+    "nom": "Eglisottes&Chalaures",
+    "lat": 45.08809,
+    "lon": -0.05449,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7911101",
+    "nom": "ENSIGNE",
+    "lat": 46.08381,
+    "lon": -0.24488,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7911201",
+    "nom": "Epannes_PAC17",
+    "lat": 46.23188,
+    "lon": -0.59648,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3315502",
+    "nom": "ESCAUDES",
+    "lat": 44.35097,
+    "lon": -0.22564,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3315504",
+    "nom": "ESCAUDES:Petit Lebe",
+    "lat": 44.29601,
+    "lon": -0.19347,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3315503",
+    "nom": "ESCAUDES:Pitecq",
+    "lat": 44.28884,
+    "lon": -0.22788,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1613252",
+    "nom": "ETAGNAC 1",
+    "lat": 45.8928,
+    "lon": 0.79728,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1613201",
+    "nom": "Etagnac:la croix",
+    "lat": 45.88944,
+    "lon": 0.75528,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1715501",
+    "nom": "Etaules:pac:du c",
+    "lat": 45.72806,
+    "lon": -1.09611,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1613401",
+    "nom": "Exideuil:gds champs",
+    "lat": 45.87333,
+    "lon": 0.65639,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7911502",
+    "nom": "EXOUDUN_NORD",
+    "lat": 46.35188,
+    "lon": -0.09695,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7911501",
+    "nom": "EXOUDUN_SUD",
+    "lat": 46.34251,
+    "lon": -0.07146,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3316201",
+    "nom": "Eysines 317 du medoc",
+    "lat": 44.89425,
+    "lon": -0.66701,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3316208",
+    "nom": "EYSINES-Hippo",
+    "lat": 44.87708,
+    "lon": -0.62251,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3316210",
+    "nom": "Eysines:Picot",
+    "lat": 44.8837,
+    "lon": -0.65008,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3316503",
+    "nom": "FarguesHilaire-Cruz",
+    "lat": 44.81875,
+    "lon": -0.44105,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1613601",
+    "nom": "Faye Nd chte bois",
+    "lat": 46.01917,
+    "lon": 0.18806,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1715701",
+    "nom": "Fenioux l-gachetiere",
+    "lat": 45.89669,
+    "lon": -0.60339,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1613801",
+    "nom": "Fleac bois de landry",
+    "lat": 45.68415,
+    "lon": 0.07447,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1715901",
+    "nom": "Fleac sur Seugne",
+    "lat": 45.52044,
+    "lon": -0.52684,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8609801",
+    "nom": "Fleix:Pleumartin",
+    "lat": 46.57139,
+    "lon": 0.74611,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3316704",
+    "nom": "FLOIRAC-33167",
+    "lat": 44.83331,
+    "lon": -0.52282,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1716001",
+    "nom": "Floirac:de feole",
+    "lat": 45.4845,
+    "lon": -0.72474,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3316707",
+    "nom": "Floirac:Empereur",
+    "lat": 44.84652,
+    "lon": -0.52035,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8610002",
+    "nom": "Fontaine-Co:Ruffigny",
+    "lat": 46.52946,
+    "lon": 0.27711,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8610003",
+    "nom": "Fontaine-le-Comt",
+    "lat": 46.50861,
+    "lon": 0.22893,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1614001",
+    "nom": "Fontclaireau-l-main,",
+    "lat": 45.89056,
+    "lon": 0.19361,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1716601",
+    "nom": "Forges-PLR",
+    "lat": 46.10363,
+    "lon": -0.88699,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1716801",
+    "nom": "FOURAS:Std_Terre_Mar",
+    "lat": 45.98819,
+    "lon": -1.08334,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3317401",
+    "nom": "Fronsac",
+    "lat": 44.93417,
+    "lon": -0.27,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3317403",
+    "nom": "FRONSAC:Palu",
+    "lat": 44.92058,
+    "lon": -0.24821,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3317402",
+    "nom": "Fronsac:rural",
+    "lat": 44.92167,
+    "lon": -0.24639,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7913002",
+    "nom": "FRONTENAY-ROHAN-PAC",
+    "lat": 46.25171,
+    "lon": -0.56532,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7913001",
+    "nom": "Frontenay-Rohan-Roha",
+    "lat": 46.26553,
+    "lon": -0.53548,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7913003",
+    "nom": "FRONTENAY_R_ROHAN_3",
+    "lat": 46.24704,
+    "lon": -0.52473,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3317701",
+    "nom": "GaillanMedoc-Coudes",
+    "lat": 45.34181,
+    "lon": -0.99292,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3317901",
+    "nom": "Galgon gazillon 3",
+    "lat": 44.98428,
+    "lon": -0.27743,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1614601",
+    "nom": "Garat:pac:ptes chaum",
+    "lat": 45.61472,
+    "lon": 0.26222,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3318102",
+    "nom": "GARDEGAN-TOURTIRAC_2",
+    "lat": 44.90628,
+    "lon": -0.02795,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1700352",
+    "nom": "GC_AigrefeuilleAunis",
+    "lat": 46.09411,
+    "lon": -0.95169,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8600301",
+    "nom": "GC_Anche - Voulon",
+    "lat": 46.34973,
+    "lon": 0.25038,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1601553",
+    "nom": "GC_Angouleme",
+    "lat": 45.65373,
+    "lon": 0.16471,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1701002",
+    "nom": "GC_Angoulins",
+    "lat": 46.10806,
+    "lon": -1.11556,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3300702",
+    "nom": "GC_Arbanats",
+    "lat": 44.67448,
+    "lon": -0.39556,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3300953",
+    "nom": "GC_Arcachon",
+    "lat": 44.65909,
+    "lon": -1.16538,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1702854",
+    "nom": "GC_Aytre",
+    "lat": 46.12749,
+    "lon": -1.12822,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303002",
+    "nom": "GC_Barsac",
+    "lat": 44.60553,
+    "lon": -0.3217,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303207",
+    "nom": "GC_Bassens",
+    "lat": 44.90141,
+    "lon": -0.52238,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303701",
+    "nom": "GC_Beautiran",
+    "lat": 44.70118,
+    "lon": -0.45028,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7903153",
+    "nom": "GC_Beauvoir-sur-Nior",
+    "lat": 46.17703,
+    "lon": -0.46885,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303912",
+    "nom": "GC_Begles",
+    "lat": 44.7996,
+    "lon": -0.55541,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3305652",
+    "nom": "GC_Blanquefort",
+    "lat": 44.91759,
+    "lon": -0.62394,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1705304",
+    "nom": "GC_Bords",
+    "lat": 45.89447,
+    "lon": -0.79868,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7904952",
+    "nom": "GC_Bressuire",
+    "lat": 46.83852,
+    "lon": -0.49647,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3307506",
+    "nom": "GC_Bruges",
+    "lat": 44.88706,
+    "lon": -0.60944,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1707403",
+    "nom": "GC_Bussac-Foret",
+    "lat": 45.2121,
+    "lon": -0.36837,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3308001",
+    "nom": "GC_Cadaujac",
+    "lat": 44.75214,
+    "lon": -0.53769,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3310803",
+    "nom": "GC_Castillon",
+    "lat": 44.85703,
+    "lon": -0.04073,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3311102",
+    "nom": "GC_Caudrot",
+    "lat": 44.58019,
+    "lon": -0.14528,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3311401",
+    "nom": "GC_Cavignac",
+    "lat": 45.10527,
+    "lon": -0.38225,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7906203",
+    "nom": "GC_Cerizay",
+    "lat": 46.81781,
+    "lon": -0.66906,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3312002",
+    "nom": "GC_Cerons",
+    "lat": 44.63243,
+    "lon": -0.34069,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1607001",
+    "nom": "GC_Chabanais",
+    "lat": 45.87274,
+    "lon": 0.71704,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1607304",
+    "nom": "GC_Chalais",
+    "lat": 45.27101,
+    "lon": 0.04377,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606253",
+    "nom": "GC_Chasseneuil",
+    "lat": 46.65184,
+    "lon": 0.37319,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1608501",
+    "nom": "GC_Chasseneuil-sur-B",
+    "lat": 45.82457,
+    "lon": 0.4537,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1609002",
+    "nom": "GC_Chateauneuf-sur-C",
+    "lat": 45.59991,
+    "lon": -0.05033,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1709452",
+    "nom": "GC_Chatelaillon",
+    "lat": 46.07822,
+    "lon": -1.09102,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606655",
+    "nom": "GC_Chatellerault",
+    "lat": 46.81876,
+    "lon": 0.54935,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1711103",
+    "nom": "GC_Clion",
+    "lat": 45.4785,
+    "lon": -0.50219,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1610252",
+    "nom": "GC_Cognac",
+    "lat": 45.68462,
+    "lon": -0.32625,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3313802",
+    "nom": "GC_Coutras",
+    "lat": 45.03675,
+    "lon": -0.1317,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3314304",
+    "nom": "GC_Cubzac-les-Ponts",
+    "lat": 44.97305,
+    "lon": -0.45923,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8609204",
+    "nom": "GC_Dange-Saint-Romai",
+    "lat": 46.93788,
+    "lon": 0.60888,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8609502",
+    "nom": "GC_Dissay",
+    "lat": 46.70368,
+    "lon": 0.42113,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3315401",
+    "nom": "GC_Eglisotte-Chalaur",
+    "lat": 45.09427,
+    "lon": -0.04385,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8602904",
+    "nom": "GC_Epanvilliers",
+    "lat": 46.22564,
+    "lon": 0.23589,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1613402",
+    "nom": "GC_Exideuil sur Vien",
+    "lat": 45.88647,
+    "lon": 0.66671,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3305105",
+    "nom": "GC_Facture Biganos",
+    "lat": 44.63749,
+    "lon": -0.96627,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1716302",
+    "nom": "GC_Fontaines'Ozillac",
+    "lat": 45.38739,
+    "lon": -0.38379,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7912502",
+    "nom": "GC_Fors",
+    "lat": 46.23457,
+    "lon": -0.40694,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606254",
+    "nom": "GC_Futuroscope",
+    "lat": 46.67005,
+    "lon": 0.37738,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3318303",
+    "nom": "GC_Gauriaguet",
+    "lat": 45.05438,
+    "lon": -0.39933,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3312209",
+    "nom": "GC_Gazinet Cestas",
+    "lat": 44.7724,
+    "lon": -0.69952,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3318701",
+    "nom": "GC_Gironde-sur-Dropt",
+    "lat": 44.58345,
+    "lon": -0.09206,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319907",
+    "nom": "GC_Gujan-Mestras",
+    "lat": 44.64057,
+    "lon": -1.06917,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8611104",
+    "nom": "GC_Ingrandes",
+    "lat": 46.87475,
+    "lon": 0.56926,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8611303",
+    "nom": "GC_Iteuil",
+    "lat": 46.48428,
+    "lon": 0.31694,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1615301",
+    "nom": "GC_Jarnac Charente",
+    "lat": 45.67114,
+    "lon": -0.17794,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8611505",
+    "nom": "GC_Jaunay-Clan",
+    "lat": 46.68215,
+    "lon": 0.38178,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1719752",
+    "nom": "GC_Jonzac",
+    "lat": 45.43883,
+    "lon": -0.44181,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7904804",
+    "nom": "GC_La Creche",
+    "lat": 46.36051,
+    "lon": -0.29627,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3300309",
+    "nom": "GC_La Gorp",
+    "lat": 44.92898,
+    "lon": -0.49656,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3300310",
+    "nom": "GC_LAGRAVE-D-AMBARES",
+    "lat": 44.93557,
+    "lon": -0.4767,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3322103",
+    "nom": "GC_Lamothe-Landerron",
+    "lat": 44.56288,
+    "lon": 0.04523,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7924602",
+    "nom": "GC_La Mothe-Saint-He",
+    "lat": 46.38089,
+    "lon": -0.12992,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3322710",
+    "nom": "GC_Langon",
+    "lat": 44.55556,
+    "lon": -0.25571,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3335207",
+    "nom": "GC_La Reole",
+    "lat": 44.57975,
+    "lon": -0.03058,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1628102",
+    "nom": "GC_La Rochefoucauld",
+    "lat": 45.74032,
+    "lon": 0.38969,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730061",
+    "nom": "GC_La Rochelle",
+    "lat": 46.15292,
+    "lon": -1.14584,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352913",
+    "nom": "GC_La Teste",
+    "lat": 44.63712,
+    "lon": -1.14312,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8612002",
+    "nom": "GC_Lathus",
+    "lat": 46.33812,
+    "lon": 0.96501,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3324052",
+    "nom": "GC_Lesparre",
+    "lat": 45.30363,
+    "lon": -0.94548,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352705",
+    "nom": "GC_Le Teich",
+    "lat": 44.63251,
+    "lon": -1.02556,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3354404",
+    "nom": "GC_Le Verdon",
+    "lat": 45.54923,
+    "lon": -1.06515,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3324307",
+    "nom": "GC_Libourne",
+    "lat": 44.91584,
+    "lon": -0.2363,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8613302",
+    "nom": "GC_Liguge",
+    "lat": 46.52033,
+    "lon": 0.33325,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1721101",
+    "nom": "GC_Loulay",
+    "lat": 46.04363,
+    "lon": -0.50181,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3325601",
+    "nom": "GC_Ludon-Medoc",
+    "lat": 44.97456,
+    "lon": -0.61189,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8613902",
+    "nom": "GC_Lusignan",
+    "lat": 46.43564,
+    "lon": 0.11666,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1619655",
+    "nom": "GC_Luxe",
+    "lat": 45.88751,
+    "lon": 0.10957,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3326202",
+    "nom": "GC_Macau",
+    "lat": 45.00424,
+    "lon": -0.62001,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1721853",
+    "nom": "GC_Marans",
+    "lat": 46.30444,
+    "lon": -1.00137,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3355552",
+    "nom": "GC_Marcheprime",
+    "lat": 44.69072,
+    "lon": -0.85394,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3326801",
+    "nom": "GC_Margaux",
+    "lat": 45.03601,
+    "lon": -0.6855,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7916602",
+    "nom": "GC_Marigny",
+    "lat": 46.19921,
+    "lon": -0.42845,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7917052",
+    "nom": "GC_Mauze",
+    "lat": 46.19968,
+    "lon": -0.6738,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328136",
+    "nom": "GC_Merignac",
+    "lat": 44.82667,
+    "lon": -0.62616,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8615702",
+    "nom": "GC_Mignaloux - Nouai",
+    "lat": 46.52614,
+    "lon": 0.41142,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1629403",
+    "nom": "GC_Montmoreau",
+    "lat": 45.39846,
+    "lon": 0.13815,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8616505",
+    "nom": "GC_Montmorillon",
+    "lat": 46.41768,
+    "lon": 0.87383,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7918402",
+    "nom": "GC_Mothe-Saint-Heray",
+    "lat": 46.38089,
+    "lon": -0.12992,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3329701",
+    "nom": "GC_Moulis - Listrac",
+    "lat": 45.08412,
+    "lon": -0.74475,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7919157",
+    "nom": "GC_Niort",
+    "lat": 46.31952,
+    "lon": -0.45477,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7920101",
+    "nom": "GC_Pamproux",
+    "lat": 46.39975,
+    "lon": -0.05211,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3331202",
+    "nom": "GC_Parempuyre",
+    "lat": 44.94488,
+    "lon": -0.61945,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3331403",
+    "nom": "GC_Pauillac",
+    "lat": 45.204,
+    "lon": -0.75522,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3332702",
+    "nom": "GC_Podensac",
+    "lat": 44.64901,
+    "lon": -0.35892,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3354405",
+    "nom": "GC_Pointe de Grave",
+    "lat": 45.56715,
+    "lon": -1.06587,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619478",
+    "nom": "GC_Poitiers",
+    "lat": 46.58231,
+    "lon": 0.33336,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1728353",
+    "nom": "GC_Pons",
+    "lat": 45.57809,
+    "lon": -0.53893,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3333403",
+    "nom": "GC_Portets",
+    "lat": 44.69311,
+    "lon": -0.42547,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3333702",
+    "nom": "GC_Preignac",
+    "lat": 44.57847,
+    "lon": -0.30223,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7922003",
+    "nom": "GC_Prin-Deyrancon",
+    "lat": 46.2191,
+    "lon": -0.63657,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7907801",
+    "nom": "GC_PrisselaCharriere",
+    "lat": 46.15295,
+    "lon": -0.49363,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1729954",
+    "nom": "GC_Rochefort",
+    "lat": 45.94735,
+    "lon": -0.9637,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1619202",
+    "nom": "GC_Roumazieres-Loube",
+    "lat": 45.88947,
+    "lon": 0.57903,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730604",
+    "nom": "GC_Royan",
+    "lat": 45.62592,
+    "lon": -1.01673,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1629102",
+    "nom": "GC_Ruelle",
+    "lat": 45.67644,
+    "lon": 0.22148,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1629253",
+    "nom": "GC_Ruffec",
+    "lat": 46.03068,
+    "lon": 0.19034,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730902",
+    "nom": "GC_Saint-Aigulin",
+    "lat": 45.15738,
+    "lon": -0.01903,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3336605",
+    "nom": "GC_Saint-Andre-de-Cu",
+    "lat": 44.99135,
+    "lon": -0.44061,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3339702",
+    "nom": "GC_Sainte-Eulalie",
+    "lat": 44.89787,
+    "lon": -0.49403,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3332402",
+    "nom": "GC_Sainte-Foy-la-Gra",
+    "lat": 44.83703,
+    "lon": 0.2216,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1741553",
+    "nom": "GC_Saintes",
+    "lat": 45.74882,
+    "lon": -0.61798,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1734752",
+    "nom": "GC_Saint-Jean-d'Ange",
+    "lat": 45.94092,
+    "lon": -0.50982,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3343352",
+    "nom": "GC_Saint-Loubes",
+    "lat": 44.92252,
+    "lon": -0.43347,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3343501",
+    "nom": "GC_Saint-Macaire",
+    "lat": 44.56862,
+    "lon": -0.22713,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7927005",
+    "nom": "GC_Saint-Maixent",
+    "lat": 46.40675,
+    "lon": -0.20123,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3344803",
+    "nom": "GC_Saint-Medard-d'Ey",
+    "lat": 44.71698,
+    "lon": -0.50582,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1739752",
+    "nom": "GC_Saint-Savinien su",
+    "lat": 45.87599,
+    "lon": -0.67794,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8624702",
+    "nom": "GC_Saint-Saviol",
+    "lat": 46.14704,
+    "lon": 0.21798,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1742152",
+    "nom": "GC_Saujon",
+    "lat": 45.66657,
+    "lon": -0.93003,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3351402",
+    "nom": "GC_Soulac-sur-Mer",
+    "lat": 45.50825,
+    "lon": -1.11765,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3339303",
+    "nom": "GC_ST-Denis-de-Pile",
+    "lat": 44.97878,
+    "lon": -0.1981,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3340201",
+    "nom": "GC_STe-Foy-la-Grande",
+    "lat": 44.83703,
+    "lon": 0.2216,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1734402",
+    "nom": "GC_STHilairVillefran",
+    "lat": 45.85012,
+    "lon": -0.53489,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1735301",
+    "nom": "GC_STLaurentdelaPree",
+    "lat": 45.99315,
+    "lon": -1.02756,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3349202",
+    "nom": "GC_St-Mariens yzan",
+    "lat": 45.13919,
+    "lon": -0.39186,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3344701",
+    "nom": "GC_STMedardGuizieres",
+    "lat": 45.01558,
+    "lon": -0.04897,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3346302",
+    "nom": "GC_ST-PierreAurillac",
+    "lat": 44.57541,
+    "lon": -0.1877,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3347803",
+    "nom": "GC_St-Seurin/Isle",
+    "lat": 45.01154,
+    "lon": -0.00203,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1740001",
+    "nom": "GC_STSever-de-STonge",
+    "lat": 45.70096,
+    "lon": -0.52658,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3348305",
+    "nom": "GC_St-Sulpice izon",
+    "lat": 44.91434,
+    "lon": -0.39226,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1743452",
+    "nom": "GC_Surgeres",
+    "lat": 46.11336,
+    "lon": -0.76232,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1743652",
+    "nom": "GC_Taillebourg",
+    "lat": 45.83058,
+    "lon": -0.64519,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7932952",
+    "nom": "GC_Thouars",
+    "lat": 46.9854,
+    "lon": -0.20984,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1744953",
+    "nom": "GC_Tonnay-Charente",
+    "lat": 45.94344,
+    "lon": -0.89798,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3301802",
+    "nom": "GC_Val de Virvee",
+    "lat": 45.01524,
+    "lon": -0.41999,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3353902",
+    "nom": "GC_Vayres",
+    "lat": 44.89732,
+    "lon": -0.31699,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3355017",
+    "nom": "GC_Villenave-d'Ornon",
+    "lat": 44.76835,
+    "lon": -0.54728,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1747402",
+    "nom": "GC_VilleneuveComtess",
+    "lat": 46.09869,
+    "lon": -0.51308,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8629305",
+    "nom": "GC_Vivonne",
+    "lat": 46.4268,
+    "lon": 0.26534,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1717202",
+    "nom": "GEMOZAC",
+    "lat": 45.57138,
+    "lon": -0.66091,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1717205",
+    "nom": "GEMOZAC_OUEST",
+    "lat": 45.57088,
+    "lon": -0.72431,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8610301",
+    "nom": "GENCAY",
+    "lat": 46.37025,
+    "lon": 0.41899,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1717401",
+    "nom": "GENOUILLE",
+    "lat": 46.01262,
+    "lon": -0.77174,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1615101",
+    "nom": "Gente-Fuseau",
+    "lat": 45.63274,
+    "lon": -0.31366,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3318702",
+    "nom": "GIRONDE/DROPT",
+    "lat": 44.58484,
+    "lon": -0.08221,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1717901",
+    "nom": "Gonds-Seigneurie",
+    "lat": 45.71351,
+    "lon": -0.61959,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619001",
+    "nom": "Gouex:Persac",
+    "lat": 46.32139,
+    "lon": 0.69056,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1615601",
+    "nom": "GOURVILLE",
+    "lat": 45.81974,
+    "lon": -0.04014,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319209",
+    "nom": "GRADIGNAN-0007",
+    "lat": 44.78332,
+    "lon": -0.59981,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319206",
+    "nom": "GRADIGNAN-0308",
+    "lat": 44.77179,
+    "lon": -0.62839,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319208",
+    "nom": "GRADIGNAN-0322",
+    "lat": 44.7715,
+    "lon": -0.62765,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319205",
+    "nom": "GRADIGNAN-0329",
+    "lat": 44.77103,
+    "lon": -0.62869,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319204",
+    "nom": "GRADIGNAN-744",
+    "lat": 44.78035,
+    "lon": -0.60708,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319214",
+    "nom": "Gradignan-Catoy",
+    "lat": 44.75009,
+    "lon": -0.61949,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319212",
+    "nom": "Gradignan:Gaulle",
+    "lat": 44.78061,
+    "lon": -0.60931,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319213",
+    "nom": "GRADIGNAN:Moulineau",
+    "lat": 44.77329,
+    "lon": -0.59982,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319201",
+    "nom": "Gradignan pac brague",
+    "lat": 44.76151,
+    "lon": -0.61043,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319215",
+    "nom": "Gradignan-Vignes",
+    "lat": 44.76018,
+    "lon": -0.61049,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319211",
+    "nom": "Gradignan:Violette",
+    "lat": 44.78179,
+    "lon": -0.61073,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7913703",
+    "nom": "GRANZAY-GRIPT",
+    "lat": 46.21507,
+    "lon": -0.4546,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1632001",
+    "nom": "Grosbot",
+    "lat": 45.75444,
+    "lon": 0.04222,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319801",
+    "nom": "Guitres pac stade",
+    "lat": 45.04541,
+    "lon": -0.18648,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319909",
+    "nom": "GUJAN-MESTRAS1",
+    "lat": 44.64064,
+    "lon": -1.07272,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319910",
+    "nom": "GUJAN-MESTRAS2",
+    "lat": 44.6409,
+    "lon": -1.11462,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319902",
+    "nom": "Gujan-mestras:ZA E",
+    "lat": 44.61312,
+    "lon": -1.0705,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319911",
+    "nom": "Gujan-M :Std NRJ",
+    "lat": 44.63699,
+    "lon": -1.08884,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1719001",
+    "nom": "Houmeau-Republique",
+    "lat": 46.19072,
+    "lon": -1.1882,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3320305",
+    "nom": "HOURTIN 2",
+    "lat": 45.2224,
+    "lon": -1.17056,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3320304",
+    "nom": "HOURTIN:Aubes",
+    "lat": 45.22283,
+    "lon": -1.14819,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3320502",
+    "nom": "ILLATS",
+    "lat": 44.6,
+    "lon": -0.36708,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8611105",
+    "nom": "INGRANDES1",
+    "lat": 46.8515,
+    "lon": 0.5542,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8611106",
+    "nom": "INGRANDES2",
+    "lat": 46.90287,
+    "lon": 0.58951,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1616601",
+    "nom": "Isle-d'espagnac:ZI 3",
+    "lat": 45.66583,
+    "lon": 0.18057,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1602502",
+    "nom": "ITA_BaignesSteRadeg",
+    "lat": 45.37027,
+    "lon": -0.22572,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1708605",
+    "nom": "ITA_Chaniers",
+    "lat": 45.71778,
+    "lon": -0.52513,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3324004",
+    "nom": "ITA_Lesparre",
+    "lat": 45.29889,
+    "lon": -0.88111,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8611401",
+    "nom": "Jardres:Gate bourse",
+    "lat": 46.56404,
+    "lon": 0.55782,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1719302",
+    "nom": "JARNE_TER",
+    "lat": 46.13168,
+    "lon": -1.05031,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8611506",
+    "nom": "JAUNAY CLAN",
+    "lat": 46.69485,
+    "lon": 0.40126,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8611507",
+    "nom": "JAUNAY_MARIGNY",
+    "lat": 46.71803,
+    "lon": 0.38204,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1719701",
+    "nom": "Jonzac2",
+    "lat": 45.44332,
+    "lon": -0.41569,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1617301",
+    "nom": "Juille:gde riviere",
+    "lat": 45.93478,
+    "lon": 0.13222,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1617501",
+    "nom": "Jurignac-gd buisson1",
+    "lat": 45.53255,
+    "lon": -0.04222,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7914402",
+    "nom": "JUSCORPS",
+    "lat": 46.21009,
+    "lon": -0.3893,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3321405",
+    "nom": "LACANAU-849_0351",
+    "lat": 44.9692,
+    "lon": -1.14618,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3321408",
+    "nom": "Lacanau-Atlantique",
+    "lat": 45.00627,
+    "lon": -1.16819,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3321402",
+    "nom": "Lacanau:Carreyre",
+    "lat": 44.99611,
+    "lon": -1.14972,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3321406",
+    "nom": "Lacanau:Carreyre 2",
+    "lat": 44.99631,
+    "lon": -1.15013,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3321407",
+    "nom": "Lacanau:Mejos_SALT",
+    "lat": 44.97616,
+    "lon": -1.02089,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3321403",
+    "nom": "Lacanau:Sauveils",
+    "lat": 45.01515,
+    "lon": -1.16852,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606901",
+    "nom": "La Chaussee:Foreil",
+    "lat": 46.88444,
+    "lon": 0.13694,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7909801",
+    "nom": "LA_COUARDE",
+    "lat": 46.32507,
+    "lon": -0.16488,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7904808",
+    "nom": "LA_CRECHE",
+    "lat": 46.37669,
+    "lon": -0.26316,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7904807",
+    "nom": "LA_CRECHE_CENTRE_ROU",
+    "lat": 46.34821,
+    "lon": -0.31188,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7904805",
+    "nom": "LA CRECHE TER",
+    "lat": 46.34472,
+    "lon": -0.33472,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1613602",
+    "nom": "La Faye",
+    "lat": 46.01426,
+    "lon": 0.15251,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7912301",
+    "nom": "La Foret-sur-Sevre",
+    "lat": 46.75917,
+    "lon": -0.65417,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7914501",
+    "nom": "Lageon:Les Bouillons",
+    "lat": 46.731,
+    "lon": -0.23018,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1719301",
+    "nom": "LA JARNE1",
+    "lat": 46.13261,
+    "lon": -1.0548,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1719401",
+    "nom": "La Jarrie",
+    "lat": 46.11878,
+    "lon": -1.01901,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1719403",
+    "nom": "LA JARRIE3",
+    "lat": 46.11418,
+    "lon": -1.00585,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3322202",
+    "nom": "LALANDE DE POMEROL",
+    "lat": 44.95757,
+    "lon": -0.21866,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7918401",
+    "nom": "LA MOTHE ST HERAY",
+    "lat": 46.3596,
+    "lon": -0.12154,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7918403",
+    "nom": "LA_MOTHE_ST_HERAY_TE",
+    "lat": 46.37561,
+    "lon": -0.11461,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3333401",
+    "nom": "Langoiran:Portets",
+    "lat": 44.68639,
+    "lon": -0.43444,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3322707",
+    "nom": "LANGON-849_0401",
+    "lat": 44.54637,
+    "lon": -0.24459,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3322702",
+    "nom": "Langon:la Verdure",
+    "lat": 44.53667,
+    "lon": -0.24123,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3322901",
+    "nom": "Lanton",
+    "lat": 44.78611,
+    "lon": -0.91194,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3322902",
+    "nom": "Lanton carquillas",
+    "lat": 44.7781,
+    "lon": -1.04641,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3322952",
+    "nom": "Lanton:Querquillas",
+    "lat": 44.77697,
+    "lon": -1.04406,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1625952",
+    "nom": "LA PERUSE",
+    "lat": 45.88348,
+    "lon": 0.61084,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7920801",
+    "nom": "La Peyratte:Bobinet",
+    "lat": 46.64944,
+    "lon": -0.1112,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3353201",
+    "nom": "Lapouyade",
+    "lat": 45.14222,
+    "lon": -0.30065,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3323003",
+    "nom": "Lapouyade:Caillou",
+    "lat": 45.13056,
+    "lon": -0.32324,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3335206",
+    "nom": "LA REOLE",
+    "lat": 44.57892,
+    "lon": -0.07121,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3335205",
+    "nom": "LA REOLE-849_0017",
+    "lat": 44.58292,
+    "lon": -0.03506,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3335204",
+    "nom": "LA REOLE-849_0106",
+    "lat": 44.58254,
+    "lon": -0.03483,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3335208",
+    "nom": "LA REOLE ILET",
+    "lat": 44.57817,
+    "lon": -0.07097,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730062",
+    "nom": "LA ROCHELLE",
+    "lat": 46.14068,
+    "lon": -1.14927,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730011",
+    "nom": "LA ROCHELLE-ANTALIS",
+    "lat": 46.16035,
+    "lon": -1.17961,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730063",
+    "nom": "LA_ROCHELLE_LIZARDIE",
+    "lat": 46.13433,
+    "lon": -1.14062,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730034",
+    "nom": "LaRochelle:Semard",
+    "lat": 46.1532,
+    "lon": -1.14599,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730060",
+    "nom": "LaRochelle ST Virgin",
+    "lat": 46.14861,
+    "lon": -1.15106,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3323201",
+    "nom": "LARTIGUE:Frayot",
+    "lat": 44.25851,
+    "lon": -0.08851,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3323301",
+    "nom": "Laruscade",
+    "lat": 45.11594,
+    "lon": -0.34296,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3323305",
+    "nom": "LARUSCADE:Cournau",
+    "lat": 45.09492,
+    "lon": -0.36891,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3323302",
+    "nom": "LARUSCADE_ZRP",
+    "lat": 45.12903,
+    "lon": -0.32556,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352911",
+    "nom": "LaTesteDeB:Std FMair",
+    "lat": 44.63304,
+    "lon": -1.14759,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352914",
+    "nom": "LA TESTE-DE-BUCH",
+    "lat": 44.63781,
+    "lon": -1.13232,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352906",
+    "nom": "LA TESTE DE BUCH-532",
+    "lat": 44.56751,
+    "lon": -1.14,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352908",
+    "nom": "LA TESTE DE BUCH-704",
+    "lat": 44.62448,
+    "lon": -1.1487,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352902",
+    "nom": "La Teste:Vulcain",
+    "lat": 44.61365,
+    "lon": -1.12228,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352920",
+    "nom": "LaTeste:Vulcain_SALT",
+    "lat": 44.61417,
+    "lon": -1.12211,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8612003",
+    "nom": "Lathus St Remy 1",
+    "lat": 46.30657,
+    "lon": 0.98511,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8612101",
+    "nom": "LATILLE",
+    "lat": 46.61083,
+    "lon": 0.07773,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3323401",
+    "nom": "Latresne",
+    "lat": 44.77861,
+    "lon": -0.48389,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3323403",
+    "nom": "Latresne-Malbecs",
+    "lat": 44.78866,
+    "lon": -0.49519,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3302908",
+    "nom": "LE BARP:Achon",
+    "lat": 44.58501,
+    "lon": -0.72765,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3349804",
+    "nom": "Le Barp-Salles",
+    "lat": 44.57065,
+    "lon": -0.78122,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306908",
+    "nom": "LE BOUSCAT-0025",
+    "lat": 44.87008,
+    "lon": -0.60706,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306909",
+    "nom": "LE BOUSCAT-0058",
+    "lat": 44.87011,
+    "lon": -0.60702,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306911",
+    "nom": "LE BOUSCAT-0286",
+    "lat": 44.86589,
+    "lon": -0.60323,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306912",
+    "nom": "LE BOUSCAT:Curie",
+    "lat": 44.86374,
+    "lon": -0.59848,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306905",
+    "nom": "Le Bouscat Hippodro",
+    "lat": 44.87612,
+    "lon": -0.62321,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306910",
+    "nom": "Le Bouscat tuilerie",
+    "lat": 44.87004,
+    "lon": -0.60855,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1714301",
+    "nom": "LE_DOUHET",
+    "lat": 45.79903,
+    "lon": -0.57433,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3323608",
+    "nom": "LEGE CAP FERRET",
+    "lat": 44.68616,
+    "lon": -1.2467,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3323603",
+    "nom": "Lege-Cap-Ferret",
+    "lat": 44.70194,
+    "lon": -1.22889,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3323610",
+    "nom": "LegeCapFerret-Lesca",
+    "lat": 44.73741,
+    "lon": -1.191,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3330502",
+    "nom": "Le Nizan 2",
+    "lat": 44.46207,
+    "lon": -0.29143,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3323701",
+    "nom": "Leogeats_Epuration",
+    "lat": 44.51098,
+    "lon": -0.35221,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3323702",
+    "nom": "Leogeats_Herrade",
+    "lat": 44.51445,
+    "lon": -0.32457,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3305201",
+    "nom": "LES_BILLAUX_Baraillo",
+    "lat": 44.95638,
+    "lon": -0.24075,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1722552",
+    "nom": "LES MATHES",
+    "lat": 45.69601,
+    "lon": -1.22417,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3330901",
+    "nom": "Lesparre",
+    "lat": 45.305,
+    "lon": -0.87806,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352706",
+    "nom": "LE TEICH 1",
+    "lat": 44.63962,
+    "lon": -1.03756,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352707",
+    "nom": "LE TEICH1",
+    "lat": 44.56922,
+    "lon": -0.99601,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352708",
+    "nom": "LE TEICH2",
+    "lat": 44.5962,
+    "lon": -1.00183,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352712",
+    "nom": "Le_Teich_3",
+    "lat": 44.59113,
+    "lon": -0.99812,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352803",
+    "nom": "Le Temple",
+    "lat": 44.88696,
+    "lon": -0.99168,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352804",
+    "nom": "Le Temple_SALT",
+    "lat": 44.87278,
+    "lon": -0.90145,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352801",
+    "nom": "Le Temple:Ter Agrico",
+    "lat": 44.87083,
+    "lon": -0.9025,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1744702",
+    "nom": "LE_THOU",
+    "lat": 46.0929,
+    "lon": -0.95102,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7914801",
+    "nom": "Lezay:VC41",
+    "lat": 46.26321,
+    "lon": -0.01738,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8613104",
+    "nom": "LHOMMAIZE-PLI_PAC_10",
+    "lat": 46.44526,
+    "lon": 0.61994,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8613101",
+    "nom": "Lhommaize:RN147",
+    "lat": 46.44238,
+    "lon": 0.585,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3324311",
+    "nom": "Libourne:Epinette",
+    "lat": 44.90421,
+    "lon": -0.20788,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3324401",
+    "nom": "LIGNAN DE BAZAS",
+    "lat": 44.43512,
+    "lon": -0.26034,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8626301",
+    "nom": "Liguge",
+    "lat": 46.5175,
+    "lon": 0.34583,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8613306",
+    "nom": "LIGUGE_PAC",
+    "lat": 46.52398,
+    "lon": 0.31819,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1618701",
+    "nom": "Linars",
+    "lat": 45.64504,
+    "lon": 0.07256,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8613401",
+    "nom": "LINAZAY",
+    "lat": 46.15288,
+    "lon": 0.17475,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3324801",
+    "nom": "Listrac-medoc fourca",
+    "lat": 45.09521,
+    "lon": -0.79937,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3324802",
+    "nom": "Listrac-medoc toule,",
+    "lat": 45.04528,
+    "lon": -0.89097,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1618902",
+    "nom": "LONDIGNY",
+    "lat": 46.09789,
+    "lon": 0.1197,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1720801",
+    "nom": "Longeves le peu 3",
+    "lat": 46.22825,
+    "lon": -0.97558,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3324911",
+    "nom": "Lormont:Cassagne",
+    "lat": 44.8693,
+    "lon": -0.50904,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3324902",
+    "nom": "Lormont:Vincennes",
+    "lat": 44.87006,
+    "lon": -0.52376,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8613701",
+    "nom": "Loudun",
+    "lat": 47.01056,
+    "lon": 0.08278,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8613702",
+    "nom": "LOUDUN:COOPERATION",
+    "lat": 47.01889,
+    "lon": 0.085,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7915601",
+    "nom": "Louin:La Garde",
+    "lat": 46.79583,
+    "lon": -0.20833,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1619301",
+    "nom": "LouzacStAndre-Pall",
+    "lat": 45.71533,
+    "lon": -0.40285,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1721353",
+    "nom": "LOZAY-2",
+    "lat": 46.03475,
+    "lon": -0.55268,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1721401",
+    "nom": "Luchat:216",
+    "lat": 45.71288,
+    "lon": -0.75681,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3326002",
+    "nom": "LUGOS1",
+    "lat": 44.44304,
+    "lon": -0.96975,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3326003",
+    "nom": "LUGOS2",
+    "lat": 44.4645,
+    "lon": -0.97397,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8613906",
+    "nom": "LUSIGNAN_EB_OF",
+    "lat": 46.42949,
+    "lon": 0.12436,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8613904",
+    "nom": "LUSIGNAN Nord",
+    "lat": 46.45539,
+    "lon": 0.14285,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8613903",
+    "nom": "LUSIGNAN_SUD",
+    "lat": 46.4275,
+    "lon": 0.1025,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1619652",
+    "nom": "Luxe",
+    "lat": 45.89031,
+    "lon": 0.12354,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1619901",
+    "nom": "MAGNAC-SUR-TOUVRE-RF",
+    "lat": 45.66156,
+    "lon": 0.23894,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8614201",
+    "nom": "Maille:chemin,rur,10",
+    "lat": 46.66472,
+    "lon": 0.11333,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8614301",
+    "nom": "MAIRE",
+    "lat": 46.8773,
+    "lon": 0.71793,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3326401",
+    "nom": "MARANSIN:Fosses",
+    "lat": 45.05829,
+    "lon": -0.27484,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8614501",
+    "nom": "Marcay",
+    "lat": 46.45429,
+    "lon": 0.20926,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8614505",
+    "nom": "MARCAY N10",
+    "lat": 46.47581,
+    "lon": 0.26899,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3355553",
+    "nom": "MARCHEPRIME1",
+    "lat": 44.6761,
+    "lon": -0.88235,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3355554",
+    "nom": "MARCHEPRIME:Hins",
+    "lat": 44.70738,
+    "lon": -0.81997,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8614601",
+    "nom": "Marigny-Brizay",
+    "lat": 46.737,
+    "lon": 0.39044,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8614701",
+    "nom": "Marigny-Chemerea",
+    "lat": 46.41286,
+    "lon": 0.20512,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8614705",
+    "nom": "MARIGNY CHEMEREAU",
+    "lat": 46.43112,
+    "lon": 0.20532,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3327001",
+    "nom": "MARIMBAULT",
+    "lat": 44.42426,
+    "lon": -0.25394,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1621001",
+    "nom": "MARSAC_ZR",
+    "lat": 45.74689,
+    "lon": 0.05309,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3327306",
+    "nom": "MARTIGNAS SUR JA-384",
+    "lat": 44.8425,
+    "lon": -0.76889,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3327501",
+    "nom": "MARTRES:La Motte",
+    "lat": 44.70587,
+    "lon": -0.15817,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1704801",
+    "nom": "Matha:Traine Chardon",
+    "lat": 45.87785,
+    "lon": -0.34141,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7907901",
+    "nom": "Mauleon1:Cht-Gaillar",
+    "lat": 46.9225,
+    "lon": -0.75972,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7917001",
+    "nom": "Mauze-sur-le-Mignon",
+    "lat": 46.19847,
+    "lon": -0.64986,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1722701",
+    "nom": "MAZEROLLES_(17)",
+    "lat": 45.57171,
+    "lon": -0.58954,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8615301",
+    "nom": "MAZEROLLES (86)",
+    "lat": 46.40991,
+    "lon": 0.69339,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7917202",
+    "nom": "Mazieres-en-Gatine",
+    "lat": 46.49833,
+    "lon": -0.34278,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7917201",
+    "nom": "Mazieres-en -OP",
+    "lat": 46.54361,
+    "lon": -0.31083,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3321401",
+    "nom": "Mejos: rte Lacanau",
+    "lat": 44.97667,
+    "lon": -1.02083,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7917403",
+    "nom": "Melle",
+    "lat": 46.22229,
+    "lon": -0.15261,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7917601",
+    "nom": "Menigoute",
+    "lat": 46.50125,
+    "lon": -0.06447,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328103",
+    "nom": "Merignac 369 l'argon",
+    "lat": 44.81379,
+    "lon": -0.72175,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328132",
+    "nom": "MERIGNAC:Berthelot",
+    "lat": 44.8274,
+    "lon": -0.62715,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328138",
+    "nom": "Merignac:Galvani",
+    "lat": 44.84258,
+    "lon": -0.63562,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328139",
+    "nom": "Merignac:Ornano",
+    "lat": 44.83368,
+    "lon": -0.61806,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1621701",
+    "nom": "MERPINS",
+    "lat": 45.66171,
+    "lon": -0.36025,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1723001",
+    "nom": "Meschers/Gironde",
+    "lat": 45.56697,
+    "lon": -0.96112,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8615701",
+    "nom": "Mignaloux-Beauvoir",
+    "lat": 46.54528,
+    "lon": 0.38861,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8615801",
+    "nom": "Migne-Auxances",
+    "lat": 46.62986,
+    "lon": 0.3174,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8615805",
+    "nom": "Migne-Auxances LGV",
+    "lat": 46.63447,
+    "lon": 0.3452,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328452",
+    "nom": "MIOS 1",
+    "lat": 44.63173,
+    "lon": -0.91174,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328453",
+    "nom": "MIOS1",
+    "lat": 44.52792,
+    "lon": -0.98563,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328457",
+    "nom": "MIOS : Arneyres",
+    "lat": 44.62028,
+    "lon": -0.97063,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328401",
+    "nom": "Mios beauchamps",
+    "lat": 44.62139,
+    "lon": -0.85778,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328458",
+    "nom": "MIOS:Broustere",
+    "lat": 44.63094,
+    "lon": -0.92558,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328455",
+    "nom": "MIOS:Caudos",
+    "lat": 44.54629,
+    "lon": -0.99278,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328402",
+    "nom": "Mios:pac le Pujeau",
+    "lat": 44.60944,
+    "lon": -0.915,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328403",
+    "nom": "Mios:pac Vignes",
+    "lat": 44.58917,
+    "lon": -0.94722,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328404",
+    "nom": "Mios: siporex",
+    "lat": 44.6648,
+    "lon": -0.82158,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8616001",
+    "nom": "MIREBEAU",
+    "lat": 46.79083,
+    "lon": 0.19139,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8616201",
+    "nom": "Mondion",
+    "lat": 46.94392,
+    "lon": 0.45753,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8616202",
+    "nom": "MONDION_SUD_LGV",
+    "lat": 46.92652,
+    "lon": 0.45155,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328901",
+    "nom": "MONSEGUR",
+    "lat": 44.64711,
+    "lon": 0.10106,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3329101",
+    "nom": "MONTAGOUDIN",
+    "lat": 44.57447,
+    "lon": -0.00352,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7918001",
+    "nom": "Montalembert:Garenne",
+    "lat": 46.09444,
+    "lon": 0.19139,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1622201",
+    "nom": "Montboyer:pac",
+    "lat": 45.34505,
+    "lon": 0.07132,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1724102",
+    "nom": "Montguyon",
+    "lat": 45.21333,
+    "lon": -0.166,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1724103",
+    "nom": "MONTGUYON_ZRP",
+    "lat": 45.22761,
+    "lon": -0.15256,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1622601",
+    "nom": "Montignac3",
+    "lat": 45.78067,
+    "lon": 0.12722,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1724301",
+    "nom": "Montlieu-la-Garde",
+    "lat": 45.23834,
+    "lon": -0.272,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1629401",
+    "nom": "Montmoreau",
+    "lat": 45.39917,
+    "lon": 0.14861,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8625401",
+    "nom": "Montmorillon",
+    "lat": 46.40556,
+    "lon": 0.87336,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8616507",
+    "nom": "MONTMORILLON2",
+    "lat": 46.42279,
+    "lon": 0.86432,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8616508",
+    "nom": "MONTMORILLON3",
+    "lat": 46.3908,
+    "lon": 0.90594,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8616509",
+    "nom": "MONTMORILLON4",
+    "lat": 46.40535,
+    "lon": 0.88052,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3329301",
+    "nom": "Montussan de cournea",
+    "lat": 44.87338,
+    "lon": -0.43929,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3329302",
+    "nom": "Montussan_SALT",
+    "lat": 44.87306,
+    "lon": -0.43917,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1725001",
+    "nom": "MOSNAC",
+    "lat": 45.49864,
+    "lon": -0.52889,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1623301",
+    "nom": "MOSNAC_1",
+    "lat": 45.61662,
+    "lon": -0.00893,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1623601",
+    "nom": "Mouthiers/Boeme",
+    "lat": 45.55718,
+    "lon": 0.12235,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1623602",
+    "nom": "Mouthiers pac bois",
+    "lat": 45.56257,
+    "lon": 0.13371,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1623701",
+    "nom": "MOUTON",
+    "lat": 45.89922,
+    "lon": 0.24447,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1725301",
+    "nom": "Muron-1 Rue d'Aunis",
+    "lat": 46.03412,
+    "lon": -0.83,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8617404",
+    "nom": "Naintre Aire",
+    "lat": 46.76267,
+    "lon": 0.46699,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1624201",
+    "nom": "NANTEUIL EN VALLEE",
+    "lat": 45.99448,
+    "lon": 0.33056,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7918901",
+    "nom": "Nanteuil:Gate Bot",
+    "lat": 46.42056,
+    "lon": -0.1675,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3330202",
+    "nom": "Neac Radiocom",
+    "lat": 44.95073,
+    "lon": -0.18478,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1624301",
+    "nom": "Nercillac:Ter Foot",
+    "lat": 45.72058,
+    "lon": -0.25283,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1624403",
+    "nom": "NERSAC",
+    "lat": 45.62845,
+    "lon": 0.06764,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1726001",
+    "nom": "Neuvicq",
+    "lat": 45.24208,
+    "lon": -0.14133,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1611354",
+    "nom": "Nhood_Angouleme La C",
+    "lat": 45.61785,
+    "lon": 0.10283,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3305111",
+    "nom": "Nhood_Biganos",
+    "lat": 44.63946,
+    "lon": -0.96056,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306515",
+    "nom": "Nhood_Bouliac",
+    "lat": 44.817,
+    "lon": -0.52624,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606258",
+    "nom": "Nhood_Chasseneuil",
+    "lat": 46.65125,
+    "lon": 0.3755,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1605802",
+    "nom": "Nhood_Cognac",
+    "lat": 45.68343,
+    "lon": -0.30571,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1611355",
+    "nom": "Nhood_P_ANGOULEME-1",
+    "lat": 45.62649,
+    "lon": 0.11381,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1611356",
+    "nom": "Nhood_P_ANGOULEME-2",
+    "lat": 45.61872,
+    "lon": 0.10012,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3305112",
+    "nom": "Nhood_P_BIGANOS-1",
+    "lat": 44.63786,
+    "lon": -0.96311,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306516",
+    "nom": "Nhood_P_BOULIAC-1",
+    "lat": 44.81791,
+    "lon": -0.52173,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306517",
+    "nom": "Nhood_P_BOULIAC-2",
+    "lat": 44.8077,
+    "lon": -0.52197,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1608904",
+    "nom": "Nhood_P_COGNAC-1",
+    "lat": 45.68448,
+    "lon": -0.30177,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619486",
+    "nom": "Nhood_Poitiers Sud",
+    "lat": 46.55191,
+    "lon": 0.29978,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8608802",
+    "nom": "Nhood_P_POITIERS S-1",
+    "lat": 46.54793,
+    "lon": 0.29262,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8608803",
+    "nom": "Nhood_P_POITIERS S-2",
+    "lat": 46.54431,
+    "lon": 0.30109,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1726401",
+    "nom": "NieulMer-Gounod",
+    "lat": 46.2074,
+    "lon": -1.18213,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1726402",
+    "nom": "NieulMer-Ocean",
+    "lat": 46.20694,
+    "lon": -1.16374,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1726201",
+    "nom": "Nieul pac la feroy",
+    "lat": 45.74883,
+    "lon": -0.72646,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7919105",
+    "nom": "Niort Fialerie",
+    "lat": 46.29639,
+    "lon": -0.48759,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7916401",
+    "nom": "Niort:Maisonnay",
+    "lat": 46.19285,
+    "lon": -0.05295,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7919155",
+    "nom": "Niort:Mendes France",
+    "lat": 46.33761,
+    "lon": -0.40969,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7919113",
+    "nom": "Niort:pl Pierre S",
+    "lat": 46.31847,
+    "lon": -0.45577,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7919156",
+    "nom": "Niort:P Sabatier",
+    "lat": 46.31297,
+    "lon": -0.49642,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7919110",
+    "nom": "NIORT Studio NRJ",
+    "lat": 46.31634,
+    "lon": -0.47014,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7919101",
+    "nom": "Niort:Viviers",
+    "lat": 46.33392,
+    "lon": -0.46056,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3330703",
+    "nom": "Noaillan-Maraing",
+    "lat": 44.48558,
+    "lon": -0.35997,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1624601",
+    "nom": "NONAC_1",
+    "lat": 45.42364,
+    "lon": 0.08739,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8618004",
+    "nom": "NOUAILLE3",
+    "lat": 46.50395,
+    "lon": 0.45377,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8618005",
+    "nom": "Nouaille-Maupertuis",
+    "lat": 46.52794,
+    "lon": 0.4087,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8618601",
+    "nom": "Oyre",
+    "lat": 46.86806,
+    "lon": 0.63222,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3331101",
+    "nom": "PAILLET:Fournier",
+    "lat": 44.69216,
+    "lon": -0.36145,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3331203",
+    "nom": "Parempuyre-Centre",
+    "lat": 44.94853,
+    "lon": -0.60233,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7900801",
+    "nom": "Parthenay1:Amailloux",
+    "lat": 46.75861,
+    "lon": -0.34778,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7908001",
+    "nom": "Parthenay:4 Moulins",
+    "lat": 46.65611,
+    "lon": -0.25126,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1625601",
+    "nom": "Passirac",
+    "lat": 45.35587,
+    "lon": -0.0292,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1727406",
+    "nom": "Perigny-Canton",
+    "lat": 46.15317,
+    "lon": -1.09731,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1727403",
+    "nom": "Perigny:Joliot Curie",
+    "lat": 46.15562,
+    "lon": -1.10906,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619002",
+    "nom": "Persac",
+    "lat": 46.3225,
+    "lon": 0.71528,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3331853",
+    "nom": "PESSAC 1",
+    "lat": 44.7945,
+    "lon": -0.6587,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3331861",
+    "nom": "Pessac-Brion",
+    "lat": 44.81113,
+    "lon": -0.61194,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3331815",
+    "nom": "PESSAC-Eluard",
+    "lat": 44.79212,
+    "lon": -0.63839,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3331856",
+    "nom": "Pessac:Paix",
+    "lat": 44.80694,
+    "lon": -0.63629,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3321001",
+    "nom": "Pessac-sur-Dordogne",
+    "lat": 44.81361,
+    "lon": 0.0675,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3332102",
+    "nom": "PEUJARD:Pierre",
+    "lat": 45.05484,
+    "lon": -0.45597,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3332201",
+    "nom": "Pian-Medoc:Palus",
+    "lat": 44.94831,
+    "lon": -0.62571,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3332204",
+    "nom": "PianMedoc-Voltaire",
+    "lat": 44.97759,
+    "lon": -0.63349,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303919",
+    "nom": "PKBEGLESLenine",
+    "lat": 44.79748,
+    "lon": -0.55223,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3307507",
+    "nom": "PKBRUGESTerrefort",
+    "lat": 44.88796,
+    "lon": -0.61269,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606659",
+    "nom": "PKCHATELLERAULTCarno",
+    "lat": 46.8186,
+    "lon": 0.54955,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3316708",
+    "nom": "PKFLOIRACALLENDE",
+    "lat": 44.84517,
+    "lon": -0.51051,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730067",
+    "nom": "PKLAMoulin",
+    "lat": 46.15309,
+    "lon": -1.14017,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730064",
+    "nom": "PKLASemard",
+    "lat": 46.15259,
+    "lon": -1.14264,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730065",
+    "nom": "PKLASemardGare",
+    "lat": 46.15312,
+    "lon": -1.14635,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730066",
+    "nom": "PKLASemardVeloparc",
+    "lat": 46.15264,
+    "lon": -1.14672,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3306917",
+    "nom": "PKLEl'hippodrome",
+    "lat": 44.87367,
+    "lon": -0.6285,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3324313",
+    "nom": "PKLIBOURNEresistance",
+    "lat": 44.91686,
+    "lon": -0.23687,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3324913",
+    "nom": "PKLORMONTCame",
+    "lat": 44.88789,
+    "lon": -0.51816,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3324914",
+    "nom": "PKLORMONTResistance",
+    "lat": 44.87872,
+    "lon": -0.51831,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3328145",
+    "nom": "PKMERIGNACMAGUDAS",
+    "lat": 44.85927,
+    "lon": -0.66794,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7919159",
+    "nom": "PKNIORTl'industrie",
+    "lat": 46.31862,
+    "lon": -0.45365,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3331858",
+    "nom": "PKPESSACBOUGNARD",
+    "lat": 44.79418,
+    "lon": -0.63508,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3331857",
+    "nom": "PKPESSACGalienne",
+    "lat": 44.78842,
+    "lon": -0.65099,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3331860",
+    "nom": "PKPESSACLorette",
+    "lat": 44.79398,
+    "lon": -0.65683,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3331859",
+    "nom": "PKPESSACSchweitzer",
+    "lat": 44.79487,
+    "lon": -0.62238,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619485",
+    "nom": "PKPOITIERSAchard",
+    "lat": 46.58086,
+    "lon": 0.3325,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1731801",
+    "nom": "PKSTBaleine",
+    "lat": 46.24204,
+    "lon": -1.55494,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619201",
+    "nom": "Plaisance:Patureaux",
+    "lat": 46.31778,
+    "lon": 0.82917,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1626302",
+    "nom": "Plassac Rouffiac",
+    "lat": 45.52736,
+    "lon": 0.05529,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1728002",
+    "nom": "PLASSAY",
+    "lat": 45.8465,
+    "lon": -0.71578,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1728003",
+    "nom": "PLASSAY_PORT_D_ENVAU",
+    "lat": 45.83763,
+    "lon": -0.70664,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7921201",
+    "nom": "Pliboux",
+    "lat": 46.1798,
+    "lon": 0.12723,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7921204",
+    "nom": "PLIBOUX_SUD",
+    "lat": 46.14588,
+    "lon": 0.13296,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619403",
+    "nom": "Poitiers1:Hop,d,Cham",
+    "lat": 46.59153,
+    "lon": 0.34759,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619404",
+    "nom": "Poitiers3:Madeleine",
+    "lat": 46.57212,
+    "lon": 0.32759,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619484",
+    "nom": "POITIERS ACHARD",
+    "lat": 46.58146,
+    "lon": 0.33264,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619414",
+    "nom": "POITIERS-ANTALIS TV",
+    "lat": 46.5912,
+    "lon": 0.35362,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619476",
+    "nom": "Poitiers:av 8mai1945",
+    "lat": 46.55557,
+    "lon": 0.30796,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619480",
+    "nom": "Poitiers:CAT F3(nvo)",
+    "lat": 46.58417,
+    "lon": 0.3175,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619402",
+    "nom": "Poitiers:Chateau Eau",
+    "lat": 46.59309,
+    "lon": 0.36031,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619483",
+    "nom": "POITIERS_EIFFIA",
+    "lat": 46.58177,
+    "lon": 0.33275,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619426",
+    "nom": "POITIERS-FB Poitou",
+    "lat": 46.583,
+    "lon": 0.33508,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619435",
+    "nom": "POITIERS- TWC",
+    "lat": 46.59139,
+    "lon": 0.36111,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619482",
+    "nom": "POITIERS_ZR",
+    "lat": 46.6126,
+    "lon": 0.3256,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3332801",
+    "nom": "POMEROL-0265",
+    "lat": 44.92373,
+    "lon": -0.20671,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3332802",
+    "nom": "POMEROL-849_0386",
+    "lat": 44.93112,
+    "lon": -0.19965,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3333001",
+    "nom": "POMPIGNAC",
+    "lat": 44.8549,
+    "lon": -0.42645,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3333103",
+    "nom": "PONDAURAT:Reole_SALT",
+    "lat": 44.53962,
+    "lon": -0.0724,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1728301",
+    "nom": "Pons",
+    "lat": 45.5781,
+    "lon": -0.54762,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1728503",
+    "nom": "PORT_D_ENVAUX_3",
+    "lat": 45.79903,
+    "lon": -0.6731,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1728504",
+    "nom": "PortEnvaux-Gibrand",
+    "lat": 45.83267,
+    "lon": -0.6796,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1728701",
+    "nom": "POUILLAC",
+    "lat": 45.27448,
+    "lon": -0.25449,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1635401",
+    "nom": "Poullignac",
+    "lat": 45.39006,
+    "lon": -0.02181,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7921601",
+    "nom": "Prahecq:Denis Papin",
+    "lat": 46.26972,
+    "lon": -0.37167,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7922005",
+    "nom": "PRIN_DEYRANCON_TER",
+    "lat": 46.21631,
+    "lon": -0.64271,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3334401",
+    "nom": "Pujols",
+    "lat": 44.81722,
+    "lon": -0.04583,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1627101",
+    "nom": "PUYMOYEN",
+    "lat": 45.62418,
+    "lon": 0.15742,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1729301",
+    "nom": "PUYRAVAULT",
+    "lat": 46.13736,
+    "lon": -0.80723,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3334801",
+    "nom": "Queyrac peyblanc 7",
+    "lat": 45.3769,
+    "lon": -1.02333,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1627301",
+    "nom": "RAIX",
+    "lat": 46.00528,
+    "lon": 0.12281,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3335001",
+    "nom": "Rauzan_Bassin",
+    "lat": 44.76944,
+    "lon": -0.12546,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3335102",
+    "nom": "REIGNAC",
+    "lat": 45.21462,
+    "lon": -0.50871,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3335152",
+    "nom": "REIGNAC 1",
+    "lat": 45.24588,
+    "lon": -0.53976,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1627602",
+    "nom": "REIGNAC CHARENTES",
+    "lat": 45.42236,
+    "lon": -0.17359,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3333101",
+    "nom": "Reole(la)",
+    "lat": 44.53944,
+    "lon": -0.07222,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8601403",
+    "nom": "RF Availles chatelle",
+    "lat": 46.76118,
+    "lon": 0.5821,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1716152",
+    "nom": "RF La Flotter en Re",
+    "lat": 46.18128,
+    "lon": -1.32965,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1722502",
+    "nom": "RF Les Mathes",
+    "lat": 45.71394,
+    "lon": -1.16208,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1627701",
+    "nom": "RF-REPARSAC",
+    "lat": 45.73363,
+    "lon": 0.23458,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8624503",
+    "nom": "RF ST SAUVEUR",
+    "lat": 46.80936,
+    "lon": 0.61177,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1640801",
+    "nom": "RFVilleboisLavalette",
+    "lat": 45.49067,
+    "lon": 0.27198,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1628052",
+    "nom": "RIVIERES",
+    "lat": 45.7576,
+    "lon": 0.39119,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1729902",
+    "nom": "Rochefort2:Beligon",
+    "lat": 45.96583,
+    "lon": -0.96944,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1729955",
+    "nom": "Rochefort-Dieras",
+    "lat": 45.9448,
+    "lon": -0.97536,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1628101",
+    "nom": "Rochefoucauld gds C,",
+    "lat": 45.73894,
+    "lon": 0.40391,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730070",
+    "nom": "Rochelle-Amboise",
+    "lat": 46.16669,
+    "lon": -1.12857,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730069",
+    "nom": "Rochelle-Arts",
+    "lat": 46.16033,
+    "lon": -1.16638,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730001",
+    "nom": "Rochelle(la):Mireuil",
+    "lat": 46.16828,
+    "lon": -1.18794,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1727401",
+    "nom": "Rochelle(la):Perign",
+    "lat": 46.16294,
+    "lon": -1.09601,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8620701",
+    "nom": "Roche-Posay(la)",
+    "lat": 46.78119,
+    "lon": 0.81625,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8621001",
+    "nom": "ROIFFE",
+    "lat": 47.13739,
+    "lon": 0.05099,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7923052",
+    "nom": "Rom 1",
+    "lat": 46.33421,
+    "lon": 0.14724,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8621101",
+    "nom": "ROMAGNE",
+    "lat": 46.24306,
+    "lon": 0.29313,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7923053",
+    "nom": "Rom Guessonniere",
+    "lat": 46.29647,
+    "lon": 0.12525,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730401",
+    "nom": "ROUFFIAC",
+    "lat": 45.68822,
+    "lon": -0.49256,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1628501",
+    "nom": "ROUGNAC",
+    "lat": 45.53676,
+    "lon": 0.34836,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1628502",
+    "nom": "ROUGNAC_2",
+    "lat": 45.54918,
+    "lon": 0.35341,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8621302",
+    "nom": "ROUILLE_EST",
+    "lat": 46.42488,
+    "lon": 0.06228,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8621304",
+    "nom": "ROUILLE_OUEST",
+    "lat": 46.41031,
+    "lon": -0.00671,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1628703",
+    "nom": "Roullet St Estephe",
+    "lat": 45.58205,
+    "lon": 0.07318,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1628705",
+    "nom": "ROULLET ST ESTEPHE 2",
+    "lat": 45.6097,
+    "lon": 0.06875,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1619203",
+    "nom": "ROUMAZIERES_LOUBER_2",
+    "lat": 45.94513,
+    "lon": 0.55096,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1619204",
+    "nom": "ROUMAZIERES_LOUBERT",
+    "lat": 45.89229,
+    "lon": 0.58394,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1619201",
+    "nom": "Roumazieres-loubert",
+    "lat": 45.87306,
+    "lon": 0.56944,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1733301",
+    "nom": "Royan2:St-Georges",
+    "lat": 45.57944,
+    "lon": -0.98028,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730603",
+    "nom": "Royan3:Tres-Nord",
+    "lat": 45.64139,
+    "lon": -1.03,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1746101",
+    "nom": "Royan4:Vaux/Mer",
+    "lat": 45.63611,
+    "lon": -1.06278,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730605",
+    "nom": "Royan Belmont",
+    "lat": 45.62698,
+    "lon": -0.99676,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730606",
+    "nom": "ROYAN_CENTRE",
+    "lat": 45.62254,
+    "lon": -1.02119,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1733302",
+    "nom": "RoyanSt-Georges-de",
+    "lat": 45.59266,
+    "lon": -0.97885,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1629101",
+    "nom": "Ruelle",
+    "lat": 45.67867,
+    "lon": 0.24018,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1629201",
+    "nom": "Ruffec:Chateau d'eau",
+    "lat": 46.04005,
+    "lon": 0.20199,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3336301",
+    "nom": "Sadirac pac blagnac",
+    "lat": 44.79194,
+    "lon": -0.40806,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1631201",
+    "nom": "SAINT CYBARDEAUX_1",
+    "lat": 45.77387,
+    "lon": -0.02511,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7924603",
+    "nom": "SAINTE_EANNE_NORD",
+    "lat": 46.3951,
+    "lon": -0.16423,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7924605",
+    "nom": "SAINTE_EANNE_SUD_TER",
+    "lat": 46.38559,
+    "lon": -0.14712,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3339703",
+    "nom": "SainteEulalie-Cotele",
+    "lat": 44.90876,
+    "lon": -0.473,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3339453",
+    "nom": "SAINT_EMILION",
+    "lat": 44.89383,
+    "lon": -0.15098,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1741504",
+    "nom": "Saintes",
+    "lat": 45.74592,
+    "lon": -0.68385,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1741502",
+    "nom": "Saintes1:Velodrome",
+    "lat": 45.73806,
+    "lon": -0.63972,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1728901",
+    "nom": "Saintes2:Preguillac",
+    "lat": 45.66417,
+    "lon": -0.6243,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1741554",
+    "nom": "SAINTES_ESSERT",
+    "lat": 45.71494,
+    "lon": -0.69198,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1632003",
+    "nom": "Saint_Genis_Hiersac",
+    "lat": 45.75099,
+    "lon": 0.03726,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8622401",
+    "nom": "Saint-Gervais-les",
+    "lat": 46.91456,
+    "lon": 0.44335,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3342206",
+    "nom": "SAINT JEAN d'ILL-370",
+    "lat": 44.79778,
+    "lon": -0.78583,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1735901",
+    "nom": "SAINT_MARD",
+    "lat": 46.09912,
+    "lon": -0.67602,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7928501",
+    "nom": "Saint-Pardoux:Baraud",
+    "lat": 46.57667,
+    "lon": -0.29313,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1739753",
+    "nom": "SAINT_SAVINIEN",
+    "lat": 45.87301,
+    "lon": -0.67246,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1635701",
+    "nom": "Saint-Vallier",
+    "lat": 45.29095,
+    "lon": -0.0749,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7929901",
+    "nom": "Saint-Varent:Ormeau",
+    "lat": 46.90611,
+    "lon": -0.19556,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3349805",
+    "nom": "SALLES1",
+    "lat": 44.48513,
+    "lon": -0.97856,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3349806",
+    "nom": "SALLES2",
+    "lat": 44.50538,
+    "lon": -0.98468,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3349807",
+    "nom": "SALLES3",
+    "lat": 44.52393,
+    "lon": -0.98572,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3349808",
+    "nom": "SALLES:Miqueou",
+    "lat": 44.56445,
+    "lon": -0.86119,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3349802",
+    "nom": "Salles:pac rural vc5",
+    "lat": 44.56393,
+    "lon": -0.8604,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3349803",
+    "nom": "Salles:Pujeau Prades",
+    "lat": 44.54462,
+    "lon": -0.83278,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7930302",
+    "nom": "SALLES_TER",
+    "lat": 46.39878,
+    "lon": -0.08519,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1608902",
+    "nom": "SALT_CHATEAUBERNARD",
+    "lat": 45.68069,
+    "lon": -0.29253,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1716003",
+    "nom": "SALT_FLOIRAC",
+    "lat": 45.48433,
+    "lon": -0.72456,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8610007",
+    "nom": "SALT_FONTAINE_L_COMT",
+    "lat": 46.53084,
+    "lon": 0.27845,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8611402",
+    "nom": "SALT_JARDRES",
+    "lat": 46.56406,
+    "lon": 0.55753,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1721402",
+    "nom": "SALT_LUCHAT",
+    "lat": 45.71172,
+    "lon": -0.75111,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8628102",
+    "nom": "SALT_VENDEUVRE",
+    "lat": 46.73812,
+    "lon": 0.31765,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8629308",
+    "nom": "SALT_VIVONNE_GRD_M",
+    "lat": 46.38245,
+    "lon": 0.25711,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3350203",
+    "nom": "SAUGON:Bergerie",
+    "lat": 45.18819,
+    "lon": -0.48919,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1742101",
+    "nom": "SAUJON",
+    "lat": 45.68025,
+    "lon": -0.91008,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1742153",
+    "nom": "SAUJON 1",
+    "lat": 45.68113,
+    "lon": -0.92621,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3350302",
+    "nom": "SAUMOS:Courgas",
+    "lat": 44.93117,
+    "lon": -0.98857,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3350701",
+    "nom": "SAUVIAC",
+    "lat": 44.3918,
+    "lon": -0.18728,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7930701",
+    "nom": "Sauze vaussais",
+    "lat": 46.13588,
+    "lon": 0.11738,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7930704",
+    "nom": "SAUZE_VAUSSAIS_SUD",
+    "lat": 46.1179,
+    "lon": 0.12133,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3350802",
+    "nom": "Savignac-Abauts",
+    "lat": 44.53361,
+    "lon": -0.10306,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8625803",
+    "nom": "Scorbe Clairvaux",
+    "lat": 46.79088,
+    "lon": 0.38936,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8622101",
+    "nom": "Scorbe Clairvaux 1",
+    "lat": 46.81111,
+    "lon": 0.38962,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1636602",
+    "nom": "SEGONZAC ZA",
+    "lat": 45.61639,
+    "lon": -0.23,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1742401",
+    "nom": "SEMOUSSAC",
+    "lat": 45.402,
+    "lon": -0.60392,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8624504",
+    "nom": "SENILLE ST SAUVEUR",
+    "lat": 46.8155,
+    "lon": 0.62189,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1636802",
+    "nom": "SERS",
+    "lat": 45.59005,
+    "lon": 0.3364,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8626101",
+    "nom": "SEVRES-ANXAUMONT",
+    "lat": 46.56194,
+    "lon": 0.44064,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1636902",
+    "nom": "Sigogne",
+    "lat": 45.75486,
+    "lon": -0.16945,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1636903",
+    "nom": "SIGOGNE_CHASSORS",
+    "lat": 45.7325,
+    "lon": -0.19675,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1637002",
+    "nom": "SIREUIL_2",
+    "lat": 45.60389,
+    "lon": 0.01427,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1628602",
+    "nom": "SONNEVILLE_2",
+    "lat": 45.79851,
+    "lon": -0.1452,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1742901",
+    "nom": "SOUBISE",
+    "lat": 45.91707,
+    "lon": -0.9923,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7931653",
+    "nom": "SOUDAN_Carpo",
+    "lat": 46.43247,
+    "lon": -0.05913,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7931601",
+    "nom": "Soudan la Terriere",
+    "lat": 46.43615,
+    "lon": -0.05972,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3351401",
+    "nom": "Soulac",
+    "lat": 45.51252,
+    "lon": -1.11782,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1743301",
+    "nom": "SOUSMOULINS",
+    "lat": 45.31096,
+    "lon": -0.33956,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1637402",
+    "nom": "Soyaux:Toutifaut",
+    "lat": 45.64444,
+    "lon": 0.19449,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3346305",
+    "nom": "S-P-AURILLAC:Rouille",
+    "lat": 44.58073,
+    "lon": -0.19256,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3336501",
+    "nom": "ST AIGNAN (FRONSAC)",
+    "lat": 44.94712,
+    "lon": -0.28179,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1629552",
+    "nom": "StAmantBoixe-Chatela",
+    "lat": 45.7895,
+    "lon": 0.12867,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1629501",
+    "nom": "St-amant-d-boixe",
+    "lat": 45.79895,
+    "lon": 0.12349,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3336602",
+    "nom": "St-Andre-De-Cubzac_2",
+    "lat": 45.00016,
+    "lon": -0.42474,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3336603",
+    "nom": "St-Andre-de-Cubzac_3",
+    "lat": 44.97683,
+    "lon": -0.42922,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3337001",
+    "nom": "ST ANDRONY",
+    "lat": 45.18988,
+    "lon": -0.65124,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3337601",
+    "nom": "St-Aubin-de-medoc",
+    "lat": 44.92083,
+    "lon": -0.71222,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8621403",
+    "nom": "ST-BENOIT (Vienne)",
+    "lat": 46.54212,
+    "lon": 0.3559,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3338001",
+    "nom": "ST-CAPRAIS-DE-BLAYE",
+    "lat": 45.28968,
+    "lon": -0.55329,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3338202",
+    "nom": "ST CHRISTOLY DE B",
+    "lat": 45.13479,
+    "lon": -0.52489,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1731702",
+    "nom": "ST_CIERS_DU_TAILLON",
+    "lat": 45.43935,
+    "lon": -0.60864,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1630801",
+    "nom": "St claud pac pontois",
+    "lat": 45.88083,
+    "lon": 0.47306,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7924301",
+    "nom": "St-Coutant",
+    "lat": 46.20586,
+    "lon": 0.01098,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8621901",
+    "nom": "St-Cyr:vc7 des lises",
+    "lat": 46.71489,
+    "lon": 0.44417,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3339301",
+    "nom": "St-Denis-de-pile",
+    "lat": 44.98315,
+    "lon": -0.15709,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3339302",
+    "nom": "ST-DENIS-DE-PILE 2",
+    "lat": 44.97029,
+    "lon": -0.20111,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3339305",
+    "nom": "ST-DENIS-DE-PILE 3",
+    "lat": 44.98487,
+    "lon": -0.19101,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1727701",
+    "nom": "St-Denis-du-Pin",
+    "lat": 46.0097,
+    "lon": -0.53257,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1732301",
+    "nom": "ST_DENIS_OLERON",
+    "lat": 46.03822,
+    "lon": -1.39177,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352225",
+    "nom": "Std-ENJOY33-Talence",
+    "lat": 44.8142,
+    "lon": -0.58886,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303917",
+    "nom": "Std Gold RBA",
+    "lat": 44.81397,
+    "lon": -0.55131,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3323609",
+    "nom": "Std Radio Cap Ferret",
+    "lat": 44.78858,
+    "lon": -1.16594,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1736001",
+    "nom": "SteMarieRe-Hermitag",
+    "lat": 46.15988,
+    "lon": -1.35266,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7929203",
+    "nom": "STE RADEGONDE-ZAEI",
+    "lat": 47.00056,
+    "lon": -0.26083,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3339501",
+    "nom": "ST ESTEPHE",
+    "lat": 45.2339,
+    "lon": -0.79818,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3339601",
+    "nom": "ST ETIENNE DE LISSE",
+    "lat": 44.86948,
+    "lon": -0.09799,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1631602",
+    "nom": "St Fort Sur le Ne",
+    "lat": 45.57834,
+    "lon": -0.29562,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1631801",
+    "nom": "ST FRONT_1_ROMEFORT",
+    "lat": 45.88054,
+    "lon": 0.2799,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7924904",
+    "nom": "ST GELAIS",
+    "lat": 46.39948,
+    "lon": -0.36549,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7924901",
+    "nom": "St-Gelais",
+    "lat": 46.34928,
+    "lon": -0.43096,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7924903",
+    "nom": "ST-GELAIS 1",
+    "lat": 46.37985,
+    "lon": -0.36351,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3340601",
+    "nom": "ST GENES CASTILLON",
+    "lat": 44.88925,
+    "lon": -0.06474,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8622104",
+    "nom": "ST GENEST DAMBIERE",
+    "lat": 46.83649,
+    "lon": 0.39338,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8622102",
+    "nom": "ST-GENEST-D AMBIERE",
+    "lat": 46.82406,
+    "lon": 0.38698,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1632002",
+    "nom": "ST_GENIS_HIERSAC_LGV",
+    "lat": 45.77152,
+    "lon": 0.0639,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1733101",
+    "nom": "St-genis-saintonge",
+    "lat": 45.46667,
+    "lon": -0.59083,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1733201",
+    "nom": "St-Georges-Antignac",
+    "lat": 45.50123,
+    "lon": -0.48148,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1733805",
+    "nom": "StGeorgesBois-Distil",
+    "lat": 46.14256,
+    "lon": -0.73456,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1733354",
+    "nom": "ST_GEORGES_DIDONNE_3",
+    "lat": 45.60651,
+    "lon": -0.97343,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1733705",
+    "nom": "St Georges d'OL DFMG",
+    "lat": 45.96702,
+    "lon": -1.30095,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1733804",
+    "nom": "ST_GEORGES_DU_BOIS",
+    "lat": 46.13823,
+    "lon": -0.71476,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1733802",
+    "nom": "St-Georges-du-Bois02",
+    "lat": 46.1572,
+    "lon": -0.7125,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1733653",
+    "nom": "ST_GEORGES_L_COTEAUX",
+    "lat": 45.76795,
+    "lon": -0.68707,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1733703",
+    "nom": "St_Georges_Oleron2",
+    "lat": 45.96741,
+    "lon": -1.29997,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1733704",
+    "nom": "ST_GEORGES_OLERON_V2",
+    "lat": 45.95982,
+    "lon": -1.37596,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1733803",
+    "nom": "ST_GEORGES_SARRAZINE",
+    "lat": 46.13217,
+    "lon": -0.73431,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3341201",
+    "nom": "StGermainEsteuil-Pil",
+    "lat": 45.27428,
+    "lon": -0.90783,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8622303",
+    "nom": "ST GERMAIN Vienne",
+    "lat": 46.57872,
+    "lon": 0.91864,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8622404",
+    "nom": "St-Gervais_3-Clocher",
+    "lat": 46.90685,
+    "lon": 0.43533,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8621701",
+    "nom": "St-Gervais-3-Clocher",
+    "lat": 46.91361,
+    "lon": 0.38389,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8622403",
+    "nom": "ST GERVAIS LES 3 CLO",
+    "lat": 46.88556,
+    "lon": 0.41927,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3341601",
+    "nom": "ST-GIRONS-AIGUEVIVES",
+    "lat": 45.13186,
+    "lon": -0.53191,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1734401",
+    "nom": "St-hilaire pac benoi",
+    "lat": 45.86306,
+    "lon": -0.52222,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1734753",
+    "nom": "StJeanAngely-Aunis",
+    "lat": 45.95121,
+    "lon": -0.53709,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1734701",
+    "nom": "St-Jean-d'Angely1",
+    "lat": 45.94361,
+    "lon": -0.51556,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1734702",
+    "nom": "St-Jean-d'Angely2",
+    "lat": 45.96222,
+    "lon": -0.52833,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3342202",
+    "nom": "St-Jean-d'illac :Cap",
+    "lat": 44.79667,
+    "lon": -0.84194,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3342208",
+    "nom": "ST-JEAN-D'ILLAC:Cap2",
+    "lat": 44.79789,
+    "lon": -0.84582,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3342207",
+    "nom": "ST JEAN D ILLAC-CE",
+    "lat": 44.81411,
+    "lon": -0.77779,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1735154",
+    "nom": "St Just Luzac2",
+    "lat": 45.80501,
+    "lon": -1.05756,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1633001",
+    "nom": "St-laurent-d-cognac",
+    "lat": 45.69244,
+    "lon": -0.39025,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1632901",
+    "nom": "St Laurent de Ceri",
+    "lat": 45.94481,
+    "lon": 0.4818,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3343353",
+    "nom": "ST LOUBES",
+    "lat": 44.91922,
+    "lon": -0.42132,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7926801",
+    "nom": "St-Loup-Lamaire",
+    "lat": 46.78944,
+    "lon": -0.16028,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3343601",
+    "nom": "St-MAGNE:Braut",
+    "lat": 44.54558,
+    "lon": -0.64616,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3343602",
+    "nom": "StMagne-Mairie",
+    "lat": 44.52692,
+    "lon": -0.65656,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7927004",
+    "nom": "ST MAIXENT ECOLE-431",
+    "lat": 46.41324,
+    "lon": -0.21616,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7927001",
+    "nom": "St-Maixent-l'Ecole1",
+    "lat": 46.40558,
+    "lon": -0.21049,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1736502",
+    "nom": "St-Martin-d'Ary2_LGV",
+    "lat": 45.19722,
+    "lon": -0.18901,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1736501",
+    "nom": "St-martin-d'ary pac",
+    "lat": 45.22291,
+    "lon": -0.20556,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7927401",
+    "nom": "ST MARTIN DE MACON",
+    "lat": 47.01998,
+    "lon": -0.13472,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7927603",
+    "nom": "ST_MARTIN_DE-MAIXENT",
+    "lat": 46.39724,
+    "lon": -0.21026,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7927602",
+    "nom": "ST MARTIN DE ST MAIX",
+    "lat": 46.3796,
+    "lon": -0.20878,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7927604",
+    "nom": "ST_MARTIN_DE_ST_MAIX",
+    "lat": 46.38589,
+    "lon": -0.24194,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1622901",
+    "nom": "St Martin du Clocher",
+    "lat": 46.06119,
+    "lon": 0.1328,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7927801",
+    "nom": "St-Martin-Fouilloux",
+    "lat": 46.59929,
+    "lon": -0.14735,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1736905",
+    "nom": "StMartinRe-SteClaire",
+    "lat": 46.20289,
+    "lon": -1.36975,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3344907",
+    "nom": "ST MEDARD-0268",
+    "lat": 44.88972,
+    "lon": -0.69056,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3344901",
+    "nom": "St-Medard-en-Jalles1",
+    "lat": 44.85639,
+    "lon": -0.72833,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3344904",
+    "nom": "St-Medard-en-Jlles4",
+    "lat": 44.89815,
+    "lon": -0.785,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1634001",
+    "nom": "StMemeCarrieres-Ecol",
+    "lat": 45.64529,
+    "lon": -0.13982,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3345202",
+    "nom": "St Michel Rieufret",
+    "lat": 44.64042,
+    "lon": -0.42698,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3344952",
+    "nom": "St-M-Jalles:Massenet",
+    "lat": 44.8974,
+    "lon": -0.75475,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1737952",
+    "nom": "ST-PALAIS 1",
+    "lat": 45.50955,
+    "lon": -0.61237,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1634201",
+    "nom": "St Palais du Ne",
+    "lat": 45.52924,
+    "lon": -0.30465,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1738052",
+    "nom": "StPalaisMer-Logis",
+    "lat": 45.65167,
+    "lon": -1.10517,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1737801",
+    "nom": "ST PALAIS NEGRIGNAC",
+    "lat": 45.27339,
+    "lon": -0.24644,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7928901",
+    "nom": "St_P_Echaubrognes",
+    "lat": 46.99438,
+    "lon": -0.74334,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1738201",
+    "nom": "ST PIERRE AMILLY",
+    "lat": 46.17056,
+    "lon": -0.69656,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3346401",
+    "nom": "ST-PIERRE-DE-BAT",
+    "lat": 44.67969,
+    "lon": -0.23149,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8623601",
+    "nom": "St-Pierre-de-Maille",
+    "lat": 46.67861,
+    "lon": 0.84639,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1738501",
+    "nom": "St-Pierre-d'Oleron1",
+    "lat": 45.93505,
+    "lon": -1.31289,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7929001",
+    "nom": "ST-POMPAIN",
+    "lat": 46.40035,
+    "lon": -0.61697,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1738701",
+    "nom": "ST_PORCHAIRE",
+    "lat": 45.8088,
+    "lon": -0.7615,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1634401",
+    "nom": "St-projet-Stconstant",
+    "lat": 45.73861,
+    "lon": 0.35083,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1738801",
+    "nom": "ST_QUANTIN_DE_RANCAN",
+    "lat": 45.52994,
+    "lon": -0.5751,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1739301",
+    "nom": "St-romain-de-benet",
+    "lat": 45.68806,
+    "lon": -0.87639,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1739302",
+    "nom": "ST-ROMAIN-DE-BENET 1",
+    "lat": 45.69884,
+    "lon": -0.81447,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1739401",
+    "nom": "St-Saturnin-du-Bois",
+    "lat": 46.13093,
+    "lon": -0.68265,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1739501",
+    "nom": "ST_SAUVANT",
+    "lat": 45.73214,
+    "lon": -0.48918,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1739602",
+    "nom": "ST_SAUVEUR_AUNIS_SUB",
+    "lat": 46.21817,
+    "lon": -0.88066,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3347201",
+    "nom": "St-Sauveur-de-Puy",
+    "lat": 45.00545,
+    "lon": -0.04389,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8624502",
+    "nom": "ST SAUVEUR Marchais",
+    "lat": 46.81789,
+    "lon": 0.65313,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3347202",
+    "nom": "St-Sauveur-Puynorman",
+    "lat": 45.00545,
+    "lon": -0.04389,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3347301",
+    "nom": "ST SAVIN",
+    "lat": 45.142,
+    "lon": -0.447,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8622301",
+    "nom": "St-Savin",
+    "lat": 46.56139,
+    "lon": 0.87694,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8624601",
+    "nom": "St-Savin:ZA",
+    "lat": 46.56417,
+    "lon": 0.85389,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8624801",
+    "nom": "ST SECONDIN",
+    "lat": 46.32452,
+    "lon": 0.48506,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3347401",
+    "nom": "ST SELVE",
+    "lat": 44.67246,
+    "lon": -0.47725,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3347807",
+    "nom": "St-Seurin/Isle",
+    "lat": 45.01379,
+    "lon": 0.00503,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3347805",
+    "nom": "St-SEURIN/ISLE:Brand",
+    "lat": 45.00307,
+    "lon": 0.01024,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3347806",
+    "nom": "St-SEURIN/ISLE:CV",
+    "lat": 45.01189,
+    "lon": -0.01461,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3348401",
+    "nom": "ST SYMPHORIEN-Lagune",
+    "lat": 44.43361,
+    "lon": -0.50583,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8619481",
+    "nom": "StudioFB Poitou",
+    "lat": 46.59296,
+    "lon": 0.32826,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3311903",
+    "nom": "Studio GOLD FM",
+    "lat": 44.85218,
+    "lon": -0.50801,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1733601",
+    "nom": "Studio_Virgin_Sainte",
+    "lat": 45.75194,
+    "lon": -0.67444,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303913",
+    "nom": "Studio WIT BORDEAUX",
+    "lat": 44.81285,
+    "lon": -0.53812,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3300908",
+    "nom": "STU_RCA_ARC-33009",
+    "lat": 44.66111,
+    "lon": -1.17028,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1635705",
+    "nom": "ST VALLIER",
+    "lat": 45.27558,
+    "lon": -0.10096,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3348801",
+    "nom": "St Vincent-Pertignas",
+    "lat": 44.78445,
+    "lon": -0.11891,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1741401",
+    "nom": "St-Xandre",
+    "lat": 46.20591,
+    "lon": -1.1167,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1635802",
+    "nom": "ST_YRIEIX_S_CHARENTE",
+    "lat": 45.68642,
+    "lon": 0.12731,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3349201",
+    "nom": "ST-Yzan-de-Soudiac",
+    "lat": 45.14451,
+    "lon": -0.39168,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1637552",
+    "nom": "SUAUX 1",
+    "lat": 45.86029,
+    "lon": 0.52292,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1743453",
+    "nom": "SURGERES",
+    "lat": 46.11296,
+    "lon": -0.7769,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3351901",
+    "nom": "TaillanMedoc-Arsac",
+    "lat": 44.91991,
+    "lon": -0.66644,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1743653",
+    "nom": "TAILLEBOURG",
+    "lat": 45.86399,
+    "lon": -0.6219,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1743601",
+    "nom": "Taillebourg1:Mairie",
+    "lat": 45.83409,
+    "lon": -0.64769,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1743602",
+    "nom": "Taillebourg-maroter,",
+    "lat": 45.82675,
+    "lon": -0.61956,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1743654",
+    "nom": "TAILLEBOURG_STADE",
+    "lat": 45.83365,
+    "lon": -0.64423,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1637801",
+    "nom": "Taize-Aizie",
+    "lat": 46.07084,
+    "lon": 0.2295,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352217",
+    "nom": "TALENCE-Montherlant",
+    "lat": 44.79022,
+    "lon": -0.58588,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352219",
+    "nom": "TALENCE:Pierre Curie",
+    "lat": 44.81169,
+    "lon": -0.58863,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352221",
+    "nom": "TALENCE-PREVOST",
+    "lat": 44.80727,
+    "lon": -0.60151,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352222",
+    "nom": "Talence:Sauboua",
+    "lat": 44.80426,
+    "lon": -0.57953,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352223",
+    "nom": "Talence:Sauboua2",
+    "lat": 44.80518,
+    "lon": -0.57747,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1637901",
+    "nom": "TAPONNAT",
+    "lat": 45.79197,
+    "lon": 0.42373,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1637902",
+    "nom": "TAPONNAT FLEURIGNAC1",
+    "lat": 45.78315,
+    "lon": 0.42396,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352301",
+    "nom": "Targon Barricot",
+    "lat": 44.74756,
+    "lon": -0.26619,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1744102",
+    "nom": "TESSON",
+    "lat": 45.62492,
+    "lon": -0.65611,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1744101",
+    "nom": "TESSON_1",
+    "lat": 45.62489,
+    "lon": -0.65631,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7932501",
+    "nom": "TESSONNIERE",
+    "lat": 46.82555,
+    "lon": -0.20393,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1638101",
+    "nom": "THEIL RABIER_1",
+    "lat": 46.04338,
+    "lon": 0.03238,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7925801",
+    "nom": "Thouars1:Chat-d'eau",
+    "lat": 46.96447,
+    "lon": -0.21779,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7932953",
+    "nom": "THOUARS_EST",
+    "lat": 46.96616,
+    "lon": -0.28629,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8627202",
+    "nom": "Thure",
+    "lat": 46.85509,
+    "lon": 0.40279,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1744802",
+    "nom": "TONNAY_BOUTONNE",
+    "lat": 45.96624,
+    "lon": -0.71862,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1744902",
+    "nom": "Tonnay charente",
+    "lat": 45.96047,
+    "lon": -0.86933,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3353302",
+    "nom": "TOULENNE-849_0397",
+    "lat": 44.55887,
+    "lon": -0.25737,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3353303",
+    "nom": "TOULENNE:Tourte",
+    "lat": 44.55706,
+    "lon": -0.27908,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1638401",
+    "nom": "Touverac chez lutard",
+    "lat": 45.38528,
+    "lon": -0.17949,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3353501",
+    "nom": "Tresses-Branne",
+    "lat": 44.82683,
+    "lon": -0.45456,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1638701",
+    "nom": "TRIAC LAUTRAIT_1",
+    "lat": 45.68406,
+    "lon": -0.1231,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1745301",
+    "nom": "TRIZAY",
+    "lat": 45.8786,
+    "lon": -0.89415,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1639101",
+    "nom": "Tuzie",
+    "lat": 45.97948,
+    "lon": 0.15028,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8623302",
+    "nom": "Valdivienne:Chagner",
+    "lat": 46.485,
+    "lon": 0.62222,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1745901",
+    "nom": "Varaize pac naudines",
+    "lat": 45.90694,
+    "lon": -0.39817,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1639302",
+    "nom": "Vars",
+    "lat": 45.75,
+    "lon": 0.14917,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1639301",
+    "nom": "Vars les coteaux 2",
+    "lat": 45.7675,
+    "lon": 0.18569,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8628001",
+    "nom": "VELLECHES",
+    "lat": 46.9395,
+    "lon": 0.54006,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3354001",
+    "nom": "Vendays-Montalivet",
+    "lat": 45.37222,
+    "lon": -1.14417,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8628101",
+    "nom": "Vendeuvre-d-P:Signy",
+    "lat": 46.73949,
+    "lon": 0.31314,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3354201",
+    "nom": "Verac-Soney",
+    "lat": 44.99004,
+    "lon": -0.34775,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3354406",
+    "nom": "VerdonMer-Soulac",
+    "lat": 45.53232,
+    "lon": -1.09849,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1640001",
+    "nom": "Verteuil/chte:genes,",
+    "lat": 45.96028,
+    "lon": 0.20365,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1640002",
+    "nom": "VERTEUIL_S_CHARENTE",
+    "lat": 45.98705,
+    "lon": 0.22462,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1640201",
+    "nom": "VIBRAC_1",
+    "lat": 45.63902,
+    "lon": -0.05455,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1640401",
+    "nom": "Vieux-Ruffec FH",
+    "lat": 46.00481,
+    "lon": 0.35813,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1640501",
+    "nom": "VIGNOLLES",
+    "lat": 45.50819,
+    "lon": -0.11368,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1640901",
+    "nom": "Villefagnan",
+    "lat": 46.02671,
+    "lon": 0.12622,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1640904",
+    "nom": "Villefagnan-Foire",
+    "lat": 46.01423,
+    "lon": 0.07846,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1641001",
+    "nom": "Villegats N10",
+    "lat": 45.98653,
+    "lon": 0.19981,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3355011",
+    "nom": "VILLENAVE D'ORN-Font",
+    "lat": 44.7725,
+    "lon": -0.57556,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3355020",
+    "nom": "VillenaveO:Dubergier",
+    "lat": 44.76065,
+    "lon": -0.58003,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3355021",
+    "nom": "Villenave-O:Lesage",
+    "lat": 44.77722,
+    "lon": -0.5354,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1747401",
+    "nom": "Villeneuve-la-Comtes",
+    "lat": 46.09231,
+    "lon": -0.53564,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7935201",
+    "nom": "Villiers-sur-Chize",
+    "lat": 46.07816,
+    "lon": -0.30482,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1641401",
+    "nom": "Villognon",
+    "lat": 45.86087,
+    "lon": 0.11002,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1641501",
+    "nom": "VINDELLE_1",
+    "lat": 45.7225,
+    "lon": 0.09306,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3355201",
+    "nom": "Virelade:Bourdillot",
+    "lat": 44.67176,
+    "lon": -0.38696,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3355302",
+    "nom": "Virsac bourg virsac",
+    "lat": 45.02972,
+    "lon": -0.43861,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3355303",
+    "nom": "Virsac_Val_Virvee",
+    "lat": 45.01951,
+    "lon": -0.41714,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8629302",
+    "nom": "Vivonne-Gd Maisons",
+    "lat": 46.38222,
+    "lon": 0.25639,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8629303",
+    "nom": "Vivonne-Vignes Denl",
+    "lat": 46.435,
+    "lon": 0.27889,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1641801",
+    "nom": "Voeuil",
+    "lat": 45.58306,
+    "lon": 0.15242,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1641802",
+    "nom": "Voeuil pac plessis",
+    "lat": 45.5775,
+    "lon": 0.16167,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1641901",
+    "nom": "Vouharte",
+    "lat": 45.79023,
+    "lon": 0.07829,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1641902",
+    "nom": "VOUHARTE_NORD",
+    "lat": 45.81078,
+    "lon": 0.09479,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8629706",
+    "nom": "Vouneuil-sous-Bi",
+    "lat": 46.54479,
+    "lon": 0.2559,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1642301",
+    "nom": "Xambes:l'aiguille",
+    "lat": 45.82988,
+    "lon": 0.10857,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1642501",
+    "nom": "YVRAC-MALLEYRAND",
+    "lat": 45.72039,
+    "lon": 0.46492,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7902402",
+    "nom": "ZR_AZAY_LE_BRULE_TER",
+    "lat": 46.40135,
+    "lon": -0.2267,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1605803",
+    "nom": "ZR-Boutier-S-Trojan2",
+    "lat": 45.70805,
+    "lon": -0.29588,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1608903",
+    "nom": "ZR-Chateaubernard",
+    "lat": 45.672,
+    "lon": -0.31894,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3319912",
+    "nom": "ZR-Gujan-Mestras",
+    "lat": 44.62704,
+    "lon": -1.0661,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1712152",
+    "nom": "ZR-La Couarde-Mer",
+    "lat": 46.20016,
+    "lon": -1.44972,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1745201",
+    "nom": "ZR-La Tremblade",
+    "lat": 45.73432,
+    "lon": -1.23267,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3331501",
+    "nom": "ZR-Les Peintures",
+    "lat": 45.06292,
+    "lon": -0.09647,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3352711",
+    "nom": "ZR-Le Teich",
+    "lat": 44.58646,
+    "lon": -0.99971,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8614702",
+    "nom": "ZR LGV Marigny-Ch",
+    "lat": 46.44528,
+    "lon": 0.21,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3324312",
+    "nom": "ZR-Libourne",
+    "lat": 44.9289,
+    "lon": -0.23658,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8613303",
+    "nom": "ZR_LIGUGE_PAC_34",
+    "lat": 46.52205,
+    "lon": 0.30338,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1617302",
+    "nom": "ZR_LUXE_JUILLE",
+    "lat": 45.91702,
+    "lon": 0.13619,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1621702",
+    "nom": "ZR-Merpins",
+    "lat": 45.67401,
+    "lon": -0.35924,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3300701",
+    "nom": "ZRP_ARBANATS",
+    "lat": 44.67752,
+    "lon": -0.39313,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3303001",
+    "nom": "ZRP_BARSAC",
+    "lat": 44.59959,
+    "lon": -0.31688,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8629705",
+    "nom": "ZRP_Biard",
+    "lat": 46.58009,
+    "lon": 0.29242,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3305107",
+    "nom": "ZRP_BIGANOS1",
+    "lat": 44.63093,
+    "lon": -0.98025,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3305108",
+    "nom": "ZRP_BIGANOS2",
+    "lat": 44.64902,
+    "lon": -0.94078,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3305109",
+    "nom": "ZRP_BIGANOS3",
+    "lat": 44.66153,
+    "lon": -0.91298,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1705101",
+    "nom": "ZRP_BOIS_PLAGE_RE_V1",
+    "lat": 46.19762,
+    "lon": -1.38544,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1705102",
+    "nom": "ZRP_BOIS_PLAGE_RE_V2",
+    "lat": 46.19768,
+    "lon": -1.38432,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1708606",
+    "nom": "ZRP_CHANIERS",
+    "lat": 45.72893,
+    "lon": -0.59081,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606657",
+    "nom": "ZRP_CHATELLERAULT",
+    "lat": 46.80333,
+    "lon": 0.54885,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8606656",
+    "nom": "ZRP_CHATELLERAULT 1",
+    "lat": 46.81088,
+    "lon": 0.50869,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8607705",
+    "nom": "ZRP_CIVAUX",
+    "lat": 46.43928,
+    "lon": 0.64861,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8609205",
+    "nom": "ZRP_DANGE-ST-ROMAIN",
+    "lat": 46.919,
+    "lon": 0.60052,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1613101",
+    "nom": "ZRP_ESSE",
+    "lat": 46.02959,
+    "lon": 0.72431,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3318301",
+    "nom": "ZRP_GAURIAGUET",
+    "lat": 45.04264,
+    "lon": -0.40505,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3320701",
+    "nom": "ZRP_IZON",
+    "lat": 44.90742,
+    "lon": -0.35455,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3322102",
+    "nom": "ZRP_LAMOTHE-LANDERR",
+    "lat": 44.56308,
+    "lon": 0.04505,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3302903",
+    "nom": "ZRP-LE BARP",
+    "lat": 44.57059,
+    "lon": -0.78084,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3324309",
+    "nom": "ZRP_LIBOURNE1",
+    "lat": 44.90444,
+    "lon": -0.24617,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3324310",
+    "nom": "ZRP_LIBOURNE2",
+    "lat": 44.93994,
+    "lon": -0.23147,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8613304",
+    "nom": "ZRP_LIGUGE1",
+    "lat": 46.53628,
+    "lon": 0.32488,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1721852",
+    "nom": "ZRP_MARANS",
+    "lat": 46.30539,
+    "lon": -0.97784,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7916601",
+    "nom": "ZRP_MARIGNY_AIRE",
+    "lat": 46.22171,
+    "lon": -0.44789,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1728354",
+    "nom": "ZR_PONS_PAC_05",
+    "lat": 45.58778,
+    "lon": -0.58615,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8618803",
+    "nom": "ZRP_PAYRE_AIRE",
+    "lat": 46.34962,
+    "lon": 0.18601,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1728001",
+    "nom": "ZRP_PLASSAY_AIRE",
+    "lat": 45.84442,
+    "lon": -0.70429,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3333102",
+    "nom": "ZRP_PONDAURAT_AIRE",
+    "lat": 44.51975,
+    "lon": -0.0714,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1741552",
+    "nom": "ZRP_SAINTES",
+    "lat": 45.75199,
+    "lon": -0.61794,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8621404",
+    "nom": "ZRP_ST-BENOIT",
+    "lat": 46.55654,
+    "lon": 0.33708,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3339304",
+    "nom": "ZRP_ST-DENIS-DE-PILE",
+    "lat": 44.99914,
+    "lon": -0.17899,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3339454",
+    "nom": "ZRP_ST-EMILION",
+    "lat": 44.8979,
+    "lon": -0.20157,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8622402",
+    "nom": "ZRP-St-Gervais-T-Clo",
+    "lat": 46.90488,
+    "lon": 0.43048,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1735302",
+    "nom": "ZRP_St_Laurent_Pree",
+    "lat": 46.00316,
+    "lon": -1.04342,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1735401",
+    "nom": "ZRP_ST-LEGER_AIR",
+    "lat": 45.611,
+    "lon": -0.59878,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3343902",
+    "nom": "ZRP_ST-MARIENS",
+    "lat": 45.11389,
+    "lon": -0.38483,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1737601",
+    "nom": "ZRP_ST-OUEN-D'AUNIS",
+    "lat": 46.22895,
+    "lon": -1.05265,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3348702",
+    "nom": "ZRP_ST-VINCENT-DE-P",
+    "lat": 44.96169,
+    "lon": -0.47606,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3348701",
+    "nom": "ZRP_StVincentDePaul",
+    "lat": 44.9446,
+    "lon": -0.47025,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1743454",
+    "nom": "ZRP_SURGERES",
+    "lat": 46.11656,
+    "lon": -0.75248,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8609206",
+    "nom": "ZR_PTO_PAC_07_DANGE",
+    "lat": 46.92368,
+    "lon": 0.60209,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1745401",
+    "nom": "ZRP_TUGERAS-ST-MAUR",
+    "lat": 45.36282,
+    "lon": -0.40681,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1748301",
+    "nom": "ZRP_YVES_AIRE",
+    "lat": 46.02954,
+    "lon": -1.04862,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1730607",
+    "nom": "ZR-Royan",
+    "lat": 45.65257,
+    "lon": -1.02724,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1741556",
+    "nom": "ZR-Saintes",
+    "lat": 45.74371,
+    "lon": -0.60728,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1741557",
+    "nom": "ZR_SAINTES_GARE",
+    "lat": 45.758,
+    "lon": -0.618,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1610203",
+    "nom": "ZR_SALT_CDO_COGNAC",
+    "lat": 45.70364,
+    "lon": -0.34133,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "8626102",
+    "nom": "ZR_SEVRES-ANXAUMONT",
+    "lat": 46.56312,
+    "lon": 0.49756,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1742902",
+    "nom": "ZR-Soubise",
+    "lat": 45.92289,
+    "lon": -1.00658,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1637452",
+    "nom": "ZR_SOYAUX_CH_NUMERIQ",
+    "lat": 45.65018,
+    "lon": 0.2187,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "3338203",
+    "nom": "ZR ST CHRISTOLY BLA",
+    "lat": 45.13199,
+    "lon": -0.51435,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7928356",
+    "nom": "ZR_Ste_NEOMAYE_Pac21",
+    "lat": 46.36915,
+    "lon": -0.28097,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1738802",
+    "nom": "ZR_TANZAC_V3",
+    "lat": 45.54154,
+    "lon": -0.60975,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "1641904",
+    "nom": "ZR_Vouharte",
+    "lat": 45.81152,
+    "lon": 0.07785,
+    "equipe": "ZC SO ATLA"
+  },
+  {
+    "ig": "7935502",
+    "nom": "ZR_VOUILLE_PAC_14",
+    "lat": 46.32509,
+    "lon": -0.33892,
+    "equipe": "ZC SO ATLA"
+  }
+]

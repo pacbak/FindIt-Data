@@ -1,0 +1,8325 @@
+[
+  {
+    "ig": "4030601",
+    "nom": "Abbaye:Sorde",
+    "lat": 43.52926,
+    "lon": -1.05881,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4000105",
+    "nom": "Adour:Aire",
+    "lat": 43.70918,
+    "lon": -0.27232,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4000106",
+    "nom": "Adour:Ausol",
+    "lat": 43.69762,
+    "lon": -0.26337,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4000107",
+    "nom": "Adour:Ausol1",
+    "lat": 43.69769,
+    "lon": -0.26344,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4000108",
+    "nom": "Adour:Surtour",
+    "lat": 43.72732,
+    "lon": -0.26785,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4008002",
+    "nom": "Adour:Surtour2",
+    "lat": 43.74604,
+    "lon": -0.26982,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4000109",
+    "nom": "Adour:Surtour3",
+    "lat": 43.69675,
+    "lon": -0.24953,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4000110",
+    "nom": "Adour:Surtour4",
+    "lat": 43.69236,
+    "lon": -0.27167,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4700101",
+    "nom": "Agen",
+    "lat": 44.21472,
+    "lon": 0.6385,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444560",
+    "nom": "Agence_Pau:Polaris",
+    "lat": 43.32442,
+    "lon": -0.31894,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4700153",
+    "nom": "Agen:Dormoy",
+    "lat": 44.20376,
+    "lon": 0.63259,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4700154",
+    "nom": "Agen:Regnier",
+    "lat": 44.20486,
+    "lon": 0.63133,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6509801",
+    "nom": "Agos-Vidalos2",
+    "lat": 43.02333,
+    "lon": -0.06472,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6400801",
+    "nom": "Ahaxe",
+    "lat": 43.14917,
+    "lon": -1.14806,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4700404",
+    "nom": "Aiguillon:Alou",
+    "lat": 44.29567,
+    "lon": 0.34591,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4000111",
+    "nom": "AIRE/ADOUR:Nord",
+    "lat": 43.71128,
+    "lon": -0.24646,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4000112",
+    "nom": "AIRE/ADOUR:Sortie6",
+    "lat": 43.72194,
+    "lon": -0.27145,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4000101",
+    "nom": "Aire/l'Adour",
+    "lat": 43.72259,
+    "lon": -0.25338,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4000104",
+    "nom": "AIRE-SUR-L'ADOUR",
+    "lat": 43.66597,
+    "lon": -0.28858,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6401601",
+    "nom": "Aldudes",
+    "lat": 43.09694,
+    "lon": -1.43528,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4700802",
+    "nom": "Ambrus:Grabots",
+    "lat": 44.23612,
+    "lon": 0.23378,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6402101",
+    "nom": "ANDOINS:Bois",
+    "lat": 43.28976,
+    "lon": -0.21638,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6500701",
+    "nom": "Andrest:Joliot Curie",
+    "lat": 43.31,
+    "lon": 0.06694,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6402424",
+    "nom": "ANGLET:Espagne",
+    "lat": 43.47631,
+    "lon": -1.52839,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6402417",
+    "nom": "ANGLET-Iratzenea",
+    "lat": 43.49561,
+    "lon": -1.51309,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6402410",
+    "nom": "ANGLET-Jouanetote",
+    "lat": 43.48835,
+    "lon": -1.50729,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6402418",
+    "nom": "ANGLET-SNI_5736",
+    "lat": 43.4775,
+    "lon": -1.5231,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6402405",
+    "nom": "ANGLET : studio RTL2",
+    "lat": 43.49917,
+    "lon": -1.49417,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6402423",
+    "nom": "Anglet:Union",
+    "lat": 43.48531,
+    "lon": -1.50074,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6501001",
+    "nom": "ANGOS:Lalannette",
+    "lat": 43.19836,
+    "lon": 0.16676,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4000402",
+    "nom": "Angresse:Marqueze",
+    "lat": 43.65904,
+    "lon": -1.36612,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6501701",
+    "nom": "Aragnouet",
+    "lat": 42.77096,
+    "lon": 0.224,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6501703",
+    "nom": "ARAGNOUET 2",
+    "lat": 42.79013,
+    "lon": 0.22535,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6404002",
+    "nom": "Aramits",
+    "lat": 43.10778,
+    "lon": -0.69639,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6403806",
+    "nom": "Arcangues_St BNouvel",
+    "lat": 43.43687,
+    "lon": -1.52427,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6502001",
+    "nom": "Arcizac-ez-Angles",
+    "lat": 43.09234,
+    "lon": 0.01681,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4000602",
+    "nom": "ARENGOSSE",
+    "lat": 43.99724,
+    "lon": -0.79835,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6404101",
+    "nom": "Aressy-Anthemis",
+    "lat": 43.28201,
+    "lon": -0.33174,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6502501",
+    "nom": "Argeles:Cabaliros",
+    "lat": 43.00072,
+    "lon": -0.10205,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6500401",
+    "nom": "Argeles-Gazost",
+    "lat": 43.05167,
+    "lon": -0.08083,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6502502",
+    "nom": "Argeles-Gazost:Stade",
+    "lat": 43.0069,
+    "lon": -0.09194,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4000801",
+    "nom": "ARGELOUSE:Courgeyre",
+    "lat": 44.37045,
+    "lon": -0.64313,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4000902",
+    "nom": "Arjuzanx:Surtour",
+    "lat": 44.01281,
+    "lon": -0.85229,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4001301",
+    "nom": "Armagnac:Surtour",
+    "lat": 43.88035,
+    "lon": -0.22725,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6404701",
+    "nom": "Arneguy1",
+    "lat": 43.11873,
+    "lon": -1.26648,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6404702",
+    "nom": "Arneguy2",
+    "lat": 43.07278,
+    "lon": -1.29972,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6525501",
+    "nom": "Arreau1:Pic-Lancon",
+    "lat": 42.88944,
+    "lon": 0.36472,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6503102",
+    "nom": "Arreau2:Pe-de-Mont",
+    "lat": 42.90722,
+    "lon": 0.35361,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6503103",
+    "nom": "ARREAU2_SALT",
+    "lat": 42.9074,
+    "lon": 0.35379,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6500302",
+    "nom": "Arreau:Calamun",
+    "lat": 42.90655,
+    "lon": 0.3589,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6500301",
+    "nom": "Arreau:Jardin",
+    "lat": 42.90373,
+    "lon": 0.35917,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6518201",
+    "nom": "Arrens1:Ouest",
+    "lat": 42.98254,
+    "lon": -0.18016,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6405401",
+    "nom": "ARROS-DE-NAY",
+    "lat": 43.19389,
+    "lon": -0.30883,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4001203",
+    "nom": "Artassenx:Surtour",
+    "lat": 43.84233,
+    "lon": -0.38613,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6405702",
+    "nom": "Arthez Bearn 2",
+    "lat": 43.4703,
+    "lon": -0.62278,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6406801",
+    "nom": "Arthez-d'Asson",
+    "lat": 43.10222,
+    "lon": -0.23389,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6406001",
+    "nom": "Artiguelouve",
+    "lat": 43.3125,
+    "lon": -0.48389,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6406105",
+    "nom": "ARTIX",
+    "lat": 43.39702,
+    "lon": -0.57218,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6411601",
+    "nom": "Arudy",
+    "lat": 43.12778,
+    "lon": -0.42861,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6436001",
+    "nom": "Asasp:Edf",
+    "lat": 43.10569,
+    "lon": -0.61531,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6406502",
+    "nom": "Ascain",
+    "lat": 43.33472,
+    "lon": -1.60611,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6406503",
+    "nom": "ASCAIN-377",
+    "lat": 43.34306,
+    "lon": -1.63833,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6406601",
+    "nom": "ASCARAT",
+    "lat": 43.20306,
+    "lon": -1.27392,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6427501",
+    "nom": "Ascarat-Ispoure",
+    "lat": 43.19028,
+    "lon": -1.24833,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6504101",
+    "nom": "Asque",
+    "lat": 43.03306,
+    "lon": 0.2475,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6406704",
+    "nom": "Assat:Cardede",
+    "lat": 43.24211,
+    "lon": -0.3029,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6406802",
+    "nom": "Asson",
+    "lat": 43.14644,
+    "lon": -0.27039,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4701502",
+    "nom": "Astaffort:Baque",
+    "lat": 44.06578,
+    "lon": 0.65227,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4701503",
+    "nom": "Astaffort:Ruisseau",
+    "lat": 44.0646,
+    "lon": 0.65196,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4001601",
+    "nom": "Aubagnan:Auba",
+    "lat": 43.67033,
+    "lon": -0.48872,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6407201",
+    "nom": "Aubertin",
+    "lat": 43.28699,
+    "lon": -0.47382,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3201203",
+    "nom": "AUBIET1",
+    "lat": 43.65942,
+    "lon": 0.7589,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3201204",
+    "nom": "AUBIET2",
+    "lat": 43.64622,
+    "lon": 0.80069,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3201301",
+    "nom": "Auch",
+    "lat": 43.64064,
+    "lon": 0.61632,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3201318",
+    "nom": "AUCH1",
+    "lat": 43.66546,
+    "lon": 0.57594,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3201319",
+    "nom": "AUCH2",
+    "lat": 43.66113,
+    "lon": 0.63122,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3201303",
+    "nom": "Auch:Ensouquet",
+    "lat": 43.65997,
+    "lon": 0.53677,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3201305",
+    "nom": "AUCH STUDIO",
+    "lat": 43.64833,
+    "lon": 0.58083,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3201501",
+    "nom": "AUJAN-MOURNEDE",
+    "lat": 43.36811,
+    "lon": 0.5023,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6504601",
+    "nom": "Aulon",
+    "lat": 42.84472,
+    "lon": 0.29361,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6504702",
+    "nom": "AUREILHAN : Espieta",
+    "lat": 43.23923,
+    "lon": 0.10872,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3201702",
+    "nom": "AURENSAN 1",
+    "lat": 43.611,
+    "lon": -0.18082,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4026001",
+    "nom": "Auribat:Geours",
+    "lat": 43.75682,
+    "lon": -0.83264,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6408001",
+    "nom": "Aussevielle:Vignaux",
+    "lat": 43.36041,
+    "lon": -0.46815,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6408302",
+    "nom": "AUTEVIELLE BT",
+    "lat": 43.39194,
+    "lon": -0.96194,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6408501",
+    "nom": "Aydius2",
+    "lat": 42.99566,
+    "lon": -0.53203,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3202401",
+    "nom": "AYGUETINTE",
+    "lat": 43.821,
+    "lon": 0.41328,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6505501",
+    "nom": "Ayros-Arbouix",
+    "lat": 43.0075,
+    "lon": -0.0725,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6505701",
+    "nom": "Azereix-Vignemale",
+    "lat": 43.20869,
+    "lon": -0.00992,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6505910",
+    "nom": "BAGNERES 5 Studio",
+    "lat": 42.90944,
+    "lon": 0.17895,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6505903",
+    "nom": "Bagneres-Bigorre1",
+    "lat": 43.08417,
+    "lon": 0.15917,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6507801",
+    "nom": "Bagneres-Bigorre2",
+    "lat": 43.01806,
+    "lon": 0.15556,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6505908",
+    "nom": "Bagneres-Bigorre3",
+    "lat": 43.00063,
+    "lon": 0.13208,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6505904",
+    "nom": "Bagneres-Bigorre4",
+    "lat": 42.91,
+    "lon": 0.18472,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6505918",
+    "nom": "Bagneres-Bigorre_8",
+    "lat": 42.92721,
+    "lon": 0.20466,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6505916",
+    "nom": "BagneresB:Nostalgie",
+    "lat": 43.06324,
+    "lon": 0.14826,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6505906",
+    "nom": "Bagneres-de 1 -OP",
+    "lat": 42.90959,
+    "lon": 0.17908,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6523807",
+    "nom": "Bagnieres:Begole",
+    "lat": 43.06491,
+    "lon": 0.1507,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6523803",
+    "nom": "Bagnieres:Lassale",
+    "lat": 43.23543,
+    "lon": 0.06778,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6523804",
+    "nom": "Bagnieres:Lorry",
+    "lat": 43.06422,
+    "lon": 0.15144,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6523802",
+    "nom": "Bagnieres:Pecondom",
+    "lat": 43.06925,
+    "lon": 0.15244,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6523805",
+    "nom": "Bagnieres:Pecondom1",
+    "lat": 43.06844,
+    "lon": 0.15315,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6523806",
+    "nom": "Bagnieres:Sireix",
+    "lat": 43.07331,
+    "lon": 0.15348,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6523801",
+    "nom": "Bagnieres:Thermes",
+    "lat": 43.06259,
+    "lon": 0.14875,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4002301",
+    "nom": "BAIGTS:Charlon",
+    "lat": 43.67604,
+    "lon": -0.77728,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6409201",
+    "nom": "Banca1",
+    "lat": 43.13417,
+    "lon": -1.3775,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6409202",
+    "nom": "Banca2",
+    "lat": 43.09389,
+    "lon": -1.36806,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4702102",
+    "nom": "BARBASTE:Jourlion",
+    "lat": 44.15676,
+    "lon": 0.26996,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6506201",
+    "nom": "Barbazan-Debat",
+    "lat": 43.20806,
+    "lon": 0.13028,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6542401",
+    "nom": "Bareges3",
+    "lat": 42.88731,
+    "lon": 0.04283,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6548101",
+    "nom": "Bareges4",
+    "lat": 42.89562,
+    "lon": 0.06065,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6517301",
+    "nom": "Bareges:Maintenon",
+    "lat": 42.89553,
+    "lon": 0.06195,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6410002",
+    "nom": "Bassussary:Garat",
+    "lat": 43.44837,
+    "lon": -1.49254,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6425603",
+    "nom": "Bastide-Clairence(la",
+    "lat": 43.43528,
+    "lon": -1.25889,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4002901",
+    "nom": "Bats:Labachette",
+    "lat": 43.6479,
+    "lon": -0.46011,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6410205",
+    "nom": "Bayonne",
+    "lat": 43.51167,
+    "lon": -1.46278,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6410211",
+    "nom": "BAYONNE:Boudigau",
+    "lat": 43.47514,
+    "lon": -1.48568,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6410237",
+    "nom": "Bayonne:Gouran",
+    "lat": 43.49775,
+    "lon": -1.43875,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6410238",
+    "nom": "Bayonne:Martichot",
+    "lat": 43.49541,
+    "lon": -1.45444,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6410232",
+    "nom": "Bayonne:ParkingGare",
+    "lat": 43.49644,
+    "lon": -1.47201,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6406501",
+    "nom": "Bayonne:Rhune(la)",
+    "lat": 43.30917,
+    "lon": -1.63528,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6410229",
+    "nom": "BAYONNE-SNI_5523",
+    "lat": 43.50011,
+    "lon": -1.44012,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6410202",
+    "nom": "Bayonne:Ville OM",
+    "lat": 43.485,
+    "lon": -1.46556,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4702301",
+    "nom": "Beaugas -OP",
+    "lat": 44.50944,
+    "lon": 0.65389,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4702401",
+    "nom": "BEAUPUY-RF",
+    "lat": 44.53174,
+    "lon": 0.14919,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6410401",
+    "nom": "Bedous",
+    "lat": 43.02278,
+    "lon": -0.59444,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003107",
+    "nom": "Begaar:Begaar",
+    "lat": 43.81323,
+    "lon": -0.8406,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003103",
+    "nom": "Begaar-Pouy",
+    "lat": 43.82877,
+    "lon": -0.85421,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003108",
+    "nom": "Begaar:Surtour",
+    "lat": 43.82831,
+    "lon": -0.85426,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003201",
+    "nom": "Belhade:Graveron",
+    "lat": 44.37834,
+    "lon": -0.67728,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003301",
+    "nom": "Belis:Surtour",
+    "lat": 44.06017,
+    "lon": -0.46102,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6410801",
+    "nom": "Bellocq:Peyras",
+    "lat": 43.51111,
+    "lon": -0.91639,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003501",
+    "nom": "Benesse:Ausol",
+    "lat": 43.644,
+    "lon": -1.04589,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003503",
+    "nom": "Benesse:Ausol1",
+    "lat": 43.64433,
+    "lon": -1.04563,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003502",
+    "nom": "Benesse:Ausol2",
+    "lat": 43.64401,
+    "lon": -1.04561,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003504",
+    "nom": "Benesse:Dax",
+    "lat": 43.63092,
+    "lon": -1.04123,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003610",
+    "nom": "BENESSE MAREMNE",
+    "lat": 43.64268,
+    "lon": -1.33983,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003606",
+    "nom": "BENESSE-MAREMNE",
+    "lat": 43.62612,
+    "lon": -1.39851,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003607",
+    "nom": "Benesse:Maremne",
+    "lat": 43.6354,
+    "lon": -1.39637,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003611",
+    "nom": "Benesse-Maremne_2",
+    "lat": 43.62906,
+    "lon": -1.39072,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003612",
+    "nom": "BenesseMaremne-Haou",
+    "lat": 43.63366,
+    "lon": -1.36644,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003703",
+    "nom": "Benquet:Benquet",
+    "lat": 43.82668,
+    "lon": -0.50307,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003701",
+    "nom": "Benquet:ZA",
+    "lat": 43.83482,
+    "lon": -0.52967,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6411204",
+    "nom": "Berenx:Cantegrit",
+    "lat": 43.49181,
+    "lon": -0.87742,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6411205",
+    "nom": "Berenx:Lagisquet",
+    "lat": 43.48674,
+    "lon": -0.87977,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6411202",
+    "nom": "Berenx:Laheugere",
+    "lat": 43.50417,
+    "lon": -0.84145,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6508701",
+    "nom": "BERTREN:Montagne",
+    "lat": 42.99559,
+    "lon": 0.61753,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6508801",
+    "nom": "Betbeze -OP",
+    "lat": 43.29056,
+    "lon": 0.56694,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3204901",
+    "nom": "BETOUS",
+    "lat": 43.72394,
+    "lon": 0.02845,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6509001",
+    "nom": "BETPOUY:Lasserade",
+    "lat": 43.26431,
+    "lon": 0.45306,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412212",
+    "nom": "BIARRITZ : Baena",
+    "lat": 43.48024,
+    "lon": -1.55717,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412214",
+    "nom": "Biarritz Virgin Cab",
+    "lat": 43.45833,
+    "lon": -1.57167,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412301",
+    "nom": "Bidache",
+    "lat": 43.47088,
+    "lon": -1.1179,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6449001",
+    "nom": "Bidarray",
+    "lat": 43.26056,
+    "lon": -1.33472,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412402",
+    "nom": "BIDARRAY1",
+    "lat": 43.29675,
+    "lon": -1.35338,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6435002",
+    "nom": "Bidarray louhossoa",
+    "lat": 43.30788,
+    "lon": -1.35069,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412512",
+    "nom": "Bidart_RBH",
+    "lat": 43.44848,
+    "lon": -1.57141,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412601",
+    "nom": "BIDOS",
+    "lat": 43.17838,
+    "lon": -0.59833,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6417501",
+    "nom": "Bielle",
+    "lat": 43.05833,
+    "lon": -0.41861,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6546002",
+    "nom": "Bigorre:Castelnau",
+    "lat": 43.38484,
+    "lon": 0.05363,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6546003",
+    "nom": "Bigorre:Hountagnere",
+    "lat": 43.39199,
+    "lon": 0.05958,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412910",
+    "nom": "BILLERE-478",
+    "lat": 43.3131,
+    "lon": -0.38298,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412911",
+    "nom": "BILLERE-501",
+    "lat": 43.31483,
+    "lon": -0.38637,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412922",
+    "nom": "BILLERE-849_0398",
+    "lat": 43.30619,
+    "lon": -0.4019,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412909",
+    "nom": "Billere-Lons",
+    "lat": 43.31272,
+    "lon": -0.38459,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6413001",
+    "nom": "Biriatou",
+    "lat": 43.33787,
+    "lon": -1.74556,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4004601",
+    "nom": "Biscarrosse",
+    "lat": 44.44917,
+    "lon": -1.24194,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4004616",
+    "nom": "Biscarrosse:Bouluc",
+    "lat": 44.41066,
+    "lon": -1.07287,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4004606",
+    "nom": "Biscarrosse:rte Lacs",
+    "lat": 44.41611,
+    "lon": -1.15812,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412913",
+    "nom": "BIZANOS-0320",
+    "lat": 43.29198,
+    "lon": -0.34736,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6413203",
+    "nom": "BIZANOS-849_0374",
+    "lat": 43.28965,
+    "lon": -0.35506,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6509301",
+    "nom": "Bize",
+    "lat": 43.03898,
+    "lon": 0.48221,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6509302",
+    "nom": "BIZE 2",
+    "lat": 43.03611,
+    "lon": 0.48278,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4703104",
+    "nom": "Boe:Couronne",
+    "lat": 44.18594,
+    "lon": 0.6433,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4703208",
+    "nom": "BonEncontre:Bidalet",
+    "lat": 44.20338,
+    "lon": 0.64062,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4703205",
+    "nom": "BonEncontre:Bleriot",
+    "lat": 44.18738,
+    "lon": 0.67794,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4703209",
+    "nom": "BonEncontre:Lamartin",
+    "lat": 44.18482,
+    "lon": 0.6664,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4703207",
+    "nom": "BonEncontre:limac",
+    "lat": 44.1865,
+    "lon": 0.66224,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4703206",
+    "nom": "BonEncontre:Mascaron",
+    "lat": 44.18681,
+    "lon": 0.6732,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6408601",
+    "nom": "Bonloc2",
+    "lat": 43.3775,
+    "lon": -1.25889,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6510101",
+    "nom": "Bordes:Cote Vieille",
+    "lat": 43.20139,
+    "lon": 0.20556,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6414002",
+    "nom": "BOUCAU-387",
+    "lat": 43.52444,
+    "lon": -1.46611,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6414005",
+    "nom": "BOUCAU-849_0387",
+    "lat": 43.52473,
+    "lon": -1.46644,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6414007",
+    "nom": "Boucau:Andre",
+    "lat": 43.52473,
+    "lon": -1.48619,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6414102",
+    "nom": "BOUEILH-BOUEILHO",
+    "lat": 43.55358,
+    "lon": -0.29526,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6414101",
+    "nom": "Boueilh Bou -OP",
+    "lat": 43.535,
+    "lon": -0.31,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4703401",
+    "nom": "BOUGLON",
+    "lat": 44.39528,
+    "lon": 0.0975,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4703402",
+    "nom": "Bouglon:Ecole",
+    "lat": 44.39285,
+    "lon": 0.09654,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4005101",
+    "nom": "BOUGUE",
+    "lat": 43.91553,
+    "lon": -0.38074,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4005102",
+    "nom": "Bougue:Bougue",
+    "lat": 43.89503,
+    "lon": -0.39125,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4005103",
+    "nom": "BOUGUE:Brouqua",
+    "lat": 43.88374,
+    "lon": -0.37278,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4704001",
+    "nom": "Brax:Lilas",
+    "lat": 44.20129,
+    "lon": 0.55093,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6414704",
+    "nom": "BRISCOUS:Mendia",
+    "lat": 43.44931,
+    "lon": -1.31698,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4005601",
+    "nom": "Brocas:Forges",
+    "lat": 44.04051,
+    "lon": -0.54044,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4005604",
+    "nom": "Brocas_Pignada",
+    "lat": 44.04529,
+    "lon": -0.54695,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4005602",
+    "nom": "Brocas:Surtour",
+    "lat": 44.0448,
+    "lon": -0.53397,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6436301",
+    "nom": "Bruges-Capbis1",
+    "lat": 43.13449,
+    "lon": -0.33613,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6435303",
+    "nom": "Bruges-Capbis2",
+    "lat": 43.10085,
+    "lon": -0.31343,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3220801",
+    "nom": "Brugnens",
+    "lat": 43.84379,
+    "lon": 0.70366,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6415201",
+    "nom": "Buros-EnHaut",
+    "lat": 43.35115,
+    "lon": -0.3078,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4704301",
+    "nom": "Buzet/B:Lasplaces",
+    "lat": 44.2526,
+    "lon": 0.30168,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4005801",
+    "nom": "CACHEN:Garpat",
+    "lat": 44.08934,
+    "lon": -0.3924,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4005901",
+    "nom": "Cagnotte:Cagn",
+    "lat": 43.59432,
+    "lon": -1.064,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4704401",
+    "nom": "Cahuzac -OP",
+    "lat": 44.65972,
+    "lon": 0.55722,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4704501",
+    "nom": "Calignac:le Caudan",
+    "lat": 44.13481,
+    "lon": 0.39755,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4006001",
+    "nom": "Callen:Surtour",
+    "lat": 44.30008,
+    "lon": -0.47571,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4704601",
+    "nom": "CALONGES",
+    "lat": 44.3696,
+    "lon": 0.23808,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4704603",
+    "nom": "Calonges:Beau-Sejour",
+    "lat": 44.37724,
+    "lon": 0.21375,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6416001",
+    "nom": "Cambo",
+    "lat": 43.35694,
+    "lon": -1.38,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6416002",
+    "nom": "Cambo-les-bains",
+    "lat": 43.35972,
+    "lon": -1.41333,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6416103",
+    "nom": "CAME:Arios",
+    "lat": 43.45978,
+    "lon": -1.10889,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6509201",
+    "nom": "Camous",
+    "lat": 42.94659,
+    "lon": 0.36812,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4006105",
+    "nom": "CAMPAGNE:Bourg",
+    "lat": 43.86503,
+    "lon": -0.63387,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4006101",
+    "nom": "Campagne:Camp",
+    "lat": 43.86933,
+    "lon": -0.63706,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4006102",
+    "nom": "Campagne:Camp1",
+    "lat": 43.86512,
+    "lon": -0.63373,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4006103",
+    "nom": "Campagne:lagune",
+    "lat": 43.87079,
+    "lon": -0.63765,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4006104",
+    "nom": "Campagne:Surtour",
+    "lat": 43.87043,
+    "lon": -0.64005,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6512301",
+    "nom": "Campan1",
+    "lat": 43.02372,
+    "lon": 0.17725,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6504201",
+    "nom": "Campan2",
+    "lat": 42.98806,
+    "lon": 0.23556,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6512302",
+    "nom": "Campan3",
+    "lat": 42.96344,
+    "lon": 0.25402,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4006201",
+    "nom": "Campet:Surtour",
+    "lat": 43.91651,
+    "lon": -0.60225,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6548201",
+    "nom": "Cantaous:chem,exploi",
+    "lat": 43.10949,
+    "lon": 0.45093,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4006552",
+    "nom": "Capbreton:Cap",
+    "lat": 43.62647,
+    "lon": -1.45179,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4006554",
+    "nom": "Capbreton:Oceanides",
+    "lat": 43.63518,
+    "lon": -1.44524,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6512706",
+    "nom": "CAPVERN",
+    "lat": 43.1029,
+    "lon": 0.35262,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6512702",
+    "nom": "Capvern:goutillou",
+    "lat": 43.10977,
+    "lon": 0.32329,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6512701",
+    "nom": "Capvern-les-Bains",
+    "lat": 43.11295,
+    "lon": 0.31629,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4006603",
+    "nom": "CARCARES_STE_CROIX_2",
+    "lat": 43.84099,
+    "lon": -0.76162,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4006703",
+    "nom": "Carcen:Surtour",
+    "lat": 43.88055,
+    "lon": -0.79781,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6416501",
+    "nom": "Cardesse",
+    "lat": 43.26806,
+    "lon": -0.59194,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4704901",
+    "nom": "Casseneuil:Rose",
+    "lat": 44.44282,
+    "lon": 0.61311,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4704902",
+    "nom": "Casseneuil:Tonne",
+    "lat": 44.44501,
+    "lon": 0.61864,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4705202",
+    "nom": "Casteliajoux:Marcet",
+    "lat": 44.30989,
+    "lon": 0.08088,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4705203",
+    "nom": "Casteliajoux:Taridon",
+    "lat": 44.32064,
+    "lon": 0.09504,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4705201",
+    "nom": "Casteljaloux:Daragne",
+    "lat": 44.3225,
+    "lon": 0.08917,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4705204",
+    "nom": "Casteljaloux:Xaintra",
+    "lat": 44.31511,
+    "lon": 0.08892,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4705401",
+    "nom": "Castelmoron:Bonnet",
+    "lat": 44.39645,
+    "lon": 0.49708,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4705402",
+    "nom": "Castelmoron:Bonnet1",
+    "lat": 44.39668,
+    "lon": 0.49633,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4705403",
+    "nom": "Castelmoron:Ronde",
+    "lat": 44.39828,
+    "lon": 0.49679,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6513001",
+    "nom": "Castelnau-Riviere-Ba",
+    "lat": 43.58463,
+    "lon": -0.01713,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3208301",
+    "nom": "Castera-Ver -OP",
+    "lat": 43.8089,
+    "lon": 0.45945,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4007502",
+    "nom": "Castets:Cante Cigale",
+    "lat": 43.87333,
+    "lon": -1.14972,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4007554",
+    "nom": "CASTETS:Lelanne",
+    "lat": 43.92403,
+    "lon": -1.11424,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4007556",
+    "nom": "Castets:Pitton",
+    "lat": 43.88018,
+    "lon": -1.16504,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4007557",
+    "nom": "CASTETS:Salier",
+    "lat": 43.88097,
+    "lon": -1.15922,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4705702",
+    "nom": "Castillonnes:Paix",
+    "lat": 44.65283,
+    "lon": 0.59103,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4706101",
+    "nom": "CAUMONT-SUR-GARONNE",
+    "lat": 44.43083,
+    "lon": 0.18016,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4007702",
+    "nom": "Cauneille:Ausol",
+    "lat": 43.56785,
+    "lon": -1.08097,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4007703",
+    "nom": "Cauneille:Surtour",
+    "lat": 43.5675,
+    "lon": -1.08094,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6513801",
+    "nom": "Cauterets1",
+    "lat": 42.88162,
+    "lon": -0.155,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6513802",
+    "nom": "Cauterets2",
+    "lat": 42.89528,
+    "lon": -0.11194,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6513804",
+    "nom": "Cauterets:Thierry",
+    "lat": 42.88506,
+    "lon": -0.11382,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6514101",
+    "nom": "Cazaux-Frechet",
+    "lat": 42.84298,
+    "lon": 0.42,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4008003",
+    "nom": "CAZERES/ADOUR:Capots",
+    "lat": 43.76999,
+    "lon": -0.31878,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4008101",
+    "nom": "Cere:Ausol",
+    "lat": 43.99211,
+    "lon": -0.53562,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4008102",
+    "nom": "Cere:Cere",
+    "lat": 43.98512,
+    "lon": -0.53092,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4025302",
+    "nom": "Chalosse:Cricq",
+    "lat": 43.65531,
+    "lon": -0.68316,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6418902",
+    "nom": "Ciboure :A63",
+    "lat": 43.37361,
+    "lon": -1.65902,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4706501",
+    "nom": "Clairac:Chaumel",
+    "lat": 44.35967,
+    "lon": 0.37763,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6419002",
+    "nom": "Claracq:ch dep 296",
+    "lat": 43.5125,
+    "lon": -0.30037,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6419102",
+    "nom": "Coarraze:Escaraude",
+    "lat": 43.17612,
+    "lon": -0.22339,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6419103",
+    "nom": "COARRAZE:GRABES",
+    "lat": 43.17612,
+    "lon": -0.22339,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4706903",
+    "nom": "Colayrac:Tilleuls",
+    "lat": 44.22128,
+    "lon": 0.55019,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6411001",
+    "nom": "Col-d'Aubisque",
+    "lat": 42.97361,
+    "lon": -0.33778,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4008501",
+    "nom": "Commensacq:Surtour",
+    "lat": 44.21095,
+    "lon": -0.80621,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3210701",
+    "nom": "Condom1:la Tour",
+    "lat": 43.97806,
+    "lon": 0.385,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4008602",
+    "nom": "Coudures:Coud",
+    "lat": 43.69124,
+    "lon": -0.52819,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4707701",
+    "nom": "Cuzorn",
+    "lat": 44.56778,
+    "lon": 0.95056,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4707802",
+    "nom": "Damazan-Caillau",
+    "lat": 44.29184,
+    "lon": 0.27246,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4707901",
+    "nom": "Dausse:Tremons",
+    "lat": 44.38947,
+    "lon": 0.90278,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4008803",
+    "nom": "Dax",
+    "lat": 43.71417,
+    "lon": -1.06028,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4008820",
+    "nom": "DAX:Abeille",
+    "lat": 43.7017,
+    "lon": -1.04426,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4008815",
+    "nom": "Dax: av Gare",
+    "lat": 43.72042,
+    "lon": -1.05114,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4008819",
+    "nom": "Dax:Brassempouy",
+    "lat": 43.70768,
+    "lon": -1.03637,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4027901",
+    "nom": "Dax:St-Paul-les-Dax",
+    "lat": 43.73396,
+    "lon": -1.10667,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4708501",
+    "nom": "DURANCE:Tuco",
+    "lat": 44.17875,
+    "lon": 0.20081,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6420401",
+    "nom": "Eaux-Bonnes",
+    "lat": 42.9787,
+    "lon": -0.3965,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3211902",
+    "nom": "Eauze:Pontouat",
+    "lat": 43.85058,
+    "lon": 0.095,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6515901",
+    "nom": "Escala",
+    "lat": 43.09634,
+    "lon": 0.40144,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6515902",
+    "nom": "ESCALA_SALT",
+    "lat": 43.09634,
+    "lon": 0.40144,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3212301",
+    "nom": "ESCORNEBOEUF",
+    "lat": 43.649,
+    "lon": 0.91875,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6420601",
+    "nom": "Escot",
+    "lat": 43.08333,
+    "lon": -0.5825,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4009401",
+    "nom": "ESCOURCE",
+    "lat": 44.1235,
+    "lon": -0.98353,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6421301",
+    "nom": "Espelette",
+    "lat": 43.31889,
+    "lon": -1.44167,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6421501",
+    "nom": "ESPIUTE:Camblong",
+    "lat": 43.35361,
+    "lon": -0.91446,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6421703",
+    "nom": "ESQUIULE:Pitrau",
+    "lat": 43.18266,
+    "lon": -0.7541,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6516901",
+    "nom": "Estaing2",
+    "lat": 42.93889,
+    "lon": -0.17639,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6421801",
+    "nom": "Esterencuby1:Calvair",
+    "lat": 43.10278,
+    "lon": -1.19972,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6421802",
+    "nom": "Esterencuby2:Esteren",
+    "lat": 43.09833,
+    "lon": -1.165,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6421803",
+    "nom": "Esterencuby3:Ouri-Na",
+    "lat": 43.08278,
+    "lon": -1.18667,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4709102",
+    "nom": "ESTILLAC",
+    "lat": 44.17143,
+    "lon": 0.57619,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4709103",
+    "nom": "Estillac:Justice",
+    "lat": 44.18306,
+    "lon": 0.58919,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6422201",
+    "nom": "Etchebar",
+    "lat": 43.07111,
+    "lon": -0.88444,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4009703",
+    "nom": "Eugenie:Bains",
+    "lat": 43.70043,
+    "lon": -0.38506,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4025703",
+    "nom": "Eulalie:Born",
+    "lat": 44.27187,
+    "lon": -1.19049,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4709201",
+    "nom": "Fals:voie comm 4",
+    "lat": 44.11445,
+    "lon": 0.70333,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6421701",
+    "nom": "Feas:Esquiule",
+    "lat": 43.17972,
+    "lon": -0.72583,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6517601",
+    "nom": "Ferrieres",
+    "lat": 43.01722,
+    "lon": -0.25611,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4710001",
+    "nom": "Foulayronne:Duras",
+    "lat": 44.23408,
+    "lon": 0.64308,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4710002",
+    "nom": "Foulayronne:Guyenne",
+    "lat": 44.23662,
+    "lon": 0.64983,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4710003",
+    "nom": "Foulayronne:Lama",
+    "lat": 44.23301,
+    "lon": 0.64559,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4710006",
+    "nom": "FOULAYRONNES",
+    "lat": 44.23919,
+    "lon": 0.60702,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4710004",
+    "nom": "Foulayronnes:Lama",
+    "lat": 44.23308,
+    "lon": 0.64499,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4710005",
+    "nom": "Foulayronnes:Mai",
+    "lat": 44.23756,
+    "lon": 0.64765,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4710202",
+    "nom": "Francescas:Madrid",
+    "lat": 44.06431,
+    "lon": 0.42918,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4710652",
+    "nom": "Fumel:Barry",
+    "lat": 44.49897,
+    "lon": 0.96839,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4710653",
+    "nom": "Fumel:Blum",
+    "lat": 44.49747,
+    "lon": 0.96292,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4710654",
+    "nom": "Fumel:Dormoy",
+    "lat": 44.49515,
+    "lon": 0.99201,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4718501",
+    "nom": "Fumel:Montayral",
+    "lat": 44.45944,
+    "lon": 1.01639,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4710655",
+    "nom": "Fumel:Palissy",
+    "lat": 44.50412,
+    "lon": 0.9629,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4010101",
+    "nom": "Gaas:Surtour",
+    "lat": 43.61289,
+    "lon": -1.03481,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4010301",
+    "nom": "Gailleres:Gail",
+    "lat": 43.94233,
+    "lon": -0.36997,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4010302",
+    "nom": "Gailleres:Surtour",
+    "lat": 43.94064,
+    "lon": -0.37423,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4010401",
+    "nom": "Gamarde:Bains",
+    "lat": 43.72819,
+    "lon": -0.86671,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4010402",
+    "nom": "Gamarde-Les-Bains",
+    "lat": 43.73212,
+    "lon": -0.86712,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6423003",
+    "nom": "Gan:Pehau",
+    "lat": 43.24109,
+    "lon": -0.38814,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6423004",
+    "nom": "Gan:RD936",
+    "lat": 43.16139,
+    "lon": -0.43833,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4010502",
+    "nom": "GAREIN",
+    "lat": 44.04915,
+    "lon": -0.64616,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4010503",
+    "nom": "Garein:Gar",
+    "lat": 44.03891,
+    "lon": -0.64767,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4010504",
+    "nom": "Garein:Surtour",
+    "lat": 44.04628,
+    "lon": -0.64808,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4010801",
+    "nom": "Gastes:Gastes",
+    "lat": 44.32012,
+    "lon": -1.16929,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6518801",
+    "nom": "Gavarnie",
+    "lat": 42.73417,
+    "lon": -0.01083,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4025402",
+    "nom": "Gave:Cricq",
+    "lat": 43.53589,
+    "lon": -1.0112,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4700152",
+    "nom": "GC_Agen",
+    "lat": 44.20806,
+    "lon": 0.62184,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4700403",
+    "nom": "GC_Aiguillon",
+    "lat": 44.2988,
+    "lon": 0.33539,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4000603",
+    "nom": "GC_Arengosse",
+    "lat": 44.007,
+    "lon": -0.80953,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6406104",
+    "nom": "GC_Artix",
+    "lat": 43.39314,
+    "lon": -0.57031,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6406703",
+    "nom": "GC_Assat",
+    "lat": 43.25455,
+    "lon": -0.29503,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3201202",
+    "nom": "GC_Aubiet",
+    "lat": 43.65034,
+    "lon": 0.78927,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3201317",
+    "nom": "GC_Auch",
+    "lat": 43.64766,
+    "lon": 0.59684,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6410239",
+    "nom": "GC_Bayonne",
+    "lat": 43.49689,
+    "lon": -1.47032,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6410404",
+    "nom": "GC_Bedous",
+    "lat": 42.99593,
+    "lon": -0.60357,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003605",
+    "nom": "GC_Benesse-Maremne",
+    "lat": 43.62791,
+    "lon": -1.36994,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412254",
+    "nom": "GC_Biarritz",
+    "lat": 43.45955,
+    "lon": -1.54597,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412401",
+    "nom": "GC_Bidarray",
+    "lat": 43.26846,
+    "lon": -1.34535,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412602",
+    "nom": "GC_Bidos",
+    "lat": 43.17894,
+    "lon": -0.60706,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6415701",
+    "nom": "GC_Buzy en Bearn",
+    "lat": 43.14842,
+    "lon": -0.45592,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6416052",
+    "nom": "GC_Cambo-les-Bains",
+    "lat": 43.36567,
+    "lon": -1.39669,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6512705",
+    "nom": "GC_Capvern",
+    "lat": 43.10335,
+    "lon": 0.32977,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6419101",
+    "nom": "GC_Coarraze - Nay",
+    "lat": 43.18194,
+    "lon": -0.24181,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4008817",
+    "nom": "GC_Dax",
+    "lat": 43.72059,
+    "lon": -1.05031,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6423005",
+    "nom": "GC_Gan",
+    "lat": 43.23376,
+    "lon": -0.39151,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3214703",
+    "nom": "GC_Gimont Cahuzac",
+    "lat": 43.63323,
+    "lon": 0.8677,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6424902",
+    "nom": "GC_Guethary",
+    "lat": 43.42539,
+    "lon": -1.60995,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6426010",
+    "nom": "GC_Hendaye",
+    "lat": 43.35318,
+    "lon": -1.78176,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6426011",
+    "nom": "GC_hendaye plag",
+    "lat": 43.37011,
+    "lon": -1.76448,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6410235",
+    "nom": "GC_I_Bayonne Gare",
+    "lat": 43.49689,
+    "lon": -1.47032,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6427904",
+    "nom": "GC_Itxassou",
+    "lat": 43.32414,
+    "lon": -1.39564,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6428201",
+    "nom": "GC_Jatxou",
+    "lat": 43.39094,
+    "lon": -1.44475,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6428406",
+    "nom": "GC_Jurancon",
+    "lat": 43.28581,
+    "lon": -0.37928,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013307",
+    "nom": "GC_Labenne",
+    "lat": 43.58721,
+    "lon": -1.42918,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013402",
+    "nom": "GC_Labouheyre",
+    "lat": 44.21068,
+    "lon": -0.92099,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6525852",
+    "nom": "GC_Lannemezan",
+    "lat": 43.11434,
+    "lon": 0.38746,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4713801",
+    "nom": "GC_Laroque",
+    "lat": 44.28752,
+    "lon": 0.7499,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3216003",
+    "nom": "GC_L'Isle-Jourdain",
+    "lat": 43.61734,
+    "lon": 1.0899,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6435004",
+    "nom": "GC_Louhossoa",
+    "lat": 43.30589,
+    "lon": -1.36262,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528658",
+    "nom": "GC_Lourdes",
+    "lat": 43.10043,
+    "lon": -0.04232,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528701",
+    "nom": "GC_Loures-Barousse",
+    "lat": 43.02124,
+    "lon": 0.61056,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6436003",
+    "nom": "GC_Lurbe-StChristau",
+    "lat": 43.12109,
+    "lon": -0.6042,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4715706",
+    "nom": "GC_Marmande",
+    "lat": 44.50318,
+    "lon": 0.16822,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4717901",
+    "nom": "GC_Monsempron-Libos",
+    "lat": 44.48679,
+    "lon": 0.9413,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6440004",
+    "nom": "GC_Montaut",
+    "lat": 43.12699,
+    "lon": -0.19843,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4019222",
+    "nom": "GC_Mont-de-Marsan",
+    "lat": 43.885,
+    "lon": -0.50486,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4019707",
+    "nom": "GC_Morcenx",
+    "lat": 44.03372,
+    "lon": -0.90866,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6442102",
+    "nom": "GC_Ogeu-les-Bains",
+    "lat": 43.15397,
+    "lon": -0.50774,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6442208",
+    "nom": "GC_Oloron-Sainte-Mar",
+    "lat": 43.1948,
+    "lon": -0.61232,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4020953",
+    "nom": "GC_Ondres",
+    "lat": 43.56875,
+    "lon": -1.45733,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6443012",
+    "nom": "GC_Orthez",
+    "lat": 43.48429,
+    "lon": -0.76793,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6534403",
+    "nom": "GC_Ossun",
+    "lat": 43.18339,
+    "lon": -0.02155,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444557",
+    "nom": "GC_Pau",
+    "lat": 43.29182,
+    "lon": -0.36975,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4720302",
+    "nom": "GC_Penne",
+    "lat": 44.38016,
+    "lon": 0.80311,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4022455",
+    "nom": "GC_Peyrehorade",
+    "lat": 43.5469,
+    "lon": -1.11589,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4720902",
+    "nom": "GC_Pont-du-Casse",
+    "lat": 44.23284,
+    "lon": 0.67587,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4721005",
+    "nom": "GC_Port-Sainte-Marie",
+    "lat": 44.25054,
+    "lon": 0.39066,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6446102",
+    "nom": "GC_Puyoo",
+    "lat": 43.52461,
+    "lon": -0.91099,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4723302",
+    "nom": "GC_Sainte-Bazeille",
+    "lat": 44.53282,
+    "lon": 0.09317,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4026106",
+    "nom": "GC_Saint-Geours",
+    "lat": 43.67154,
+    "lon": -1.24136,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6539505",
+    "nom": "GC_Saint-Pe-de-Bigor",
+    "lat": 43.1017,
+    "lon": -0.162,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6539801",
+    "nom": "GC_Salechan - Sirada",
+    "lat": 42.96348,
+    "lon": 0.63134,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6450603",
+    "nom": "GC_SARRANCE",
+    "lat": 43.0497,
+    "lon": -0.60012,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4029302",
+    "nom": "GC_Saubusse",
+    "lat": 43.6595,
+    "lon": -1.19322,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4729202",
+    "nom": "GC_SauveterrlaLemanc",
+    "lat": 44.58954,
+    "lon": 1.01164,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6448501",
+    "nom": "GC_StJean-PiedPort",
+    "lat": 43.16805,
+    "lon": -1.23817,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4027406",
+    "nom": "GC_ST-Martin-d'Oney",
+    "lat": 43.93019,
+    "lon": -0.65171,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028405",
+    "nom": "GC_St-VincentTyros",
+    "lat": 43.65789,
+    "lon": -1.30656,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544063",
+    "nom": "GC_Tarbes",
+    "lat": 43.24002,
+    "lon": 0.06922,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412253",
+    "nom": "GC_T_Biarritz",
+    "lat": 43.45955,
+    "lon": -1.54597,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4731003",
+    "nom": "GC_Tonneins",
+    "lat": 44.39281,
+    "lon": 0.31423,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544701",
+    "nom": "GC_Tournay",
+    "lat": 43.18379,
+    "lon": 0.23902,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4731501",
+    "nom": "GC_Trentels",
+    "lat": 44.4432,
+    "lon": 0.88509,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454604",
+    "nom": "GC_Urt",
+    "lat": 43.49952,
+    "lon": -1.30056,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454706",
+    "nom": "GC_Ustaritz",
+    "lat": 43.40486,
+    "lon": -1.44901,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6455803",
+    "nom": "GC_Villefranque",
+    "lat": 43.4314,
+    "lon": -1.45649,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4033204",
+    "nom": "GC_Ychoux",
+    "lat": 44.32933,
+    "lon": -0.94616,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4033305",
+    "nom": "GC_Ygos",
+    "lat": 43.97827,
+    "lon": -0.73618,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6519202",
+    "nom": "Gedre",
+    "lat": 42.81722,
+    "lon": 0.0125,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6529501",
+    "nom": "Gedre1",
+    "lat": 42.81932,
+    "lon": -0.00861,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6519201",
+    "nom": "Gedre2",
+    "lat": 42.79083,
+    "lon": 0.02361,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4025903",
+    "nom": "Gein:Surtour",
+    "lat": 43.82056,
+    "lon": -0.32159,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6423701",
+    "nom": "Gelos",
+    "lat": 43.25139,
+    "lon": -0.36667,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6423702",
+    "nom": "Gelos-Magendie",
+    "lat": 43.28029,
+    "lon": -0.36396,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6519502",
+    "nom": "Genos",
+    "lat": 42.81161,
+    "lon": 0.40288,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6519501",
+    "nom": "Genos :Val Louron",
+    "lat": 42.79088,
+    "lon": 0.39041,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6519701",
+    "nom": "Ger",
+    "lat": 43.05502,
+    "lon": -0.03505,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6423803",
+    "nom": "GER:Camp",
+    "lat": 43.23263,
+    "lon": -0.04852,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6423802",
+    "nom": "Ger:du Moussu",
+    "lat": 43.22791,
+    "lon": -0.06815,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6424101",
+    "nom": "Geronce-Campagnot",
+    "lat": 43.23508,
+    "lon": -0.68291,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6520202",
+    "nom": "Gez:Argeles",
+    "lat": 43.01333,
+    "lon": -0.10861,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6520201",
+    "nom": "Gez:Ouzous",
+    "lat": 43.01833,
+    "lon": -0.10778,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3214603",
+    "nom": "GIMBREDE",
+    "lat": 44.04324,
+    "lon": 0.70724,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3214704",
+    "nom": "GIMONT 1",
+    "lat": 43.63641,
+    "lon": 0.82391,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4032604",
+    "nom": "Girons:Ausol",
+    "lat": 43.94781,
+    "lon": -1.31161,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4032605",
+    "nom": "Girons:Ausol1",
+    "lat": 43.9506,
+    "lon": -1.33283,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4032606",
+    "nom": "Girons:Surtour",
+    "lat": 43.91535,
+    "lon": -1.30437,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4032607",
+    "nom": "Girons:Surtour1",
+    "lat": 43.94762,
+    "lon": -1.30685,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4032608",
+    "nom": "Girons:Vielle",
+    "lat": 43.95475,
+    "lon": -1.34093,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6424501",
+    "nom": "Goes-Enfan",
+    "lat": 43.19983,
+    "lon": -0.59832,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4706701",
+    "nom": "Golfech",
+    "lat": 44.13824,
+    "lon": 0.86898,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4709402",
+    "nom": "GONTAUD DE NOGARET",
+    "lat": 44.43712,
+    "lon": 0.2624,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6520901",
+    "nom": "Gouaux",
+    "lat": 42.8623,
+    "lon": 0.35481,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4011406",
+    "nom": "Gourbera:Bouhette",
+    "lat": 43.80206,
+    "lon": -1.03028,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4011401",
+    "nom": "GOURBERA:Cap Hore",
+    "lat": 43.81458,
+    "lon": -1.0551,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6420403",
+    "nom": "Gourette",
+    "lat": 42.95944,
+    "lon": -0.33206,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6490403",
+    "nom": "Gourette_Reserv",
+    "lat": 42.96038,
+    "lon": -0.32945,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6425101",
+    "nom": "GUINARTHE-PARENTIES",
+    "lat": 43.39206,
+    "lon": -0.94794,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4011802",
+    "nom": "Habas",
+    "lat": 43.57677,
+    "lon": -0.94287,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4011804",
+    "nom": "Habas:Habas",
+    "lat": 43.57949,
+    "lon": -0.9328,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4011805",
+    "nom": "Habas:Surtour",
+    "lat": 43.56841,
+    "lon": -0.94096,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4011902",
+    "nom": "Hagetmau:Bbellevue",
+    "lat": 43.66528,
+    "lon": -0.58806,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4011901",
+    "nom": "Hagetmau -OP",
+    "lat": 43.64111,
+    "lon": -0.62278,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6425602",
+    "nom": "Hasparren",
+    "lat": 43.39056,
+    "lon": -1.31,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6425605",
+    "nom": "HASPARREN-849_0424",
+    "lat": 43.38207,
+    "lon": -1.30513,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012004",
+    "nom": "HASTINGUES",
+    "lat": 43.53128,
+    "lon": -1.15606,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012005",
+    "nom": "Hastingues:Ausol",
+    "lat": 43.53485,
+    "lon": -1.14715,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012006",
+    "nom": "Hastingues:Hast",
+    "lat": 43.5314,
+    "lon": -1.15567,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012007",
+    "nom": "Hastingues:Surtour",
+    "lat": 43.52137,
+    "lon": -1.12497,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6425801",
+    "nom": "Haux",
+    "lat": 43.06472,
+    "lon": -0.84194,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6521801",
+    "nom": "Heches:Rebouc",
+    "lat": 42.99778,
+    "lon": 0.37333,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6426008",
+    "nom": "HENDAYE:De Gaulle",
+    "lat": 43.3539,
+    "lon": -1.78073,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6426001",
+    "nom": "Hendaye:Port",
+    "lat": 43.36837,
+    "lon": -1.7836,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012302",
+    "nom": "Herm:Grangeon",
+    "lat": 43.82328,
+    "lon": -1.18702,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012305",
+    "nom": "Herm:Grangeon_2",
+    "lat": 43.82426,
+    "lon": -1.1873,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012303",
+    "nom": "Herm:Herm",
+    "lat": 43.80152,
+    "lon": -1.15125,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012304",
+    "nom": "Herm:Surtour",
+    "lat": 43.81304,
+    "lon": -1.08025,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012306",
+    "nom": "Herm:Village",
+    "lat": 43.80152,
+    "lon": -1.15124,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012452",
+    "nom": "HERRE : Beguin",
+    "lat": 44.01727,
+    "lon": -0.02294,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6426101",
+    "nom": "Herrere :Candau 1",
+    "lat": 43.16889,
+    "lon": -0.5272,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012503",
+    "nom": "Heugas-Miquelanne",
+    "lat": 43.64053,
+    "lon": -1.08119,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6522101",
+    "nom": "HIIS",
+    "lat": 43.13112,
+    "lon": 0.08753,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012603",
+    "nom": "Hinx:Adour",
+    "lat": 43.7207,
+    "lon": -0.93844,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012606",
+    "nom": "HINX:St-Pierre",
+    "lat": 43.70057,
+    "lon": -0.91944,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012701",
+    "nom": "Hontanx:Hontanx",
+    "lat": 43.8275,
+    "lon": -0.27598,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012702",
+    "nom": "Hontanx:Surtour",
+    "lat": 43.80077,
+    "lon": -0.28371,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012802",
+    "nom": "Horsarrieu:Hors",
+    "lat": 43.68557,
+    "lon": -0.60112,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6426501",
+    "nom": "Hosta",
+    "lat": 43.16417,
+    "lon": -1.05944,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4711902",
+    "nom": "Houeilles-2",
+    "lat": 44.1917,
+    "lon": 0.01705,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6426701",
+    "nom": "Ibarrolle",
+    "lat": 43.20444,
+    "lon": -1.09167,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6522603",
+    "nom": "Ibos:Ch Reservoir",
+    "lat": 43.23037,
+    "lon": -0.02081,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6426903",
+    "nom": "Idron-Ossau",
+    "lat": 43.29839,
+    "lon": -0.31965,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6426901",
+    "nom": "Idron-Ousse-Sendets",
+    "lat": 43.26361,
+    "lon": -0.25861,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6427101",
+    "nom": "Iholdy",
+    "lat": 43.28222,
+    "lon": -1.16806,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3216001",
+    "nom": "Isle-jourdain:N, App",
+    "lat": 43.60223,
+    "lon": 1.10072,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6415501",
+    "nom": "Ispoure:Bustince",
+    "lat": 43.1875,
+    "lon": -1.19694,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6427601",
+    "nom": "Issor",
+    "lat": 43.10516,
+    "lon": -0.67252,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6415502",
+    "nom": "ITA_Ispoure",
+    "lat": 43.18694,
+    "lon": -1.1975,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4726902",
+    "nom": "ITA_StPierreDeClaira",
+    "lat": 44.18917,
+    "lon": 0.75778,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6427905",
+    "nom": "ITXASSOU1",
+    "lat": 43.32351,
+    "lon": -1.40737,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6427901",
+    "nom": "Itxassou1:Ecole",
+    "lat": 43.32917,
+    "lon": -1.40528,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6427906",
+    "nom": "ITXASSOU2",
+    "lat": 43.33877,
+    "lon": -1.39441,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6427902",
+    "nom": "Itxassou2:Pas-de-Rol",
+    "lat": 43.31389,
+    "lon": -1.38722,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6427907",
+    "nom": "ITXASSOU:Artzamendi",
+    "lat": 43.28389,
+    "lon": -1.40668,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6427903",
+    "nom": "Itxassou Soubeletaco",
+    "lat": 43.33537,
+    "lon": -1.38324,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6523301",
+    "nom": "Jarret",
+    "lat": 43.08681,
+    "lon": -0.018,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6523501",
+    "nom": "Juillan",
+    "lat": 43.19333,
+    "lon": 0.03083,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4026603",
+    "nom": "Julien:Born",
+    "lat": 44.08896,
+    "lon": -1.30835,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4026604",
+    "nom": "Julien:Surtour",
+    "lat": 44.06369,
+    "lon": -1.22509,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444502",
+    "nom": "Jurancon1:Casino",
+    "lat": 43.295,
+    "lon": -0.36176,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6428401",
+    "nom": "Jurancon2:Soubacq",
+    "lat": 43.25806,
+    "lon": -0.38389,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6428501",
+    "nom": "Juxue",
+    "lat": 43.23639,
+    "lon": -1.04528,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6523901",
+    "nom": "Labastide:Col Coupe",
+    "lat": 43.03139,
+    "lon": 0.34,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013206",
+    "nom": "LABATUT",
+    "lat": 43.5659,
+    "lon": -0.95544,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013204",
+    "nom": "LABATUT1",
+    "lat": 43.54136,
+    "lon": -1.03525,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013205",
+    "nom": "LABATUT2",
+    "lat": 43.5436,
+    "lon": -0.9898,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013202",
+    "nom": "Labatut:Ausol",
+    "lat": 43.56064,
+    "lon": -1.00145,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013207",
+    "nom": "LABATUT:Guillicq",
+    "lat": 43.56326,
+    "lon": -0.99735,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013308",
+    "nom": "LABENNE",
+    "lat": 43.61319,
+    "lon": -1.39955,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013309",
+    "nom": "Labenne:Estelle",
+    "lat": 43.59726,
+    "lon": -1.43701,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013310",
+    "nom": "Labenne:Palot",
+    "lat": 43.59932,
+    "lon": -1.43778,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6524101",
+    "nom": "Laborde",
+    "lat": 43.03306,
+    "lon": 0.29306,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013405",
+    "nom": "LABOUHEYRE_BA",
+    "lat": 44.23712,
+    "lon": -0.91042,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013401",
+    "nom": "Labouheyre:Bel air",
+    "lat": 44.23778,
+    "lon": -0.90694,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013403",
+    "nom": "LABOUHEYRE:Bouhemi",
+    "lat": 44.18856,
+    "lon": -0.91254,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013404",
+    "nom": "LABOUHEYRE:Boyre",
+    "lat": 44.22815,
+    "lon": -0.91926,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013502",
+    "nom": "Labrit:Ausol",
+    "lat": 44.10236,
+    "lon": -0.54441,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013503",
+    "nom": "Labrit:Lab",
+    "lat": 44.09565,
+    "lon": -0.5501,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013504",
+    "nom": "Labrit:Surtour",
+    "lat": 44.10234,
+    "lon": -0.54422,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6429701",
+    "nom": "Lacarre:Basagibel",
+    "lat": 43.19283,
+    "lon": -1.16903,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6430054",
+    "nom": "LACQ",
+    "lat": 43.40797,
+    "lon": -0.62188,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6430052",
+    "nom": "LACQ:Aire A64",
+    "lat": 43.4209,
+    "lon": -0.59968,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4013701",
+    "nom": "Lacquy:Lacquy",
+    "lat": 43.95402,
+    "lon": -0.27638,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6524303",
+    "nom": "LAFITOLE:Marmajou",
+    "lat": 43.44423,
+    "lon": 0.05517,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6524301",
+    "nom": "Lafitole:Val D'adour",
+    "lat": 43.44785,
+    "lon": 0.06474,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4712702",
+    "nom": "LAFITTE/LOT",
+    "lat": 44.34356,
+    "lon": 0.42448,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4712701",
+    "nom": "Lafitte:Lou Carrelot",
+    "lat": 44.35167,
+    "lon": 0.43227,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3218103",
+    "nom": "LAGUIAN MAZOUS",
+    "lat": 43.42429,
+    "lon": 0.23824,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6430403",
+    "nom": "LAHONCE:Barthes",
+    "lat": 43.4906,
+    "lon": -1.39692,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6430502",
+    "nom": "LAHONTAN:Lanot",
+    "lat": 43.52009,
+    "lon": -0.98063,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4014101",
+    "nom": "Lahosse:Lah",
+    "lat": 43.71138,
+    "lon": -0.79833,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4014207",
+    "nom": "LALUQUE1",
+    "lat": 43.84931,
+    "lon": -0.9625,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4014208",
+    "nom": "LALUQUE2",
+    "lat": 43.85876,
+    "lon": -0.94209,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4014209",
+    "nom": "LALUQUE:Hourquet",
+    "lat": 43.87701,
+    "lon": -1.00208,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4014205",
+    "nom": "Laluque:Lal",
+    "lat": 43.85505,
+    "lon": -0.98976,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4014206",
+    "nom": "Laluque:Surtour",
+    "lat": 43.85279,
+    "lon": -0.99311,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4006202",
+    "nom": "Lamolere:Campet",
+    "lat": 43.91679,
+    "lon": -0.60975,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6525853",
+    "nom": "Lanemezan:FestivalFM",
+    "lat": 43.12384,
+    "lon": 0.38425,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6525601",
+    "nom": "LANESPEDE_A64",
+    "lat": 43.16514,
+    "lon": 0.27402,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6431001",
+    "nom": "Lanne1:Laritche",
+    "lat": 43.04361,
+    "lon": -0.79806,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6431002",
+    "nom": "Lanne2:Cardasse",
+    "lat": 43.10472,
+    "lon": -0.7825,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6537701",
+    "nom": "Lannemezan:Bans51",
+    "lat": 43.13014,
+    "lon": 0.38901,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6525803",
+    "nom": "Lannemezan:peyrehitt",
+    "lat": 43.10028,
+    "lon": 0.37778,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6525854",
+    "nom": "Lannemezan:Save",
+    "lat": 43.09564,
+    "lon": 0.40027,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6537702",
+    "nom": "Lannemezan:Thiers",
+    "lat": 43.12251,
+    "lon": 0.38375,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6525901",
+    "nom": "LANSAC",
+    "lat": 43.2214,
+    "lon": 0.17039,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6431302",
+    "nom": "LANTABAT:Larceveau",
+    "lat": 43.24212,
+    "lon": -1.10556,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4713701",
+    "nom": "LAPLUME",
+    "lat": 44.11507,
+    "lon": 0.54567,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6431401",
+    "nom": "Larceveau",
+    "lat": 43.24167,
+    "lon": -1.10583,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6431402",
+    "nom": "Larceveau:Uthurchoco",
+    "lat": 43.24131,
+    "lon": -1.10569,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6447801",
+    "nom": "Laroin",
+    "lat": 43.29733,
+    "lon": -0.44967,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4014502",
+    "nom": "Larriviere:Surtour",
+    "lat": 43.76625,
+    "lon": -0.42879,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4014503",
+    "nom": "Larriviere:Surtour1",
+    "lat": 43.76625,
+    "lon": -0.42848,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3219601",
+    "nom": "LARROQUE_ST_SERNIN",
+    "lat": 43.8292,
+    "lon": 0.46783,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6420402",
+    "nom": "Laruns1:Promenade",
+    "lat": 42.97269,
+    "lon": -0.41132,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6432001",
+    "nom": "Laruns2:Lusque",
+    "lat": 42.95806,
+    "lon": -0.45028,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6432002",
+    "nom": "Laruns3:Goust",
+    "lat": 42.9483,
+    "lon": -0.44506,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6432003",
+    "nom": "Laruns4:Gabas",
+    "lat": 42.89056,
+    "lon": -0.42917,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6432005",
+    "nom": "Laruns6:Cheminee",
+    "lat": 42.97932,
+    "lon": -0.4126,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4728901",
+    "nom": "LaSauvetat:Canta",
+    "lat": 44.22724,
+    "lon": 0.79861,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6526502",
+    "nom": "LASLADES",
+    "lat": 43.22494,
+    "lon": 0.14696,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4714502",
+    "nom": "Layrac 2:Bajolles",
+    "lat": 44.129,
+    "lon": 0.67424,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4714501",
+    "nom": "Layrac-A62-RN21",
+    "lat": 44.14333,
+    "lon": 0.65208,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4714506",
+    "nom": "LAYRAC:Passage",
+    "lat": 44.15196,
+    "lon": 0.66054,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4714504",
+    "nom": "Layrac:Tournais",
+    "lat": 44.13397,
+    "lon": 0.66067,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3220701",
+    "nom": "LEBOULIN",
+    "lat": 43.66488,
+    "lon": 0.66172,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3220802",
+    "nom": "Lectoure -OP",
+    "lat": 43.94297,
+    "lon": 0.58843,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6432701",
+    "nom": "LECUMBERRY:Jancarry",
+    "lat": 43.12954,
+    "lon": -1.14864,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4714601",
+    "nom": "Ledat:Crete",
+    "lat": 44.44335,
+    "lon": 0.67028,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6432801",
+    "nom": "LEDEUIX",
+    "lat": 43.22516,
+    "lon": -0.60588,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4010001",
+    "nom": "Le Freche:Soubiran",
+    "lat": 43.92793,
+    "lon": -0.23683,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4715902",
+    "nom": "LeMasDAgenais:Gaute",
+    "lat": 44.41085,
+    "lon": 0.21744,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6433101",
+    "nom": "Lembeye",
+    "lat": 43.44528,
+    "lon": -0.10056,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4014901",
+    "nom": "Lencouacq:Len",
+    "lat": 44.09986,
+    "lon": -0.40953,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015003",
+    "nom": "Leon:Ausol",
+    "lat": 43.88424,
+    "lon": -1.29645,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015004",
+    "nom": "Leon:Leon",
+    "lat": 43.86652,
+    "lon": -1.33094,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015005",
+    "nom": "Leon:Surtour",
+    "lat": 43.86745,
+    "lon": -1.31125,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4720105",
+    "nom": "LePassage:Bissieres",
+    "lat": 44.19866,
+    "lon": 0.60366,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4720106",
+    "nom": "LePassage:Bourg",
+    "lat": 44.19919,
+    "lon": 0.60419,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4720107",
+    "nom": "LePassage:Giono",
+    "lat": 44.18294,
+    "lon": 0.6016,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4720108",
+    "nom": "lePassage:Maurois",
+    "lat": 44.18224,
+    "lon": 0.60356,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6433403",
+    "nom": "LEREN:Changou",
+    "lat": 43.51044,
+    "lon": -1.06261,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412915",
+    "nom": "LESCAR-0296",
+    "lat": 43.33112,
+    "lon": -0.41282,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412914",
+    "nom": "LESCAR-0332",
+    "lat": 43.32835,
+    "lon": -0.43964,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6433552",
+    "nom": "Lescar:Std R Inside",
+    "lat": 43.31756,
+    "lon": -0.42519,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6433554",
+    "nom": "Lescar:Toureils",
+    "lat": 43.34565,
+    "lon": -0.44344,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6413601",
+    "nom": "Lescun1:Sommet",
+    "lat": 42.91722,
+    "lon": -0.59944,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6433604",
+    "nom": "LESCUN:Eycun",
+    "lat": 42.93542,
+    "lon": -0.64701,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6433606",
+    "nom": "LESCUN:Lascoundres",
+    "lat": 42.92007,
+    "lon": -0.63866,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6433605",
+    "nom": "LESCUN:Petrelate",
+    "lat": 42.93504,
+    "lon": -0.64539,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4029701",
+    "nom": "LeSen:Ausol",
+    "lat": 44.12542,
+    "lon": -0.50232,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015105",
+    "nom": "LESGOR1",
+    "lat": 43.87644,
+    "lon": -0.93455,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015103",
+    "nom": "Lesgor:Ausol",
+    "lat": 43.85232,
+    "lon": -0.89996,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015106",
+    "nom": "LESGOR:Greffier",
+    "lat": 43.86117,
+    "lon": -0.9372,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015104",
+    "nom": "Lesgor:Lesgor",
+    "lat": 43.85258,
+    "lon": -0.8972,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015206",
+    "nom": "Lesperon:Ausol",
+    "lat": 43.97245,
+    "lon": -1.07404,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015205",
+    "nom": "Lesperon:Bouscat",
+    "lat": 43.9888,
+    "lon": -1.04097,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015209",
+    "nom": "Lesperon:Gare",
+    "lat": 43.97144,
+    "lon": -1.09345,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015207",
+    "nom": "Lesperon:Lesp",
+    "lat": 43.97035,
+    "lon": -1.10009,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015202",
+    "nom": "Lesperon:rte St-Jacq",
+    "lat": 43.95792,
+    "lon": -1.06278,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015210",
+    "nom": "LESPERON:SJ_Lacraste",
+    "lat": 43.95727,
+    "lon": -1.06342,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015208",
+    "nom": "Lesperon:Surtour",
+    "lat": 43.97217,
+    "lon": -1.07406,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6433701",
+    "nom": "LESPIELLE",
+    "lat": 43.47126,
+    "lon": -0.15085,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015401",
+    "nom": "Levignacq:Levi",
+    "lat": 44.0107,
+    "lon": -1.169,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015505",
+    "nom": "LINXE:Cassagnon",
+    "lat": 43.91775,
+    "lon": -1.2624,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015503",
+    "nom": "Linxe:Linx",
+    "lat": 43.90739,
+    "lon": -1.25835,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015502",
+    "nom": "LINXE:Milhomes",
+    "lat": 43.92576,
+    "lon": -1.23647,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015504",
+    "nom": "Linxe:Surtour",
+    "lat": 43.92069,
+    "lon": -1.24929,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015603",
+    "nom": "LIPOSTHEY",
+    "lat": 44.27622,
+    "lon": -0.8952,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015602",
+    "nom": "Liposthey:Champ Neuf",
+    "lat": 44.31144,
+    "lon": -0.88108,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3216004",
+    "nom": "L'ISLE-JOURDAIN",
+    "lat": 43.6093,
+    "lon": 1.0552,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3221302",
+    "nom": "LOMBEZ",
+    "lat": 43.46788,
+    "lon": 0.90856,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6434809",
+    "nom": "LONS-849_0412",
+    "lat": 43.31262,
+    "lon": -0.4114,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6434808",
+    "nom": "LONS-Chene",
+    "lat": 43.3324,
+    "lon": -0.39192,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412920",
+    "nom": "LONS LE PERLIC-0298",
+    "lat": 43.32167,
+    "lon": -0.38333,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412916",
+    "nom": "LONS LE PERLIC-Farma",
+    "lat": 43.33231,
+    "lon": -0.39184,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6434811",
+    "nom": "Lons-Std NRJ Pau",
+    "lat": 43.3019,
+    "lon": -0.40942,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6434810",
+    "nom": "Lons-Ucherau",
+    "lat": 43.31545,
+    "lon": -0.40568,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528201",
+    "nom": "Loudenvielle : Val-L",
+    "lat": 42.79083,
+    "lon": 0.39194,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528202",
+    "nom": "Loudenvielle:Village",
+    "lat": 42.80158,
+    "lon": 0.41488,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015901",
+    "nom": "LOUER:Lavigne",
+    "lat": 43.75863,
+    "lon": -0.88204,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6435001",
+    "nom": "Louhossoa",
+    "lat": 43.32528,
+    "lon": -1.36194,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528653",
+    "nom": "Lourdes:1945",
+    "lat": 43.09167,
+    "lon": -0.05101,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528662",
+    "nom": "LOURDES:Abadie",
+    "lat": 43.11067,
+    "lon": -0.04046,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528663",
+    "nom": "Lourdes:Bernadette",
+    "lat": 43.10814,
+    "lon": -0.05942,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528656",
+    "nom": "Lourdes:Espagne",
+    "lat": 43.09177,
+    "lon": -0.04054,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528665",
+    "nom": "Lourdes-Fontaines",
+    "lat": 43.08713,
+    "lon": -0.04629,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528655",
+    "nom": "Lourdes:Gallieni",
+    "lat": 43.08559,
+    "lon": -0.04559,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528657",
+    "nom": "Lourdes:Labastide",
+    "lat": 43.10061,
+    "lon": -0.05074,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528607",
+    "nom": "LOURDES-Pic du Jer",
+    "lat": 43.07972,
+    "lon": -0.03111,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528652",
+    "nom": "Lourdes:Pyrenees",
+    "lat": 43.09245,
+    "lon": -0.05022,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528661",
+    "nom": "Lourdes:Std TVLP",
+    "lat": 43.09653,
+    "lon": -0.05208,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528664",
+    "nom": "Lourdes-SteMarie",
+    "lat": 43.09623,
+    "lon": -0.05508,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528601",
+    "nom": "Lourdes:Tarbes",
+    "lat": 43.08319,
+    "lon": -0.06036,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6435101",
+    "nom": "Lourdios-Ichere1",
+    "lat": 43.04389,
+    "lon": -0.65639,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6435102",
+    "nom": "Lourdios-Ichere2",
+    "lat": 43.05028,
+    "lon": -0.67611,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016001",
+    "nom": "Lourquen:Bache",
+    "lat": 43.73258,
+    "lon": -0.8122,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6435301",
+    "nom": "Louvie-Juzon1:Pe-de",
+    "lat": 43.09668,
+    "lon": -0.33976,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6435302",
+    "nom": "Louvie-Juzon2:Pedest",
+    "lat": 43.09556,
+    "lon": -0.35278,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016102",
+    "nom": "Lubbon:Garbes Parc",
+    "lat": 44.09474,
+    "lon": -0.02056,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016202",
+    "nom": "LUCBARDEZ-BARGUES_ZR",
+    "lat": 43.96172,
+    "lon": -0.39464,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6435901",
+    "nom": "Lucq-de-Bearn",
+    "lat": 43.29139,
+    "lon": -0.66306,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016303",
+    "nom": "LUE",
+    "lat": 44.17922,
+    "lon": -0.94564,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016304",
+    "nom": "LUE1",
+    "lat": 44.23714,
+    "lon": -0.92677,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016305",
+    "nom": "LUE2",
+    "lat": 44.26295,
+    "lon": -0.93412,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016501",
+    "nom": "Luglon:Ausol",
+    "lat": 44.07905,
+    "lon": -0.71827,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016502",
+    "nom": "LUGLON:Vert",
+    "lat": 44.08929,
+    "lon": -0.69463,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016701",
+    "nom": "Luxey:Ausol",
+    "lat": 44.25035,
+    "lon": -0.50705,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016702",
+    "nom": "Luxey:Lux",
+    "lat": 44.27205,
+    "lon": -0.52817,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016705",
+    "nom": "LUXEY:Sabres",
+    "lat": 44.26145,
+    "lon": -0.53282,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016704",
+    "nom": "LUXEY:Sarroucas",
+    "lat": 44.22424,
+    "lon": -0.47994,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016703",
+    "nom": "Luxey:Surtour",
+    "lat": 44.2644,
+    "lon": -0.52146,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6529502",
+    "nom": "Luz-St-Sauveur",
+    "lat": 42.86083,
+    "lon": 0.00194,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016806",
+    "nom": "MAGESCQ",
+    "lat": 43.7746,
+    "lon": -1.21622,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016804",
+    "nom": "MAGESCQ1",
+    "lat": 43.80591,
+    "lon": -1.20178,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016805",
+    "nom": "MAGESCQ2",
+    "lat": 43.80014,
+    "lon": -1.20259,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016807",
+    "nom": "Magescq:Mag",
+    "lat": 43.77926,
+    "lon": -1.23163,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016808",
+    "nom": "Magescq:Surtour",
+    "lat": 43.76123,
+    "lon": -1.21745,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3222401",
+    "nom": "MaignautTauziat",
+    "lat": 43.88165,
+    "lon": 0.41068,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4017001",
+    "nom": "Mailleres:Ausol",
+    "lat": 44.01724,
+    "lon": -0.44572,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3222701",
+    "nom": "Manciet -OP",
+    "lat": 43.79372,
+    "lon": 0.10071,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4715601",
+    "nom": "Marcellus:Imp Commun",
+    "lat": 44.46917,
+    "lon": 0.06861,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003608",
+    "nom": "Maremne:Surtour",
+    "lat": 43.62922,
+    "lon": -1.40034,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003609",
+    "nom": "Maremne:Surtour1",
+    "lat": 43.63278,
+    "lon": -1.36758,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4715707",
+    "nom": "Marmande:Duport",
+    "lat": 44.50066,
+    "lon": 0.16269,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4711501",
+    "nom": "Marmande:Guerin",
+    "lat": 44.43278,
+    "lon": 0.07,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4715716",
+    "nom": "Marmande:Laicite",
+    "lat": 44.49928,
+    "lon": 0.16888,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4715708",
+    "nom": "Marmande:Logis",
+    "lat": 44.49927,
+    "lon": 0.17389,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4715702",
+    "nom": "Marmande:Magdeleine",
+    "lat": 44.52556,
+    "lon": 0.19417,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4715709",
+    "nom": "Marmande:Moulin",
+    "lat": 44.49803,
+    "lon": 0.17747,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4715710",
+    "nom": "Marmande:Otto",
+    "lat": 44.50489,
+    "lon": 0.14875,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4715711",
+    "nom": "Marmande:Palissy",
+    "lat": 44.51231,
+    "lon": 0.15807,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4715712",
+    "nom": "Marmande:Porto",
+    "lat": 44.50751,
+    "lon": 0.15313,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4715713",
+    "nom": "Marmande:Ronde",
+    "lat": 44.50582,
+    "lon": 0.1625,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4715714",
+    "nom": "Marmande:Stade",
+    "lat": 44.50377,
+    "lon": 0.16232,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4715715",
+    "nom": "Marmande:Vergne",
+    "lat": 44.50014,
+    "lon": 0.16442,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3223701",
+    "nom": "Marsan:les Clausets2",
+    "lat": 43.65472,
+    "lon": 0.70111,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4033105",
+    "nom": "Marsan:Surtour",
+    "lat": 43.89215,
+    "lon": -0.31016,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4033106",
+    "nom": "Marsan:Surtour1",
+    "lat": 43.87731,
+    "lon": -0.32061,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4033107",
+    "nom": "Marsan:Villeneuve",
+    "lat": 43.89975,
+    "lon": -0.3042,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3224202",
+    "nom": "MASSEUBE:BT",
+    "lat": 43.42556,
+    "lon": 0.58944,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3224201",
+    "nom": "Masseube -OP",
+    "lat": 43.41206,
+    "lon": 0.59957,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6530402",
+    "nom": "Maubourguet:Bordeaux",
+    "lat": 43.47389,
+    "lon": 0.02333,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6504902",
+    "nom": "Maubourguet:Dulac",
+    "lat": 43.18584,
+    "lon": -0.02155,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6504901",
+    "nom": "Maubourguet:Foirail",
+    "lat": 43.46614,
+    "lon": 0.03617,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6530403",
+    "nom": "Maubourguet_SALT",
+    "lat": 43.47514,
+    "lon": 0.02435,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4002602",
+    "nom": "Mauco:Bas",
+    "lat": 43.7974,
+    "lon": -0.56203,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6437101",
+    "nom": "Mauleon-Licharre",
+    "lat": 43.22944,
+    "lon": -0.90833,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6437301",
+    "nom": "Mazeres Lezons-0042",
+    "lat": 43.28196,
+    "lon": -0.36003,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4017902",
+    "nom": "MEES",
+    "lat": 43.70866,
+    "lon": -1.1039,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4017904",
+    "nom": "MEES 3",
+    "lat": 43.71086,
+    "lon": -1.11744,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4017903",
+    "nom": "MEES:Lesgor",
+    "lat": 43.72329,
+    "lon": -1.13454,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4017901",
+    "nom": "Mees:Mees",
+    "lat": 43.69964,
+    "lon": -1.10716,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4018002",
+    "nom": "MEILHAN-CUMA",
+    "lat": 43.84306,
+    "lon": -0.71319,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4716505",
+    "nom": "Meilhan:Marjo",
+    "lat": 44.52157,
+    "lon": 0.03472,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4018004",
+    "nom": "Meilhan:Meil",
+    "lat": 43.86868,
+    "lon": -0.71682,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4716501",
+    "nom": "Meilhan-sur-Garonne",
+    "lat": 44.52,
+    "lon": 0.03333,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4018005",
+    "nom": "Meilhan:Surtour",
+    "lat": 43.86524,
+    "lon": -0.69669,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6437701",
+    "nom": "Mendionde",
+    "lat": 43.33833,
+    "lon": -1.3075,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4716702",
+    "nom": "Mezin:Armagnac",
+    "lat": 44.05603,
+    "lon": 0.25957,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4716703",
+    "nom": "Mezin:Fallieres",
+    "lat": 44.05617,
+    "lon": 0.25893,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4716704",
+    "nom": "Mezin:Paradis",
+    "lat": 44.05576,
+    "lon": 0.2564,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4716705",
+    "nom": "Mezin:Republique",
+    "lat": 44.05763,
+    "lon": 0.2582,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4716706",
+    "nom": "Mezin:Saint",
+    "lat": 44.05682,
+    "lon": 0.25824,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4716707",
+    "nom": "Mezin:Saint1",
+    "lat": 44.05654,
+    "lon": 0.25825,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4018305",
+    "nom": "MIMBASTE1",
+    "lat": 43.63317,
+    "lon": -0.96506,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4018303",
+    "nom": "Mimbaste:Ausol",
+    "lat": 43.64278,
+    "lon": -0.99362,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4018304",
+    "nom": "Mimbaste:Mim",
+    "lat": 43.64753,
+    "lon": -0.96627,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4018401",
+    "nom": "Mimizan1:Chateau-d'e",
+    "lat": 44.20349,
+    "lon": -1.23685,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4018402",
+    "nom": "Mimizan2:Dune-Udos",
+    "lat": 44.20696,
+    "lon": -1.26032,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4026904",
+    "nom": "Mines:40269",
+    "lat": 43.61064,
+    "lon": -1.1312,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6438501",
+    "nom": "MIOSSENS-LANUSSE",
+    "lat": 43.47306,
+    "lon": -0.3118,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4716801",
+    "nom": "Miramont-de-Guyenne",
+    "lat": 44.59178,
+    "lon": 0.36437,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4716804",
+    "nom": "Miramont:Tour",
+    "lat": 44.5993,
+    "lon": 0.36785,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4716805",
+    "nom": "Miramont:Voltaire",
+    "lat": 44.60128,
+    "lon": 0.36062,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3225602",
+    "nom": "MIRANDE ENDAGANET",
+    "lat": 43.52715,
+    "lon": 0.369,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3225603",
+    "nom": "Mirande-Studio RDM",
+    "lat": 43.51528,
+    "lon": 0.40389,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4018601",
+    "nom": "MISSON1",
+    "lat": 43.59094,
+    "lon": -0.94036,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4018602",
+    "nom": "MISSON2",
+    "lat": 43.6118,
+    "lon": -0.9406,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4716903",
+    "nom": "Moirax:Couvent",
+    "lat": 44.14144,
+    "lon": 0.60843,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6438701",
+    "nom": "MOMAS",
+    "lat": 43.43387,
+    "lon": -0.43392,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4717301",
+    "nom": "Monclar:Eau",
+    "lat": 44.44606,
+    "lon": 0.52753,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6439301",
+    "nom": "Monein1:Conte",
+    "lat": 43.3021,
+    "lon": -0.56322,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6439302",
+    "nom": "Monein2:Lapeze",
+    "lat": 43.26806,
+    "lon": -0.52944,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6439303",
+    "nom": "Monein3:Cauhape",
+    "lat": 43.3125,
+    "lon": -0.6175,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6439304",
+    "nom": "Monein4:Laring",
+    "lat": 43.23584,
+    "lon": -0.53278,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6439308",
+    "nom": "Monein:Bourg",
+    "lat": 43.32615,
+    "lon": -0.57461,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6531401",
+    "nom": "Monfaucon:Vigne-Dant",
+    "lat": 43.45116,
+    "lon": 0.11583,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3226803",
+    "nom": "MONFERRAN-SAVES",
+    "lat": 43.61408,
+    "lon": 1.01939,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3226801",
+    "nom": "MONFERRAN-SAVES1",
+    "lat": 43.61337,
+    "lon": 0.9468,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3226802",
+    "nom": "MONFERRAN-SAVES2",
+    "lat": 43.60357,
+    "lon": 1.00182,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4717502",
+    "nom": "Monflanquin:Ville",
+    "lat": 44.5315,
+    "lon": 0.76985,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6439904",
+    "nom": "Montardon-Eglantiers",
+    "lat": 43.36932,
+    "lon": -0.34949,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6440001",
+    "nom": "Montaut",
+    "lat": 43.1392,
+    "lon": -0.20893,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4019101",
+    "nom": "MONTAUT:Lamathe",
+    "lat": 43.74063,
+    "lon": -0.66288,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6439601",
+    "nom": "Mont:Bourg de Gouze",
+    "lat": 43.44097,
+    "lon": -0.67509,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3228001",
+    "nom": "MONT D'ASTARAC",
+    "lat": 43.32261,
+    "lon": 0.57629,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4718603",
+    "nom": "MONTESQUIEU:Pine",
+    "lat": 44.23576,
+    "lon": 0.44687,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4019403",
+    "nom": "Montfort:Mont",
+    "lat": 43.70202,
+    "lon": -0.82487,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4019501",
+    "nom": "Montgaillard:Mont",
+    "lat": 43.74459,
+    "lon": -0.48752,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6440401",
+    "nom": "Montory",
+    "lat": 43.08373,
+    "lon": -0.79447,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6440403",
+    "nom": "MONTORY:Cote",
+    "lat": 43.10291,
+    "lon": -0.80372,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3229001",
+    "nom": "Montreal du gers",
+    "lat": 43.95041,
+    "lon": 0.21751,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4019601",
+    "nom": "Montsoue:FH",
+    "lat": 43.72086,
+    "lon": -0.51803,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4019708",
+    "nom": "MORCENX1",
+    "lat": 43.9834,
+    "lon": -0.90287,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4019709",
+    "nom": "MORCENX2",
+    "lat": 43.9965,
+    "lon": -0.91056,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4019710",
+    "nom": "MORCENX3",
+    "lat": 44.01377,
+    "lon": -0.89918,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4019711",
+    "nom": "MORCENX4",
+    "lat": 44.0535,
+    "lon": -0.91186,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4019712",
+    "nom": "MORCENX5",
+    "lat": 44.07874,
+    "lon": -0.91357,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6440705",
+    "nom": "MOUGUERRE:Magnimy",
+    "lat": 43.45006,
+    "lon": -1.38044,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6440901",
+    "nom": "Moumour:Lamothe",
+    "lat": 43.21385,
+    "lon": -0.66425,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441025",
+    "nom": "MOURENX-001_8147",
+    "lat": 43.37428,
+    "lon": -0.62951,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441030",
+    "nom": "MOURENX-001_8148",
+    "lat": 43.37388,
+    "lon": -0.63028,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441029",
+    "nom": "MOURENX-001_8149",
+    "lat": 43.36837,
+    "lon": -0.6302,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441033",
+    "nom": "MOURENX-001_8150",
+    "lat": 43.36847,
+    "lon": -0.63077,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441038",
+    "nom": "MOURENX-001_8151",
+    "lat": 43.37306,
+    "lon": -0.63205,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441006",
+    "nom": "MOURENX-0350",
+    "lat": 43.3739,
+    "lon": -0.65653,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441004",
+    "nom": "MOURENX-0364",
+    "lat": 43.3739,
+    "lon": -0.65653,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441003",
+    "nom": "MOURENX-0365",
+    "lat": 43.3739,
+    "lon": -0.65653,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441007",
+    "nom": "MOURENX-0366",
+    "lat": 43.3739,
+    "lon": -0.65653,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441005",
+    "nom": "MOURENX-0367",
+    "lat": 43.3739,
+    "lon": -0.65653,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441008",
+    "nom": "MOURENX-0368",
+    "lat": 43.3739,
+    "lon": -0.65653,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441011",
+    "nom": "MOURENX-849_0330",
+    "lat": 43.37819,
+    "lon": -0.62601,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441040",
+    "nom": "MOURENX-849_0353",
+    "lat": 43.36683,
+    "lon": -0.63397,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441036",
+    "nom": "MOURENX-849_0428",
+    "lat": 43.3682,
+    "lon": -0.63171,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441041",
+    "nom": "Mourenx:Menestrel_T1",
+    "lat": 43.37356,
+    "lon": -0.62953,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441021",
+    "nom": "MOURENX : Pic D'Anie",
+    "lat": 43.36987,
+    "lon": -0.62814,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441022",
+    "nom": "MOURENX-SNI_5587",
+    "lat": 43.37298,
+    "lon": -0.62815,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441020",
+    "nom": "MOURENX-SNI_5588",
+    "lat": 43.37111,
+    "lon": -0.62805,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441037",
+    "nom": "MOURENX-SNI_5589",
+    "lat": 43.37424,
+    "lon": -0.63179,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441031",
+    "nom": "MOURENX-SNI_5590",
+    "lat": 43.37454,
+    "lon": -0.63035,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441018",
+    "nom": "MOURENX-SNI_5591",
+    "lat": 43.37298,
+    "lon": -0.62718,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441012",
+    "nom": "MOURENX-SNI_5592",
+    "lat": 43.37128,
+    "lon": -0.6259,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441016",
+    "nom": "MOURENX-SNI_5593",
+    "lat": 43.37128,
+    "lon": -0.62674,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441019",
+    "nom": "MOURENX-SNI_5594",
+    "lat": 43.37126,
+    "lon": -0.62737,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441027",
+    "nom": "MOURENX-SNI_5595",
+    "lat": 43.36954,
+    "lon": -0.63002,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441028",
+    "nom": "MOURENX-SNI_5596",
+    "lat": 43.36939,
+    "lon": -0.63011,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441024",
+    "nom": "MOURENX-SNI_5597",
+    "lat": 43.36767,
+    "lon": -0.62929,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441032",
+    "nom": "MOURENX-SNI_5598",
+    "lat": 43.37017,
+    "lon": -0.63038,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441039",
+    "nom": "MOURENX-SNI_5599",
+    "lat": 43.37345,
+    "lon": -0.63294,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441035",
+    "nom": "MOURENX-SNI_5602",
+    "lat": 43.37189,
+    "lon": -0.63108,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441034",
+    "nom": "MOURENX-SNI_5603",
+    "lat": 43.37094,
+    "lon": -0.63071,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441023",
+    "nom": "MOURENX-SNI_5605",
+    "lat": 43.3697,
+    "lon": -0.62861,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441013",
+    "nom": "MOURENX-SNI_5606",
+    "lat": 43.36922,
+    "lon": -0.62638,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441017",
+    "nom": "MOURENX-SNI_5607",
+    "lat": 43.36987,
+    "lon": -0.62677,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441010",
+    "nom": "MOURENX-SNI_5608",
+    "lat": 43.36954,
+    "lon": -0.62594,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441026",
+    "nom": "MOURENX-SNI_5609",
+    "lat": 43.3747,
+    "lon": -0.62989,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441014",
+    "nom": "MOURENX-SNI_5611",
+    "lat": 43.37065,
+    "lon": -0.62651,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441015",
+    "nom": "MOURENX-SNI_5612",
+    "lat": 43.37063,
+    "lon": -0.62682,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441001",
+    "nom": "Mourenx:Ville",
+    "lat": 43.37139,
+    "lon": -0.62889,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4019901",
+    "nom": "Mouscardes:Surtour",
+    "lat": 43.59195,
+    "lon": -0.89737,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4001201",
+    "nom": "Mt-de-Marsan: Artas",
+    "lat": 43.84472,
+    "lon": -0.39417,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4019201",
+    "nom": "Mt-de-Marsan:Beillet",
+    "lat": 43.8825,
+    "lon": -0.47583,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028101",
+    "nom": "Mt-de-Marsan:St-Pie",
+    "lat": 43.8612,
+    "lon": -0.53612,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4019223",
+    "nom": "Mt-Marsan:Castenau",
+    "lat": 43.88096,
+    "lon": -0.4731,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4020105",
+    "nom": "Mugron:Mugron",
+    "lat": 43.74604,
+    "lon": -0.75636,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4020106",
+    "nom": "Mugron:Surtour",
+    "lat": 43.75125,
+    "lon": -0.75385,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4020107",
+    "nom": "Mugron:Surtour1",
+    "lat": 43.73479,
+    "lon": -0.74216,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441402",
+    "nom": "NARP_Mondran",
+    "lat": 43.38126,
+    "lon": -0.81932,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4020201",
+    "nom": "NARROSSE",
+    "lat": 43.67916,
+    "lon": -1.0156,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6441701",
+    "nom": "Nay-Pyrene",
+    "lat": 43.1825,
+    "lon": -0.25863,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4719501",
+    "nom": "Nerac",
+    "lat": 44.14667,
+    "lon": 0.34528,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444563",
+    "nom": "Nhood_Pau",
+    "lat": 43.30533,
+    "lon": -0.33379,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6413204",
+    "nom": "Nhood_P_Pau-1",
+    "lat": 43.30923,
+    "lon": -0.32591,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6541708",
+    "nom": "Nhood_P_Tarbes-1",
+    "lat": 43.21823,
+    "lon": 0.10457,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4719601",
+    "nom": "Nicole:Lentre",
+    "lat": 44.3363,
+    "lon": 0.33041,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4719602",
+    "nom": "Nicole_SALT",
+    "lat": 44.33513,
+    "lon": 0.33072,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6532901",
+    "nom": "Nistos",
+    "lat": 43.01375,
+    "lon": 0.46991,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3229601",
+    "nom": "Nogaro",
+    "lat": 43.75722,
+    "lon": -0.04139,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6533104",
+    "nom": "ODOS-EI 2266",
+    "lat": 43.18909,
+    "lon": 0.04579,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6533102",
+    "nom": "Odos:hippodrome",
+    "lat": 43.2025,
+    "lon": 0.06567,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6533105",
+    "nom": "ODOS:Hippodrome_SALT",
+    "lat": 43.2025,
+    "lon": 0.06566,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4020601",
+    "nom": "Oeyregave:Surtour",
+    "lat": 43.532,
+    "lon": -1.09963,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4020701",
+    "nom": "OEYRELUY",
+    "lat": 43.67255,
+    "lon": -1.07197,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6442204",
+    "nom": "OLORON SAINTE M-379",
+    "lat": 43.18778,
+    "lon": -0.61222,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6442207",
+    "nom": "OLORON STE-849_0400",
+    "lat": 43.1893,
+    "lon": -0.61867,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6406401",
+    "nom": "Oloron-Ste-Marie",
+    "lat": 43.14,
+    "lon": -0.615,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4020954",
+    "nom": "ONDRES 1",
+    "lat": 43.57119,
+    "lon": -1.43018,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4020956",
+    "nom": "ONDRES1",
+    "lat": 43.55979,
+    "lon": -1.46631,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4020957",
+    "nom": "Ondres_2",
+    "lat": 43.5615,
+    "lon": -1.46451,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4020902",
+    "nom": "Ondres:Estancoumes",
+    "lat": 43.55149,
+    "lon": -1.43133,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4020955",
+    "nom": "Ondres:Ondres",
+    "lat": 43.57535,
+    "lon": -1.44786,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4021003",
+    "nom": "Onesse-laharie:yean",
+    "lat": 44.0762,
+    "lon": -1.00647,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4027407",
+    "nom": "Oney:Surtour",
+    "lat": 43.92646,
+    "lon": -0.64053,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4021101",
+    "nom": "Orist:Bucsuzon",
+    "lat": 43.64272,
+    "lon": -1.19268,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6443002",
+    "nom": "Orthez magret 1",
+    "lat": 43.47801,
+    "lon": -0.77722,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6443013",
+    "nom": "ORTHEZ:Portaou",
+    "lat": 43.47829,
+    "lon": -0.82224,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6443014",
+    "nom": "ORTHEZ:Ste-Suzanne",
+    "lat": 43.47537,
+    "lon": -0.79416,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6443601",
+    "nom": "OSSES",
+    "lat": 43.25472,
+    "lon": -1.32469,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444101",
+    "nom": "Pagolle",
+    "lat": 43.23028,
+    "lon": -1.01306,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4021704",
+    "nom": "PARENTIS-EN-BORN_4",
+    "lat": 44.31518,
+    "lon": -1.02033,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4720110",
+    "nom": "Passage-Debussy",
+    "lat": 44.20233,
+    "lon": 0.60067,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444558",
+    "nom": "PAU",
+    "lat": 43.33588,
+    "lon": -0.36063,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444541",
+    "nom": "PAU-0313",
+    "lat": 43.3118,
+    "lon": -0.34253,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6428402",
+    "nom": "Pau2:Jurancon",
+    "lat": 43.28862,
+    "lon": -0.41403,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444551",
+    "nom": "PAU-849_0440",
+    "lat": 43.31363,
+    "lon": -0.33102,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444516",
+    "nom": "Pau:alfred nobel",
+    "lat": 43.31569,
+    "lon": -0.31833,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6406701",
+    "nom": "Pau:Assat",
+    "lat": 43.26917,
+    "lon": -0.27972,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444552",
+    "nom": "PAU-EAUX VIVES0458",
+    "lat": 43.29261,
+    "lon": -0.36443,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444544",
+    "nom": "PAU-Gendarmerie 0107",
+    "lat": 43.3029,
+    "lon": -0.37198,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444542",
+    "nom": "PAU-LORRAINE 0307",
+    "lat": 43.30525,
+    "lon": -0.3718,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028304",
+    "nom": "Paul:Saint",
+    "lat": 43.75861,
+    "lon": -0.98723,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444553",
+    "nom": "PAU-MAYOLIS",
+    "lat": 43.30139,
+    "lon": -0.36194,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444555",
+    "nom": "Pau:Mohedan",
+    "lat": 43.3116,
+    "lon": -0.36999,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6439901",
+    "nom": "Pau:Montardon",
+    "lat": 43.38167,
+    "lon": -0.33528,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444523",
+    "nom": "PAU Studio EIPM",
+    "lat": 43.29694,
+    "lon": -0.36667,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3230701",
+    "nom": "Pavie",
+    "lat": 43.61513,
+    "lon": 0.59981,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3230704",
+    "nom": "Pavie_Salt",
+    "lat": 43.60026,
+    "lon": 0.57524,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3230702",
+    "nom": "Pavie:voie comm n°5",
+    "lat": 43.60096,
+    "lon": 0.57679,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4720301",
+    "nom": "Penne-d'Agenais",
+    "lat": 44.36722,
+    "lon": 0.875,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4720303",
+    "nom": "PenneDAgenais:Loup",
+    "lat": 44.39274,
+    "lon": 0.80747,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4720304",
+    "nom": "Penne d'Agenais_SALT",
+    "lat": 44.36768,
+    "lon": 0.87307,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028003",
+    "nom": "Perdon:Saint",
+    "lat": 43.86547,
+    "lon": -0.5995,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6535601",
+    "nom": "Pere:les marnieres",
+    "lat": 43.13972,
+    "lon": 0.30263,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4022101",
+    "nom": "Perquie:Surtour",
+    "lat": 43.85798,
+    "lon": -0.2289,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4022102",
+    "nom": "PERQUIE:Zibouane",
+    "lat": 43.87934,
+    "lon": -0.28775,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4022452",
+    "nom": "PEYREHORADE",
+    "lat": 43.55112,
+    "lon": -1.13094,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4022456",
+    "nom": "Peyrehorade:Pey",
+    "lat": 43.54516,
+    "lon": -1.11573,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6536201",
+    "nom": "Pierrefitte-Nest:pra",
+    "lat": 42.9658,
+    "lon": -0.06896,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4022701",
+    "nom": "Pissos:Station epura",
+    "lat": 44.31485,
+    "lon": -0.77201,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4700155",
+    "nom": "PKAGENPicketty",
+    "lat": 44.20819,
+    "lon": 0.61508,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412256",
+    "nom": "PKBIARRITZMoura",
+    "lat": 43.45954,
+    "lon": -1.54642,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444562",
+    "nom": "PKPAUBiray",
+    "lat": 43.292,
+    "lon": -0.36957,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544066",
+    "nom": "PKTARBESJoffre",
+    "lat": 43.23981,
+    "lon": 0.06958,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3231902",
+    "nom": "Plaisance",
+    "lat": 43.615,
+    "lon": 0.04028,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4720702",
+    "nom": "Pompiey:Peyre",
+    "lat": 44.21828,
+    "lon": 0.20672,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4006704",
+    "nom": "Ponson:Carcen",
+    "lat": 43.86514,
+    "lon": -0.79893,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6445301",
+    "nom": "Pontacq:fontaine",
+    "lat": 43.16694,
+    "lon": -0.09786,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4720901",
+    "nom": "Pont-du-Casse",
+    "lat": 44.25528,
+    "lon": 0.65944,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4720904",
+    "nom": "Pont-du-Casse_2",
+    "lat": 44.22585,
+    "lon": 0.65994,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023009",
+    "nom": "PONTONX/ADOUR:Landes",
+    "lat": 43.81178,
+    "lon": -0.88952,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023004",
+    "nom": "Pontonx:SurAdour",
+    "lat": 43.78212,
+    "lon": -0.93003,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023007",
+    "nom": "PONTONX SUR L ADOUR",
+    "lat": 43.79278,
+    "lon": -0.98184,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023005",
+    "nom": "Pontonx:Surour",
+    "lat": 43.79048,
+    "lon": -0.92261,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023006",
+    "nom": "Pontonx:Surtour1",
+    "lat": 43.79662,
+    "lon": -0.9273,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4721001",
+    "nom": "Port-Ste-Marie",
+    "lat": 44.26458,
+    "lon": 0.39204,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4721003",
+    "nom": "Port-Ste-Marie_3",
+    "lat": 44.26772,
+    "lon": 0.34046,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4721006",
+    "nom": "PortSteM:Fontaines",
+    "lat": 44.25074,
+    "lon": 0.39646,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023305",
+    "nom": "Pouillon:Ausol",
+    "lat": 43.57335,
+    "lon": -0.99327,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023308",
+    "nom": "Pouillon:Menthejuzan",
+    "lat": 43.59736,
+    "lon": -1.00634,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023307",
+    "nom": "Pouillon:Surtour",
+    "lat": 43.57329,
+    "lon": -0.99351,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023401",
+    "nom": "Pouydesseaux:934",
+    "lat": 43.97083,
+    "lon": -0.31639,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023501",
+    "nom": "Poyanne:250",
+    "lat": 43.75006,
+    "lon": -0.82396,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023502",
+    "nom": "Poyanne:25095",
+    "lat": 43.7499,
+    "lon": -0.82379,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023503",
+    "nom": "Poyanne:500",
+    "lat": 43.74975,
+    "lon": -0.82398,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023504",
+    "nom": "Poyanne:Poy",
+    "lat": 43.75292,
+    "lon": -0.8185,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023505",
+    "nom": "Poyanne:Surtour",
+    "lat": 43.7558,
+    "lon": -0.80275,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4721301",
+    "nom": "Prayssas:Hugo",
+    "lat": 44.2893,
+    "lon": 0.50692,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023701",
+    "nom": "Prechacq:Bains",
+    "lat": 43.75771,
+    "lon": -0.91977,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6445901",
+    "nom": "PRECHACQ_NAVARRENX",
+    "lat": 43.28201,
+    "lon": -0.70515,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3233103",
+    "nom": "PREIGNAN  ZR",
+    "lat": 43.70685,
+    "lon": 0.64421,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023801",
+    "nom": "PUJO-LE-PLAN1",
+    "lat": 43.84766,
+    "lon": -0.3351,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4023802",
+    "nom": "PUJO-LE-PLAN:Rene",
+    "lat": 43.87773,
+    "lon": -0.36315,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3233601",
+    "nom": "Puylausic -OP",
+    "lat": 43.43583,
+    "lon": 0.92194,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4721601",
+    "nom": "Puymiclan:Bourg",
+    "lat": 44.512,
+    "lon": 0.31589,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4721701",
+    "nom": "Puymirol:Leclerc",
+    "lat": 44.18729,
+    "lon": 0.79586,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4721802",
+    "nom": "Puysserampion:Bis",
+    "lat": 44.57984,
+    "lon": 0.32858,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4721801",
+    "nom": "Puysserampion:Triton",
+    "lat": 44.57972,
+    "lon": 0.32852,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4006401",
+    "nom": "Reaut:Ausol",
+    "lat": 44.00595,
+    "lon": -0.44092,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6537601",
+    "nom": "Recurt",
+    "lat": 43.20444,
+    "lon": 0.42417,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016403",
+    "nom": "RETJONS1",
+    "lat": 44.10597,
+    "lon": -0.27223,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4016404",
+    "nom": "RETJONS2",
+    "lat": 44.13125,
+    "lon": -0.27651,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024306",
+    "nom": "RION DES LANDES",
+    "lat": 43.93501,
+    "lon": -0.91326,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024311",
+    "nom": "RION DES LANDES1",
+    "lat": 43.89503,
+    "lon": -0.92542,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024312",
+    "nom": "RION DES LANDES2",
+    "lat": 43.91431,
+    "lon": -0.91926,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024313",
+    "nom": "RION DES LANDES3",
+    "lat": 43.9607,
+    "lon": -0.9044,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024309",
+    "nom": "Rion:Landes",
+    "lat": 43.93282,
+    "lon": -0.91989,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024310",
+    "nom": "Rion:Surtour",
+    "lat": 43.93428,
+    "lon": -0.91544,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3234403",
+    "nom": "RISCLE COUSTAOU",
+    "lat": 43.6374,
+    "lon": -0.07845,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3234401",
+    "nom": "Riscle -OP",
+    "lat": 43.63777,
+    "lon": -0.08994,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024403",
+    "nom": "Riviere:Riv",
+    "lat": 43.67567,
+    "lon": -1.14231,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024404",
+    "nom": "RIVIERE SAASetGOURBY",
+    "lat": 43.67598,
+    "lon": -1.14137,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024401",
+    "nom": "Riviere-Saas-Gourby",
+    "lat": 43.70833,
+    "lon": -1.16014,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024505",
+    "nom": "Roquefort:40245",
+    "lat": 44.02951,
+    "lon": -0.32978,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024506",
+    "nom": "Roquefort:Ausol",
+    "lat": 44.02983,
+    "lon": -0.32879,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024504",
+    "nom": "ROQUEFORT Landes",
+    "lat": 44.04139,
+    "lon": -0.34778,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024507",
+    "nom": "Roquefort:Roque",
+    "lat": 44.03469,
+    "lon": -0.33731,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6446801",
+    "nom": "Roquiague",
+    "lat": 43.17944,
+    "lon": -0.85,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3235302",
+    "nom": "SABAILLAN_MAILLOZ",
+    "lat": 43.4384,
+    "lon": 0.80696,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024602",
+    "nom": "Sabres: l'Orient pac",
+    "lat": 44.14278,
+    "lon": -0.72986,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024604",
+    "nom": "Sabres:Sabres",
+    "lat": 44.14249,
+    "lon": -0.7754,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024605",
+    "nom": "Sabres:Surtour",
+    "lat": 44.14591,
+    "lon": -0.74056,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024901",
+    "nom": "SaintAubin:Aub",
+    "lat": 43.71351,
+    "lon": -0.70389,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4025403",
+    "nom": "Saintcricq:Ausol",
+    "lat": 43.5372,
+    "lon": -1.01149,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3239502",
+    "nom": "SAINTE_MERE",
+    "lat": 44.01053,
+    "lon": 0.66963,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4025902",
+    "nom": "Saint-Gein:Lugas",
+    "lat": 43.82028,
+    "lon": -0.30389,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4725401",
+    "nom": "SAINT-MARTIN-CURTON",
+    "lat": 44.33718,
+    "lon": -0.00144,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4027408",
+    "nom": "Saintmartin:Oney",
+    "lat": 43.92979,
+    "lon": -0.64026,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6449901",
+    "nom": "Salies-de-Bearn",
+    "lat": 43.49413,
+    "lon": -0.93115,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6450101",
+    "nom": "Sallespisse:Carre",
+    "lat": 43.51556,
+    "lon": -0.71434,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028601",
+    "nom": "Samadet RF",
+    "lat": 43.6325,
+    "lon": -0.48028,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3241001",
+    "nom": "Samatan",
+    "lat": 43.48167,
+    "lon": 0.94528,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3241004",
+    "nom": "SAMATAN 1",
+    "lat": 44.07763,
+    "lon": 1.46009,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028704",
+    "nom": "Sanguinet-Coulemelle",
+    "lat": 44.48226,
+    "lon": -1.08679,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028703",
+    "nom": "SANGUINET:Sillac2",
+    "lat": 44.48251,
+    "lon": -0.98206,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3207601",
+    "nom": "SARAMON",
+    "lat": 43.51687,
+    "lon": 0.77988,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028802",
+    "nom": "SARBAZAN:Lande",
+    "lat": 44.01369,
+    "lon": -0.35,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028803",
+    "nom": "Sarbazan:Sarbazan",
+    "lat": 44.03128,
+    "lon": -0.31586,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6450401",
+    "nom": "Sare",
+    "lat": 43.32278,
+    "lon": -1.56907,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6450402",
+    "nom": "Sare_2_Suhalmendi",
+    "lat": 43.33138,
+    "lon": -1.58692,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6522801",
+    "nom": "Sarrancolin",
+    "lat": 42.9725,
+    "lon": 0.3975,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6541002",
+    "nom": "SARROUILLES",
+    "lat": 43.22562,
+    "lon": 0.12532,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4029303",
+    "nom": "SAUBUSSE:Gare",
+    "lat": 43.65981,
+    "lon": -1.19332,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4029403",
+    "nom": "Saugnac:Ausol",
+    "lat": 43.6793,
+    "lon": -0.99669,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4029404",
+    "nom": "Saugnac:Camb",
+    "lat": 43.66841,
+    "lon": -0.98619,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4029502",
+    "nom": "Saugnacq-et-Muret",
+    "lat": 44.40688,
+    "lon": -0.82141,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4029504",
+    "nom": "SAUGNACQ-ET-MURET 1",
+    "lat": 44.35933,
+    "lon": -0.85336,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6451002",
+    "nom": "Sault-de-Navailles:G",
+    "lat": 43.5596,
+    "lon": -0.6625,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6451102",
+    "nom": "Sauvagnon:Bruscos",
+    "lat": 43.38126,
+    "lon": -0.40778,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3241701",
+    "nom": "Sauvetat(la)",
+    "lat": 43.87419,
+    "lon": 0.51572,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6541201",
+    "nom": "SAUVETERRE:Arrioux",
+    "lat": 43.47593,
+    "lon": 0.12599,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4729201",
+    "nom": "Sauveterre-Lemance",
+    "lat": 44.58444,
+    "lon": 1.01639,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4729204",
+    "nom": "Sauveterre/Lemance_2",
+    "lat": 44.58484,
+    "lon": 1.01924,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6541501",
+    "nom": "Segus-DebatSegus",
+    "lat": 43.07483,
+    "lon": -0.07531,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6541601",
+    "nom": "Seich",
+    "lat": 43.01222,
+    "lon": 0.48861,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6542402",
+    "nom": "Sers:Bareges3_SALT",
+    "lat": 42.88725,
+    "lon": 0.04254,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6452201",
+    "nom": "Sevignacq-Meyracq1",
+    "lat": 43.1275,
+    "lon": -0.38222,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6411602",
+    "nom": "Sevignacq-Meyracq2",
+    "lat": 43.12632,
+    "lon": -0.41012,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4030305",
+    "nom": "SOLFERINO1",
+    "lat": 44.11001,
+    "lon": -0.91575,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4030306",
+    "nom": "SOLFERINO2",
+    "lat": 44.13638,
+    "lon": -0.91721,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4030307",
+    "nom": "SOLFERINO3",
+    "lat": 44.15955,
+    "lon": -0.91926,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4030308",
+    "nom": "SOLFERINO4",
+    "lat": 44.18291,
+    "lon": -0.92075,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4030303",
+    "nom": "Solferino:RD 44E",
+    "lat": 44.14437,
+    "lon": -0.96521,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4030602",
+    "nom": "Sorde:Ausol",
+    "lat": 43.53087,
+    "lon": -1.04978,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4030603",
+    "nom": "SORDE-L'ABBAYE",
+    "lat": 43.51083,
+    "lon": -1.05255,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4030701",
+    "nom": "Sore:Ausol",
+    "lat": 44.32239,
+    "lon": -0.57481,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4030702",
+    "nom": "Sore:Sore",
+    "lat": 44.32878,
+    "lon": -0.60367,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4030703",
+    "nom": "Sore:Surtour",
+    "lat": 44.32228,
+    "lon": -0.57484,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6520001",
+    "nom": "Soulagnets:Germs/l'O",
+    "lat": 43.04196,
+    "lon": 0.063,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6538804",
+    "nom": "Soulan:Mirabel",
+    "lat": 42.81962,
+    "lon": 0.3268,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6538806",
+    "nom": "Soulan:Pommies",
+    "lat": 42.81614,
+    "lon": 0.32019,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6538805",
+    "nom": "Soulan:Rhododendron",
+    "lat": 42.82046,
+    "lon": 0.32533,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4030906",
+    "nom": "SOUPROSSE:Compeyron",
+    "lat": 43.78879,
+    "lon": -0.70405,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4030903",
+    "nom": "Souprosse:Pinan",
+    "lat": 43.78181,
+    "lon": -0.73294,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4030904",
+    "nom": "Souprosse:Soup",
+    "lat": 43.78598,
+    "lon": -0.71319,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031001",
+    "nom": "Soustons",
+    "lat": 43.76435,
+    "lon": -1.38538,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031007",
+    "nom": "Soustons:Huppes",
+    "lat": 43.75069,
+    "lon": -1.35516,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031010",
+    "nom": "Soustons-StExupery",
+    "lat": 43.74035,
+    "lon": -1.31152,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4024702",
+    "nom": "ST-AGNET",
+    "lat": 43.59346,
+    "lon": -0.28437,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4722801",
+    "nom": "ST-ANTOINE",
+    "lat": 44.34129,
+    "lon": 0.71139,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6447101",
+    "nom": "St-Boes",
+    "lat": 43.52861,
+    "lon": -0.80361,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3237001",
+    "nom": "ST CLAR",
+    "lat": 43.89366,
+    "lon": 0.75278,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4723303",
+    "nom": "SteBazeille:Aaron",
+    "lat": 44.52872,
+    "lon": 0.0948,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4723304",
+    "nom": "SteBazeille:Cite",
+    "lat": 44.52754,
+    "lon": 0.09818,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4723305",
+    "nom": "SteBazeille:Rosier",
+    "lat": 44.52834,
+    "lon": 0.09351,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3236801",
+    "nom": "Ste-Christie:Castele",
+    "lat": 43.77088,
+    "lon": 0.62222,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4723803",
+    "nom": "STE-COLOMBE1",
+    "lat": 44.20181,
+    "lon": 0.49994,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4723804",
+    "nom": "STE-COLOMBE2",
+    "lat": 44.18594,
+    "lon": 0.53988,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4723601",
+    "nom": "STE-COLOMBE-DE-DURAS",
+    "lat": 44.69993,
+    "lon": 0.11613,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4025201",
+    "nom": "Ste-Colombe:Juzanx",
+    "lat": 43.69078,
+    "lon": -0.54205,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3237301",
+    "nom": "Ste-Dode",
+    "lat": 43.41946,
+    "lon": 0.3423,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6431601",
+    "nom": "Ste-Engrace1:Otchogo",
+    "lat": 42.99917,
+    "lon": -0.89194,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6447502",
+    "nom": "Ste-Engrace2:Caserne",
+    "lat": 43.01528,
+    "lon": -0.85444,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6447503",
+    "nom": "Ste-Engrace3:Luchilo",
+    "lat": 43.01922,
+    "lon": -0.86563,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4025702",
+    "nom": "SteEulalieEnBorn",
+    "lat": 44.30386,
+    "lon": -1.16315,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4725201",
+    "nom": "Ste Livrade/Lot:Rose",
+    "lat": 44.39028,
+    "lon": 0.58028,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4725301",
+    "nom": "Ste-Marthe:Grezet",
+    "lat": 44.42389,
+    "lon": 0.16222,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3239501",
+    "nom": "Ste-Mere:Jouanin1",
+    "lat": 44.00044,
+    "lon": 0.68672,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6449002",
+    "nom": "St-Etienne-de-Baig1",
+    "lat": 43.2175,
+    "lon": -1.33389,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6447702",
+    "nom": "St-Etienne-de-Baig2",
+    "lat": 43.14833,
+    "lon": -1.35556,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6447802",
+    "nom": "St-Faust",
+    "lat": 43.27065,
+    "lon": -0.44307,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4025904",
+    "nom": "St-Gein_SALT",
+    "lat": 43.81998,
+    "lon": -0.30407,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4026108",
+    "nom": "ST-GEOURS2",
+    "lat": 43.70595,
+    "lon": -1.22453,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4026110",
+    "nom": "St-Geours-Maremne_2",
+    "lat": 43.67281,
+    "lon": -1.25654,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4724603",
+    "nom": "ST HILAIRE LUSIGNAN",
+    "lat": 44.23212,
+    "lon": 0.51278,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6448316",
+    "nom": "St-Jean-de-Luz_TVPI",
+    "lat": 43.40807,
+    "lon": -1.62225,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4026403",
+    "nom": "St-Jean-de-Marsacq",
+    "lat": 43.63468,
+    "lon": -1.24731,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4724802",
+    "nom": "St-Jean-de-Thurac",
+    "lat": 44.15724,
+    "lon": 0.72846,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6427401",
+    "nom": "St-Jean-Pied-de-Port",
+    "lat": 43.19944,
+    "lon": -1.29111,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6448315",
+    "nom": "St-J-Luz:Lahanchipia",
+    "lat": 43.40098,
+    "lon": -1.63338,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6538401",
+    "nom": "St-Lary1:Sailhan",
+    "lat": 42.81866,
+    "lon": 0.3324,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6538801",
+    "nom": "St-Lary2:Pla d'Adet",
+    "lat": 42.81333,
+    "lon": 0.29722,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6538904",
+    "nom": "ST-LAURENT-DE-NEST",
+    "lat": 43.09101,
+    "lon": 0.4842,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6538901",
+    "nom": "St-Laurent-de-Neste",
+    "lat": 43.08194,
+    "lon": 0.48139,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4026902",
+    "nom": "St-Lon-Les-Mines",
+    "lat": 43.6375,
+    "lon": -1.13444,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003401",
+    "nom": "St-Lon-les-Mines:Bel",
+    "lat": 43.59207,
+    "lon": -1.14791,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4026905",
+    "nom": "St-Lon-Mines:Pachiou",
+    "lat": 43.61772,
+    "lon": -1.13713,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3238901",
+    "nom": "ST-MARTIN (32)",
+    "lat": 43.519,
+    "lon": 0.36678,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6448901",
+    "nom": "ST MARTIN D ARBEROUE",
+    "lat": 43.34972,
+    "lon": -1.17972,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4027201",
+    "nom": "St-Martin-de-Hinx",
+    "lat": 43.59176,
+    "lon": -1.24288,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4027303",
+    "nom": "St-Martin-Seignanx_A",
+    "lat": 43.52606,
+    "lon": -1.40992,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4027304",
+    "nom": "St-Martin-Seignanx:B",
+    "lat": 43.54056,
+    "lon": -1.36991,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4027302",
+    "nom": "St-Martin-Seignanx:Z",
+    "lat": 43.54056,
+    "lon": -1.36991,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3239301",
+    "nom": "St-Maur:Montbernard",
+    "lat": 43.49028,
+    "lon": 0.34206,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3240001",
+    "nom": "ST-ORENS-POUY-PETIT",
+    "lat": 43.90699,
+    "lon": 0.42867,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6449302",
+    "nom": "St-Palais : Syndica",
+    "lat": 43.30833,
+    "lon": -1.03278,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4726302",
+    "nom": "St-Pardoux-du-Breuil",
+    "lat": 44.47351,
+    "lon": 0.19139,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6539401",
+    "nom": "ST-PAUL",
+    "lat": 43.07984,
+    "lon": 0.52211,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4027801",
+    "nom": "StPaulBorn-Talucat",
+    "lat": 44.22535,
+    "lon": -1.15277,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4027915",
+    "nom": "StPaulDax-Christus",
+    "lat": 43.72855,
+    "lon": -1.06585,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4027902",
+    "nom": "St-Paul-les-Dax",
+    "lat": 43.73331,
+    "lon": -1.08403,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4027906",
+    "nom": "ST PAUL  LES DAX 2",
+    "lat": 43.72556,
+    "lon": -1.05278,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4027905",
+    "nom": "ST PAUL LES DAX VG",
+    "lat": 43.72611,
+    "lon": -1.08333,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4027914",
+    "nom": "St-P-Dax:Menton",
+    "lat": 43.7335,
+    "lon": -1.04483,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6539506",
+    "nom": "ST PE DE BIGORRE",
+    "lat": 43.11028,
+    "lon": -0.17528,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6539501",
+    "nom": "St-Pe-de-Bigorre1",
+    "lat": 43.11503,
+    "lon": -0.15708,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6539502",
+    "nom": "St-Pe-de-Bigorre2",
+    "lat": 43.09596,
+    "lon": -0.14489,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6449503",
+    "nom": "ST PEE SUR -849_0453",
+    "lat": 43.35364,
+    "lon": -1.54421,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028002",
+    "nom": "ST PERDON-EI 5090",
+    "lat": 43.86636,
+    "lon": -0.5963,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4726901",
+    "nom": "St-Pierre-de-Clairac",
+    "lat": 44.18722,
+    "lon": 0.75667,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6449604",
+    "nom": "ST PIERRE D IRR-0078",
+    "lat": 43.46333,
+    "lon": -1.43944,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6449606",
+    "nom": "ST-PIERRE-D'IRUBE 1",
+    "lat": 43.47474,
+    "lon": -1.45647,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028102",
+    "nom": "St-Pierre-du-Mont",
+    "lat": 43.86083,
+    "lon": -0.49583,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4727402",
+    "nom": "ST-ROMAIN-LE-NOBLE 2",
+    "lat": 44.14339,
+    "lon": 0.77219,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028203",
+    "nom": "ST SEVER-EI 0507",
+    "lat": 43.75953,
+    "lon": -0.57915,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028215",
+    "nom": "ST-SEVER:Tartas",
+    "lat": 43.76814,
+    "lon": -0.58284,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4728002",
+    "nom": "StSylvestre:Pt Mory",
+    "lat": 44.39637,
+    "lon": 0.80696,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4700108",
+    "nom": "Studio 47FM",
+    "lat": 44.16722,
+    "lon": 0.59389,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4703105",
+    "nom": "Studio 47FM BOE",
+    "lat": 44.18004,
+    "lon": 0.62842,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544011",
+    "nom": "Studio_Fun",
+    "lat": 43.23485,
+    "lon": 0.07421,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412506",
+    "nom": "Studio NRJ BIARRITZ",
+    "lat": 43.4505,
+    "lon": -1.56999,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6443005",
+    "nom": "Studio_RADIO-ORTHEZ",
+    "lat": 43.48944,
+    "lon": -0.77167,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6425604",
+    "nom": "Studio RBH",
+    "lat": 43.35556,
+    "lon": -1.34861,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4006503",
+    "nom": "Studio Souvenirs",
+    "lat": 43.63861,
+    "lon": -1.42639,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412508",
+    "nom": "Studio TVPI - BIDART",
+    "lat": 43.44639,
+    "lon": -1.57833,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6410227",
+    "nom": "Stu LAPURDI",
+    "lat": 43.49028,
+    "lon": -1.47796,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028307",
+    "nom": "ST VINCENT DE PAUL2",
+    "lat": 43.77764,
+    "lon": -0.99929,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031101",
+    "nom": "Taller:Ausol",
+    "lat": 43.87357,
+    "lon": -1.07281,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031102",
+    "nom": "TALLER:Menon",
+    "lat": 43.88156,
+    "lon": -1.07663,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544045",
+    "nom": "Tarbes:Clair",
+    "lat": 43.22619,
+    "lon": 0.08909,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544030",
+    "nom": "Tarbes:Exupery11",
+    "lat": 43.24421,
+    "lon": 0.06546,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544033",
+    "nom": "Tarbes:Exupery7",
+    "lat": 43.24377,
+    "lon": 0.06204,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544031",
+    "nom": "Tarbes:Exupery9",
+    "lat": 43.24375,
+    "lon": 0.06244,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544041",
+    "nom": "Tarbes:Froge",
+    "lat": 43.23512,
+    "lon": 0.08477,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544047",
+    "nom": "Tarbes:Galiane",
+    "lat": 43.23265,
+    "lon": 0.06099,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544059",
+    "nom": "Tarbes:Gascogne",
+    "lat": 43.24489,
+    "lon": 0.06574,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544060",
+    "nom": "Tarbes:Gascogne20",
+    "lat": 43.24486,
+    "lon": 0.06467,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544034",
+    "nom": "Tarbes:Gauguin",
+    "lat": 43.22844,
+    "lon": 0.06097,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544061",
+    "nom": "Tarbes:Guynemer",
+    "lat": 43.24226,
+    "lon": 0.05932,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544058",
+    "nom": "Tarbes:Hispano",
+    "lat": 43.22268,
+    "lon": 0.09093,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544046",
+    "nom": "Tarbes:Hugo",
+    "lat": 43.23831,
+    "lon": 0.06957,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6523601",
+    "nom": "Tarbes : Julos",
+    "lat": 43.12622,
+    "lon": 0.01428,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544052",
+    "nom": "Tarbes:Kirshen",
+    "lat": 43.2215,
+    "lon": 0.07807,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544038",
+    "nom": "Tarbes:Laubadere",
+    "lat": 43.24526,
+    "lon": 0.06342,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544044",
+    "nom": "Tarbes:Liberation",
+    "lat": 43.24403,
+    "lon": 0.0676,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544042",
+    "nom": "Tarbes:Martinet N27",
+    "lat": 43.23529,
+    "lon": 0.084,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544039",
+    "nom": "Tarbes:Mermoz",
+    "lat": 43.2459,
+    "lon": 0.05708,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544054",
+    "nom": "Tarbes:providence",
+    "lat": 43.24541,
+    "lon": 0.07368,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544057",
+    "nom": "Tarbes:Satie",
+    "lat": 43.22914,
+    "lon": 0.05082,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544055",
+    "nom": "Tarbes:Sendere",
+    "lat": 43.23935,
+    "lon": 0.05507,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544027",
+    "nom": "TARBES-SNI_5799",
+    "lat": 43.21813,
+    "lon": 0.06427,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544040",
+    "nom": "Tarbes:Soumeilhan",
+    "lat": 43.23443,
+    "lon": 0.08253,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544009",
+    "nom": "Tarbes Studio : E2",
+    "lat": 43.23389,
+    "lon": -0.07356,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544018",
+    "nom": "Tarbes_Studio Pic FM",
+    "lat": 43.23398,
+    "lon": 0.07792,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544032",
+    "nom": "Tarbes:Tassigny",
+    "lat": 43.23061,
+    "lon": 0.05551,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544043",
+    "nom": "Tarbes:Tenot",
+    "lat": 43.23441,
+    "lon": 0.08238,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544056",
+    "nom": "Tarbes:Villon",
+    "lat": 43.23957,
+    "lon": 0.05468,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6401701",
+    "nom": "Tardets2:Alos",
+    "lat": 43.11694,
+    "lon": -0.87361,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6409301",
+    "nom": "Tardets-Sorholus:1",
+    "lat": 43.1475,
+    "lon": -0.84389,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031211",
+    "nom": "TARNOS",
+    "lat": 43.52623,
+    "lon": -1.43955,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031208",
+    "nom": "TARNOS-371",
+    "lat": 43.54479,
+    "lon": -1.462,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031207",
+    "nom": "TARNOS-380",
+    "lat": 43.54419,
+    "lon": -1.46202,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031212",
+    "nom": "Tarnos:Ausol",
+    "lat": 43.54821,
+    "lon": -1.4705,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031213",
+    "nom": "Tarnos:Tarnos",
+    "lat": 43.53771,
+    "lon": -1.49175,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031303",
+    "nom": "Tartas:40313",
+    "lat": 43.83138,
+    "lon": -0.80446,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031304",
+    "nom": "Tartas:Ausol",
+    "lat": 43.8372,
+    "lon": -0.80722,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031305",
+    "nom": "Tartas:Tart",
+    "lat": 43.83044,
+    "lon": -0.81682,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031401",
+    "nom": "Tercis:Bains",
+    "lat": 43.66485,
+    "lon": -1.11306,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544101",
+    "nom": "Thebe",
+    "lat": 42.96417,
+    "lon": 0.57861,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031601",
+    "nom": "Tilh:Tilh",
+    "lat": 43.56906,
+    "lon": -0.83597,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4730901",
+    "nom": "Tombeboeuf:Pin",
+    "lat": 44.50624,
+    "lon": 0.452,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4731002",
+    "nom": "TONNEINS:Courage",
+    "lat": 44.36645,
+    "lon": 0.32875,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4731004",
+    "nom": "Tonneins:Gourgue",
+    "lat": 44.38549,
+    "lon": 0.31929,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4731005",
+    "nom": "Tonneins:Jacques",
+    "lat": 44.38948,
+    "lon": 0.30761,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4731006",
+    "nom": "Tonneins:lagra",
+    "lat": 44.39009,
+    "lon": 0.31457,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4731007",
+    "nom": "Tonneins:Lavande",
+    "lat": 44.39146,
+    "lon": 0.30614,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4731008",
+    "nom": "Tonneins:Monchay",
+    "lat": 44.3881,
+    "lon": 0.31297,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4731009",
+    "nom": "Tonneins:Montagne",
+    "lat": 44.38816,
+    "lon": 0.31256,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4731010",
+    "nom": "Tonneins:Montamat",
+    "lat": 44.3856,
+    "lon": 0.3185,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4731011",
+    "nom": "Tonneins:Queille",
+    "lat": 44.39977,
+    "lon": 0.30184,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544601",
+    "nom": "Tostat-Adour",
+    "lat": 43.32984,
+    "lon": 0.0946,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4731101",
+    "nom": "TOURLIAC:Moulin",
+    "lat": 44.69108,
+    "lon": 0.80823,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6544702",
+    "nom": "TOURNAY:Frechet",
+    "lat": 43.1786,
+    "lon": 0.23589,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6510104",
+    "nom": "Tournay:Toulouse",
+    "lat": 43.18187,
+    "lon": 0.24834,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4731201",
+    "nom": "Tournon:Penitents",
+    "lat": 44.4005,
+    "lon": 0.99509,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6545101",
+    "nom": "Trebons-Bignau",
+    "lat": 43.10119,
+    "lon": 0.12587,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4731401",
+    "nom": "TREMONS",
+    "lat": 44.41501,
+    "lon": 0.90842,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031902",
+    "nom": "Trensacq Braneyre-p,",
+    "lat": 44.20306,
+    "lon": -0.7475,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412901",
+    "nom": "Unite de Pau",
+    "lat": 43.30167,
+    "lon": -0.4025,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454002",
+    "nom": "URCUIT:PINAQUY",
+    "lat": 43.49333,
+    "lon": -1.33951,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454003",
+    "nom": "URCUIT-SNI_5703",
+    "lat": 43.48752,
+    "lon": -1.34464,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454201",
+    "nom": "Urdos",
+    "lat": 42.88444,
+    "lon": -0.55444,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454301",
+    "nom": "Urepel",
+    "lat": 43.06028,
+    "lon": -1.41778,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454501",
+    "nom": "Urrugne",
+    "lat": 43.34972,
+    "lon": -1.76028,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454512",
+    "nom": "URRUGNE1",
+    "lat": 43.36583,
+    "lon": -1.72568,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454513",
+    "nom": "URRUGNE 2",
+    "lat": 43.37808,
+    "lon": -1.71046,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454514",
+    "nom": "URRUGNE 3",
+    "lat": 43.3124,
+    "lon": -1.69379,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454515",
+    "nom": "Urrugne:Munhoa",
+    "lat": 43.34716,
+    "lon": -1.69404,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454601",
+    "nom": "Urt:Etxecolu",
+    "lat": 43.45778,
+    "lon": -1.27944,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454704",
+    "nom": "USTARITZ-849_0297",
+    "lat": 43.40088,
+    "lon": -1.45873,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454705",
+    "nom": "USTARITZ-849_0352",
+    "lat": 43.40164,
+    "lon": -1.46431,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454701",
+    "nom": "Ustaritz : RC",
+    "lat": 43.39944,
+    "lon": -1.46433,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454707",
+    "nom": "Ustariz:Hasia",
+    "lat": 43.38278,
+    "lon": -1.46601,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4032201",
+    "nom": "Uza:Uza",
+    "lat": 44.03544,
+    "lon": -1.20512,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6454901",
+    "nom": "UZEIN:Bourgarber",
+    "lat": 43.3929,
+    "lon": -0.45141,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4032301",
+    "nom": "Vert:Ausol",
+    "lat": 44.09175,
+    "lon": -0.57874,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6546005",
+    "nom": "Vic-en-Bigorre",
+    "lat": 43.38687,
+    "lon": 0.04794,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3246201",
+    "nom": "Vic-Fezensac:Lascour",
+    "lat": 43.75669,
+    "lon": 0.33717,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4032401",
+    "nom": "Vicq:Auribat",
+    "lat": 43.78736,
+    "lon": -0.8571,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6546802",
+    "nom": "Vieuzos:Haille_SN",
+    "lat": 43.26056,
+    "lon": 0.45152,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6546801",
+    "nom": "VIEUZOS:Tepe",
+    "lat": 43.25262,
+    "lon": 0.46236,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4732001",
+    "nom": "Villefranche-du-Quey",
+    "lat": 44.27944,
+    "lon": 0.21028,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6455801",
+    "nom": "VILLEFRANQUE-0331",
+    "lat": 43.43706,
+    "lon": -1.44941,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6455804",
+    "nom": "VILLEFRANQUE1",
+    "lat": 43.44808,
+    "lon": -1.47012,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6455805",
+    "nom": "VILLEFRANQUE2",
+    "lat": 43.46227,
+    "lon": -1.46612,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4033001",
+    "nom": "Villenave:Ausol",
+    "lat": 43.96518,
+    "lon": -0.77891,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4033002",
+    "nom": "Villenave:Surtour",
+    "lat": 43.96537,
+    "lon": -0.77862,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4033003",
+    "nom": "Villenave:Villenave",
+    "lat": 43.97117,
+    "lon": -0.80541,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4732352",
+    "nom": "Villeneuve:Doree",
+    "lat": 44.40473,
+    "lon": 0.70247,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4732353",
+    "nom": "Villeneuve:Gouget",
+    "lat": 44.40772,
+    "lon": 0.70619,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4732354",
+    "nom": "Villeneuve:Jardins",
+    "lat": 44.40473,
+    "lon": 0.70911,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4732358",
+    "nom": "Villeneuve/Lot:Est",
+    "lat": 44.41537,
+    "lon": 0.74074,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4721501",
+    "nom": "Villeneuve/Lot:Pujol",
+    "lat": 44.38444,
+    "lon": 0.70278,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4732355",
+    "nom": "Villeneuve:Mory",
+    "lat": 44.39653,
+    "lon": 0.80625,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4033101",
+    "nom": "Villeneuve -OP",
+    "lat": 43.87722,
+    "lon": -0.32111,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4732356",
+    "nom": "Villeneuve:Renaissan",
+    "lat": 44.40118,
+    "lon": 0.70451,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4732357",
+    "nom": "Villeneuve:Sully",
+    "lat": 44.40228,
+    "lon": 0.70462,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4732301",
+    "nom": "Villeneuve-sur-Lot",
+    "lat": 44.43335,
+    "lon": 0.72224,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028305",
+    "nom": "Vincent:Surtour",
+    "lat": 43.75718,
+    "lon": -1.00961,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6456001",
+    "nom": "VIVEN",
+    "lat": 43.46511,
+    "lon": -0.35975,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028502",
+    "nom": "Yaguen:40285",
+    "lat": 43.88865,
+    "lon": -0.73975,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4028503",
+    "nom": "Yaguen:Saint",
+    "lat": 43.88577,
+    "lon": -0.7375,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4033206",
+    "nom": "YCHOUX1",
+    "lat": 44.28519,
+    "lon": -0.9387,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4033207",
+    "nom": "YCHOUX2",
+    "lat": 44.30619,
+    "lon": -0.9412,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4033209",
+    "nom": "YCHOUX4:Coton",
+    "lat": 44.37512,
+    "lon": -0.95631,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4033210",
+    "nom": "YCHOUX5:Licaougas",
+    "lat": 44.40202,
+    "lon": -0.96238,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4033205",
+    "nom": "Ychoux:Ych",
+    "lat": 44.32362,
+    "lon": -0.96589,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4033303",
+    "nom": "YGOS-SAINT-SATURNIN",
+    "lat": 43.9858,
+    "lon": -0.73691,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4701002",
+    "nom": "ZR-Antagnac",
+    "lat": 44.3621,
+    "lon": -0.0048,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6501704",
+    "nom": "ZR-Aragnouet-1",
+    "lat": 42.79566,
+    "lon": 0.27195,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6501705",
+    "nom": "ZR-Aragnouet-2",
+    "lat": 42.7575,
+    "lon": 0.19482,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3201320",
+    "nom": "ZR-Auch",
+    "lat": 43.65347,
+    "lon": 0.60647,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4703901",
+    "nom": "ZR-Bousses",
+    "lat": 44.13844,
+    "lon": 0.03137,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6416054",
+    "nom": "ZR-Cambo-les-Bains",
+    "lat": 43.35581,
+    "lon": -1.39731,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6513805",
+    "nom": "ZR-Cauterets",
+    "lat": 42.94076,
+    "lon": -0.08805,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3210707",
+    "nom": "ZR-Condom",
+    "lat": 44.00955,
+    "lon": 0.34999,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6500702",
+    "nom": "ZRLA_Andrest",
+    "lat": 43.3096,
+    "lon": 0.0673,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4714505",
+    "nom": "ZRLA_Layrac",
+    "lat": 44.13459,
+    "lon": 0.66088,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4730602",
+    "nom": "ZR-Le Temple-sur-Lot",
+    "lat": 44.3775,
+    "lon": 0.52343,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6437601",
+    "nom": "ZR-Meillon",
+    "lat": 43.27094,
+    "lon": -0.31584,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4717402",
+    "nom": "ZR-Moncrabeau",
+    "lat": 44.04212,
+    "lon": 0.36301,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6500201",
+    "nom": "ZRP_ADE",
+    "lat": 43.15211,
+    "lon": -0.02553,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4700402",
+    "nom": "ZRP_AIGUILLON",
+    "lat": 44.30268,
+    "lon": 0.35441,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6409403",
+    "nom": "ZRP_BARDOS",
+    "lat": 43.48906,
+    "lon": -1.26176,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4003604",
+    "nom": "ZRP_BENESSE-MAREMNE1",
+    "lat": 43.63493,
+    "lon": -1.39686,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6412513",
+    "nom": "ZRP_BIDART",
+    "lat": 43.44998,
+    "lon": -1.57036,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6413101",
+    "nom": "ZRP_BIRON_AIRE",
+    "lat": 43.46806,
+    "lon": -0.74402,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4008818",
+    "nom": "ZRP_DAX",
+    "lat": 43.69533,
+    "lon": -1.04396,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4012003",
+    "nom": "ZRP_HASTINGUES_AIRE",
+    "lat": 43.52991,
+    "lon": -1.142,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6429001",
+    "nom": "ZRP_LABASTIDE MONREJ",
+    "lat": 43.38368,
+    "lon": -0.51311,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6430053",
+    "nom": "ZRP_LACQ_AIRE2",
+    "lat": 43.41889,
+    "lon": -0.58469,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6430501",
+    "nom": "ZRP_LAHONTAN",
+    "lat": 43.52056,
+    "lon": -0.95684,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4015203",
+    "nom": "ZRP_LESPERON_AIRE",
+    "lat": 43.93712,
+    "lon": -1.09065,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "3216005",
+    "nom": "ZRP_L'ISLE-JOURDAIN",
+    "lat": 43.60347,
+    "lon": 1.05265,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528659",
+    "nom": "ZRP_LOURDES1",
+    "lat": 43.09752,
+    "lon": -0.10228,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6528660",
+    "nom": "ZRP_LOURDES2",
+    "lat": 43.12003,
+    "lon": -0.0253,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4716902",
+    "nom": "ZRP_MOIRAX",
+    "lat": 44.15782,
+    "lon": 0.61514,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6440703",
+    "nom": "ZRP_MOUGUERRE",
+    "lat": 43.48157,
+    "lon": -1.42657,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4021004",
+    "nom": "ZRP_ONESSE-LAHARIE",
+    "lat": 44.08944,
+    "lon": -0.99869,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6444556",
+    "nom": "ZRP_PAU_AIRE",
+    "lat": 43.33061,
+    "lon": -0.35057,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4721004",
+    "nom": "ZRP_PORT-STE-MARIE2",
+    "lat": 44.24879,
+    "lon": 0.3835,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6450202",
+    "nom": "ZRP_SAMES_1",
+    "lat": 43.53056,
+    "lon": -1.18812,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6450201",
+    "nom": "ZRP_SAMES_AIRE",
+    "lat": 43.52981,
+    "lon": -1.18703,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "6450501",
+    "nom": "ZRP_SARPOUTENX",
+    "lat": 43.46148,
+    "lon": -0.72232,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4029405",
+    "nom": "ZRP_SaugnacEtCambran",
+    "lat": 43.66029,
+    "lon": -0.98343,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4029503",
+    "nom": "ZRP_SAUGNACQ-ET-MUR",
+    "lat": 44.37834,
+    "lon": -0.83938,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4723301",
+    "nom": "ZRP_STE-BAZEILLE",
+    "lat": 44.52013,
+    "lon": 0.12307,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4726301",
+    "nom": "ZRP_ST-PARDOUX-DU-B",
+    "lat": 44.47544,
+    "lon": 0.20808,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4027913",
+    "nom": "ZRP_ST-PAUL-LES-DA2X",
+    "lat": 43.72176,
+    "lon": -1.07066,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4031214",
+    "nom": "ZRP_TARNOS2",
+    "lat": 43.54115,
+    "lon": -1.48403,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4027601",
+    "nom": "ZR-St-Michel-Escalus",
+    "lat": 43.89366,
+    "lon": -1.27647,
+    "equipe": "ZC SO AQIS"
+  },
+  {
+    "ig": "4732602",
+    "nom": "ZR-Virazeil",
+    "lat": 44.50643,
+    "lon": 0.22672,
+    "equipe": "ZC SO AQIS"
+  }
+]

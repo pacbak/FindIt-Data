@@ -1,0 +1,7674 @@
+[
+  {
+    "ig": "3001211",
+    "nom": "A-Aramon:Duc",
+    "lat": 43.90019,
+    "lon": 4.68789,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400325",
+    "nom": "Adge:Les grives",
+    "lat": 43.30334,
+    "lon": 3.47726,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400326",
+    "nom": "Adge:Les Prunettes",
+    "lat": 43.29899,
+    "lon": 3.46751,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400323",
+    "nom": "Agde:Cayrets",
+    "lat": 43.30255,
+    "lon": 3.47296,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400324",
+    "nom": "Agde:Cesaire",
+    "lat": 43.30086,
+    "lon": 3.47086,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400333",
+    "nom": "Agde Chateaudun",
+    "lat": 43.31281,
+    "lon": 3.47394,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400327",
+    "nom": "Agde:Le Nobel",
+    "lat": 43.30049,
+    "lon": 3.4761,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400328",
+    "nom": "Agde:Le Phocea",
+    "lat": 43.31016,
+    "lon": 3.48503,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400301",
+    "nom": "Agde:Mont-Saint-Loup",
+    "lat": 43.29889,
+    "lon": 3.50139,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400319",
+    "nom": "AGDE SIRENES 1",
+    "lat": 43.28256,
+    "lon": 3.51761,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400318",
+    "nom": "AGDE SIRENES 2",
+    "lat": 43.28295,
+    "lon": 3.51786,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400332",
+    "nom": "Agde-Std TopFM-RTL2",
+    "lat": 43.31125,
+    "lon": 3.47351,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1200101",
+    "nom": "Agen-d'Aveyron",
+    "lat": 44.34139,
+    "lon": 2.67194,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1200202",
+    "nom": "AGUESSAC",
+    "lat": 44.18012,
+    "lon": 3.03266,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000304",
+    "nom": "AIGUES-MORTES_8780",
+    "lat": 43.56583,
+    "lon": 4.19889,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000602",
+    "nom": "AIMARGUES_8977",
+    "lat": 43.69264,
+    "lon": 4.19593,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3005501",
+    "nom": "Ales 1:Mt-Bouquet",
+    "lat": 44.13216,
+    "lon": 4.285,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000701",
+    "nom": "Ales 2:l'Ermitage",
+    "lat": 44.12389,
+    "lon": 4.06389,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000724",
+    "nom": "Ales:Bagnols",
+    "lat": 44.13145,
+    "lon": 4.10735,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000725",
+    "nom": "Ales:Calmette",
+    "lat": 44.13557,
+    "lon": 4.0924,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3024302",
+    "nom": "ALES CENTOVELLI",
+    "lat": 44.07002,
+    "lon": 4.08796,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3024304",
+    "nom": "Ales:Croix",
+    "lat": 44.08607,
+    "lon": 4.07566,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000726",
+    "nom": "Ales:Fournier",
+    "lat": 44.13451,
+    "lon": 4.09466,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000727",
+    "nom": "Ales:Indy",
+    "lat": 44.13456,
+    "lon": 4.09405,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000728",
+    "nom": "Ales:Langevin",
+    "lat": 44.1359,
+    "lon": 4.0854,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000734",
+    "nom": "Ales:La regordane",
+    "lat": 44.12809,
+    "lon": 4.07151,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000735",
+    "nom": "Ales:Les Paladins",
+    "lat": 44.13554,
+    "lon": 4.10724,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000733",
+    "nom": "Ales: Perusse",
+    "lat": 44.13552,
+    "lon": 4.1117,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000732",
+    "nom": "Ales:Rameau",
+    "lat": 44.13641,
+    "lon": 4.10989,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000729",
+    "nom": "Ales:Renard",
+    "lat": 44.13264,
+    "lon": 4.09773,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000731",
+    "nom": "Ales:Roucaute",
+    "lat": 44.15021,
+    "lon": 4.08223,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000730",
+    "nom": "Ales:Souzeron",
+    "lat": 44.13233,
+    "lon": 4.10091,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000736",
+    "nom": "Ales:Viget",
+    "lat": 44.13878,
+    "lon": 4.11087,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800301",
+    "nom": "Allenc",
+    "lat": 44.54722,
+    "lon": 3.67333,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3024303",
+    "nom": "Alle:Placette",
+    "lat": 44.06741,
+    "lon": 4.08966,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800401",
+    "nom": "Altier 1",
+    "lat": 44.44444,
+    "lon": 3.82694,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800402",
+    "nom": "Altier 2",
+    "lat": 44.46361,
+    "lon": 3.85806,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3006401",
+    "nom": "Alzon:Campestre-Luc",
+    "lat": 43.95611,
+    "lon": 3.43333,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3001001",
+    "nom": "Anduze",
+    "lat": 44.0344,
+    "lon": 3.97236,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3001003",
+    "nom": "Anduze:Albe",
+    "lat": 44.05502,
+    "lon": 3.98694,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3001004",
+    "nom": "Anduze:Bourb",
+    "lat": 44.05601,
+    "lon": 3.98501,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3001002",
+    "nom": "Anduze:Haute",
+    "lat": 44.05751,
+    "lon": 3.98583,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3001108",
+    "nom": "Anges:Tramon",
+    "lat": 43.96029,
+    "lon": 4.7528,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800501",
+    "nom": "ANTRENAS",
+    "lat": 44.58572,
+    "lon": 3.25256,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3001210",
+    "nom": "Aramon:Duc",
+    "lat": 43.89898,
+    "lon": 4.68597,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3001203",
+    "nom": "ARAMON LA ROTONDE",
+    "lat": 43.89819,
+    "lon": 4.68012,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3027801",
+    "nom": "Arbres:Raimu",
+    "lat": 44.05949,
+    "lon": 4.69501,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3401202",
+    "nom": "Argelliers Devois",
+    "lat": 43.70551,
+    "lon": 3.66471,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3001701",
+    "nom": "Arrigas",
+    "lat": 43.98043,
+    "lon": 3.48422,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1201101",
+    "nom": "Arvieu",
+    "lat": 44.19944,
+    "lon": 2.66,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800801",
+    "nom": "Arzenc-De-Randon",
+    "lat": 44.63223,
+    "lon": 3.66871,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3401303",
+    "nom": "ASPIRAN",
+    "lat": 43.56095,
+    "lon": 3.43254,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3401301",
+    "nom": "ASPIRAN : Las Combes",
+    "lat": 43.56403,
+    "lon": 3.45381,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3401302",
+    "nom": "Aspiran Sainte Croix",
+    "lat": 43.58067,
+    "lon": 3.47383,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1218101",
+    "nom": "Asprieres",
+    "lat": 44.50871,
+    "lon": 2.13354,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3401401",
+    "nom": "Assas-Lironnes",
+    "lat": 43.70536,
+    "lon": 3.89492,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1201301",
+    "nom": "Aubin1:Duc(le)",
+    "lat": 44.52528,
+    "lon": 2.25308,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1201302",
+    "nom": "Aubin2:Bois-Couronne",
+    "lat": 44.53737,
+    "lon": 2.25024,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1201303",
+    "nom": "Aubin3:Pomaret",
+    "lat": 44.54233,
+    "lon": 2.28333,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1201305",
+    "nom": "Aubin4:Bancourel",
+    "lat": 44.52471,
+    "lon": 2.23987,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3401601",
+    "nom": "Aumelas:puech b,",
+    "lat": 43.61806,
+    "lon": 3.61194,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3002501",
+    "nom": "Aumessas",
+    "lat": 43.99306,
+    "lon": 3.49444,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800901",
+    "nom": "Aumont-Aubrac",
+    "lat": 44.72333,
+    "lon": 3.2775,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800905",
+    "nom": "AumontAubrac:BarryHt",
+    "lat": 44.7226,
+    "lon": 3.28713,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800906",
+    "nom": "AumontAubrac:Jacques",
+    "lat": 44.71337,
+    "lon": 3.2832,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800904",
+    "nom": "AumontAubra:Paillade",
+    "lat": 44.72416,
+    "lon": 3.28791,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1201501",
+    "nom": "Auriac-Lagast",
+    "lat": 44.1325,
+    "lon": 2.64028,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4801001",
+    "nom": "Auroux",
+    "lat": 44.75,
+    "lon": 3.72444,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3401801",
+    "nom": "AUTIGNAC",
+    "lat": 43.49237,
+    "lon": 3.16488,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1201601",
+    "nom": "Auzits",
+    "lat": 44.49678,
+    "lon": 2.28595,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3401901",
+    "nom": "Avene 1",
+    "lat": 43.74917,
+    "lon": 3.09722,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3401902",
+    "nom": "Avene 2",
+    "lat": 43.73833,
+    "lon": 3.09972,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4801303",
+    "nom": "Badaroux:Causse",
+    "lat": 44.5225,
+    "lon": 3.55083,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4801302",
+    "nom": "Badaroux:Causse:Pass",
+    "lat": 44.5225,
+    "lon": 3.55028,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809508",
+    "nom": "Badaroux:Eglise",
+    "lat": 44.53652,
+    "lon": 3.54949,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3002801",
+    "nom": "Bagnols/Ceze:Masses",
+    "lat": 44.15194,
+    "lon": 4.60167,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4801401",
+    "nom": "Bagnols-les-Bains",
+    "lat": 44.51111,
+    "lon": 3.65556,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4802702",
+    "nom": "BagnolsLesB:av gare",
+    "lat": 44.50847,
+    "lon": 3.66071,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4802703",
+    "nom": "BagnolsLesB:Causse",
+    "lat": 44.50917,
+    "lon": 3.66418,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4802704",
+    "nom": "BagnolsLesB:Clauzels",
+    "lat": 44.50997,
+    "lon": 3.65737,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3402203",
+    "nom": "BAILLARGUES Parc",
+    "lat": 43.65645,
+    "lon": 4.01027,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1201802",
+    "nom": "Balaguier-d'Olt  1",
+    "lat": 44.53044,
+    "lon": 1.9846,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3402303",
+    "nom": "BALARUC ECUREUILS",
+    "lat": 43.44209,
+    "lon": 3.67652,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3402305",
+    "nom": "BALARUC la colline",
+    "lat": 43.44815,
+    "lon": 3.68711,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3402301",
+    "nom": "Balaruc-les-Bains",
+    "lat": 43.44967,
+    "lon": 3.69079,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3402302",
+    "nom": "BALARUC PECH MEJA",
+    "lat": 43.44819,
+    "lon": 3.68709,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4801601",
+    "nom": "Balsieges",
+    "lat": 44.47083,
+    "lon": 3.46417,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4801602",
+    "nom": "Balsieges 2 :Flagit",
+    "lat": 44.51992,
+    "lon": 3.45221,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4801701",
+    "nom": "Banassac 1",
+    "lat": 44.44944,
+    "lon": 3.19028,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803301",
+    "nom": "Banassac:19Mars1962",
+    "lat": 44.43484,
+    "lon": 3.19723,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803302",
+    "nom": "Banassac:Mazet",
+    "lat": 44.43569,
+    "lon": 3.19889,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803303",
+    "nom": "Banassac:Poitiers",
+    "lat": 44.43448,
+    "lon": 3.20171,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1205654",
+    "nom": "BARAQUEVILLE 1",
+    "lat": 44.26763,
+    "lon": 2.41702,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4801801",
+    "nom": "Barjac",
+    "lat": 44.51167,
+    "lon": 3.4,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3002901",
+    "nom": "Barjac:FontEti",
+    "lat": 44.30894,
+    "lon": 4.34901,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809509",
+    "nom": "Barjac:gare",
+    "lat": 44.49963,
+    "lon": 3.41093,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4801903",
+    "nom": "Barre Des Cevennes",
+    "lat": 44.27083,
+    "lon": 3.71698,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4801901",
+    "nom": "Barre-des-Cevennes",
+    "lat": 44.23925,
+    "lon": 3.64457,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4818601",
+    "nom": "BarreDesC:rue Princ",
+    "lat": 44.24458,
+    "lon": 3.654,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3002814",
+    "nom": "B-Ceze:Diable",
+    "lat": 44.16624,
+    "lon": 4.60992,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3002813",
+    "nom": "B-Ceze:Tilleuls",
+    "lat": 44.15942,
+    "lon": 4.61114,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3003201",
+    "nom": "Beaucaire:Sizun",
+    "lat": 43.81278,
+    "lon": 4.63917,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3402601",
+    "nom": "Beaufort Soulie",
+    "lat": 43.30169,
+    "lon": 2.76708,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3003307",
+    "nom": "BEAUVOISIN_2",
+    "lat": 43.72508,
+    "lon": 4.31611,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3003305",
+    "nom": "Beauvoisin:Ara",
+    "lat": 43.7193,
+    "lon": 4.31406,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3003304",
+    "nom": "Beauvoisin: Aram",
+    "lat": 43.72124,
+    "lon": 4.31706,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3402801",
+    "nom": "Bedarieux 1:Tantajo",
+    "lat": 43.59596,
+    "lon": 3.16472,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4802201",
+    "nom": "Bedoues 1",
+    "lat": 44.34944,
+    "lon": 3.60917,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1202401",
+    "nom": "Belcastel",
+    "lat": 44.38803,
+    "lon": 2.34439,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3003403",
+    "nom": "BELLEGARDE1",
+    "lat": 43.74038,
+    "lon": 4.44601,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3003404",
+    "nom": "BELLEGARDE2",
+    "lat": 43.73096,
+    "lon": 4.48964,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3003405",
+    "nom": "Belle:Medit",
+    "lat": 43.75232,
+    "lon": 4.49839,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1202501",
+    "nom": "Belmont/Rance",
+    "lat": 43.81956,
+    "lon": 2.74778,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1202503",
+    "nom": "BELMONT-SUR-RANCE",
+    "lat": 43.81711,
+    "lon": 2.75594,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403001",
+    "nom": "Berlou",
+    "lat": 43.4975,
+    "lon": 2.95667,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403105",
+    "nom": "Bessan:Oppidum",
+    "lat": 43.35508,
+    "lon": 3.42542,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403106",
+    "nom": "Bessan:Renga",
+    "lat": 43.36808,
+    "lon": 3.42063,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3003701",
+    "nom": "Besseges 1",
+    "lat": 44.29472,
+    "lon": 4.11556,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3019401",
+    "nom": "Besseges 2",
+    "lat": 44.28694,
+    "lon": 4.06139,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3003703",
+    "nom": "Besseges:Verma",
+    "lat": 44.29177,
+    "lon": 4.094,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3001601",
+    "nom": "Bez-et-Esparon:Arre",
+    "lat": 43.96139,
+    "lon": 3.53194,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3017604",
+    "nom": "Bez Et Esparon_Salt",
+    "lat": 43.96128,
+    "lon": 3.53204,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403264",
+    "nom": "Bezier:Artois",
+    "lat": 43.3555,
+    "lon": 3.233,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403261",
+    "nom": "Bezier:Aurele",
+    "lat": 43.33945,
+    "lon": 3.21494,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403265",
+    "nom": "Bezier:Bacchus",
+    "lat": 43.33592,
+    "lon": 3.27314,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403260",
+    "nom": "Bezier:Doulcia",
+    "lat": 43.34344,
+    "lon": 3.22223,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403266",
+    "nom": "Bezier:G Azais",
+    "lat": 43.34988,
+    "lon": 3.22427,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403202",
+    "nom": "Beziers 2:Dragonne",
+    "lat": 43.32667,
+    "lon": 3.20667,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403262",
+    "nom": "Beziers:Baccus",
+    "lat": 43.33643,
+    "lon": 3.27315,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403201",
+    "nom": "Beziers:Chateau-d'ea",
+    "lat": 43.35353,
+    "lon": 3.22781,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403263",
+    "nom": "Beziers:Delicieux",
+    "lat": 43.3379,
+    "lon": 3.18343,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403258",
+    "nom": "Beziers:Jenner",
+    "lat": 43.33625,
+    "lon": 3.25925,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403259",
+    "nom": "Beziers:Rivetti",
+    "lat": 43.34431,
+    "lon": 3.24265,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403267",
+    "nom": "BEZIERS VERDUN",
+    "lat": 43.33609,
+    "lon": 3.22199,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4802701",
+    "nom": "Bleymard (Le)",
+    "lat": 44.46667,
+    "lon": 3.73639,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1203001",
+    "nom": "Boisse-Penchot",
+    "lat": 44.57528,
+    "lon": 2.195,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4802801",
+    "nom": "Bondons (Les)",
+    "lat": 44.37583,
+    "lon": 3.6275,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1202901",
+    "nom": "Bor-et-Bar",
+    "lat": 44.19417,
+    "lon": 2.09583,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3004603",
+    "nom": "Boucoiran:Blanqui",
+    "lat": 43.9952,
+    "lon": 4.18531,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3004605",
+    "nom": "Boucoiran & Noziere",
+    "lat": 43.97837,
+    "lon": 4.19828,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3004604",
+    "nom": "Boucoiran & Nozieres",
+    "lat": 43.99871,
+    "lon": 4.17941,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1201201",
+    "nom": "Bouillac",
+    "lat": 44.56556,
+    "lon": 2.14733,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3004706",
+    "nom": "Bouilla:Ecole",
+    "lat": 43.79853,
+    "lon": 4.42486,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3004705",
+    "nom": "BOUILLARGUES 1",
+    "lat": 43.7893,
+    "lon": 4.45369,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3004707",
+    "nom": "Bouillargues:Chant",
+    "lat": 43.8014,
+    "lon": 4.4352,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403701",
+    "nom": "Boujan-sur-libron",
+    "lat": 43.36794,
+    "lon": 3.25012,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809905",
+    "nom": "BOURGS / COLAGNE",
+    "lat": 44.52458,
+    "lon": 3.24353,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1203101",
+    "nom": "Bournazel:ch comm",
+    "lat": 44.46475,
+    "lon": 2.31894,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403801",
+    "nom": "Bousquet-d'Orb (Le)",
+    "lat": 43.68917,
+    "lon": 3.15806,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809510",
+    "nom": "Brenoux:Ch du Four",
+    "lat": 44.48438,
+    "lon": 3.5315,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3404201",
+    "nom": "Brissac",
+    "lat": 43.87944,
+    "lon": 3.70833,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1203601",
+    "nom": "Brommat1:Salazat",
+    "lat": 44.81194,
+    "lon": 2.68447,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1211801",
+    "nom": "Brommat2:Bars",
+    "lat": 44.76944,
+    "lon": 2.67306,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1214901",
+    "nom": "Brousse-le-Chateau1",
+    "lat": 44.00111,
+    "lon": 2.60389,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1203801",
+    "nom": "Brousse-le-Chateau2",
+    "lat": 43.99611,
+    "lon": 2.63917,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3005502",
+    "nom": "Brouzet-les-Ales",
+    "lat": 44.1325,
+    "lon": 4.28556,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1203901",
+    "nom": "Brusque",
+    "lat": 43.76556,
+    "lon": 2.96111,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803201",
+    "nom": "Buisson:la Brousse",
+    "lat": 44.62788,
+    "lon": 3.25778,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3404501",
+    "nom": "Cabrieres",
+    "lat": 43.55722,
+    "lon": 3.36611,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3006004",
+    "nom": "Caissargues:Daud",
+    "lat": 43.79408,
+    "lon": 4.37958,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220805",
+    "nom": "Calmels-et-le-Viala",
+    "lat": 43.93861,
+    "lon": 2.78611,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3006102",
+    "nom": "Calmette:Colo",
+    "lat": 43.92783,
+    "lon": 4.26212,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3006101",
+    "nom": "Calmette:Fontaine",
+    "lat": 43.90785,
+    "lon": 4.27758,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3006103",
+    "nom": "Calmette:Mandela",
+    "lat": 43.92735,
+    "lon": 4.26784,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1204302",
+    "nom": "CALMONT AVEYRON",
+    "lat": 44.2853,
+    "lon": 2.50834,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3006201",
+    "nom": "Calvisson:Axb",
+    "lat": 43.78277,
+    "lon": 4.1943,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3006202",
+    "nom": "Calvisson:Bizac",
+    "lat": 43.77897,
+    "lon": 4.20756,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1210901",
+    "nom": "Camares1:Rouquet(le)",
+    "lat": 43.89709,
+    "lon": 2.88513,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1204402",
+    "nom": "Camares2:St-Paul",
+    "lat": 43.81278,
+    "lon": 2.8775,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1204403",
+    "nom": "Camares3:Ouyre-Haute",
+    "lat": 43.79816,
+    "lon": 2.9135,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3404601",
+    "nom": "Cambon-et-Salvergues",
+    "lat": 43.62278,
+    "lon": 2.86639,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1204601",
+    "nom": "Camjac",
+    "lat": 44.18139,
+    "lon": 2.37917,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1204602",
+    "nom": "Camjac-puech:lagarde",
+    "lat": 44.185,
+    "lon": 2.37889,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1223701",
+    "nom": "Campagnac",
+    "lat": 44.45667,
+    "lon": 3.11361,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3404901",
+    "nom": "Camplong",
+    "lat": 43.66917,
+    "lon": 3.11556,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1204901",
+    "nom": "CAMPUAC",
+    "lat": 44.57327,
+    "lon": 2.58695,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3405002",
+    "nom": "Candillargues:Soleil",
+    "lat": 43.61337,
+    "lon": 4.00729,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803401",
+    "nom": "Canourgue 1 (La)",
+    "lat": 44.42306,
+    "lon": 3.20972,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803402",
+    "nom": "Canourgue 2 (La)",
+    "lat": 44.46944,
+    "lon": 3.21306,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803403",
+    "nom": "Canourgue 3 (La)",
+    "lat": 44.39002,
+    "lon": 3.29108,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803304",
+    "nom": "Canourgue:Curee",
+    "lat": 44.43306,
+    "lon": 3.21462,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803305",
+    "nom": "Canourgue:Fraternite",
+    "lat": 44.46814,
+    "lon": 3.22934,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803306",
+    "nom": "Canourgue:Portail",
+    "lat": 44.433,
+    "lon": 3.21471,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803307",
+    "nom": "Canourgue:Webs",
+    "lat": 44.46782,
+    "lon": 3.22705,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400329",
+    "nom": "CapDAgde:Nautiles",
+    "lat": 43.28402,
+    "lon": 3.49825,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400330",
+    "nom": "CapDAgde:Sirenes1",
+    "lat": 43.28273,
+    "lon": 3.51671,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400331",
+    "nom": "CapDAgde:Sirenes2",
+    "lat": 43.28276,
+    "lon": 3.5174,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1205201",
+    "nom": "Capdenac2:Cabrespine",
+    "lat": 44.57049,
+    "lon": 2.09766,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1205202",
+    "nom": "Capdenac3:Coste(la)",
+    "lat": 44.55028,
+    "lon": 2.08556,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1205208",
+    "nom": "Capdenac Cambarrou",
+    "lat": 44.54919,
+    "lon": 2.06294,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1205203",
+    "nom": "Capdenac-Gare",
+    "lat": 44.56308,
+    "lon": 2.09386,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1205209",
+    "nom": "Capdenac Gare Garrig",
+    "lat": 44.54259,
+    "lon": 2.07846,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1205204",
+    "nom": "Capdenac-l-taillades",
+    "lat": 44.57806,
+    "lon": 2.08565,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1205501",
+    "nom": "Capelle-Bonance",
+    "lat": 44.4539,
+    "lon": 3.00203,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3405203",
+    "nom": "Capestang-SP_SALT",
+    "lat": 43.32515,
+    "lon": 3.03238,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3405201",
+    "nom": "Capestang:st pierre",
+    "lat": 43.32738,
+    "lon": 3.05512,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3006801",
+    "nom": "Cardet:Reservoir",
+    "lat": 44.01694,
+    "lon": 4.075,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1205701",
+    "nom": "Cassagnes-Begonhes",
+    "lat": 44.1725,
+    "lon": 2.53889,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1211401",
+    "nom": "Cassaniouze1",
+    "lat": 44.63639,
+    "lon": 2.39583,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1211402",
+    "nom": "Cassaniouze2",
+    "lat": 44.63833,
+    "lon": 2.37361,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1205901",
+    "nom": "CASTANET",
+    "lat": 44.27975,
+    "lon": 2.2947,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3405501",
+    "nom": "Castanet-le-Haut",
+    "lat": 43.66472,
+    "lon": 2.97472,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1206001",
+    "nom": "Castelmary",
+    "lat": 44.1846,
+    "lon": 2.25394,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3405709",
+    "nom": "CASTELNAU LELEZ_5723",
+    "lat": 43.63662,
+    "lon": 3.92347,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3405710",
+    "nom": "CASTELNAU LELEZ_8782",
+    "lat": 43.64583,
+    "lon": 3.91764,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3405720",
+    "nom": "CastelnauLL:Anemones",
+    "lat": 43.62781,
+    "lon": 3.90094,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3405711",
+    "nom": "CASTELNAU Rivoli E",
+    "lat": 43.63199,
+    "lon": 3.90944,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3405712",
+    "nom": "CASTELNAU Thalia",
+    "lat": 43.63595,
+    "lon": 3.92487,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3405713",
+    "nom": "CASTELNAU Vicarello",
+    "lat": 43.63294,
+    "lon": 3.8981,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3405801",
+    "nom": "Castries:J Senaux",
+    "lat": 43.67492,
+    "lon": 3.98869,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1206301",
+    "nom": "Cavalerie:vayssieres",
+    "lat": 43.98424,
+    "lon": 3.19969,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3007501",
+    "nom": "Caveirac:Perrie",
+    "lat": 43.82456,
+    "lon": 4.27312,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3007502",
+    "nom": "Caveirac:Servie",
+    "lat": 43.82466,
+    "lon": 4.27383,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3406701",
+    "nom": "Cazilhac:Passif",
+    "lat": 43.93482,
+    "lon": 3.68924,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000738",
+    "nom": "CC_CORA_IND_ALES",
+    "lat": 44.11278,
+    "lon": 4.09681,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3007701",
+    "nom": "CENDRAS ABBAYE I",
+    "lat": 44.15462,
+    "lon": 4.05348,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3007702",
+    "nom": "CENDRAS ABBAYE II",
+    "lat": 44.15561,
+    "lon": 4.05315,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3402101",
+    "nom": "Cessenon",
+    "lat": 43.45992,
+    "lon": 2.916,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3402103",
+    "nom": "Cessenon La Grage",
+    "lat": 43.45944,
+    "lon": 2.91634,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3407401",
+    "nom": "Cessenon-Sur-Orb",
+    "lat": 43.42623,
+    "lon": 3.07555,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808101",
+    "nom": "Chadenet",
+    "lat": 44.50944,
+    "lon": 3.60972,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803801",
+    "nom": "ChambonLeCh:Gandrieu",
+    "lat": 44.85117,
+    "lon": 3.6585,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803802",
+    "nom": "ChambonLeCh:RD59",
+    "lat": 44.84798,
+    "lon": 3.65893,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803901",
+    "nom": "Chanac",
+    "lat": 44.45917,
+    "lon": 3.34389,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803905",
+    "nom": "Chanac Becadelle",
+    "lat": 44.47738,
+    "lon": 3.29169,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803903",
+    "nom": "Chanac:Palmier",
+    "lat": 44.46455,
+    "lon": 3.34677,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4804202",
+    "nom": "Chastel-Nouvel:Barra",
+    "lat": 44.56222,
+    "lon": 3.50139,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4802303",
+    "nom": "Chateauneuf:Altitude",
+    "lat": 44.6381,
+    "lon": 3.67768,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4802301",
+    "nom": "Chateauneuf:Feu St J",
+    "lat": 44.63974,
+    "lon": 3.67673,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4802302",
+    "nom": "Chateauneuf:Margerid",
+    "lat": 44.6381,
+    "lon": 3.67815,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4802304",
+    "nom": "Chaudeyrac:Lot,com,",
+    "lat": 44.66017,
+    "lon": 3.74875,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4804501",
+    "nom": "Chaudeyrac:Martinet",
+    "lat": 44.60833,
+    "lon": 3.74556,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4804801",
+    "nom": "Cheylard-l'Eveque",
+    "lat": 44.64944,
+    "lon": 3.80778,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809901",
+    "nom": "Chirac",
+    "lat": 44.51361,
+    "lon": 3.26333,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1211101",
+    "nom": "Clairvaux",
+    "lat": 44.43918,
+    "lon": 2.40498,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3407702",
+    "nom": "Clapiers Armstrong",
+    "lat": 43.6556,
+    "lon": 3.89291,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3407703",
+    "nom": "Clapiers Girac 2",
+    "lat": 43.65477,
+    "lon": 3.8717,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3407704",
+    "nom": "Clapiers Girac Alt",
+    "lat": 43.65501,
+    "lon": 3.87144,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3016402",
+    "nom": "Clap:Village",
+    "lat": 44.22656,
+    "lon": 4.34671,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3407903",
+    "nom": "Clermont-l'Herault 1",
+    "lat": 43.62622,
+    "lon": 3.4428,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3407906",
+    "nom": "ClermontLH:Pascal",
+    "lat": 43.63537,
+    "lon": 3.43838,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3405719",
+    "nom": "C-Lez:Bacchus",
+    "lat": 43.64474,
+    "lon": 3.92458,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3405717",
+    "nom": "C-Lez:Europ",
+    "lat": 43.62889,
+    "lon": 3.89985,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3405718",
+    "nom": "C-Lez:Europe",
+    "lat": 43.63213,
+    "lon": 3.91315,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3407905",
+    "nom": "Clt-Herault:Wilson",
+    "lat": 43.62464,
+    "lon": 3.43288,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4817301",
+    "nom": "Collet-de-Deze (Le)",
+    "lat": 44.22583,
+    "lon": 3.89806,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3408103",
+    "nom": "COLOMBIERS 1",
+    "lat": 43.32713,
+    "lon": 3.15518,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1206802",
+    "nom": "COLOMBIES",
+    "lat": 44.3599,
+    "lon": 2.29589,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3408301",
+    "nom": "Combes:rouquettes",
+    "lat": 43.6,
+    "lon": 3.05889,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1206901",
+    "nom": "Combret",
+    "lat": 43.84225,
+    "lon": 2.68807,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3025401",
+    "nom": "Comolas:Belle",
+    "lat": 44.065,
+    "lon": 4.73028,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1207101",
+    "nom": "Compolibat",
+    "lat": 44.36833,
+    "lon": 2.20694,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1207201",
+    "nom": "Compregnac",
+    "lat": 44.09286,
+    "lon": 2.964,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1207203",
+    "nom": "Compregnac 2",
+    "lat": 44.08786,
+    "lon": 2.96065,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3008903",
+    "nom": "COMPS Partides",
+    "lat": 43.85341,
+    "lon": 4.58041,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3008904",
+    "nom": "COMPS Partides 2",
+    "lat": 43.85514,
+    "lon": 4.58188,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3008902",
+    "nom": "COMPS_ZR",
+    "lat": 43.85596,
+    "lon": 4.58116,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3009101",
+    "nom": "Congenies:Font",
+    "lat": 43.77703,
+    "lon": 4.15595,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1211404",
+    "nom": "Conques",
+    "lat": 44.5997,
+    "lon": 2.3828,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3009602",
+    "nom": "Cornillon 2",
+    "lat": 44.22447,
+    "lon": 4.48878,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3009601",
+    "nom": "Cornillon:Vignes hte",
+    "lat": 44.21917,
+    "lon": 4.4986,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1208001",
+    "nom": "Coupiac",
+    "lat": 43.94697,
+    "lon": 2.59058,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3408601",
+    "nom": "Courniou 1:Marthamis",
+    "lat": 43.495,
+    "lon": 2.71917,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3408602",
+    "nom": "Courniou 2:Ouest",
+    "lat": 43.47417,
+    "lon": 2.70167,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3408801",
+    "nom": "Cournonterral:Far",
+    "lat": 43.56418,
+    "lon": 3.70749,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1208402",
+    "nom": "Creissels",
+    "lat": 44.05861,
+    "lon": 3.04806,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4805301",
+    "nom": "Cubieres",
+    "lat": 44.47639,
+    "lon": 3.79583,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1208802",
+    "nom": "CURIERES",
+    "lat": 44.64781,
+    "lon": 2.87794,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1208901",
+    "nom": "Decazeville1:Viviole",
+    "lat": 44.56265,
+    "lon": 2.26622,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1208904",
+    "nom": "DECAZEVILLE-VIGNE",
+    "lat": 44.5699,
+    "lon": 2.23902,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3024801",
+    "nom": "Dezery:Griffe",
+    "lat": 43.78921,
+    "lon": 4.30718,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3409301",
+    "nom": "Dio-et-Valquieres",
+    "lat": 43.68167,
+    "lon": 3.24306,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3024901",
+    "nom": "Dionisy:langlade",
+    "lat": 43.80642,
+    "lon": 4.23517,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3409302",
+    "nom": "DIO & VALQUIERES-Ver",
+    "lat": 43.66872,
+    "lon": 3.24636,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3010301",
+    "nom": "Domazan Aramon",
+    "lat": 43.92181,
+    "lon": 4.66238,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1209001",
+    "nom": "Druelle",
+    "lat": 44.33389,
+    "lon": 2.49833,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3010601",
+    "nom": "Dufort et St-Marti",
+    "lat": 43.98509,
+    "lon": 3.95226,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1209401",
+    "nom": "Entraygues1:Ginolhac",
+    "lat": 44.66417,
+    "lon": 2.56222,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1209402",
+    "nom": "Entraygues2:Boriette",
+    "lat": 44.6365,
+    "lon": 2.55894,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1210601",
+    "nom": "Espalion1:Fraysse(la",
+    "lat": 44.49,
+    "lon": 2.79222,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1209601",
+    "nom": "Espalion2:Ruejouls",
+    "lat": 44.51583,
+    "lon": 2.7625,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1209602",
+    "nom": "ESPALION:D28",
+    "lat": 44.49333,
+    "lon": 2.74444,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1226503",
+    "nom": "Estaing1",
+    "lat": 44.5497,
+    "lon": 2.67442,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3010801",
+    "nom": "Estrechure 1 (L')",
+    "lat": 44.10861,
+    "lon": 3.77312,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3010802",
+    "nom": "Estrechure 2 (L')",
+    "lat": 44.10028,
+    "lon": 3.79389,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3409506",
+    "nom": "Fabregues:Aire",
+    "lat": 43.54122,
+    "lon": 3.75044,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3409507",
+    "nom": "Fabregues:Jusse",
+    "lat": 43.55895,
+    "lon": 3.7925,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3409503",
+    "nom": "Fabregues:quatre ch,",
+    "lat": 43.53461,
+    "lon": 3.76194,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3409602",
+    "nom": "Faugeres:bois estel,",
+    "lat": 43.56917,
+    "lon": 3.1575,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1225701",
+    "nom": "Faycelles:Causse",
+    "lat": 44.55375,
+    "lon": 2.02626,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3409801",
+    "nom": "Ferrals-Montagnes",
+    "lat": 43.42111,
+    "lon": 2.65139,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4806101",
+    "nom": "Florac 1",
+    "lat": 44.32764,
+    "lon": 3.57157,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4806103",
+    "nom": "FLORAC 3 EX FT",
+    "lat": 44.32803,
+    "lon": 3.57085,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4818602",
+    "nom": "Florac:8Mai45",
+    "lat": 44.33403,
+    "lon": 3.58406,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4818603",
+    "nom": "Florac:Boissier",
+    "lat": 44.32113,
+    "lon": 3.59787,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4818604",
+    "nom": "Florac:Boyer",
+    "lat": 44.3253,
+    "lon": 3.59253,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3410101",
+    "nom": "Florensac:Corbin",
+    "lat": 43.38287,
+    "lon": 3.46273,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1210301",
+    "nom": "FLORENTIN-CAPELLE",
+    "lat": 44.63745,
+    "lon": 2.6271,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3011401",
+    "nom": "Fontanes:Draille",
+    "lat": 43.8522,
+    "lon": 4.08434,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4806401",
+    "nom": "Fournels",
+    "lat": 44.81361,
+    "lon": 3.12028,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4806402",
+    "nom": "Fournels:Foirail",
+    "lat": 44.81669,
+    "lon": 3.12128,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4806403",
+    "nom": "Fournels:Motivernoux",
+    "lat": 44.81318,
+    "lon": 3.12268,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3011602",
+    "nom": "FOURNES _ZR",
+    "lat": 43.93035,
+    "lon": 4.59485,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3011702",
+    "nom": "Fourques:St-Anne",
+    "lat": 43.72128,
+    "lon": 4.50505,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3410701",
+    "nom": "Fraisse/Agout 1:Ayro",
+    "lat": 43.59472,
+    "lon": 2.80222,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3410702",
+    "nom": "Fraisse/Agout 2:Teil",
+    "lat": 43.59833,
+    "lon": 2.74333,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3410703",
+    "nom": "Fraisse/Agout 3:Mont",
+    "lat": 43.58667,
+    "lon": 2.86722,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1225702",
+    "nom": "Frontenac",
+    "lat": 44.54691,
+    "lon": 2.00149,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3410805",
+    "nom": "Frontignan:Triangle",
+    "lat": 43.46252,
+    "lon": 3.76654,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3012001",
+    "nom": "Gagnieres:Gare",
+    "lat": 44.30175,
+    "lon": 4.13041,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3012201",
+    "nom": "GAJAN",
+    "lat": 43.88684,
+    "lon": 4.24716,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3012302",
+    "nom": "GallarguesLeMontueux",
+    "lat": 43.70645,
+    "lon": 4.18534,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3404202",
+    "nom": "Ganges",
+    "lat": 43.88139,
+    "lon": 3.67389,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3411101",
+    "nom": "Ganges:Roche",
+    "lat": 43.93624,
+    "lon": 3.70642,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3012503",
+    "nom": "GARONS ARIANE",
+    "lat": 43.81592,
+    "lon": 4.3214,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3012506",
+    "nom": "Garons:Bouill",
+    "lat": 43.77776,
+    "lon": 4.42982,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3012501",
+    "nom": "GARONS VISCOUNT",
+    "lat": 43.82281,
+    "lon": 4.34979,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3004201",
+    "nom": "Gaujac:Blanc",
+    "lat": 44.04589,
+    "lon": 4.02131,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400322",
+    "nom": "GC_Agde",
+    "lat": 43.31731,
+    "lon": 3.46626,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000305",
+    "nom": "GC_Aigues-Mortes",
+    "lat": 43.57094,
+    "lon": 4.19127,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000604",
+    "nom": "GC_Aimargues",
+    "lat": 43.67879,
+    "lon": 4.20845,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000723",
+    "nom": "GC_Ales",
+    "lat": 44.12794,
+    "lon": 4.08511,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800303",
+    "nom": "GC_Allenc",
+    "lat": 44.54142,
+    "lon": 3.66389,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800302",
+    "nom": "GC_AllencBagnol",
+    "lat": 44.52861,
+    "lon": 3.62826,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1201308",
+    "nom": "GC_Aubin",
+    "lat": 44.52731,
+    "lon": 2.23941,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800907",
+    "nom": "GC_Aumont-Aubrac",
+    "lat": 44.71825,
+    "lon": 3.28369,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3402205",
+    "nom": "GC_Baillargues",
+    "lat": 43.6535,
+    "lon": 4.0073,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4801603",
+    "nom": "GC_Balsieges",
+    "lat": 44.48205,
+    "lon": 3.45627,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4801702",
+    "nom": "GC_Banassac - La Can",
+    "lat": 44.44794,
+    "lon": 3.19586,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1205653",
+    "nom": "GC_Baraqueville Carc",
+    "lat": 44.27054,
+    "lon": 2.42757,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4801802",
+    "nom": "GC_Barjac",
+    "lat": 44.49932,
+    "lon": 3.41107,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3003208",
+    "nom": "GC_Beaucaire",
+    "lat": 43.80219,
+    "lon": 4.64718,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3003303",
+    "nom": "GC_Beauvoisin",
+    "lat": 43.72454,
+    "lon": 4.32129,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3402804",
+    "nom": "GC_Bedarieux",
+    "lat": 43.60875,
+    "lon": 3.14965,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4802305",
+    "nom": "GC_Belvezet",
+    "lat": 44.56188,
+    "lon": 3.75204,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403256",
+    "nom": "GC_Beziers",
+    "lat": 43.33647,
+    "lon": 3.21905,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3004601",
+    "nom": "GC_Boucoiran",
+    "lat": 43.99296,
+    "lon": 4.18796,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3005301",
+    "nom": "GC_Brignon",
+    "lat": 43.97613,
+    "lon": 4.20733,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3005901",
+    "nom": "GC_Cailar",
+    "lat": 43.68347,
+    "lon": 4.23552,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1204752",
+    "nom": "GC_Campagnac - Saint",
+    "lat": 44.42196,
+    "lon": 3.06641,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1205207",
+    "nom": "GC_Capdenac",
+    "lat": 44.57837,
+    "lon": 2.07808,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3008001",
+    "nom": "GC_Chamborigaud",
+    "lat": 44.3004,
+    "lon": 3.97944,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803904",
+    "nom": "GC_Chanac",
+    "lat": 44.47404,
+    "lon": 3.3455,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4813902",
+    "nom": "GC_Chapeauroux",
+    "lat": 44.83815,
+    "lon": 3.74209,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4804001",
+    "nom": "GC_Chasserades",
+    "lat": 44.55405,
+    "lon": 3.84007,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1208301",
+    "nom": "GC_Cransac",
+    "lat": 44.52306,
+    "lon": 2.272,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4805601",
+    "nom": "GC_Esclanedes",
+    "lat": 44.48147,
+    "lon": 3.3585,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1215502",
+    "nom": "GC_Fondamente",
+    "lat": 43.86865,
+    "lon": 3.1099,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3011201",
+    "nom": "GC_Fons",
+    "lat": 43.90738,
+    "lon": 4.20667,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3410804",
+    "nom": "GC_Frontignan",
+    "lat": 43.44507,
+    "lon": 3.75874,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3012305",
+    "nom": "GC_Gallargue-Montueu",
+    "lat": 43.71631,
+    "lon": 4.17157,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3012804",
+    "nom": "GC_Generac",
+    "lat": 43.73258,
+    "lon": 4.34356,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3013002",
+    "nom": "GC_Genolhac",
+    "lat": 44.34731,
+    "lon": 3.95181,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3013203",
+    "nom": "GC_Grand-Combe la Pi",
+    "lat": 44.20988,
+    "lon": 4.03308,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4802101",
+    "nom": "GC_La Bastide - Sain",
+    "lat": 44.59358,
+    "lon": 3.90436,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1212002",
+    "nom": "GC_LaissacSeveraEgli",
+    "lat": 44.37505,
+    "lon": 2.82223,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808009",
+    "nom": "GC_Langogne",
+    "lat": 44.73296,
+    "lon": 3.85736,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403804",
+    "nom": "GC_Le Bousquet-d'Orb",
+    "lat": 43.69127,
+    "lon": 3.16897,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3013352",
+    "nom": "GC_Le Grau-du-Roi",
+    "lat": 43.53725,
+    "lon": 4.14038,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809903",
+    "nom": "GC_Le Monastier",
+    "lat": 44.50902,
+    "lon": 3.25213,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808603",
+    "nom": "GC_Luc",
+    "lat": 44.65423,
+    "lon": 3.89168,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1213301",
+    "nom": "GC_Luc-la-Primaube",
+    "lat": 44.2914,
+    "lon": 2.5545,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3414401",
+    "nom": "GC_Lunas",
+    "lat": 43.70967,
+    "lon": 3.19501,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3414554",
+    "nom": "GC_Lunel",
+    "lat": 43.67951,
+    "lon": 4.13108,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3414604",
+    "nom": "GC_Lunel-Viel",
+    "lat": 43.68121,
+    "lon": 4.09382,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3414701",
+    "nom": "GC_Magalas",
+    "lat": 43.46766,
+    "lon": 3.2296,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3015504",
+    "nom": "GC_Manduel",
+    "lat": 43.82655,
+    "lon": 4.47952,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3415011",
+    "nom": "GC_Marseillan",
+    "lat": 43.31829,
+    "lon": 3.53569,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809202",
+    "nom": "GC_Marvejols",
+    "lat": 44.54484,
+    "lon": 3.28123,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809530",
+    "nom": "GC_Mende",
+    "lat": 44.52238,
+    "lon": 3.50201,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3016905",
+    "nom": "GC_Milhaud",
+    "lat": 43.78859,
+    "lon": 4.3035,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1214554",
+    "nom": "GC_Millau",
+    "lat": 44.10242,
+    "lon": 3.07465,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1216703",
+    "nom": "GC_Najac",
+    "lat": 44.22189,
+    "lon": 1.97619,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1216901",
+    "nom": "GC_Naucelle",
+    "lat": 44.18561,
+    "lon": 2.36362,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3015505",
+    "nom": "GC_NIMES-PONT-DU-GAR",
+    "lat": 43.81694,
+    "lon": 4.50584,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3418308",
+    "nom": "GC_Nissan",
+    "lat": 43.29557,
+    "lon": 3.11669,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3004602",
+    "nom": "GC_Nozieres - Brigno",
+    "lat": 43.97613,
+    "lon": 4.20733,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220252",
+    "nom": "GC_Rodez",
+    "lat": 44.36272,
+    "lon": 2.58056,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3423301",
+    "nom": "GC_RoqueredondCabr",
+    "lat": 43.77988,
+    "lon": 3.18625,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3423302",
+    "nom": "GC_Roqueredonde",
+    "lat": 43.81229,
+    "lon": 3.15526,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3424004",
+    "nom": "GC_Saint-Aunes",
+    "lat": 43.63554,
+    "lon": 3.96298,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4814006",
+    "nom": "GC_Saint-Chely-d'Apc",
+    "lat": 44.80178,
+    "lon": 3.27078,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1221503",
+    "nom": "GC_Saint-Christophe",
+    "lat": 44.46473,
+    "lon": 2.40793,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1224301",
+    "nom": "GC_Saint-Rome-de-Cer",
+    "lat": 44.01404,
+    "lon": 2.96747,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4818501",
+    "nom": "GC_Salelles",
+    "lat": 44.48341,
+    "lon": 3.28048,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1225202",
+    "nom": "GC_Salles-Courbaties",
+    "lat": 44.47526,
+    "lon": 2.07887,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430125",
+    "nom": "GC_Sete",
+    "lat": 43.41266,
+    "lon": 3.69667,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1227053",
+    "nom": "GC_Severac-le-Chatea",
+    "lat": 44.32479,
+    "lon": 3.05694,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3024001",
+    "nom": "GC_STCesairGauzignan",
+    "lat": 43.81342,
+    "lon": 4.32773,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3023901",
+    "nom": "GC_STe-Cecild'Andorg",
+    "lat": 44.25554,
+    "lon": 3.97586,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3025502",
+    "nom": "GC_ST-GeniesMalgoire",
+    "lat": 43.95028,
+    "lon": 4.21508,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1222505",
+    "nom": "GC_STGeorgesLuzencon",
+    "lat": 44.06666,
+    "lon": 2.9839,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3027601",
+    "nom": "GC_ST-Laurend'Aigouz",
+    "lat": 43.63937,
+    "lon": 4.19308,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1228201",
+    "nom": "GC_Tournemire",
+    "lat": 43.96985,
+    "lon": 3.01678,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3033303",
+    "nom": "GC_Uchaud",
+    "lat": 43.75844,
+    "lon": 4.26848,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3432103",
+    "nom": "GC_Valergues",
+    "lat": 43.6728,
+    "lon": 4.06018,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034103",
+    "nom": "GC_Vauvert",
+    "lat": 43.69506,
+    "lon": 4.27027,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034407",
+    "nom": "GC_Vergeze - Codogna",
+    "lat": 43.73998,
+    "lon": 4.219,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3433204",
+    "nom": "GC_Vias",
+    "lat": 43.31572,
+    "lon": 3.42541,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3433302",
+    "nom": "GC_Vic - Mireval",
+    "lat": 43.50091,
+    "lon": 3.79945,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4819807",
+    "nom": "GC_Villefort",
+    "lat": 44.43955,
+    "lon": 3.9241,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1230006",
+    "nom": "GC_Villefranche-de-R",
+    "lat": 44.34768,
+    "lon": 2.0365,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3433704",
+    "nom": "GC_Villeneuve-les-Ma",
+    "lat": 43.54396,
+    "lon": 3.85005,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1230502",
+    "nom": "GC_Viviez - Decazevi",
+    "lat": 44.55557,
+    "lon": 2.21839,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3012805",
+    "nom": "Generac:Chateau",
+    "lat": 43.72538,
+    "lon": 4.35021,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3013001",
+    "nom": "Genolhac",
+    "lat": 44.3592,
+    "lon": 3.91775,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4807301",
+    "nom": "GermainDuteil:Tioula",
+    "lat": 44.47869,
+    "lon": 3.16894,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3411301",
+    "nom": "Gigean:Bouscaren",
+    "lat": 43.4984,
+    "lon": 3.71005,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3411402",
+    "nom": "Gignac:Le Carignan",
+    "lat": 43.69965,
+    "lon": 3.54791,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3411501",
+    "nom": "Gornies:St-Andre-Bue",
+    "lat": 43.87059,
+    "lon": 3.64083,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3013101",
+    "nom": "Goudargues:Cellier",
+    "lat": 44.20576,
+    "lon": 4.46298,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3411604",
+    "nom": "GRABELS-844_0237",
+    "lat": 43.64774,
+    "lon": 3.83062,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3411605",
+    "nom": "GRABELS-844_0238",
+    "lat": 43.64681,
+    "lon": 3.8315,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3411603",
+    "nom": "GRABELS Bruque Cabal",
+    "lat": 43.64953,
+    "lon": 3.82583,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3411606",
+    "nom": "Grabels:Ranchin",
+    "lat": 43.64869,
+    "lon": 3.82781,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3411701",
+    "nom": "Graissessac",
+    "lat": 43.69278,
+    "lon": 3.06083,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1211301",
+    "nom": "GRAMOND",
+    "lat": 44.27738,
+    "lon": 2.34595,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3030701",
+    "nom": "Grand-Combe 1 (La)",
+    "lat": 44.20861,
+    "lon": 4.01667,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3013201",
+    "nom": "Grand-Combe 2 (La)",
+    "lat": 44.23028,
+    "lon": 4.02194,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803803",
+    "nom": "Grandrieu:19mars1962",
+    "lat": 44.7823,
+    "lon": 3.63415,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803804",
+    "nom": "Grandrieu:Rte du Puy",
+    "lat": 44.78751,
+    "lon": 3.63161,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1211403",
+    "nom": "Grand-Vabre1:Perie",
+    "lat": 44.61389,
+    "lon": 2.36528,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4807201",
+    "nom": "Grezes",
+    "lat": 44.50417,
+    "lon": 3.31806,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4807401",
+    "nom": "Hures-la-Parade",
+    "lat": 44.20139,
+    "lon": 3.28806,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812201",
+    "nom": "Ispagnac",
+    "lat": 44.35861,
+    "lon": 3.54194,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4807502",
+    "nom": "Ispagnac:eglise",
+    "lat": 44.37019,
+    "lon": 3.5353,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4807501",
+    "nom": "Ispagnac:La Leche",
+    "lat": 44.37506,
+    "lon": 3.53502,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4807503",
+    "nom": "Ispagnac:Plots",
+    "lat": 44.37279,
+    "lon": 3.53358,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4807507",
+    "nom": "ISPAGNAC QUEZAC",
+    "lat": 44.37014,
+    "lon": 3.52361,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4807504",
+    "nom": "Ispagnac:Salenson",
+    "lat": 44.374,
+    "lon": 3.53419,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3005504",
+    "nom": "ITA_AlesMontBouquet",
+    "lat": 44.13128,
+    "lon": 4.28462,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3033001",
+    "nom": "ITA_Anduze",
+    "lat": 44.03456,
+    "lon": 3.97167,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800903",
+    "nom": "ITA_Aumont Aubrac",
+    "lat": 44.72306,
+    "lon": 3.27722,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1201602",
+    "nom": "ITA_Auzits",
+    "lat": 44.49667,
+    "lon": 2.28611,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4801902",
+    "nom": "ITA_BarreDesCevennes",
+    "lat": 44.23944,
+    "lon": 3.64455,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3003702",
+    "nom": "ITA_Besseges 1",
+    "lat": 44.29422,
+    "lon": 4.11556,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3001602",
+    "nom": "ITA_Bez et Esparon",
+    "lat": 43.96111,
+    "lon": 3.53222,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1203604",
+    "nom": "ITA_Brommat 1",
+    "lat": 44.81204,
+    "lon": 2.68431,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1223703",
+    "nom": "ITA_Campagnac",
+    "lat": 44.45718,
+    "lon": 3.11296,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3402102",
+    "nom": "ITA_Cessenon",
+    "lat": 43.45956,
+    "lon": 2.91601,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803902",
+    "nom": "ITA_Chanac",
+    "lat": 44.45889,
+    "lon": 3.34389,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1207102",
+    "nom": "ITA_Compolibat",
+    "lat": 44.36917,
+    "lon": 2.20667,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1226504",
+    "nom": "ITA_ESTAING_12",
+    "lat": 44.54928,
+    "lon": 2.6748,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3404203",
+    "nom": "ITA_Ganges",
+    "lat": 43.88145,
+    "lon": 3.6743,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3423802",
+    "nom": "ITA_Gornies",
+    "lat": 43.87056,
+    "lon": 3.64028,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1211406",
+    "nom": "ITA_Grandvabre",
+    "lat": 44.61278,
+    "lon": 2.36667,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812202",
+    "nom": "ITA_Ispagnac",
+    "lat": 44.35833,
+    "lon": 3.54111,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803405",
+    "nom": "ITA_La Canourgue 2",
+    "lat": 44.46972,
+    "lon": 3.21333,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808402",
+    "nom": "ITA_Laval-Atger",
+    "lat": 44.80306,
+    "lon": 3.71278,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403803",
+    "nom": "ITA_LeBousquetD'Orb",
+    "lat": 43.68944,
+    "lon": 3.15778,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4817302",
+    "nom": "ITA_LeColletDeDeze",
+    "lat": 44.22528,
+    "lon": 3.89879,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3017603",
+    "nom": "ITA_LeVigan1",
+    "lat": 43.96015,
+    "lon": 3.58377,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3002401",
+    "nom": "ITA_LeVigan2",
+    "lat": 44.0075,
+    "lon": 3.60389,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4810302",
+    "nom": "ITA_Montrodat",
+    "lat": 44.54423,
+    "lon": 3.33016,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4810402",
+    "nom": "ITA_Nasbinals",
+    "lat": 44.6625,
+    "lon": 3.05944,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3418702",
+    "nom": "ITA_Olargues",
+    "lat": 43.54389,
+    "lon": 2.90722,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3021003",
+    "nom": "ITA_Quissac",
+    "lat": 43.91063,
+    "lon": 4.01611,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1225502",
+    "nom": "ITA_Salmiech",
+    "lat": 44.18417,
+    "lon": 2.58306,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3429304",
+    "nom": "ITA_Salvetat/Agout1",
+    "lat": 43.61639,
+    "lon": 2.69667,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4806302",
+    "nom": "ITA_StAlban/Limagno",
+    "lat": 44.76611,
+    "lon": 3.37278,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4815504",
+    "nom": "ITA_StandreDeLancize",
+    "lat": 44.21944,
+    "lon": 3.82389,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4814005",
+    "nom": "ITA_StChelyApcher 2",
+    "lat": 44.7951,
+    "lon": 3.26831,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4814403",
+    "nom": "ITA_SteCroixalleeFra",
+    "lat": 44.17194,
+    "lon": 3.75194,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1203605",
+    "nom": "ITA_SteGenevieve/Ar1",
+    "lat": 44.83539,
+    "lon": 2.73393,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1222303",
+    "nom": "ITA_SteGenevieve/Ar2",
+    "lat": 44.79917,
+    "lon": 2.74556,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1221903",
+    "nom": "ITA_StGeniezD'Olt 1",
+    "lat": 44.47087,
+    "lon": 2.90983,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4816102",
+    "nom": "ITA_StJuery_48",
+    "lat": 44.83,
+    "lon": 3.0799,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1227703",
+    "nom": "ITA_Taussac 1",
+    "lat": 44.82563,
+    "lon": 2.65535,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3433402",
+    "nom": "ITA_Vieussan",
+    "lat": 43.53667,
+    "lon": 2.95139,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1216103",
+    "nom": "ITA_Villecomtal",
+    "lat": 44.54722,
+    "lon": 2.54917,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4819805",
+    "nom": "ITA_Villefort",
+    "lat": 44.44129,
+    "lon": 3.94639,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1201307",
+    "nom": "ITA_Viviez 2",
+    "lat": 44.54244,
+    "lon": 2.22079,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412002",
+    "nom": "JACOU HOTEL DE VILLE",
+    "lat": 43.66129,
+    "lon": 3.91099,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412004",
+    "nom": "Jacou:Les Cistes",
+    "lat": 43.66738,
+    "lon": 3.91995,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4807601",
+    "nom": "JAVOLS",
+    "lat": 44.68244,
+    "lon": 3.32975,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412101",
+    "nom": "Joncels",
+    "lat": 43.73972,
+    "lon": 3.20444,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3013501",
+    "nom": "Jonquieres:StVincent",
+    "lat": 43.83975,
+    "lon": 4.54807,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412301",
+    "nom": "JUVIGNAC_5737",
+    "lat": 43.61356,
+    "lon": 3.80394,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412303",
+    "nom": "JUVIGNAC-844_0251",
+    "lat": 43.61697,
+    "lon": 3.81021,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412305",
+    "nom": "Juvignac Constella",
+    "lat": 43.61742,
+    "lon": 3.80997,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412307",
+    "nom": "Juvignac:Fontcaude",
+    "lat": 43.62698,
+    "lon": 3.79861,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412306",
+    "nom": "Juvignac:Jupiter",
+    "lat": 43.61829,
+    "lon": 3.80856,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412308",
+    "nom": "Juvignac:Jupiter2",
+    "lat": 43.61868,
+    "lon": 3.80872,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809511",
+    "nom": "La Bastide:Etang",
+    "lat": 44.58923,
+    "lon": 3.90381,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412402",
+    "nom": "LACOSTE",
+    "lat": 43.6626,
+    "lon": 3.43669,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1208202",
+    "nom": "LA COUVERTOIRADE",
+    "lat": 43.90477,
+    "lon": 3.26746,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1210552",
+    "nom": "La Fouillade 1",
+    "lat": 44.23293,
+    "lon": 2.0415,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1211902",
+    "nom": "Laguiole:puech-grid,",
+    "lat": 44.68039,
+    "lon": 2.85471,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1210701",
+    "nom": "Laissac",
+    "lat": 44.34592,
+    "lon": 2.88768,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4807901",
+    "nom": "LAJO",
+    "lat": 44.81479,
+    "lon": 3.43925,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412601",
+    "nom": "Lamalou-les-Bains",
+    "lat": 43.59056,
+    "lon": 3.08778,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3013802",
+    "nom": "Langlade:Amou",
+    "lat": 43.80809,
+    "lon": 4.24331,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808005",
+    "nom": "Langogne:Leclerc",
+    "lat": 44.72722,
+    "lon": 3.86278,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808006",
+    "nom": "Langogne:Lombards",
+    "lat": 44.724,
+    "lon": 3.85131,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808007",
+    "nom": "Langogne:Tuilerie",
+    "lat": 44.72472,
+    "lon": 3.84472,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809512",
+    "nom": "Lanuejols:Graviere",
+    "lat": 44.50291,
+    "lon": 3.57156,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809513",
+    "nom": "Lanuejols:terres Bl,",
+    "lat": 44.49837,
+    "lon": 3.56295,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1212201",
+    "nom": "LAPANOUSE 1",
+    "lat": 44.01425,
+    "lon": 3.11326,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1212301",
+    "nom": "Lapanouse:ime",
+    "lat": 44.33371,
+    "lon": 3.05459,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1212352",
+    "nom": "Lapanouse RF",
+    "lat": 44.3346,
+    "lon": 3.05705,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3014001",
+    "nom": "Lasalle",
+    "lat": 44.05583,
+    "lon": 3.84972,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4819101",
+    "nom": "LA TIEULE",
+    "lat": 44.39876,
+    "lon": 3.13879,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412915",
+    "nom": "Lattes:Cap",
+    "lat": 43.59062,
+    "lon": 3.92135,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412912",
+    "nom": "Lattes:Jonquilles",
+    "lat": 43.56989,
+    "lon": 3.90068,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412905",
+    "nom": "LATTES LE MONTCALM",
+    "lat": 43.57114,
+    "lon": 3.90161,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412911",
+    "nom": "Lattes:Le Paname 1",
+    "lat": 43.59185,
+    "lon": 3.92618,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412914",
+    "nom": "Lattes:Le Paname 2",
+    "lat": 43.59121,
+    "lon": 3.92295,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412913",
+    "nom": "Lattes:Le Rochemore",
+    "lat": 43.57162,
+    "lon": 3.90195,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412904",
+    "nom": "LATTES LES AIGRETTES",
+    "lat": 43.56349,
+    "lon": 3.87674,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412916",
+    "nom": "LATTES_ZR",
+    "lat": 43.55811,
+    "lon": 3.85906,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808401",
+    "nom": "Laval-Atger",
+    "lat": 44.80361,
+    "lon": 3.71306,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808501",
+    "nom": "Laval-du-Tarn 2",
+    "lat": 44.35056,
+    "lon": 3.32556,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1212501",
+    "nom": "Laval-Roqueceziere",
+    "lat": 43.8079,
+    "lon": 2.64127,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1212502",
+    "nom": "LAVAL-ROQUECEZIERE 2",
+    "lat": 43.83459,
+    "lon": 2.62001,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808601",
+    "nom": "Laveyrune 1",
+    "lat": 44.64361,
+    "lon": 3.89333,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4802706",
+    "nom": "LeBleymard:Couderc",
+    "lat": 44.4845,
+    "lon": 3.73852,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4802705",
+    "nom": "Le Bleymard:D20/D901",
+    "lat": 44.49012,
+    "lon": 3.73942,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403601",
+    "nom": "LE BOSC",
+    "lat": 43.681,
+    "lon": 3.38485,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403805",
+    "nom": "LeBousquet:Tine",
+    "lat": 43.69427,
+    "lon": 3.16423,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3406402",
+    "nom": "Le Caylar:D142",
+    "lat": 43.85111,
+    "lon": 3.31611,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3406401",
+    "nom": "Le Caylar:Mas Aussel",
+    "lat": 43.88248,
+    "lon": 3.3114,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3013305",
+    "nom": "LE GRAU DU ROI_8890",
+    "lat": 43.53944,
+    "lon": 4.14255,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809002",
+    "nom": "Lemalzieuville:Pige",
+    "lat": 44.85725,
+    "lon": 3.33553,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812402",
+    "nom": "LeMonastier:Escole",
+    "lat": 44.51751,
+    "lon": 3.26147,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812401",
+    "nom": "Le Monastier:Montjez",
+    "lat": 44.51008,
+    "lon": 3.25131,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3427003",
+    "nom": "Lengad'OC Radio",
+    "lat": 43.58066,
+    "lon": 3.84649,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4811502",
+    "nom": "Le Pompidou 2_SALT",
+    "lat": 44.20405,
+    "lon": 3.64012,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4819402",
+    "nom": "LePontDeM:Finiels",
+    "lat": 44.36457,
+    "lon": 3.74624,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4819403",
+    "nom": "LePontDeMV:Estournal",
+    "lat": 44.36538,
+    "lon": 3.74584,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3414205",
+    "nom": "Le Puech:D157",
+    "lat": 43.69361,
+    "lon": 3.32222,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809604",
+    "nom": "Le Rozier:LasFaissos",
+    "lat": 44.19201,
+    "lon": 3.20746,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3001103",
+    "nom": "LES ANGLES HARMONIE",
+    "lat": 43.95452,
+    "lon": 4.76617,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4802501",
+    "nom": "LES BESSONS",
+    "lat": 44.75875,
+    "lon": 3.28217,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4807303",
+    "nom": "Les Hermaux",
+    "lat": 44.52451,
+    "lon": 3.12431,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3413507",
+    "nom": "Lespignan 3",
+    "lat": 43.27623,
+    "lon": 3.16802,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3413504",
+    "nom": "Lespignan:S-Pierre",
+    "lat": 43.26955,
+    "lon": 3.17348,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3413505",
+    "nom": "LESPIGNAN_ZR",
+    "lat": 43.2885,
+    "lon": 3.19018,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3413506",
+    "nom": "LESPIGNAN_ZR2",
+    "lat": 43.25099,
+    "lon": 3.15612,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1229702",
+    "nom": "LE VIBAL 2",
+    "lat": 44.33435,
+    "lon": 2.70627,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1211501",
+    "nom": "L'hospitalet Larzac",
+    "lat": 43.98238,
+    "lon": 3.18403,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403702",
+    "nom": "Libron:Albigeois",
+    "lat": 43.36841,
+    "lon": 3.25697,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403703",
+    "nom": "Libron:Ardailhou",
+    "lat": 43.37041,
+    "lon": 3.2569,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1213001",
+    "nom": "Livinhac-le-Haut",
+    "lat": 44.60405,
+    "lon": 2.2256,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3414201",
+    "nom": "Lodeve 2:Vinas",
+    "lat": 43.75639,
+    "lon": 3.3425,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3414202",
+    "nom": "Lodeve 3",
+    "lat": 43.72778,
+    "lon": 3.32694,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3414203",
+    "nom": "Lodeve 4",
+    "lat": 43.71278,
+    "lon": 3.31861,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430601",
+    "nom": "LODEVE : Fignols",
+    "lat": 43.72864,
+    "lon": 3.3375,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808602",
+    "nom": "Luc 1",
+    "lat": 44.66806,
+    "lon": 3.86889,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1213501",
+    "nom": "Lunac",
+    "lat": 44.26359,
+    "lon": 2.07649,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403802",
+    "nom": "Lunas-Serieys",
+    "lat": 43.72028,
+    "lon": 3.14278,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3414552",
+    "nom": "Lunel Courantes",
+    "lat": 43.70405,
+    "lon": 4.1343,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3414502",
+    "nom": "LUNEL LE GAUCELMS",
+    "lat": 43.67465,
+    "lon": 4.13457,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3414505",
+    "nom": "LUNEL Quatre Saisons",
+    "lat": 43.67487,
+    "lon": 4.11473,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3011301",
+    "nom": "Lussan:Village",
+    "lat": 44.18647,
+    "lon": 4.33072,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3030301",
+    "nom": "Malcap:Libe",
+    "lat": 44.24694,
+    "lon": 4.2219,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808801",
+    "nom": "Malene (La)",
+    "lat": 44.29389,
+    "lon": 3.32167,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3025503",
+    "nom": "Malgoires:Dide",
+    "lat": 43.94375,
+    "lon": 4.22175,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808901",
+    "nom": "Malzieu-Forain 1",
+    "lat": 44.85389,
+    "lon": 3.39639,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808902",
+    "nom": "Malzieu-Forain 2",
+    "lat": 44.88556,
+    "lon": 3.36972,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808903",
+    "nom": "MALZIEU FORAIN VIALE",
+    "lat": 44.84729,
+    "lon": 3.39696,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809001",
+    "nom": "Malzieu:Ville",
+    "lat": 44.86583,
+    "lon": 3.31889,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1213701",
+    "nom": "Manhac",
+    "lat": 44.27361,
+    "lon": 2.46361,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3414801",
+    "nom": "Maraussan:Lo Tarral2",
+    "lat": 43.36958,
+    "lon": 3.15592,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3414802",
+    "nom": "Maraussan:L Oublio",
+    "lat": 43.37139,
+    "lon": 3.16274,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3414803",
+    "nom": "Maraussan:Troubadour",
+    "lat": 43.36976,
+    "lon": 3.14879,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1221501",
+    "nom": "Marcillac-Vallon1",
+    "lat": 44.47139,
+    "lon": 2.42639,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1213801",
+    "nom": "Marcillac-Vallon2",
+    "lat": 44.46904,
+    "lon": 2.45738,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1213901",
+    "nom": "Marnhagues-et-Latour",
+    "lat": 43.87435,
+    "lon": 3.01843,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3415007",
+    "nom": "Marseillan:avenue zi",
+    "lat": 43.35694,
+    "lon": 3.51944,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3415012",
+    "nom": "Marseillan:Glacies",
+    "lat": 43.35778,
+    "lon": 3.52638,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3415013",
+    "nom": "Marseillan:les Parcs",
+    "lat": 43.35902,
+    "lon": 3.53035,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4810701",
+    "nom": "Marvejols 1:Truc-du",
+    "lat": 44.5343,
+    "lon": 3.31601,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809201",
+    "nom": "Marvejols 2:Prefont",
+    "lat": 44.54826,
+    "lon": 3.2845,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812403",
+    "nom": "Marvejols:Carnot",
+    "lat": 44.55306,
+    "lon": 3.29001,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812404",
+    "nom": "Marvejols:Costvieil",
+    "lat": 44.54519,
+    "lon": 3.27959,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812405",
+    "nom": "Marvejols:Daude",
+    "lat": 44.55324,
+    "lon": 3.29125,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812406",
+    "nom": "Marvejols:Jabrun",
+    "lat": 44.55488,
+    "lon": 3.29082,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812407",
+    "nom": "Marvejols:ML Juin",
+    "lat": 44.56031,
+    "lon": 3.28965,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812408",
+    "nom": "Marvejols:Pineton",
+    "lat": 44.55961,
+    "lon": 3.29557,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812409",
+    "nom": "Marvejols:Pt DePeyre",
+    "lat": 44.5504,
+    "lon": 3.29448,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812410",
+    "nom": "Marvejols:Rochevalie",
+    "lat": 44.55046,
+    "lon": 3.29057,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812411",
+    "nom": "Marvejols:Roussel",
+    "lat": 44.55701,
+    "lon": 3.29156,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812412",
+    "nom": "Marvejols:Stade",
+    "lat": 44.55561,
+    "lon": 3.29476,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3415301",
+    "nom": "Matelles (Les)",
+    "lat": 43.72806,
+    "lon": 3.80417,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3415404",
+    "nom": "Mauguio La Mourre",
+    "lat": 43.60867,
+    "lon": 3.9612,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3415502",
+    "nom": "Maureilhan:Verne",
+    "lat": 43.38557,
+    "lon": 3.11528,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4804201",
+    "nom": "Mende 1:Chastel",
+    "lat": 44.57583,
+    "lon": 3.46722,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809502",
+    "nom": "Mende 2:Mimat",
+    "lat": 44.51028,
+    "lon": 3.49361,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809514",
+    "nom": "Mende:Amandiers",
+    "lat": 44.52901,
+    "lon": 3.50183,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809515",
+    "nom": "Mende:Banque",
+    "lat": 44.51863,
+    "lon": 3.49573,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809516",
+    "nom": "Mende:Carmes",
+    "lat": 44.51875,
+    "lon": 3.49588,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809517",
+    "nom": "Mende:Clapasses",
+    "lat": 44.52703,
+    "lon": 3.47851,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809518",
+    "nom": "Mende:Coudrin",
+    "lat": 44.51794,
+    "lon": 3.50434,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809519",
+    "nom": "Mende Fontanilles4",
+    "lat": 44.52173,
+    "lon": 3.51556,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809520",
+    "nom": "Mende:Fontanilles 4",
+    "lat": 44.5224,
+    "lon": 3.51565,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809521",
+    "nom": "Mende:Jarretiere",
+    "lat": 44.51755,
+    "lon": 3.49934,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809522",
+    "nom": "Mende:L Arnault",
+    "lat": 44.51899,
+    "lon": 3.50007,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809523",
+    "nom": "Mende:Republique",
+    "lat": 44.51782,
+    "lon": 3.49864,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809524",
+    "nom": "Mende:Rue College",
+    "lat": 44.51919,
+    "lon": 3.49861,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809526",
+    "nom": "Mende:Torrent",
+    "lat": 44.51669,
+    "lon": 3.50349,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812701",
+    "nom": "Mende:Truc-de-Fortun",
+    "lat": 44.64222,
+    "lon": 3.53222,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809527",
+    "nom": "Mende:Vabre",
+    "lat": 44.51501,
+    "lon": 3.49956,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809601",
+    "nom": "Meyrueis 1",
+    "lat": 44.16222,
+    "lon": 3.42694,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809605",
+    "nom": "Meyrueis:19mars1962",
+    "lat": 44.17239,
+    "lon": 3.43278,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809602",
+    "nom": "Meyrueis 2",
+    "lat": 44.18833,
+    "lon": 3.41944,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809606",
+    "nom": "Meyrueis:Airette",
+    "lat": 44.17409,
+    "lon": 3.43042,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809607",
+    "nom": "Meyrueis:Ayres",
+    "lat": 44.18059,
+    "lon": 3.44035,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809608",
+    "nom": "Meyrueis:Magnanerie",
+    "lat": 44.17711,
+    "lon": 3.43173,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3415703",
+    "nom": "Meze:Port",
+    "lat": 43.42512,
+    "lon": 3.60806,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3026902",
+    "nom": "Mialet",
+    "lat": 44.10458,
+    "lon": 3.93228,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3026905",
+    "nom": "Mialet 2_ SALT",
+    "lat": 44.10543,
+    "lon": 3.93321,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3016801",
+    "nom": "Mialet Toures_Salt",
+    "lat": 44.10874,
+    "lon": 3.93988,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3016903",
+    "nom": "Milhaud Campagnol",
+    "lat": 43.75677,
+    "lon": 4.34309,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3016906",
+    "nom": "Milhaud:Mont",
+    "lat": 43.79031,
+    "lon": 4.30774,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1214556",
+    "nom": "MILLAU 1",
+    "lat": 44.10566,
+    "lon": 3.02619,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1214503",
+    "nom": "Millau2:Cap-d'Aze",
+    "lat": 44.10389,
+    "lon": 3.13583,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1215301",
+    "nom": "Millau:Levezou",
+    "lat": 44.11806,
+    "lon": 2.85639,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1214505",
+    "nom": "Millau:Martinerie(la",
+    "lat": 44.13077,
+    "lon": 3.05812,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1214507",
+    "nom": "Millau :mas de bru",
+    "lat": 44.08487,
+    "lon": 3.13367,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1214504",
+    "nom": "Millau -OP",
+    "lat": 44.13389,
+    "lon": 3.05917,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1214501",
+    "nom": "Millau:Puncho",
+    "lat": 44.11011,
+    "lon": 3.10151,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3415801",
+    "nom": "Minerve",
+    "lat": 43.35083,
+    "lon": 2.74444,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3417901",
+    "nom": "M-Montpell:Chupin",
+    "lat": 43.60685,
+    "lon": 3.73627,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4814803",
+    "nom": "Moissac-Vallee-Fr, 2",
+    "lat": 44.15028,
+    "lon": 3.84,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1214602",
+    "nom": "Monastere-Printemps",
+    "lat": 44.33897,
+    "lon": 2.5768,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3017201",
+    "nom": "Monoblet:Anduze",
+    "lat": 44.00136,
+    "lon": 3.8874,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3416001",
+    "nom": "Mons-la-Trivalle",
+    "lat": 43.57278,
+    "lon": 2.95389,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3416202",
+    "nom": "Montagnac:Distilleri",
+    "lat": 43.47648,
+    "lon": 3.48304,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1214701",
+    "nom": "Montagnol",
+    "lat": 43.79806,
+    "lon": 3.01222,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3416304",
+    "nom": "MONTARNAUD 1",
+    "lat": 43.63303,
+    "lon": 3.73426,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4810101",
+    "nom": "Montbrun 2",
+    "lat": 44.32833,
+    "lon": 3.47583,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4814603",
+    "nom": "Montbrun:eglise",
+    "lat": 44.33645,
+    "lon": 3.50438,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1215001",
+    "nom": "Monteils",
+    "lat": 44.2615,
+    "lon": 1.99331,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1215002",
+    "nom": "Monteils:Boulec",
+    "lat": 44.27091,
+    "lon": 1.98732,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3416901",
+    "nom": "Montferrier/Lez",
+    "lat": 43.67,
+    "lon": 3.87139,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3017901",
+    "nom": "Montfrin:Le Pesquier",
+    "lat": 43.87173,
+    "lon": 4.60509,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1215501",
+    "nom": "Montpaon",
+    "lat": 43.86778,
+    "lon": 3.135,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3417301",
+    "nom": "Montpellier 1:St-Bau",
+    "lat": 43.74264,
+    "lon": 3.48583,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3417282",
+    "nom": "MONTPELLIER ARGENT",
+    "lat": 43.59478,
+    "lon": 3.8476,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3417274",
+    "nom": "MONTPELLIER Barthele",
+    "lat": 43.60016,
+    "lon": 3.85976,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3417203",
+    "nom": "Montpellier:Bionne",
+    "lat": 43.60501,
+    "lon": 3.82472,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3417202",
+    "nom": "Montpellier Blanquet",
+    "lat": 43.64605,
+    "lon": 3.84649,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3417281",
+    "nom": "MONTPELLIER FIGUEROL",
+    "lat": 43.60669,
+    "lon": 3.86483,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3417214",
+    "nom": "Montpellier :Garosud",
+    "lat": 43.58612,
+    "lon": 3.87823,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3417284",
+    "nom": "MONTPELLIER LE MAS 1",
+    "lat": 43.58648,
+    "lon": 3.85837,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3417285",
+    "nom": "MONTPELLIER LE MAS 2",
+    "lat": 43.58696,
+    "lon": 3.85951,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3417286",
+    "nom": "MONTPELLIER LE MAS 3",
+    "lat": 43.586,
+    "lon": 3.86074,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3417283",
+    "nom": "MONTPELLIER LE VENUS",
+    "lat": 43.596,
+    "lon": 3.84934,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3417280",
+    "nom": "MONTPELLIER PAGES",
+    "lat": 43.60859,
+    "lon": 3.86688,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3417219",
+    "nom": "MONTPELLIER_RCF_STUD",
+    "lat": 43.63944,
+    "lon": 3.84667,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3405721",
+    "nom": "Montpellier Std NRJ",
+    "lat": 43.62319,
+    "lon": 3.89921,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3417205",
+    "nom": "Montpellier:St,FUN",
+    "lat": 43.60861,
+    "lon": 3.88306,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018201",
+    "nom": "Montpezat:Cave",
+    "lat": 43.75756,
+    "lon": 4.27773,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4810301",
+    "nom": "Montrodat",
+    "lat": 44.54409,
+    "lon": 3.3307,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4810303",
+    "nom": "Montrodat Causse",
+    "lat": 44.5468,
+    "lon": 3.29751,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812413",
+    "nom": "Montrodat:Vimenet",
+    "lat": 44.55477,
+    "lon": 3.33098,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1215701",
+    "nom": "Montrozier",
+    "lat": 44.39531,
+    "lon": 2.70462,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4812703",
+    "nom": "MONTS_DE_RANDON",
+    "lat": 44.65411,
+    "lon": 3.47762,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3012306",
+    "nom": "Montueux:Planette",
+    "lat": 43.72402,
+    "lon": 4.17284,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1216001",
+    "nom": "Mostuejouls",
+    "lat": 44.26452,
+    "lon": 3.14405,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3434403",
+    "nom": "Motte:Oliviers1",
+    "lat": 43.5628,
+    "lon": 4.07151,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3434404",
+    "nom": "Motte:Oliviers2",
+    "lat": 43.56234,
+    "lon": 4.07088,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1216102",
+    "nom": "Mouret",
+    "lat": 44.50222,
+    "lon": 2.48778,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1216201",
+    "nom": "Moyrazes",
+    "lat": 44.36096,
+    "lon": 2.39642,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3417602",
+    "nom": "Mudaison Jourdanel",
+    "lat": 43.6568,
+    "lon": 4.03225,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1216301",
+    "nom": "Murasson",
+    "lat": 43.75858,
+    "lon": 2.72761,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1216402",
+    "nom": "Mur-de-Barrez 2",
+    "lat": 44.89196,
+    "lon": 2.68531,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018501",
+    "nom": "MUS Florentine",
+    "lat": 43.73531,
+    "lon": 4.19446,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1216701",
+    "nom": "Najac",
+    "lat": 44.22,
+    "lon": 1.94,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1216801",
+    "nom": "Nant1:Causse-Cuns",
+    "lat": 44.03862,
+    "lon": 3.28344,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1216802",
+    "nom": "Nant2:Serre-Liquier",
+    "lat": 43.99846,
+    "lon": 3.30705,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1216803",
+    "nom": "Nant3:Pigeonnier(le)",
+    "lat": 44.02562,
+    "lon": 3.30768,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4810401",
+    "nom": "Nasbinals",
+    "lat": 44.66278,
+    "lon": 3.05944,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4810403",
+    "nom": "Nasbinals:Devezette",
+    "lat": 44.66038,
+    "lon": 3.0544,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4810501",
+    "nom": "NAUSSAC FONTANES1",
+    "lat": 44.72772,
+    "lon": 3.84031,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4810502",
+    "nom": "NAUSSAC FONTANES2",
+    "lat": 44.76805,
+    "lon": 3.79571,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808008",
+    "nom": "Naussac:lilas",
+    "lat": 44.73119,
+    "lon": 3.83973,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018801",
+    "nom": "Ners",
+    "lat": 44.02883,
+    "lon": 4.15009,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412917",
+    "nom": "Nhood_P_Perols-1",
+    "lat": 43.56773,
+    "lon": 3.93747,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412918",
+    "nom": "Nhood_P_Perols-2",
+    "lat": 43.57037,
+    "lon": 3.93261,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3412919",
+    "nom": "Nhood_P_Perols-3",
+    "lat": 43.576,
+    "lon": 3.93341,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018902",
+    "nom": "Nimes 2:Capitelles",
+    "lat": 43.87795,
+    "lon": 4.35394,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018909",
+    "nom": "Nimes 3 : Vivaldi",
+    "lat": 43.82517,
+    "lon": 4.33862,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018958",
+    "nom": "NIMES-4097",
+    "lat": 43.85978,
+    "lon": 4.39978,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018912",
+    "nom": "nimes 5 vivaldi",
+    "lat": 43.82629,
+    "lon": 4.33962,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018989",
+    "nom": "NIMES ANATOLE FRANCE",
+    "lat": 43.84036,
+    "lon": 4.36684,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018970",
+    "nom": "NIMES CESAIRE",
+    "lat": 43.81584,
+    "lon": 4.32143,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018701",
+    "nom": "Nimes:Le Kiosque",
+    "lat": 43.82207,
+    "lon": 4.35563,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018986",
+    "nom": "NIMES LE RIQUET",
+    "lat": 43.8516,
+    "lon": 4.39618,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018977",
+    "nom": "NIMES LES ALIZES",
+    "lat": 43.82147,
+    "lon": 4.36015,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018963",
+    "nom": "NIMES Mas du Diable",
+    "lat": 43.84972,
+    "lon": 4.36389,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018981",
+    "nom": "NIMES PLANAS",
+    "lat": 43.82861,
+    "lon": 4.36105,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018910",
+    "nom": "Nimes:route St-Gille",
+    "lat": 43.77,
+    "lon": 4.3975,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018965",
+    "nom": "Nimes-Studio RAJE",
+    "lat": 43.84059,
+    "lon": 4.3563,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3018911",
+    "nom": "Nimes:Ter, Bas Rhone",
+    "lat": 43.82194,
+    "lon": 4.38861,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3418309",
+    "nom": "NISSAN LEZ ENSERU_ZR",
+    "lat": 43.28906,
+    "lon": 3.10607,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4806404",
+    "nom": "Noalhac:Hoart",
+    "lat": 44.8124,
+    "lon": 3.10637,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3418601",
+    "nom": "Octon",
+    "lat": 43.65002,
+    "lon": 3.29618,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3418701",
+    "nom": "Olargues",
+    "lat": 43.54389,
+    "lon": 2.90694,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3419204",
+    "nom": "PALAVAS EOLE",
+    "lat": 43.53083,
+    "lon": 3.93368,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3419205",
+    "nom": "PALAVAS LE LEVANT",
+    "lat": 43.531,
+    "lon": 3.93327,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3419601",
+    "nom": "PEGAIROLLE",
+    "lat": 43.7864,
+    "lon": 3.31874,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4811101",
+    "nom": "Pelouse",
+    "lat": 44.56861,
+    "lon": 3.61972,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1217901",
+    "nom": "Peux-et-Couffouleux",
+    "lat": 43.77836,
+    "lon": 2.88354,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1218001",
+    "nom": "Peyreleau",
+    "lat": 44.18326,
+    "lon": 3.22156,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3420003",
+    "nom": "Pezenes Les Mines 2",
+    "lat": 43.58624,
+    "lon": 3.24977,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3015507",
+    "nom": "PKMANDUELGareRout",
+    "lat": 43.81637,
+    "lon": 4.50583,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3015506",
+    "nom": "PKMANDUELLongueDuree",
+    "lat": 43.81881,
+    "lon": 4.50773,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3419852",
+    "nom": "PKPEROLSMalthus",
+    "lat": 43.57901,
+    "lon": 3.93726,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3420501",
+    "nom": "Plans (Les)",
+    "lat": 43.75472,
+    "lon": 3.24556,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3019802",
+    "nom": "Plantiers 2:Sud-Oues",
+    "lat": 44.11639,
+    "lon": 3.72083,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1218401",
+    "nom": "Pomayrols",
+    "lat": 44.47548,
+    "lon": 3.02791,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4811501",
+    "nom": "Pompidou (Le)",
+    "lat": 44.20306,
+    "lon": 3.64111,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3020002",
+    "nom": "Pompignan",
+    "lat": 43.89921,
+    "lon": 3.86505,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4806601",
+    "nom": "Pont-de-Montvert 1",
+    "lat": 44.36778,
+    "lon": 3.7275,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1218501",
+    "nom": "Pont-de-Salars1:Alar",
+    "lat": 44.27444,
+    "lon": 2.74,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1218502",
+    "nom": "Pont-de-Salars2:Vent",
+    "lat": 44.275,
+    "lon": 2.72444,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3420904",
+    "nom": "Portiragnes:Le Poete",
+    "lat": 43.303,
+    "lon": 3.33651,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3420905",
+    "nom": "Portiragnes:Roseraie",
+    "lat": 43.30407,
+    "lon": 3.34057,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400801",
+    "nom": "Poujol/Orb (Le)",
+    "lat": 43.57472,
+    "lon": 3.08083,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3414204",
+    "nom": "Poujols:Ressenques",
+    "lat": 43.77111,
+    "lon": 3.3275,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3400802",
+    "nom": "Poujols Sur Orb RF",
+    "lat": 43.57494,
+    "lon": 3.08088,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3020601",
+    "nom": "Poulx:Repu",
+    "lat": 43.91095,
+    "lon": 4.42622,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4811701",
+    "nom": "POURCHARESSES",
+    "lat": 44.47113,
+    "lon": 3.91882,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3421702",
+    "nom": "PradesLeLez:Horizon1",
+    "lat": 43.69006,
+    "lon": 3.86668,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3421704",
+    "nom": "PradesLeLez:Horizon2",
+    "lat": 43.69043,
+    "lon": 3.86694,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3421703",
+    "nom": "PradesLeLez:LigneCl",
+    "lat": 43.69011,
+    "lon": 3.8686,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3421701",
+    "nom": "Prades-le-Lez:Montau",
+    "lat": 43.69588,
+    "lon": 3.86774,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3421705",
+    "nom": "PradesLez-Baronnes",
+    "lat": 43.69032,
+    "lon": 3.87262,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3421706",
+    "nom": "PradesLez-Cabanis",
+    "lat": 43.68931,
+    "lon": 3.86422,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3421901",
+    "nom": "Premian 1",
+    "lat": 43.51889,
+    "lon": 2.83222,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3422903",
+    "nom": "Premian 2",
+    "lat": 43.53556,
+    "lon": 2.80111,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4811902",
+    "nom": "Prevencheres",
+    "lat": 44.5125,
+    "lon": 3.9,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4811904",
+    "nom": "PREVENCHERES1",
+    "lat": 44.50984,
+    "lon": 3.92308,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4811906",
+    "nom": "Prevencheres PAC12",
+    "lat": 44.52146,
+    "lon": 3.90942,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3020206",
+    "nom": "P-S-Esprit:Entre",
+    "lat": 44.26435,
+    "lon": 4.64601,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3422102",
+    "nom": "Puechabon",
+    "lat": 43.7107,
+    "lon": 3.62542,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3422501",
+    "nom": "Puisserguier:Trente",
+    "lat": 43.36139,
+    "lon": 3.03333,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3020901",
+    "nom": "Pujaut:Garrigues",
+    "lat": 43.99528,
+    "lon": 4.78744,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3020903",
+    "nom": "PUJAUT_les_planas",
+    "lat": 43.99446,
+    "lon": 4.7332,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4807505",
+    "nom": "Quezac:Blajoux",
+    "lat": 44.33626,
+    "lon": 3.48684,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4807506",
+    "nom": "Quezac:Chondelargier",
+    "lat": 44.37015,
+    "lon": 3.5236,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1219401",
+    "nom": "QUINS",
+    "lat": 44.22823,
+    "lon": 2.40427,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1219402",
+    "nom": "QUINS 2",
+    "lat": 44.24039,
+    "lon": 2.40873,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3021001",
+    "nom": "Quissac",
+    "lat": 43.91083,
+    "lon": 4.01583,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3021004",
+    "nom": "Quissac:Gare",
+    "lat": 43.91118,
+    "lon": 4.00375,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3021005",
+    "nom": "Quissac:Gare90",
+    "lat": 43.91007,
+    "lon": 4.00486,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3021002",
+    "nom": "Quissac:la Devese",
+    "lat": 43.9025,
+    "lon": 3.98389,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3432202",
+    "nom": "RadioFlashVALFLAUNES",
+    "lat": 43.80056,
+    "lon": 3.87167,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3021103",
+    "nom": "Redessan Caves",
+    "lat": 43.81648,
+    "lon": 4.5106,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3021101",
+    "nom": "Redessan:Mas-des-Pin",
+    "lat": 43.82556,
+    "lon": 4.49889,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3021102",
+    "nom": "Redessan_MDP_SALT",
+    "lat": 43.82432,
+    "lon": 4.50071,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1207501",
+    "nom": "Requista",
+    "lat": 44.00899,
+    "lon": 2.57381,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3422801",
+    "nom": "Rieussec",
+    "lat": 43.41556,
+    "lon": 2.74306,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808301",
+    "nom": "Rieutort:Cheyrousses",
+    "lat": 44.6443,
+    "lon": 3.48167,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1219001",
+    "nom": "Rignac",
+    "lat": 44.36621,
+    "lon": 2.27457,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3422901",
+    "nom": "Riols",
+    "lat": 43.46472,
+    "lon": 2.79611,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220001",
+    "nom": "Riviere/Tarn1",
+    "lat": 44.20097,
+    "lon": 3.14097,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220002",
+    "nom": "Riviere/Tarn2",
+    "lat": 44.20694,
+    "lon": 3.13833,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3021702",
+    "nom": "Rochefort-du-gard",
+    "lat": 43.96278,
+    "lon": 4.72472,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220101",
+    "nom": "RODELLE",
+    "lat": 44.46671,
+    "lon": 2.63039,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1217401",
+    "nom": "Rodez2:Mouline(la)",
+    "lat": 44.33916,
+    "lon": 2.56043,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1214601",
+    "nom": "Rodez3:Banocres",
+    "lat": 44.34917,
+    "lon": 2.58583,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220203",
+    "nom": "Rodez4:Salabru",
+    "lat": 44.35895,
+    "lon": 2.56196,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220204",
+    "nom": "Rodez : BAV -OP",
+    "lat": 44.35861,
+    "lon": 2.56111,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220201",
+    "nom": "RODEZ_BEL_AIR",
+    "lat": 44.37238,
+    "lon": 2.54925,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220254",
+    "nom": "RODEZ_ZR",
+    "lat": 44.35855,
+    "lon": 2.55719,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220301",
+    "nom": "Roquefort/Soulzon",
+    "lat": 43.97588,
+    "lon": 2.98389,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1221101",
+    "nom": "Roque-Marguerite1",
+    "lat": 44.12676,
+    "lon": 3.23789,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220401",
+    "nom": "Roque-Marguerite2",
+    "lat": 44.11376,
+    "lon": 3.22555,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3022105",
+    "nom": "ROQUEMAURE",
+    "lat": 44.03415,
+    "lon": 4.74734,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3022106",
+    "nom": "ROQUEMAURE 1",
+    "lat": 44.01668,
+    "lon": 4.7276,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3022107",
+    "nom": "Roquemaure Islons",
+    "lat": 44.06201,
+    "lon": 4.76099,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220501",
+    "nom": "Rouquette(la)",
+    "lat": 44.30111,
+    "lon": 1.97694,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4813001",
+    "nom": "Rousses",
+    "lat": 44.20667,
+    "lon": 3.58444,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3022301",
+    "nom": "Rousson:les Traverse",
+    "lat": 44.21194,
+    "lon": 4.16083,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3022501",
+    "nom": "Sabran:Peligouse",
+    "lat": 44.16532,
+    "lon": 4.55241,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3024101",
+    "nom": "SAINT CHAPTES DUCROS",
+    "lat": 43.97136,
+    "lon": 4.27945,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1221752",
+    "nom": "SAINTE-CROIX",
+    "lat": 44.41173,
+    "lon": 1.97766,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3025501",
+    "nom": "SAINT GENIES DE MALG",
+    "lat": 43.94365,
+    "lon": 4.21973,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1223801",
+    "nom": "Saint Leons",
+    "lat": 44.20419,
+    "lon": 3.01393,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1225201",
+    "nom": "Salles-Courbaties",
+    "lat": 44.48673,
+    "lon": 2.08883,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1225301",
+    "nom": "Salles-Curan",
+    "lat": 44.18308,
+    "lon": 2.78072,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3013202",
+    "nom": "Salles-du-Gardon 1",
+    "lat": 44.20571,
+    "lon": 4.04542,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3030704",
+    "nom": "Salles du Gardon 3",
+    "lat": 44.20063,
+    "lon": 4.01873,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1225403",
+    "nom": "SALLES LA SOURCE",
+    "lat": 44.4124,
+    "lon": 2.56259,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1225401",
+    "nom": "Salles-la-Source",
+    "lat": 44.44028,
+    "lon": 2.49056,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1225402",
+    "nom": "Salles-source:chp",
+    "lat": 44.39833,
+    "lon": 2.51639,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1225501",
+    "nom": "Salmiech",
+    "lat": 44.18399,
+    "lon": 2.58416,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3429301",
+    "nom": "Salvetat/Agout 1",
+    "lat": 43.61722,
+    "lon": 2.69694,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3429302",
+    "nom": "Salvetat/Agout 3",
+    "lat": 43.59472,
+    "lon": 2.71194,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3429305",
+    "nom": "Salvetat/A:LeStAmans",
+    "lat": 43.6008,
+    "lon": 2.70642,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1226101",
+    "nom": "Saujac",
+    "lat": 44.49243,
+    "lon": 1.8967,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3031001",
+    "nom": "Saumane:Serre-Tours",
+    "lat": 44.11778,
+    "lon": 3.74833,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3429601",
+    "nom": "SAUSSINES",
+    "lat": 43.751,
+    "lon": 4.06206,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3031202",
+    "nom": "Sauveterre:JARDINS M",
+    "lat": 44.02644,
+    "lon": 4.79678,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3031204",
+    "nom": "Sauveterre Valergue",
+    "lat": 44.019,
+    "lon": 4.80046,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3031203",
+    "nom": "SAUVETERRE_ZR",
+    "lat": 44.02342,
+    "lon": 4.80425,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3429802",
+    "nom": "Sauvian:Ariane",
+    "lat": 43.29151,
+    "lon": 3.25303,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3429801",
+    "nom": "Sauvian:Dionos",
+    "lat": 43.2917,
+    "lon": 3.25238,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3429803",
+    "nom": "Sauvian:Neuve",
+    "lat": 43.29453,
+    "lon": 3.26268,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1226301",
+    "nom": "Savignac:la garrigue",
+    "lat": 44.35348,
+    "lon": 1.94816,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1226302",
+    "nom": "Savignac_SALT",
+    "lat": 44.35676,
+    "lon": 1.95062,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3031501",
+    "nom": "Saze Les Angles",
+    "lat": 43.936,
+    "lon": 4.72041,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1226401",
+    "nom": "Sebazac-concoures",
+    "lat": 44.40349,
+    "lon": 2.60914,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1226402",
+    "nom": "Sebazac Concoures 2",
+    "lat": 44.41375,
+    "lon": 2.56335,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1226501",
+    "nom": "Sebrazac1:Peyremoula",
+    "lat": 44.50739,
+    "lon": 2.66752,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1226502",
+    "nom": "Sebrazac2:Montegut",
+    "lat": 44.52932,
+    "lon": 2.67787,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1201001",
+    "nom": "Segur",
+    "lat": 44.3144,
+    "lon": 2.82787,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1226701",
+    "nom": "Selve(la)",
+    "lat": 44.11489,
+    "lon": 2.53119,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1226802",
+    "nom": "SENERGUES Falgayrous",
+    "lat": 44.56061,
+    "lon": 2.46732,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1209701",
+    "nom": "Senergues (Saline)",
+    "lat": 44.60907,
+    "lon": 2.52521,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3429905",
+    "nom": "Serignan:Rouges",
+    "lat": 43.24642,
+    "lon": 3.26541,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3031702",
+    "nom": "Sernhac:Garrigues",
+    "lat": 43.9075,
+    "lon": 4.53556,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4818801",
+    "nom": "Serverette",
+    "lat": 44.70389,
+    "lon": 3.38361,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808302",
+    "nom": "Serverette:Camp,Mun,",
+    "lat": 44.7024,
+    "lon": 3.38835,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808303",
+    "nom": "Serverette:Serve",
+    "lat": 44.70463,
+    "lon": 3.38805,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430003",
+    "nom": "Servian:Abilhan",
+    "lat": 43.43064,
+    "lon": 3.30382,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430002",
+    "nom": "Servian:Azur",
+    "lat": 43.42306,
+    "lon": 3.31019,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430130",
+    "nom": "Sete:Arago",
+    "lat": 43.40535,
+    "lon": 3.69283,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430124",
+    "nom": "Sete:Beck",
+    "lat": 43.41238,
+    "lon": 3.67265,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430126",
+    "nom": "Sete:Cleville",
+    "lat": 43.40835,
+    "lon": 3.67526,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430127",
+    "nom": "Sete:Danton",
+    "lat": 43.40895,
+    "lon": 3.69113,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430128",
+    "nom": "Sete:Grangent",
+    "lat": 43.406,
+    "lon": 3.66875,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430123",
+    "nom": "Sete:Joliotcurie",
+    "lat": 43.39632,
+    "lon": 3.67049,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430112",
+    "nom": "SETE LES CARMELITES",
+    "lat": 43.40925,
+    "lon": 3.69011,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430129",
+    "nom": "Sete:Magur",
+    "lat": 43.40703,
+    "lon": 3.70323,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430119",
+    "nom": "SETE METAIRIES",
+    "lat": 43.41142,
+    "lon": 3.67101,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430108",
+    "nom": "Sete-St Clair 2",
+    "lat": 43.40282,
+    "lon": 3.68569,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430131",
+    "nom": "Sete :Std RTS",
+    "lat": 43.41977,
+    "lon": 3.67282,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430102",
+    "nom": "Sete : ZI des Eaux",
+    "lat": 43.41778,
+    "lon": 3.70944,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1227055",
+    "nom": "Severac:Aire",
+    "lat": 44.3302,
+    "lon": 3.08041,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1227054",
+    "nom": "SEVERAC AVEYRON",
+    "lat": 44.27818,
+    "lon": 3.09223,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1227002",
+    "nom": "Severac-Chateau Dalm",
+    "lat": 44.31622,
+    "lon": 3.10021,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1227001",
+    "nom": "SeveracChateau Manil",
+    "lat": 44.36194,
+    "lon": 3.10944,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1212601",
+    "nom": "Severac-le-Chateau1",
+    "lat": 44.30998,
+    "lon": 3.03241,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3032001",
+    "nom": "Seynes",
+    "lat": 44.12167,
+    "lon": 4.27583,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3427004",
+    "nom": "S-J-Vedas-Pic",
+    "lat": 43.57455,
+    "lon": 3.83066,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3032105",
+    "nom": "Sommieres:Gau",
+    "lat": 43.78347,
+    "lon": 4.08868,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3032106",
+    "nom": "Sommieres:Nim",
+    "lat": 43.78646,
+    "lon": 4.09095,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3032104",
+    "nom": "Sommieres:Pres",
+    "lat": 43.78863,
+    "lon": 4.0806,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3032201",
+    "nom": "Soudorgues:ND-Rouvie",
+    "lat": 44.07205,
+    "lon": 3.75322,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1227301",
+    "nom": "SOULAGES BONNEVAL",
+    "lat": 44.67477,
+    "lon": 2.80077,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3029402",
+    "nom": "S-P-Vieux:Iri",
+    "lat": 43.9912,
+    "lon": 4.21328,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220801",
+    "nom": "St-Affrique1:Cazes",
+    "lat": 43.96694,
+    "lon": 2.87879,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220802",
+    "nom": "St-Affrique2:Vandelo",
+    "lat": 43.93014,
+    "lon": 2.87881,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220803",
+    "nom": "St-Affrique3:Peyralb",
+    "lat": 43.95056,
+    "lon": 2.81803,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220806",
+    "nom": "St-Affrique:Quille",
+    "lat": 43.95922,
+    "lon": 2.90388,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4806301",
+    "nom": "St-Alban-Limagnole 1",
+    "lat": 44.76639,
+    "lon": 3.37278,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4813201",
+    "nom": "St-Alban-Limagnole 2",
+    "lat": 44.80444,
+    "lon": 3.42639,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4813202",
+    "nom": "StAlban/L:Prairies",
+    "lat": 44.7736,
+    "lon": 3.38814,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1220901",
+    "nom": "St-Amans-des-Cots",
+    "lat": 44.67667,
+    "lon": 2.67944,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3023701",
+    "nom": "St-Ambroix",
+    "lat": 44.28167,
+    "lon": 4.20667,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4815503",
+    "nom": "St-Andre-de-Lancize",
+    "lat": 44.21889,
+    "lon": 3.82417,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3022901",
+    "nom": "St-Andre-de-Majen 1",
+    "lat": 44.03861,
+    "lon": 3.68528,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3032503",
+    "nom": "St-Andre-de-Majen 2",
+    "lat": 43.995,
+    "lon": 3.67972,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3023101",
+    "nom": "St-Andre-Valborgne 1",
+    "lat": 44.13053,
+    "lon": 3.69866,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3023102",
+    "nom": "St-Andre-Valborgne 2",
+    "lat": 44.15279,
+    "lon": 3.6982,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3424001",
+    "nom": "St-Aunes le tauran",
+    "lat": 43.64389,
+    "lon": 3.98442,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809528",
+    "nom": "St Bauzile:Causse",
+    "lat": 44.4815,
+    "lon": 3.50335,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3424101",
+    "nom": "St Bauzille la Sylve",
+    "lat": 43.60699,
+    "lon": 3.54782,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1221301",
+    "nom": "St-Beauzely1:Verdall",
+    "lat": 44.15583,
+    "lon": 2.96306,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4813903",
+    "nom": "ST BONNET MONTAUROUX",
+    "lat": 44.81597,
+    "lon": 3.72,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4813901",
+    "nom": "St-Bonnet-Montauroux",
+    "lat": 44.80167,
+    "lon": 3.75083,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3424302",
+    "nom": "St-B-Puto:Montoulieu",
+    "lat": 43.89646,
+    "lon": 3.74278,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3424401",
+    "nom": "St Bres:Le Flore",
+    "lat": 43.67039,
+    "lon": 4.03848,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800202",
+    "nom": "StChelyAp:Beausoleil",
+    "lat": 44.79862,
+    "lon": 3.27818,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800203",
+    "nom": "StchelyApch:Chaulhac",
+    "lat": 44.80645,
+    "lon": 3.27978,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800206",
+    "nom": "StChelyApche:Chicane",
+    "lat": 44.80452,
+    "lon": 3.27803,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800208",
+    "nom": "StChelyApcher:Dalle",
+    "lat": 44.80468,
+    "lon": 3.27261,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800207",
+    "nom": "StchelyApche:Roussel",
+    "lat": 44.79987,
+    "lon": 3.27654,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800204",
+    "nom": "StChelyApch:Foirail",
+    "lat": 44.80369,
+    "lon": 3.27737,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800205",
+    "nom": "StChelyApch:Occitane",
+    "lat": 44.8053,
+    "lon": 3.284,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4814002",
+    "nom": "St-chely-d'apcher",
+    "lat": 44.81395,
+    "lon": 3.28444,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4814001",
+    "nom": "St-Chely-d'Apcher 2",
+    "lat": 44.79475,
+    "lon": 3.26797,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1221401",
+    "nom": "St-Chely-d'Aubrac",
+    "lat": 44.57361,
+    "lon": 2.90722,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4814101",
+    "nom": "St-Chely-du-Tarn",
+    "lat": 44.32889,
+    "lon": 3.385,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1221504",
+    "nom": "StChristopheVall-358",
+    "lat": 44.46849,
+    "lon": 2.41145,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1221801",
+    "nom": "St-Cyprien/Dourdou",
+    "lat": 44.53917,
+    "lon": 2.4139,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3023903",
+    "nom": "STE CECILE ANDORGE2",
+    "lat": 44.26785,
+    "lon": 3.9649,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3424801",
+    "nom": "Ste-Croix 1",
+    "lat": 43.7716,
+    "lon": 3.90789,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4814401",
+    "nom": "STE-CROIX-VALLEE-F1",
+    "lat": 44.17583,
+    "lon": 3.73389,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4814402",
+    "nom": "Ste-Croix-Vallee-F,2",
+    "lat": 44.17194,
+    "lon": 3.75222,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4806701",
+    "nom": "Ste-Croix-Vallee-F,3",
+    "lat": 44.18917,
+    "lon": 3.71556,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4806702",
+    "nom": "SteCroixV:Fabregue",
+    "lat": 44.17744,
+    "lon": 3.74255,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4814602",
+    "nom": "Ste-Enimie:Dignas",
+    "lat": 44.37111,
+    "lon": 3.40167,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4814604",
+    "nom": "Ste Enimie:Meyrueis",
+    "lat": 44.36405,
+    "lon": 3.41262,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1222001",
+    "nom": "Ste-Eulalie-Cernon",
+    "lat": 43.99361,
+    "lon": 3.12944,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1222002",
+    "nom": "Ste Eulalie-Cernon2",
+    "lat": 43.97682,
+    "lon": 3.17002,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1222301",
+    "nom": "Ste-Genevieve1:Clerg",
+    "lat": 44.79917,
+    "lon": 2.74583,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1203602",
+    "nom": "Ste-Genevieve2:Sarra",
+    "lat": 44.83472,
+    "lon": 2.73361,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1222302",
+    "nom": "Ste-Genevieve3:Ther",
+    "lat": 44.84172,
+    "lon": 2.77316,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3425102",
+    "nom": "St Etienne Gourgas2",
+    "lat": 43.77374,
+    "lon": 3.37202,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4814701",
+    "nom": "St-Etienne-Valdonnez",
+    "lat": 44.44528,
+    "lon": 3.54083,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4814801",
+    "nom": "St-Etienne-Val,-Fr,1",
+    "lat": 44.1725,
+    "lon": 3.82861,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4814804",
+    "nom": "St-Etienne-Val,-Fr,2",
+    "lat": 44.17056,
+    "lon": 3.84444,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809529",
+    "nom": "StEtienneV:Combasse",
+    "lat": 44.45881,
+    "lon": 3.55954,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4815101",
+    "nom": "St-Frezal-d'Albuges",
+    "lat": 44.57139,
+    "lon": 3.75722,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4815201",
+    "nom": "St-Frezal-Ventalon",
+    "lat": 44.28611,
+    "lon": 3.87056,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3425501",
+    "nom": "St-Gely-du-Fesc",
+    "lat": 43.68889,
+    "lon": 3.81722,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3425503",
+    "nom": "StGelyFesc-Roseaux",
+    "lat": 43.68935,
+    "lon": 3.80008,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3425504",
+    "nom": "StGelyFesc-Valmont",
+    "lat": 43.68199,
+    "lon": 3.805,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3425701",
+    "nom": "St-Genies-Varensal",
+    "lat": 43.69029,
+    "lon": 3.01565,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1221901",
+    "nom": "St-Geniez-d'Olt1",
+    "lat": 44.47083,
+    "lon": 2.90944,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1222401",
+    "nom": "St-Geniez-d'Olt2",
+    "lat": 44.45791,
+    "lon": 2.96584,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1222506",
+    "nom": "St Georges de Luz 4",
+    "lat": 44.06641,
+    "lon": 2.99319,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1222501",
+    "nom": "St-Georges-de-Luze1",
+    "lat": 44.065,
+    "lon": 2.96889,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1222502",
+    "nom": "St-Georges-de-Luze2",
+    "lat": 44.04167,
+    "lon": 3.01167,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803309",
+    "nom": "StGeorgesL:Tremolet",
+    "lat": 44.34261,
+    "lon": 3.23119,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1222507",
+    "nom": "ST_GEORGES_LUZENCON2",
+    "lat": 44.04183,
+    "lon": 3.01178,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3425902",
+    "nom": "ST GEORGES TERRES",
+    "lat": 43.60835,
+    "lon": 3.78025,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4815501",
+    "nom": "St-Germain-Calber 1",
+    "lat": 44.22,
+    "lon": 3.855,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4815502",
+    "nom": "St-Germain-Calber 2",
+    "lat": 44.20528,
+    "lon": 3.815,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4815601",
+    "nom": "St Germain Del Duc",
+    "lat": 44.46628,
+    "lon": 3.15644,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4817501",
+    "nom": "St-Germain-du-Teil",
+    "lat": 44.45778,
+    "lon": 3.145,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4807302",
+    "nom": "StGermain:Lavogne",
+    "lat": 44.4765,
+    "lon": 3.17207,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4815505",
+    "nom": "StGermain:Vignette",
+    "lat": 44.21923,
+    "lon": 3.80987,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430803",
+    "nom": "St-Gervais/Mare 1",
+    "lat": 43.6575,
+    "lon": 3.07917,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3426001",
+    "nom": "St-Gervais/Mare 2",
+    "lat": 43.67917,
+    "lon": 3.03028,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3426002",
+    "nom": "St-Gervais/Mare 3",
+    "lat": 43.65506,
+    "lon": 3.04724,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3025801",
+    "nom": "St-Gilles",
+    "lat": 43.68417,
+    "lon": 4.42778,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3025806",
+    "nom": "St Gilles:Estagel",
+    "lat": 43.73182,
+    "lon": 4.39755,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3425904",
+    "nom": "St-G-Orque:Grillarde",
+    "lat": 43.61636,
+    "lon": 3.77896,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3422101",
+    "nom": "St-Guilhem-Desert",
+    "lat": 43.73212,
+    "lon": 3.56006,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1209301",
+    "nom": "St-Hippolyte2:Viala",
+    "lat": 44.68862,
+    "lon": 2.55684,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1215101",
+    "nom": "St-Hippolyte3:Trebuc",
+    "lat": 44.70898,
+    "lon": 2.61284,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3026301",
+    "nom": "St-Hippolyte-du-Fort",
+    "lat": 43.95611,
+    "lon": 3.8524,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3426701",
+    "nom": "St-Jean-de-Fos",
+    "lat": 43.7075,
+    "lon": 3.54917,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1223101",
+    "nom": "St-Jean-du-Bruel",
+    "lat": 44.02814,
+    "lon": 3.36389,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3026901",
+    "nom": "St-Jean-du-Gard",
+    "lat": 44.105,
+    "lon": 3.90444,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3027001",
+    "nom": "St-Jean-du-Pin:St Ge",
+    "lat": 44.11667,
+    "lon": 4.05917,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1223201",
+    "nom": "St-Jean-et-St-Paul",
+    "lat": 43.92649,
+    "lon": 3.0737,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3427005",
+    "nom": "StJeanVedas:Peyriere",
+    "lat": 43.57456,
+    "lon": 3.83398,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4816101",
+    "nom": "St-Juery",
+    "lat": 44.82972,
+    "lon": 3.07944,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4816401",
+    "nom": "St-Julien-du-Tournel",
+    "lat": 44.49056,
+    "lon": 3.68472,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3427201",
+    "nom": "St-Just:les prats",
+    "lat": 43.64889,
+    "lon": 4.12556,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1223501",
+    "nom": "St-Just/Viaur",
+    "lat": 44.12944,
+    "lon": 2.37972,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1223702",
+    "nom": "St-Laurent-d'Olt",
+    "lat": 44.45224,
+    "lon": 3.0887,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3028001",
+    "nom": "ST LAURENT MINIER1",
+    "lat": 43.93335,
+    "lon": 3.65333,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4816801",
+    "nom": "St-Leger-de-Peyre",
+    "lat": 44.59169,
+    "lon": 3.29624,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4817001",
+    "nom": "St-Martin-de-boubaux",
+    "lat": 44.22556,
+    "lon": 3.89833,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3427402",
+    "nom": "StMartinLondre:Perou",
+    "lat": 43.78851,
+    "lon": 3.73061,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3028405",
+    "nom": "ST MARTIN VALGALGUES",
+    "lat": 44.17683,
+    "lon": 4.04344,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3427601",
+    "nom": "St-Mathieu-Treviers",
+    "lat": 43.75806,
+    "lon": 3.87972,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3021901",
+    "nom": "St-Maurice-Navacelle",
+    "lat": 43.8575,
+    "lon": 3.55028,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1200401",
+    "nom": "St-Parthem",
+    "lat": 44.61888,
+    "lon": 2.31197,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3428252",
+    "nom": "ST PAUL ET VALMALLE",
+    "lat": 43.62598,
+    "lon": 3.65758,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4800209",
+    "nom": "StPierreLeV:Civeyrac",
+    "lat": 44.82766,
+    "lon": 3.29981,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4817502",
+    "nom": "St Pierre Nogaret",
+    "lat": 44.46865,
+    "lon": 3.14871,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1229301",
+    "nom": "St-Pierre-Tripiers",
+    "lat": 44.19639,
+    "lon": 3.26889,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3422902",
+    "nom": "St-Pons 1:St-Pons",
+    "lat": 43.48722,
+    "lon": 2.79389,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3428402",
+    "nom": "St-Pons 3:Marcouryne",
+    "lat": 43.48944,
+    "lon": 2.75528,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3428501",
+    "nom": "ST_PONS_DE_MAUCHIENS",
+    "lat": 43.50195,
+    "lon": 3.52198,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3428601",
+    "nom": "St-Privat 1",
+    "lat": 43.75133,
+    "lon": 3.41366,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3428602",
+    "nom": "St-Privat 2",
+    "lat": 43.73639,
+    "lon": 3.43583,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3029401",
+    "nom": "St-Privat-des-Vieux",
+    "lat": 44.12833,
+    "lon": 4.12611,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1224201",
+    "nom": "St-remy puech:vays,",
+    "lat": 44.39056,
+    "lon": 2.06611,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1224402",
+    "nom": "St-Rome-de-Tarn",
+    "lat": 44.05095,
+    "lon": 2.87501,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3029701",
+    "nom": "St-Sauveur-Camprieu",
+    "lat": 44.12417,
+    "lon": 3.47972,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1224801",
+    "nom": "St-Sernin/Rance1",
+    "lat": 43.90111,
+    "lon": 2.60083,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1224802",
+    "nom": "St-Sernin/Rance2",
+    "lat": 43.88806,
+    "lon": 2.6075,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1224902",
+    "nom": "St Server-Mura SALT",
+    "lat": 43.76091,
+    "lon": 2.72658,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1224901",
+    "nom": "St-Sever-du-Moustier",
+    "lat": 43.78472,
+    "lon": 2.7,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3026303",
+    "nom": "Studio_Escapade",
+    "lat": 43.965,
+    "lon": 3.85611,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1225101",
+    "nom": "St-Victor-et-Melvieu",
+    "lat": 44.055,
+    "lon": 2.77167,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3401402",
+    "nom": "StVincentBarbey-Rans",
+    "lat": 43.70508,
+    "lon": 3.88062,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3429101",
+    "nom": "St-Vincent-Olargues",
+    "lat": 43.55944,
+    "lon": 2.87722,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3032501",
+    "nom": "Sumene 1",
+    "lat": 43.97184,
+    "lon": 3.70289,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1227401",
+    "nom": "Sylvanes",
+    "lat": 43.81412,
+    "lon": 2.93757,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1227601",
+    "nom": "TAURIAC de NAUCELLE",
+    "lat": 44.14613,
+    "lon": 2.32477,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1227702",
+    "nom": "Taussac2:Loquebrouss",
+    "lat": 44.84295,
+    "lon": 2.6298,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430801",
+    "nom": "Taussac-Billiere 1",
+    "lat": 43.62417,
+    "lon": 3.06472,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430802",
+    "nom": "Taussac-Billiere 2",
+    "lat": 43.61639,
+    "lon": 3.105,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3032602",
+    "nom": "Tavel:Aire",
+    "lat": 43.99936,
+    "lon": 4.69941,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430902",
+    "nom": "Teyran-France",
+    "lat": 43.68612,
+    "lon": 3.92447,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430901",
+    "nom": "Teyran:Malrives",
+    "lat": 43.68893,
+    "lon": 3.93278,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430903",
+    "nom": "Teyran-Muscadets",
+    "lat": 43.68004,
+    "lon": 3.91863,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1228101",
+    "nom": "Toulonjac",
+    "lat": 44.37922,
+    "lon": 2.01757,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3431101",
+    "nom": "TOURBES",
+    "lat": 43.42593,
+    "lon": 3.39514,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3431201",
+    "nom": "Tour/Orb 1 (La)",
+    "lat": 43.64667,
+    "lon": 3.16306,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3431202",
+    "nom": "Tour/Orb 2 (La)",
+    "lat": 43.65583,
+    "lon": 3.13222,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3419602",
+    "nom": "Tun,Escalette Belve",
+    "lat": 43.81649,
+    "lon": 3.31844,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3425301",
+    "nom": "Tunnel Escalette N",
+    "lat": 43.83335,
+    "lon": 3.3094,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803406",
+    "nom": "Tunnel Montjezieu",
+    "lat": 44.4818,
+    "lon": 3.19862,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3033304",
+    "nom": "Uchaud:Albi",
+    "lat": 43.75732,
+    "lon": 4.27517,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3033305",
+    "nom": "Uchaud:Joly",
+    "lat": 43.755,
+    "lon": 4.26736,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3033307",
+    "nom": "Uchaud:Octavum",
+    "lat": 43.757,
+    "lon": 4.2665,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3033306",
+    "nom": "Uchaud:Sales",
+    "lat": 43.7578,
+    "lon": 4.27677,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3033405",
+    "nom": "UZES_9066",
+    "lat": 44.00921,
+    "lon": 4.40981,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3033409",
+    "nom": "Uzes:Cedres",
+    "lat": 44.01232,
+    "lon": 4.41367,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3033406",
+    "nom": "Uzes:Cellier",
+    "lat": 44.01856,
+    "lon": 4.41531,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3033408",
+    "nom": "Uzes:Mico",
+    "lat": 44.01268,
+    "lon": 4.41265,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3033407",
+    "nom": "Uzes:Monet",
+    "lat": 44.02485,
+    "lon": 4.41672,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3432001",
+    "nom": "Vailhauques:Devois",
+    "lat": 43.67056,
+    "lon": 3.73056,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1228752",
+    "nom": "VAILHOURLES",
+    "lat": 44.31565,
+    "lon": 1.88986,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3432201",
+    "nom": "Valflaunes:St-Daumar",
+    "lat": 43.82496,
+    "lon": 3.85956,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3020301",
+    "nom": "Vallee-de-l'Auzonnet",
+    "lat": 44.2725,
+    "lon": 4.06056,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3033902",
+    "nom": "Valleraugue:Aigoual",
+    "lat": 44.12139,
+    "lon": 3.57469,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3033901",
+    "nom": "Valleraugue:Montaigu",
+    "lat": 44.07028,
+    "lon": 3.66167,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1228901",
+    "nom": "VALZERGUES",
+    "lat": 44.50871,
+    "lon": 2.23478,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034105",
+    "nom": "Vauvert:Allende",
+    "lat": 43.69876,
+    "lon": 4.28073,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034106",
+    "nom": "Vauvert:Aubanel",
+    "lat": 43.69804,
+    "lon": 4.28078,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034107",
+    "nom": "Vauvert:Cost",
+    "lat": 43.69993,
+    "lon": 4.2796,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034108",
+    "nom": "Vauvert:Etien",
+    "lat": 43.69683,
+    "lon": 4.27147,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034109",
+    "nom": "Vauvert:Jaures59",
+    "lat": 43.69506,
+    "lon": 4.27236,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034110",
+    "nom": "Vauvert:Mail",
+    "lat": 43.69705,
+    "lon": 4.27795,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034104",
+    "nom": "Vauvert:Valen",
+    "lat": 43.68926,
+    "lon": 4.27169,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034111",
+    "nom": "Vauvert:Verts",
+    "lat": 43.70086,
+    "lon": 4.28124,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3433605",
+    "nom": "V-Bezier:Abattoir",
+    "lat": 43.31411,
+    "lon": 3.28164,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4819301",
+    "nom": "Vebron 1",
+    "lat": 44.25833,
+    "lon": 3.59806,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3432705",
+    "nom": "Vendargues:Gramenous",
+    "lat": 43.66122,
+    "lon": 3.97668,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3432709",
+    "nom": "Vendargues:Griffon",
+    "lat": 43.66626,
+    "lon": 3.97437,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3432707",
+    "nom": "Vendargues:Lucques",
+    "lat": 43.65341,
+    "lon": 3.97313,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3432708",
+    "nom": "Vendargues:Picholine",
+    "lat": 43.65341,
+    "lon": 3.97541,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3432706",
+    "nom": "Vendargues:Verdales",
+    "lat": 43.65357,
+    "lon": 3.97589,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034202",
+    "nom": "Venejan 2",
+    "lat": 44.18143,
+    "lon": 4.66248,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034409",
+    "nom": "VERGEZE",
+    "lat": 43.75163,
+    "lon": 4.21846,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034402",
+    "nom": "VERGEZE_8930",
+    "lat": 43.7381,
+    "lon": 4.23083,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034405",
+    "nom": "Vergeze Codognan",
+    "lat": 43.7184,
+    "lon": 4.24068,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034403",
+    "nom": "VERGEZE FONTBELLE",
+    "lat": 43.73715,
+    "lon": 4.22654,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034408",
+    "nom": "Vergeze:Garri",
+    "lat": 43.74729,
+    "lon": 4.22653,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3007901",
+    "nom": "Vernarede 1 (La)",
+    "lat": 44.31167,
+    "lon": 3.99806,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034501",
+    "nom": "Vernarede 2 (La)",
+    "lat": 44.28944,
+    "lon": 4.01639,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3433101",
+    "nom": "Verreries-de-Moussan",
+    "lat": 43.45611,
+    "lon": 2.66333,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1229152",
+    "nom": "VERRIERES 1",
+    "lat": 44.21669,
+    "lon": 3.0681,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1229101",
+    "nom": "Verrieres1",
+    "lat": 44.25748,
+    "lon": 3.05183,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034601",
+    "nom": "Vers-Pont-du-Gard",
+    "lat": 43.97278,
+    "lon": 4.51806,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034701",
+    "nom": "Vestric et Candiac",
+    "lat": 43.73144,
+    "lon": 4.28879,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034802",
+    "nom": "VEZENOBRES",
+    "lat": 44.03735,
+    "lon": 4.11025,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034803",
+    "nom": "VEZENOBRES 2",
+    "lat": 44.03473,
+    "lon": 4.14635,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3034801",
+    "nom": "Vezenobres:N 10",
+    "lat": 44.06778,
+    "lon": 4.11624,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1229401",
+    "nom": "VEZINS DE LEVEZOU",
+    "lat": 44.2775,
+    "lon": 2.9849,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1229601",
+    "nom": "Viala-du-Tarn",
+    "lat": 44.07,
+    "lon": 2.79167,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4819401",
+    "nom": "Vialas",
+    "lat": 44.32278,
+    "lon": 3.8975,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4819406",
+    "nom": "Vialas 2",
+    "lat": 44.31992,
+    "lon": 3.90564,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4819404",
+    "nom": "Vialas:R Gendarmerie",
+    "lat": 44.33374,
+    "lon": 3.89624,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3433206",
+    "nom": "Vias:Gabel",
+    "lat": 43.31591,
+    "lon": 3.41934,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3433205",
+    "nom": "Vias:Genets",
+    "lat": 43.31585,
+    "lon": 3.41873,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3433401",
+    "nom": "Vieussan",
+    "lat": 43.53639,
+    "lon": 2.95222,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3017601",
+    "nom": "Vigan 1 (Le)",
+    "lat": 43.96,
+    "lon": 3.58333,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3001501",
+    "nom": "Vigan 2:Arphy (Le)",
+    "lat": 44.0075,
+    "lon": 3.60361,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3035001",
+    "nom": "Vigan 3 (Le)",
+    "lat": 43.99472,
+    "lon": 3.6275,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3035006",
+    "nom": "Vigan:Cha",
+    "lat": 43.99039,
+    "lon": 3.6042,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1216101",
+    "nom": "Villecomtal",
+    "lat": 44.54694,
+    "lon": 2.54889,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4819801",
+    "nom": "Villefort 1",
+    "lat": 44.44056,
+    "lon": 3.94639,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4819809",
+    "nom": "Villefort Collet",
+    "lat": 44.43238,
+    "lon": 3.93449,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4819808",
+    "nom": "Villefort: gare",
+    "lat": 44.44306,
+    "lon": 3.91476,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4819806",
+    "nom": "Villefort:Sedaries",
+    "lat": 44.43419,
+    "lon": 3.93131,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1230001",
+    "nom": "Villefranche-de-R,1",
+    "lat": 44.3475,
+    "lon": 2.0425,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1230002",
+    "nom": "Villefranche-de-R_2",
+    "lat": 44.33667,
+    "lon": 2.0475,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1229901",
+    "nom": "Villefranche-Panat",
+    "lat": 44.09019,
+    "lon": 2.69222,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1230009",
+    "nom": "Villefranche -R-2 ZI",
+    "lat": 44.3339,
+    "lon": 2.02231,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1230010",
+    "nom": "Villefranche-R3",
+    "lat": 44.36212,
+    "lon": 2.01597,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3035152",
+    "nom": "Villeneuve:Genevieve",
+    "lat": 43.95699,
+    "lon": 4.79347,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3433705",
+    "nom": "VilleneuveLM:Nasses",
+    "lat": 43.52933,
+    "lon": 3.84696,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3433706",
+    "nom": "VilleneuveMague-Avoc",
+    "lat": 43.52935,
+    "lon": 3.85252,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3035301",
+    "nom": "Vissec",
+    "lat": 43.895,
+    "lon": 3.45194,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000401",
+    "nom": "Vives:Jorda",
+    "lat": 43.73866,
+    "lon": 4.17933,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3000402",
+    "nom": "Vives:Rosiere",
+    "lat": 43.74153,
+    "lon": 4.1767,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1230501",
+    "nom": "Viviez1:Mas-del-Bosc",
+    "lat": 44.55844,
+    "lon": 2.21084,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1201304",
+    "nom": "Viviez2:Agard",
+    "lat": 44.54271,
+    "lon": 2.22097,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1205211",
+    "nom": "ZR CAPDENAC",
+    "lat": 44.57205,
+    "lon": 2.08279,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4803601",
+    "nom": "ZR-Cassagnas",
+    "lat": 44.27392,
+    "lon": 3.73099,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4804303",
+    "nom": "ZR-Chateauneuf-R-2",
+    "lat": 44.63799,
+    "lon": 3.69201,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808201",
+    "nom": "ZR-Laubert-1",
+    "lat": 44.58247,
+    "lon": 3.64005,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808202",
+    "nom": "ZR-Laubert-2",
+    "lat": 44.60463,
+    "lon": 3.66819,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4808304",
+    "nom": "ZR-Les Laubies",
+    "lat": 44.68189,
+    "lon": 3.42449,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4818503",
+    "nom": "ZR-Les Salelles-2",
+    "lat": 44.49008,
+    "lon": 3.26791,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3402204",
+    "nom": "ZRP_BAILLARGUES",
+    "lat": 43.67307,
+    "lon": 4.01794,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403104",
+    "nom": "ZRP_BESSAN",
+    "lat": 43.36908,
+    "lon": 3.39419,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3403255",
+    "nom": "ZRP_BEZIERS",
+    "lat": 43.34535,
+    "lon": 3.3217,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4809904",
+    "nom": "ZRP_BOURGS/COLA2",
+    "lat": 44.55027,
+    "lon": 3.25695,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1204303",
+    "nom": "ZRP_CALMONT",
+    "lat": 44.2839,
+    "lon": 2.50682,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4811102",
+    "nom": "ZR-Pelouse",
+    "lat": 44.57844,
+    "lon": 3.63255,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3010703",
+    "nom": "ZRP_ESTEZARGUES_AIR",
+    "lat": 43.96838,
+    "lon": 4.64429,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3409505",
+    "nom": "ZRP_FABREGUES2",
+    "lat": 43.55069,
+    "lon": 3.80652,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3011601",
+    "nom": "ZRP_FOURNES",
+    "lat": 43.94164,
+    "lon": 4.61228,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3012303",
+    "nom": "ZRP_GALLARGUES-LE-M",
+    "lat": 43.72522,
+    "lon": 4.17335,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3406404",
+    "nom": "ZRP_LE CAYLAR_AIRE",
+    "lat": 43.8642,
+    "lon": 3.31235,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3413503",
+    "nom": "ZRP_LESPIGNAN",
+    "lat": 43.25959,
+    "lon": 3.1679,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3415701",
+    "nom": "ZRP_MEZE",
+    "lat": 43.42868,
+    "lon": 3.56042,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3415702",
+    "nom": "ZRP_MEZE_AIRE",
+    "lat": 43.4511,
+    "lon": 3.5885,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1214555",
+    "nom": "ZRP_MILLAU_AIRE",
+    "lat": 44.09697,
+    "lon": 3.02154,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3418307",
+    "nom": "ZRP_NISSAN-LEZ-ENSE",
+    "lat": 43.29396,
+    "lon": 3.09037,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3031703",
+    "nom": "ZRP_SERNHAC",
+    "lat": 43.91708,
+    "lon": 4.57341,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3430121",
+    "nom": "ZRP_SETE",
+    "lat": 43.36066,
+    "lon": 3.60416,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "4813501",
+    "nom": "ZRP_ST-ANDRE-CAPCEZE",
+    "lat": 44.41118,
+    "lon": 3.93516,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3025805",
+    "nom": "ZRP_ST-GILLES AIRE",
+    "lat": 43.76138,
+    "lon": 4.42762,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3032601",
+    "nom": "ZRP_TAVEL_AIRE",
+    "lat": 44.00181,
+    "lon": 4.7053,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3432902",
+    "nom": "ZRP_VENDRES",
+    "lat": 43.29554,
+    "lon": 3.19849,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1200201",
+    "nom": "ZRP_VERRIERES_AIRE",
+    "lat": 44.21798,
+    "lon": 3.08325,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3434001",
+    "nom": "ZRP_VILLETELLE_AIRE",
+    "lat": 43.71262,
+    "lon": 4.13268,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "3022902",
+    "nom": "ZR St Andre Majenc",
+    "lat": 43.99966,
+    "lon": 3.665,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1230007",
+    "nom": "ZR_Viilefranche-R",
+    "lat": 44.35423,
+    "lon": 2.03129,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1230008",
+    "nom": "ZR-Villefranche-R-1",
+    "lat": 44.36707,
+    "lon": 2.02223,
+    "equipe": "ZC SO LANG"
+  },
+  {
+    "ig": "1230503",
+    "nom": "ZR-Viviez",
+    "lat": 44.56222,
+    "lon": 2.22967,
+    "equipe": "ZC SO LANG"
+  }
+]

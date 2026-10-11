@@ -1,0 +1,9060 @@
+[
+  {
+    "ig": "8700101",
+    "nom": "Aixe-sur-Vienne",
+    "lat": 45.80069,
+    "lon": 1.1431,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700105",
+    "nom": "Aixe/Vien:Mitterand",
+    "lat": 45.79431,
+    "lon": 1.13089,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700103",
+    "nom": "Aixe/Vienne:Louche",
+    "lat": 45.79722,
+    "lon": 1.13338,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700104",
+    "nom": "Aixe/Vienne:Turgot",
+    "lat": 45.791,
+    "lon": 1.13431,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4600101",
+    "nom": "Albas",
+    "lat": 44.46533,
+    "lon": 1.23263,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900508",
+    "nom": "Allasac:Ardoise",
+    "lat": 45.25593,
+    "lon": 1.47064,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900510",
+    "nom": "Allasac:Belle Vue",
+    "lat": 45.26198,
+    "lon": 1.47794,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900509",
+    "nom": "Allasac:Colombier",
+    "lat": 45.25197,
+    "lon": 1.47086,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900512",
+    "nom": "Allassac:Malfant",
+    "lat": 45.25785,
+    "lon": 1.47502,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900511",
+    "nom": "Allassac:Tour Cesar",
+    "lat": 45.25804,
+    "lon": 1.47645,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900513",
+    "nom": "ALLASSAC_TT",
+    "lat": 45.26198,
+    "lon": 1.47795,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1901904",
+    "nom": "Altillac",
+    "lat": 44.97222,
+    "lon": 1.83222,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700201",
+    "nom": "Ambazac",
+    "lat": 45.95451,
+    "lon": 1.40704,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700210",
+    "nom": "Ambazac:Chantegros",
+    "lat": 45.95794,
+    "lon": 1.40356,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700214",
+    "nom": "Ambazac:Curie",
+    "lat": 45.95949,
+    "lon": 1.39778,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700215",
+    "nom": "Ambazac:Gay",
+    "lat": 45.95705,
+    "lon": 1.39665,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700212",
+    "nom": "Ambazac:General",
+    "lat": 45.95818,
+    "lon": 1.40059,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700209",
+    "nom": "Ambazac:Jumeaux",
+    "lat": 45.95851,
+    "lon": 1.39672,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700213",
+    "nom": "Ambazac:Mosaique",
+    "lat": 45.95934,
+    "lon": 1.40018,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700206",
+    "nom": "AMBAZAC-POINTY",
+    "lat": 45.93627,
+    "lon": 1.39126,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700211",
+    "nom": "Ambazac:Rivailles",
+    "lat": 45.95289,
+    "lon": 1.4083,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900801",
+    "nom": "AMBRUGEAT1",
+    "lat": 45.54374,
+    "lon": 2.05699,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4606201",
+    "nom": "Anglars-Juillac",
+    "lat": 44.50389,
+    "lon": 1.21944,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900901",
+    "nom": "Angles/correze:jarr,",
+    "lat": 45.30785,
+    "lon": 1.81999,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4600704",
+    "nom": "ARCAMBAL",
+    "lat": 44.45297,
+    "lon": 1.50298,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8703101",
+    "nom": "Arfeuille",
+    "lat": 45.52902,
+    "lon": 1.21585,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1904501",
+    "nom": "Argentat1",
+    "lat": 45.06541,
+    "lon": 1.95801,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1914001",
+    "nom": "Argentat2",
+    "lat": 45.08203,
+    "lon": 1.91997,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1901001",
+    "nom": "Argentat:Xaintrie",
+    "lat": 45.09353,
+    "lon": 1.93703,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700302",
+    "nom": "ARNAC-LA-POSTE",
+    "lat": 46.24007,
+    "lon": 1.39199,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700301",
+    "nom": "Arnac-la-poste:Chant",
+    "lat": 46.27349,
+    "lon": 1.40861,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1901102",
+    "nom": "Arnac-Pom:Bois redon",
+    "lat": 45.40371,
+    "lon": 1.39043,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1901103",
+    "nom": "Arnac-Pom:LaFavorite",
+    "lat": 45.39497,
+    "lon": 1.38852,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2401301",
+    "nom": "Atur raubaly 1",
+    "lat": 45.13718,
+    "lon": 0.76944,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1901301",
+    "nom": "Aubazines",
+    "lat": 45.19271,
+    "lon": 1.67875,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1901302",
+    "nom": "AUBAZINES_Bouteilles",
+    "lat": 45.1973,
+    "lon": 1.6749,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2300801",
+    "nom": "Aubusson1",
+    "lat": 45.95407,
+    "lon": 2.15721,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2300802",
+    "nom": "Aubusson2:CAT",
+    "lat": 45.9616,
+    "lon": 2.17413,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2300851",
+    "nom": "Aubusson:Redondets",
+    "lat": 45.94512,
+    "lon": 2.16476,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700401",
+    "nom": "AUGNE",
+    "lat": 45.75239,
+    "lon": 1.71197,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1901402",
+    "nom": "Auriac",
+    "lat": 45.1852,
+    "lon": 2.14125,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4613501",
+    "nom": "Aurillac:Labastide",
+    "lat": 44.83503,
+    "lon": 2.11904,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4617701",
+    "nom": "Autoire",
+    "lat": 44.86139,
+    "lon": 1.81833,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2301301",
+    "nom": "Auzances1",
+    "lat": 46.02072,
+    "lon": 2.50118,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2301302",
+    "nom": "Auzances:les gardes",
+    "lat": 46.01481,
+    "lon": 2.50885,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1918701",
+    "nom": "Ayen1",
+    "lat": 45.282,
+    "lon": 1.35028,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1901501",
+    "nom": "Ayen:Condamines",
+    "lat": 45.24946,
+    "lon": 1.32531,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1901502",
+    "nom": "Ayen:Mareuse",
+    "lat": 45.24622,
+    "lon": 1.32639,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4624601",
+    "nom": "Aynac",
+    "lat": 44.79054,
+    "lon": 1.82891,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2402201",
+    "nom": "Badefols",
+    "lat": 44.83917,
+    "lon": 0.78639,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4601501",
+    "nom": "Bagnac/Cele",
+    "lat": 44.65778,
+    "lon": 2.1475,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4601505",
+    "nom": "BAGNACHaute23",
+    "lat": 44.66839,
+    "lon": 2.15542,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4601506",
+    "nom": "BAGNACSonneries3",
+    "lat": 44.66753,
+    "lon": 2.15533,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1901601",
+    "nom": "Bar1:Vimbelle",
+    "lat": 45.33806,
+    "lon": 1.80639,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2402603",
+    "nom": "BASSILLAC&AUBEROCHE3",
+    "lat": 45.15431,
+    "lon": 0.90269,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1901905",
+    "nom": "Beaulieu/D:Chapelle",
+    "lat": 44.98072,
+    "lon": 1.83712,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1901906",
+    "nom": "Beaulieu/D:Espradals",
+    "lat": 44.977,
+    "lon": 1.83812,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1901907",
+    "nom": "Beaulieu/D:Mombrial",
+    "lat": 44.97856,
+    "lon": 1.83934,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900701",
+    "nom": "Beaulieu/Dordogne",
+    "lat": 44.98361,
+    "lon": 1.86361,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2402901",
+    "nom": "Beaupouyet",
+    "lat": 45.01333,
+    "lon": 0.26861,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711409",
+    "nom": "Beausserie I",
+    "lat": 45.83559,
+    "lon": 1.30478,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711306",
+    "nom": "Becquerel",
+    "lat": 45.87354,
+    "lon": 1.32845,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708585",
+    "nom": "Belfort",
+    "lat": 45.84135,
+    "lon": 1.26222,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701101",
+    "nom": "Bellac",
+    "lat": 46.1125,
+    "lon": 1.04306,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701109",
+    "nom": "Bellac:Carnot",
+    "lat": 46.11909,
+    "lon": 1.04921,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701107",
+    "nom": "Bellac:Gal",
+    "lat": 46.12413,
+    "lon": 1.06006,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701108",
+    "nom": "Bellac:Iris",
+    "lat": 46.12517,
+    "lon": 1.05446,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701106",
+    "nom": "Bellac:Jolibois1",
+    "lat": 46.12418,
+    "lon": 1.05848,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701104",
+    "nom": "Bellac:Jouvet1",
+    "lat": 46.12173,
+    "lon": 1.0474,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701111",
+    "nom": "Bellac:Mezieres",
+    "lat": 46.12631,
+    "lon": 1.0625,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701110",
+    "nom": "Bellac:Parc",
+    "lat": 46.12217,
+    "lon": 1.0524,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701105",
+    "nom": "Bellac:Point",
+    "lat": 46.12449,
+    "lon": 1.0567,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4602402",
+    "nom": "BELMONT-BRETENOUX 2",
+    "lat": 44.88928,
+    "lon": 1.88576,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4602403",
+    "nom": "BELMONT_ESCLAT",
+    "lat": 44.89443,
+    "lon": 1.90218,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2403501",
+    "nom": "Belves",
+    "lat": 44.76083,
+    "lon": 1.02139,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2403704",
+    "nom": "Bergerac",
+    "lat": 44.86203,
+    "lon": 0.50861,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2401501",
+    "nom": "Bergerac:Audrix",
+    "lat": 44.87889,
+    "lon": 0.95639,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2403752",
+    "nom": "Bergerac:Std Orion",
+    "lat": 44.85703,
+    "lon": 0.5085,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2403705",
+    "nom": "Bergerac - Studio",
+    "lat": 44.85528,
+    "lon": 0.48472,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701201",
+    "nom": "Berneuil:ch,rural",
+    "lat": 46.07667,
+    "lon": 1.10571,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701454",
+    "nom": "Bessine/G:Betout",
+    "lat": 46.11029,
+    "lon": 1.36985,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701455",
+    "nom": "Bessine/G:Lande",
+    "lat": 46.10054,
+    "lon": 1.35605,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701457",
+    "nom": "Bessine/G:Mai",
+    "lat": 46.10796,
+    "lon": 1.36777,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701456",
+    "nom": "Bessine/G:Roche",
+    "lat": 46.10627,
+    "lon": 1.36261,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701401",
+    "nom": "Bessines-s-Gart:Gare",
+    "lat": 46.12917,
+    "lon": 1.37028,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701453",
+    "nom": "BESSINES-SUR-GARTE",
+    "lat": 46.09409,
+    "lon": 1.36486,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4602801",
+    "nom": "BETAILLE",
+    "lat": 44.96184,
+    "lon": 1.71899,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701503",
+    "nom": "BEYNAC",
+    "lat": 45.7528,
+    "lon": 1.18143,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1902302",
+    "nom": "Beynat:Boug",
+    "lat": 45.12334,
+    "lon": 1.72812,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1910501",
+    "nom": "Beynat:Groschamp",
+    "lat": 45.11611,
+    "lon": 1.67972,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1902301",
+    "nom": "Beynat -OP",
+    "lat": 45.11972,
+    "lon": 1.735,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4612401",
+    "nom": "Biars/Cere",
+    "lat": 44.92583,
+    "lon": 1.87306,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4602902",
+    "nom": "BIARS / CERE 2",
+    "lat": 44.92232,
+    "lon": 1.84765,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2404201",
+    "nom": "Biras",
+    "lat": 45.29167,
+    "lon": 0.65944,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701701",
+    "nom": "Blanzac:Masfrant",
+    "lat": 46.14588,
+    "lon": 1.10814,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701802",
+    "nom": "BLOND1",
+    "lat": 46.07404,
+    "lon": 1.06842,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718201",
+    "nom": "Bois-Mande",
+    "lat": 46.32306,
+    "lon": 1.4275,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701905",
+    "nom": "Boisseul:Prairies",
+    "lat": 45.7695,
+    "lon": 1.33145,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4603203",
+    "nom": "Boissiere PAC",
+    "lat": 44.53114,
+    "lon": 1.38737,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4603201",
+    "nom": "Boissieres",
+    "lat": 44.54046,
+    "lon": 1.40873,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8702003",
+    "nom": "BONNAC-LA-COTE1",
+    "lat": 45.93384,
+    "lon": 1.30306,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8702004",
+    "nom": "BONNAC-LA-COTE2",
+    "lat": 45.95784,
+    "lon": 1.31496,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1902808",
+    "nom": "BortLesO:C, Radieuse",
+    "lat": 45.40393,
+    "lon": 2.49936,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1902807",
+    "nom": "BortLesO:FontGrande",
+    "lat": 45.40026,
+    "lon": 2.49798,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1902811",
+    "nom": "BortLesO:L Rollin",
+    "lat": 45.40013,
+    "lon": 2.49705,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1902809",
+    "nom": "BortLesO:Plantade 1",
+    "lat": 45.38433,
+    "lon": 2.4849,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1902810",
+    "nom": "BortLesO:Plantades 2",
+    "lat": 45.38535,
+    "lon": 2.4856,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1902804",
+    "nom": "Bort-les-orgues:cote",
+    "lat": 45.4075,
+    "lon": 2.49482,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1902803",
+    "nom": "Bort-les-Orgues:Hop,",
+    "lat": 45.39215,
+    "lon": 2.49825,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1902812",
+    "nom": "BORT_LES_ORGUES_HP",
+    "lat": 45.39201,
+    "lon": 2.49822,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8702101",
+    "nom": "Bosmie-l'Aig:Gue Ver",
+    "lat": 45.77936,
+    "lon": 1.19388,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8702104",
+    "nom": "BOSMIE L AIGUILLE",
+    "lat": 45.77026,
+    "lon": 1.18563,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2405301",
+    "nom": "Boulazac",
+    "lat": 45.16972,
+    "lon": 0.74389,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2405308",
+    "nom": "BOULAZAC:ZA_Rebieres",
+    "lat": 45.17798,
+    "lon": 0.79417,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2307801",
+    "nom": "Bourganeuf",
+    "lat": 45.94583,
+    "lon": 1.77389,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2303001",
+    "nom": "Bourganeuf pac la t,",
+    "lat": 45.95655,
+    "lon": 1.77097,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2405901",
+    "nom": "BOURGNAC : Ledre",
+    "lat": 45.02264,
+    "lon": 0.38725,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2303101",
+    "nom": "Boussac",
+    "lat": 46.34782,
+    "lon": 2.20583,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2406401",
+    "nom": "Brantome",
+    "lat": 45.35502,
+    "lon": 0.66085,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2406452",
+    "nom": "BRANTOME EN PERIGORD",
+    "lat": 45.37974,
+    "lon": 0.62869,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4603902",
+    "nom": "Brengues",
+    "lat": 44.56492,
+    "lon": 1.82835,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903002",
+    "nom": "Brignac",
+    "lat": 45.15567,
+    "lon": 1.33617,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903003",
+    "nom": "BRIGNAC_2",
+    "lat": 45.17364,
+    "lon": 1.31652,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903101",
+    "nom": "Brive1:Vialmur",
+    "lat": 45.17417,
+    "lon": 1.51417,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903102",
+    "nom": "Brive2:Roc-de-Mioul",
+    "lat": 45.14889,
+    "lon": 1.54861,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903162",
+    "nom": "BriveGaillarde-Camus",
+    "lat": 45.16591,
+    "lon": 1.51087,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903161",
+    "nom": "BriveGaillarde-Grane",
+    "lat": 45.1745,
+    "lon": 1.54876,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903127",
+    "nom": "Brive:Gare",
+    "lat": 45.15293,
+    "lon": 1.52876,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903155",
+    "nom": "BRIVE LA GAILLARDE",
+    "lat": 45.13252,
+    "lon": 1.51184,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903153",
+    "nom": "BRIVE-LA-GAILLARDE",
+    "lat": 45.12082,
+    "lon": 1.49809,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903158",
+    "nom": "BriveLaG:Estavel",
+    "lat": 45.15061,
+    "lon": 1.49916,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903157",
+    "nom": "BriveLaG:Res, Gare",
+    "lat": 45.14867,
+    "lon": 1.53448,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903159",
+    "nom": "BriveLaG:Rivet",
+    "lat": 45.15074,
+    "lon": 1.50035,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1911701",
+    "nom": "Brive:Lissac",
+    "lat": 45.11612,
+    "lon": 1.45767,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903111",
+    "nom": "BRIVE st E2/RFM",
+    "lat": 45.16565,
+    "lon": 1.53444,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927402",
+    "nom": "Brive Ussac",
+    "lat": 45.17288,
+    "lon": 1.50578,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903203",
+    "nom": "Brivezac",
+    "lat": 45.02694,
+    "lon": 1.82889,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903305",
+    "nom": "Bugeat:en pede 1",
+    "lat": 45.59406,
+    "lon": 1.93001,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903306",
+    "nom": "Bugeat:en pede 2",
+    "lat": 45.59433,
+    "lon": 1.93267,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903304",
+    "nom": "Bugeat:Ganette",
+    "lat": 45.60242,
+    "lon": 1.93028,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2401502",
+    "nom": "Bugue(le):Audrix",
+    "lat": 44.89889,
+    "lon": 0.92917,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2406801",
+    "nom": "Buisson-de-Cadouin",
+    "lat": 44.80833,
+    "lon": 0.87111,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2406803",
+    "nom": "BUISSON DE CADOUIN_2",
+    "lat": 44.83951,
+    "lon": 0.88752,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8702402",
+    "nom": "Bujaleuf:Camping",
+    "lat": 45.80639,
+    "lon": 1.62812,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2303601",
+    "nom": "BUSSIERE DUNOISE",
+    "lat": 46.26333,
+    "lon": 1.76,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8702802",
+    "nom": "Bussiere-P :Maurice",
+    "lat": 46.23592,
+    "lon": 0.90618,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8705501",
+    "nom": "Bussiere-Poitevine",
+    "lat": 46.23472,
+    "lon": 0.94,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8702801",
+    "nom": "Bussiere-P :Parc",
+    "lat": 46.23437,
+    "lon": 0.90681,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604001",
+    "nom": "Cabrerets",
+    "lat": 44.49833,
+    "lon": 1.64972,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604201",
+    "nom": "Cahors1:Mt-St-Cyr",
+    "lat": 44.44389,
+    "lon": 1.45028,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604202",
+    "nom": "Cahors2:Fayal",
+    "lat": 44.4695,
+    "lon": 1.44127,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604203",
+    "nom": "Cahors3:Caissine",
+    "lat": 44.43639,
+    "lon": 1.44583,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604204",
+    "nom": "Cahors4:Roziere",
+    "lat": 44.41417,
+    "lon": 1.41694,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604209",
+    "nom": "Cahors6",
+    "lat": 44.41715,
+    "lon": 1.43306,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604282",
+    "nom": "CAHORSBarry22",
+    "lat": 44.43919,
+    "lon": 1.44504,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604277",
+    "nom": "CAHORSBastie35",
+    "lat": 44.45724,
+    "lon": 1.42625,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604285",
+    "nom": "CahorsCadourques37",
+    "lat": 44.45,
+    "lon": 1.43798,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604255",
+    "nom": "CAHORSCamus75",
+    "lat": 44.4584,
+    "lon": 1.4264,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604278",
+    "nom": "CAHORSChadourne20",
+    "lat": 44.45799,
+    "lon": 1.43698,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604281",
+    "nom": "CAHORSCroix22",
+    "lat": 44.45375,
+    "lon": 1.44598,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604261",
+    "nom": "CAHORSDoisneau10",
+    "lat": 44.44452,
+    "lon": 1.43515,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604257",
+    "nom": "CAHORSDoisneau2",
+    "lat": 44.44481,
+    "lon": 1.43502,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604258",
+    "nom": "CAHORSDoisneau4",
+    "lat": 44.44481,
+    "lon": 1.43436,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604259",
+    "nom": "CAHORSDoisneau6",
+    "lat": 44.44456,
+    "lon": 1.43444,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604260",
+    "nom": "CAHORSDoisneau8",
+    "lat": 44.4442,
+    "lon": 1.43445,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604256",
+    "nom": "CAHORSExupery89",
+    "lat": 44.45756,
+    "lon": 1.42696,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604272",
+    "nom": "CAHORSFranquin108",
+    "lat": 44.46269,
+    "lon": 1.45348,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604271",
+    "nom": "CAHORSFranquin168",
+    "lat": 44.46202,
+    "lon": 1.45329,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604273",
+    "nom": "CAHORSFranquin48",
+    "lat": 44.46315,
+    "lon": 1.45376,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604275",
+    "nom": "CAHORSGoscinny135",
+    "lat": 44.46256,
+    "lon": 1.45465,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604276",
+    "nom": "CAHORSGoscinny180",
+    "lat": 44.46223,
+    "lon": 1.45429,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604274",
+    "nom": "CAHORSGoscinny75",
+    "lat": 44.46293,
+    "lon": 1.45441,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604284",
+    "nom": "CahorsHerriot66",
+    "lat": 44.4584,
+    "lon": 1.44901,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604279",
+    "nom": "CAHORSImbert7.",
+    "lat": 44.4448,
+    "lon": 1.4412,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604280",
+    "nom": "CAHORSJaures19",
+    "lat": 44.4474,
+    "lon": 1.43482,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604269",
+    "nom": "CAHORSMorris45",
+    "lat": 44.4618,
+    "lon": 1.45287,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604270",
+    "nom": "CAHORSMorris90",
+    "lat": 44.4617,
+    "lon": 1.45366,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604205",
+    "nom": "Cahors -OP",
+    "lat": 44.44556,
+    "lon": 1.43833,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604264",
+    "nom": "CAHORSPommies215",
+    "lat": 44.45615,
+    "lon": 1.43375,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604262",
+    "nom": "CAHORSPommies250",
+    "lat": 44.45675,
+    "lon": 1.4343,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604265",
+    "nom": "CAHORSPommies295",
+    "lat": 44.45667,
+    "lon": 1.43321,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604266",
+    "nom": "CAHORSPommies365",
+    "lat": 44.45725,
+    "lon": 1.43262,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604263",
+    "nom": "CAHORSPommies400",
+    "lat": 44.45765,
+    "lon": 1.43312,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604267",
+    "nom": "CAHORSPommies425",
+    "lat": 44.45791,
+    "lon": 1.43254,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604268",
+    "nom": "CAHORSPommies495",
+    "lat": 44.45823,
+    "lon": 1.43265,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604286",
+    "nom": "Cahors-Soliviers",
+    "lat": 44.43483,
+    "lon": 1.39112,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604501",
+    "nom": "Cajarc",
+    "lat": 44.48167,
+    "lon": 1.835,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604601",
+    "nom": "CALAMANE",
+    "lat": 44.51886,
+    "lon": 1.40842,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604602",
+    "nom": "CALAMANE1",
+    "lat": 44.52626,
+    "lon": 1.38893,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2407501",
+    "nom": "Campagnac-les-Quercy",
+    "lat": 44.68574,
+    "lon": 1.18273,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4605401",
+    "nom": "Caniac-du-Causse",
+    "lat": 44.61667,
+    "lon": 1.60833,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2408003",
+    "nom": "Capdrot:Bois Vert",
+    "lat": 44.68781,
+    "lon": 0.97845,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2408001",
+    "nom": "CAPDROT:Boite",
+    "lat": 44.68805,
+    "lon": 0.94766,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2408201",
+    "nom": "Carsac-Aillac",
+    "lat": 44.84639,
+    "lon": 1.27694,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8712502",
+    "nom": "Cassepierre",
+    "lat": 45.92413,
+    "lon": 1.34444,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4626401",
+    "nom": "Catus",
+    "lat": 44.55833,
+    "lon": 1.38306,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4606602",
+    "nom": "Cazals Rouquette",
+    "lat": 44.65652,
+    "lon": 1.22528,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2303901",
+    "nom": "Celle-Dunoise(La)",
+    "lat": 46.31361,
+    "lon": 1.7725,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2409101",
+    "nom": "Cenac-et-St-Julien",
+    "lat": 44.80846,
+    "lon": 1.16402,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2409102",
+    "nom": "CENAC ET ST JULIEN 2",
+    "lat": 44.77223,
+    "lon": 1.22448,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4606801",
+    "nom": "Cenevieres",
+    "lat": 44.46051,
+    "lon": 1.75427,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2409502",
+    "nom": "CHALAIS1",
+    "lat": 45.51823,
+    "lon": 0.95491,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2409503",
+    "nom": "CHALAIS_ZR",
+    "lat": 45.48252,
+    "lon": 0.94282,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2409501",
+    "nom": "Chaleix pac c/pabot",
+    "lat": 45.48306,
+    "lon": 0.94722,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8703201",
+    "nom": "Chalus:L'abbaye",
+    "lat": 45.66194,
+    "lon": 0.98694,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8703252",
+    "nom": "Chalus:Salardine",
+    "lat": 45.65394,
+    "lon": 0.97892,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903602",
+    "nom": "Chamberet2:Camping",
+    "lat": 45.58056,
+    "lon": 1.70833,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903603",
+    "nom": "CHAMBERET 3:BT",
+    "lat": 45.59417,
+    "lon": 1.71278,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2304501",
+    "nom": "Chambon-sur-Voueize",
+    "lat": 46.19468,
+    "lon": 2.41375,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903701",
+    "nom": "Chamboulive:Cadran S",
+    "lat": 45.43297,
+    "lon": 1.70483,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903703",
+    "nom": "CHAMBOULIVE_VILLAGE",
+    "lat": 45.43017,
+    "lon": 1.71768,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903801",
+    "nom": "CHAMEYRAT",
+    "lat": 45.23736,
+    "lon": 1.72417,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2409801",
+    "nom": "Champcevinel",
+    "lat": 45.21784,
+    "lon": 0.74981,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2409802",
+    "nom": "Champcevinel:Dames",
+    "lat": 45.19045,
+    "lon": 0.72056,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2409803",
+    "nom": "Champcevinel:Dames34",
+    "lat": 45.18926,
+    "lon": 0.72017,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2409804",
+    "nom": "Champcevinel:Rimb",
+    "lat": 45.2155,
+    "lon": 0.72506,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2410201",
+    "nom": "Chancelade",
+    "lat": 45.2037,
+    "lon": 0.65294,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2410203",
+    "nom": "Chancelade-Alisiers",
+    "lat": 45.21754,
+    "lon": 0.64945,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8703801",
+    "nom": "Chaptelat:RD7",
+    "lat": 45.92361,
+    "lon": 1.2275,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1904906",
+    "nom": "CHASTEAUX2",
+    "lat": 45.07815,
+    "lon": 1.47731,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2411554",
+    "nom": "CHATEAU L EVEQUE",
+    "lat": 45.26493,
+    "lon": 0.70543,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2411555",
+    "nom": "Chateau-L'Eveque",
+    "lat": 45.23152,
+    "lon": 0.69333,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2411552",
+    "nom": "Chateaul'eveque:Nouz",
+    "lat": 45.2179,
+    "lon": 0.68704,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704001",
+    "nom": "Chateauneuf-la-Foret",
+    "lat": 45.71504,
+    "lon": 1.59354,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2411501",
+    "nom": "Chateau pac-l-brande",
+    "lat": 45.23191,
+    "lon": 0.69306,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704101",
+    "nom": "Chateauponsac",
+    "lat": 46.09361,
+    "lon": 1.29194,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704106",
+    "nom": "Chateauponsac:Eau",
+    "lat": 46.13583,
+    "lon": 1.27949,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704103",
+    "nom": "CHATEAUPONSAC Ville",
+    "lat": 46.13788,
+    "lon": 1.26993,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2305701",
+    "nom": "CHATELUS_LE_MARCHEIX",
+    "lat": 46.03196,
+    "lon": 1.61688,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1905101",
+    "nom": "Chaumeil",
+    "lat": 45.46222,
+    "lon": 1.86944,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903202",
+    "nom": "Chenailler-Mascheix",
+    "lat": 45.03306,
+    "lon": 1.8375,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2306101",
+    "nom": "Chenerailles",
+    "lat": 46.10949,
+    "lon": 2.16644,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2306301",
+    "nom": "Clairavaux",
+    "lat": 45.78194,
+    "lon": 2.16472,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715602",
+    "nom": "Clairefontaine",
+    "lat": 45.86232,
+    "lon": 1.38841,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4613802",
+    "nom": "COEUR DE CAUSSE",
+    "lat": 44.63848,
+    "lon": 1.53735,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704601",
+    "nom": "COGNAC_LA_FORET_1",
+    "lat": 45.82737,
+    "lon": 1.00894,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704603",
+    "nom": "COGNAC_LA_FORET_2",
+    "lat": 45.83675,
+    "lon": 1.04474,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704604",
+    "nom": "COGNAC_LA_FORET_OUES",
+    "lat": 45.83661,
+    "lon": 1.00224,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2306501",
+    "nom": "Colondannes",
+    "lat": 46.27984,
+    "lon": 1.6148,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2412701",
+    "nom": "Coly",
+    "lat": 45.08562,
+    "lon": 1.26361,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704701",
+    "nom": "Compreignac",
+    "lat": 46.00389,
+    "lon": 1.29333,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4607201",
+    "nom": "Concores",
+    "lat": 44.6525,
+    "lon": 1.38972,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906001",
+    "nom": "Condat/Ganaveix",
+    "lat": 45.49011,
+    "lon": 1.62781,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906003",
+    "nom": "CONDAT_GAVANEIX2",
+    "lat": 45.46809,
+    "lon": 1.59835,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704809",
+    "nom": "Condat/V:Clos",
+    "lat": 45.7934,
+    "lon": 1.24641,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704808",
+    "nom": "Condat/V:Europe",
+    "lat": 45.79407,
+    "lon": 1.23171,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704810",
+    "nom": "Condat/V:Martin",
+    "lat": 45.7939,
+    "lon": 1.23296,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4607501",
+    "nom": "Corn",
+    "lat": 44.60361,
+    "lon": 1.89556,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4607601",
+    "nom": "Cornac",
+    "lat": 44.90444,
+    "lon": 1.86611,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906101",
+    "nom": "Cornil1",
+    "lat": 45.213,
+    "lon": 1.70006,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906102",
+    "nom": "Cornil2",
+    "lat": 45.21694,
+    "lon": 1.67611,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906103",
+    "nom": "Cornil les brunes",
+    "lat": 45.22806,
+    "lon": 1.72444,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1915001",
+    "nom": "Cornil:Marut",
+    "lat": 45.208,
+    "lon": 1.69648,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906106",
+    "nom": "Cornil:Puy Marut",
+    "lat": 45.20795,
+    "lon": 1.69651,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906201",
+    "nom": "Correze",
+    "lat": 45.37306,
+    "lon": 1.86972,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906253",
+    "nom": "Correze:Geraudie",
+    "lat": 45.37212,
+    "lon": 1.8759,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906254",
+    "nom": "Correze:MoulinJarpel",
+    "lat": 45.36507,
+    "lon": 1.87363,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906301",
+    "nom": "Cosnac:champagnac",
+    "lat": 45.13905,
+    "lon": 1.57458,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413701",
+    "nom": "Coulaures",
+    "lat": 45.30417,
+    "lon": 0.99278,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413810",
+    "nom": "Coulounieix:Bros",
+    "lat": 45.19155,
+    "lon": 0.69379,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413802",
+    "nom": "Coulounieix-chamiers",
+    "lat": 45.15392,
+    "lon": 0.71252,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413804",
+    "nom": "Coulounieix:Cotton",
+    "lat": 45.19226,
+    "lon": 0.69031,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413805",
+    "nom": "Coulounieix:Farges",
+    "lat": 45.19267,
+    "lon": 0.68941,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413811",
+    "nom": "Coulounieix-Gallieni",
+    "lat": 45.17906,
+    "lon": 0.68905,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413806",
+    "nom": "Coulounieix:Mace",
+    "lat": 45.19426,
+    "lon": 0.68762,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413807",
+    "nom": "Coulounieix:Mandela",
+    "lat": 45.19223,
+    "lon": 0.6882,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4607701",
+    "nom": "Cours",
+    "lat": 44.50694,
+    "lon": 1.54583,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413901",
+    "nom": "Coursac:FH",
+    "lat": 45.11944,
+    "lon": 0.63972,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413904",
+    "nom": "Coursac:Mares",
+    "lat": 45.12601,
+    "lon": 0.6402,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413902",
+    "nom": "Coursac rollet 2",
+    "lat": 45.13823,
+    "lon": 0.6204,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704902",
+    "nom": "Coussac-Bon:Neuf",
+    "lat": 45.51446,
+    "lon": 1.32463,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8702601",
+    "nom": "Couvent des Carmes",
+    "lat": 46.04132,
+    "lon": 0.95676,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2414302",
+    "nom": "Couze-et-St-Front2",
+    "lat": 44.81824,
+    "lon": 0.69692,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8705053",
+    "nom": "COUZEIX",
+    "lat": 45.88894,
+    "lon": 1.25585,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8705056",
+    "nom": "Couzeix:Bourianne",
+    "lat": 45.86247,
+    "lon": 1.2506,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8705058",
+    "nom": "Couzeix:Catherine",
+    "lat": 45.8725,
+    "lon": 1.23697,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8705057",
+    "nom": "Couzeix:Maury",
+    "lat": 45.87777,
+    "lon": 1.23335,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8705055",
+    "nom": "Couzeix:Stade",
+    "lat": 45.87779,
+    "lon": 1.24028,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4608001",
+    "nom": "Crayssac",
+    "lat": 44.51265,
+    "lon": 1.34343,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4632001",
+    "nom": "Cregols",
+    "lat": 44.47048,
+    "lon": 1.69357,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4608301",
+    "nom": "Cressensac1",
+    "lat": 45.01005,
+    "lon": 1.53056,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4608353",
+    "nom": "Cressensac:Aire",
+    "lat": 45.03166,
+    "lon": 1.52469,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2307101",
+    "nom": "Croze",
+    "lat": 45.82167,
+    "lon": 2.17472,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2414701",
+    "nom": "Cubjac",
+    "lat": 45.22528,
+    "lon": 0.94139,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906701",
+    "nom": "Curemonte",
+    "lat": 44.9975,
+    "lon": 1.76,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8705402",
+    "nom": "Cussac:Maza",
+    "lat": 45.704,
+    "lon": 0.85693,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8705401",
+    "nom": "Cussac:Plaine",
+    "lat": 45.70787,
+    "lon": 0.84167,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4608652",
+    "nom": "CUZANCE 1",
+    "lat": 44.96003,
+    "lon": 1.50896,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2415001",
+    "nom": "Daglan",
+    "lat": 44.74435,
+    "lon": 1.20271,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906801",
+    "nom": "Dampniat",
+    "lat": 45.16187,
+    "lon": 1.64709,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906803",
+    "nom": "Dampniat le peuch",
+    "lat": 45.17287,
+    "lon": 1.63639,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4608704",
+    "nom": "DEGAGNAC",
+    "lat": 44.68757,
+    "lon": 1.35173,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1907202",
+    "nom": "Donzenac:bacalerie",
+    "lat": 45.23058,
+    "lon": 1.5115,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1917801",
+    "nom": "Donzenac:Croix de M",
+    "lat": 45.26372,
+    "lon": 1.55064,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1907201",
+    "nom": "Donzenac:escudier",
+    "lat": 45.25403,
+    "lon": 1.53778,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1907252",
+    "nom": "Donzenac:Rochette",
+    "lat": 45.23012,
+    "lon": 1.51782,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1907253",
+    "nom": "Donzenac:Ville",
+    "lat": 45.22537,
+    "lon": 1.52544,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8705905",
+    "nom": "Dorat:Cros",
+    "lat": 46.21712,
+    "lon": 1.09251,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8717901",
+    "nom": "Dorat (le)",
+    "lat": 46.18417,
+    "lon": 1.02083,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8705904",
+    "nom": "Dorat:Leclerc",
+    "lat": 46.21508,
+    "lon": 1.09423,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8705906",
+    "nom": "Dorat:Tilleuls",
+    "lat": 46.21454,
+    "lon": 1.08088,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4608801",
+    "nom": "Douelle1:Cevene(la)",
+    "lat": 44.46444,
+    "lon": 1.36694,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706001",
+    "nom": "Dournazac",
+    "lat": 45.65806,
+    "lon": 0.88528,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2415501",
+    "nom": "Douville -OP",
+    "lat": 44.96694,
+    "lon": 0.58694,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2415901",
+    "nom": "Echourgnac:Sabliere",
+    "lat": 45.12875,
+    "lon": 0.23292,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2416001",
+    "nom": "EGLISE-NEUVE",
+    "lat": 45.07778,
+    "lon": 0.73879,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2416101",
+    "nom": "Eglise-Neuve -OP",
+    "lat": 44.98222,
+    "lon": 0.42944,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4603901",
+    "nom": "Espagnac",
+    "lat": 44.59361,
+    "lon": 1.83667,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1907652",
+    "nom": "ESPARTIGNAC",
+    "lat": 45.41793,
+    "lon": 1.59864,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1907601",
+    "nom": "Espartignac bos",
+    "lat": 45.38639,
+    "lon": 1.58209,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1907703",
+    "nom": "ESTIVALS",
+    "lat": 45.02438,
+    "lon": 1.46986,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1907702",
+    "nom": "ESTIVALS_lLTO",
+    "lat": 45.02256,
+    "lon": 1.46169,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2449301",
+    "nom": "Excideuil",
+    "lat": 45.30667,
+    "lon": 1.05611,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1914101",
+    "nom": "Eygurande",
+    "lat": 45.65833,
+    "lon": 2.49306,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1908052",
+    "nom": "Eygurande:Quartier",
+    "lat": 45.66235,
+    "lon": 2.45624,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2416701",
+    "nom": "Eymet",
+    "lat": 44.67306,
+    "lon": 0.39472,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706401",
+    "nom": "Eymoutiers1:Chateau",
+    "lat": 45.73222,
+    "lon": 1.7525,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706402",
+    "nom": "Eymoutiers2:Bussy",
+    "lat": 45.74472,
+    "lon": 1.69444,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706403",
+    "nom": "Eymoutiers3",
+    "lat": 45.73344,
+    "lon": 1.7,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706409",
+    "nom": "Eymoutiers:Chapitre",
+    "lat": 45.73889,
+    "lon": 1.74422,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706408",
+    "nom": "Eymoutiers:Curie",
+    "lat": 45.73744,
+    "lon": 1.74397,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706302",
+    "nom": "Eymoutiers:Eveille",
+    "lat": 45.77583,
+    "lon": 1.39225,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706407",
+    "nom": "Eymoutiers:Puy",
+    "lat": 45.73715,
+    "lon": 1.74295,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1908102",
+    "nom": "EYREIN",
+    "lat": 45.30086,
+    "lon": 1.92225,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1908101",
+    "nom": "Eyrein:ZA chps-brach",
+    "lat": 45.33725,
+    "lon": 1.91451,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2417101",
+    "nom": "Eyzerac",
+    "lat": 45.38645,
+    "lon": 0.91894,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2307803",
+    "nom": "Faux-Mazuras",
+    "lat": 45.91389,
+    "lon": 1.79611,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2307903",
+    "nom": "Felletin",
+    "lat": 45.88528,
+    "lon": 2.17611,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706505",
+    "nom": "FEYTIAT 1",
+    "lat": 45.80507,
+    "lon": 1.29845,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706504",
+    "nom": "FEYTIAT-853_8748",
+    "lat": 45.78979,
+    "lon": 1.285,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706508",
+    "nom": "Feytiat:Asalce",
+    "lat": 45.8106,
+    "lon": 1.32768,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706509",
+    "nom": "Feytiat:Chevaux",
+    "lat": 45.80851,
+    "lon": 1.32675,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706510",
+    "nom": "Feytiat:Haie",
+    "lat": 45.81312,
+    "lon": 1.32116,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706507",
+    "nom": "Feytiat:Rameaux",
+    "lat": 45.8101,
+    "lon": 1.33056,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706506",
+    "nom": "Feytiat:Republique",
+    "lat": 45.80619,
+    "lon": 1.33145,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4610203",
+    "nom": "Figeac1:Pierre-Levee",
+    "lat": 44.61028,
+    "lon": 2.07139,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4602101",
+    "nom": "Figeac2:Beduer",
+    "lat": 44.58806,
+    "lon": 1.93389,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4610204",
+    "nom": "Figeac3:Cingle(le)",
+    "lat": 44.60361,
+    "lon": 2.02528,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4610207",
+    "nom": "Figeac base",
+    "lat": 44.60599,
+    "lon": 2.03434,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4610211",
+    "nom": "FIGEACFontanges4",
+    "lat": 44.61001,
+    "lon": 2.03798,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4610210",
+    "nom": "FIGEACGrial18",
+    "lat": 44.61418,
+    "lon": 2.03739,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4610213",
+    "nom": "FIGEACGrial22",
+    "lat": 44.61494,
+    "lon": 2.03838,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4610212",
+    "nom": "FIGEACPintre39",
+    "lat": 44.6066,
+    "lon": 2.01088,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4610208",
+    "nom": "Figeac RF FM",
+    "lat": 44.5976,
+    "lon": 2.04251,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4610502",
+    "nom": "FLAUJAC-POUJOLS 1",
+    "lat": 44.42118,
+    "lon": 1.50757,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2308202",
+    "nom": "Fleurat:Lascroux",
+    "lat": 46.22639,
+    "lon": 1.7025,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4610901",
+    "nom": "Fontanes-A20-Marty",
+    "lat": 44.3115,
+    "lon": 1.50933,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2418801",
+    "nom": "Fossemagne plantes",
+    "lat": 45.12553,
+    "lon": 0.96108,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4611301",
+    "nom": "Frayssinet",
+    "lat": 44.67521,
+    "lon": 1.4823,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706802",
+    "nom": "Fromental",
+    "lat": 46.168,
+    "lon": 1.41999,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708574",
+    "nom": "Gabriel Peri",
+    "lat": 45.82716,
+    "lon": 1.26232,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2419401",
+    "nom": "Gardonne:les mouthes",
+    "lat": 44.83528,
+    "lon": 0.35111,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2400202",
+    "nom": "GC_Agonac",
+    "lat": 45.28684,
+    "lon": 0.74878,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700102",
+    "nom": "GC_Aixe-sur-Vienne",
+    "lat": 45.79657,
+    "lon": 1.14578,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900506",
+    "nom": "GC_Allassac",
+    "lat": 45.25915,
+    "lon": 1.47343,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700207",
+    "nom": "GC_Ambazac",
+    "lat": 45.95299,
+    "lon": 1.40657,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4600901",
+    "nom": "GC_Assier",
+    "lat": 44.67474,
+    "lon": 1.8698,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2300852",
+    "nom": "GC_Aubusson",
+    "lat": 45.95981,
+    "lon": 2.16176,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2402004",
+    "nom": "GC_Bachellerie",
+    "lat": 45.15112,
+    "lon": 1.16021,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4601504",
+    "nom": "GC_Bagnac",
+    "lat": 44.66535,
+    "lon": 2.16042,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701103",
+    "nom": "GC_Bellac",
+    "lat": 46.12534,
+    "lon": 1.04612,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2403502",
+    "nom": "GC_Belves",
+    "lat": 44.77751,
+    "lon": 1.01202,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2403753",
+    "nom": "GC_Bergerac",
+    "lat": 44.85713,
+    "lon": 0.48918,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701306",
+    "nom": "GC_BersacRivalier",
+    "lat": 46.08383,
+    "lon": 1.43231,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4602802",
+    "nom": "GC_Betaille",
+    "lat": 44.94256,
+    "lon": 1.73457,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8702103",
+    "nom": "GC_Bosmie-l'Aiguille",
+    "lat": 45.77839,
+    "lon": 1.20502,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2405307",
+    "nom": "GC_BoulazacIslManoir",
+    "lat": 45.13847,
+    "lon": 0.80833,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4602901",
+    "nom": "GC_Bretenoux - Biars",
+    "lat": 44.92746,
+    "lon": 1.84374,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903152",
+    "nom": "GC_Brive-la-Gaillard",
+    "lat": 45.15269,
+    "lon": 1.52868,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903302",
+    "nom": "GC_Bugeat",
+    "lat": 45.60062,
+    "lon": 1.92487,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2406701",
+    "nom": "GC_Bugue",
+    "lat": 44.90578,
+    "lon": 0.94281,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2300102",
+    "nom": "GC_Busseau sur Creus",
+    "lat": 46.12319,
+    "lon": 2.02302,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8702701",
+    "nom": "GC_Bussiere-Galant",
+    "lat": 45.60765,
+    "lon": 1.02629,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604253",
+    "nom": "GC_Cahors",
+    "lat": 44.44935,
+    "lon": 1.4335,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2411553",
+    "nom": "GC_Chateau-l'Eveque",
+    "lat": 45.24468,
+    "lon": 0.68831,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2422901",
+    "nom": "GC_Condat - Le Lardi",
+    "lat": 45.12674,
+    "lon": 1.2268,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906104",
+    "nom": "GC_Cornil",
+    "lat": 45.21529,
+    "lon": 1.69789,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906252",
+    "nom": "GC_Correze",
+    "lat": 45.3295,
+    "lon": 1.88124,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704901",
+    "nom": "GC_Coussac-Bonneval",
+    "lat": 45.50768,
+    "lon": 1.31118,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4608703",
+    "nom": "GC_Degagnac",
+    "lat": 44.65361,
+    "lon": 1.34014,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2415602",
+    "nom": "GC_Douze",
+    "lat": 45.08888,
+    "lon": 0.85763,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2415701",
+    "nom": "GC_Douzillac",
+    "lat": 45.07948,
+    "lon": 0.4175,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1907353",
+    "nom": "GC_Egletons",
+    "lat": 45.40249,
+    "lon": 2.0652,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1913402",
+    "nom": "GC_Eygurande - Merli",
+    "lat": 45.64534,
+    "lon": 2.46111,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706404",
+    "nom": "GC_Eymoutiers Vassiv",
+    "lat": 45.73983,
+    "lon": 1.7413,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2307904",
+    "nom": "GC_Felletin",
+    "lat": 45.88641,
+    "lon": 2.16961,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4610209",
+    "nom": "GC_Figeac",
+    "lat": 44.60363,
+    "lon": 2.03744,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4610952",
+    "nom": "GC_Fontanes",
+    "lat": 44.33336,
+    "lon": 1.51184,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706804",
+    "nom": "GC_Fromental",
+    "lat": 46.17168,
+    "lon": 1.43257,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2419402",
+    "nom": "GC_Gardonne",
+    "lat": 44.83477,
+    "lon": 0.33212,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4611803",
+    "nom": "GC_Gignac - Cressens",
+    "lat": 45.01483,
+    "lon": 1.48333,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4612706",
+    "nom": "GC_Gourdon",
+    "lat": 44.74194,
+    "lon": 1.38928,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4612806",
+    "nom": "GC_Gramat",
+    "lat": 44.77349,
+    "lon": 1.72236,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2309654",
+    "nom": "GC_Gueret",
+    "lat": 46.1742,
+    "lon": 1.87953,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1909501",
+    "nom": "GC_Lacelle",
+    "lat": 45.64138,
+    "lon": 1.82654,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413302",
+    "nom": "GC_La Coquille",
+    "lat": 45.54086,
+    "lon": 0.97456,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715001",
+    "nom": "GC_Lafarge",
+    "lat": 45.63397,
+    "lon": 1.13115,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707904",
+    "nom": "GC_La Jonchere",
+    "lat": 45.99446,
+    "lon": 1.48045,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2422301",
+    "nom": "GC_Lalinde",
+    "lat": 44.83973,
+    "lon": 0.74278,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2422501",
+    "nom": "GC_LamonzieSt-Martin",
+    "lat": 44.84504,
+    "lon": 0.38558,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2422601",
+    "nom": "GC_Lamothe-Montravel",
+    "lat": 44.85382,
+    "lon": 0.02169,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8712004",
+    "nom": "GC_La Porcherie",
+    "lat": 45.57417,
+    "lon": 1.53835,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1922905",
+    "nom": "GC_Larche",
+    "lat": 45.13232,
+    "lon": 1.41616,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1509404",
+    "nom": "GC_Laroquebrou",
+    "lat": 44.96435,
+    "lon": 2.19301,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2317656",
+    "nom": "GC_La Souterraine",
+    "lat": 46.23984,
+    "lon": 1.49229,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4616301",
+    "nom": "GC_Laval-de-Cere",
+    "lat": 44.95128,
+    "lon": 1.93174,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2310401",
+    "nom": "GC_Lavaufranche",
+    "lat": 46.3214,
+    "lon": 2.27016,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2310501",
+    "nom": "GC_Lavaveix-les-Mine",
+    "lat": 46.07959,
+    "lon": 2.0892,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2406802",
+    "nom": "GC_Le Buisson",
+    "lat": 44.84723,
+    "lon": 0.90825,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8705903",
+    "nom": "GC_Le Dorat",
+    "lat": 46.21126,
+    "lon": 1.07945,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2417252",
+    "nom": "GC_Les Eyzies",
+    "lat": 44.94124,
+    "lon": 1.00828,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4623201",
+    "nom": "GC_Les Quatre-Routes",
+    "lat": 44.99766,
+    "lon": 1.64392,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1912103",
+    "nom": "GC_Lubersac",
+    "lat": 45.44473,
+    "lon": 1.38897,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8720356",
+    "nom": "GC_Magnac - Vicq",
+    "lat": 45.62893,
+    "lon": 1.444,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1912401",
+    "nom": "GC_Mansac",
+    "lat": 45.13984,
+    "lon": 1.36566,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2312402",
+    "nom": "GC_Marsac",
+    "lat": 46.0943,
+    "lon": 1.58556,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2425602",
+    "nom": "GC_Marsac-l'IsleCave",
+    "lat": 45.184,
+    "lon": 0.62847,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2425701",
+    "nom": "GC_Marsac-sur-l'Isle",
+    "lat": 45.1862,
+    "lon": 0.66269,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1912903",
+    "nom": "GC_Masseret",
+    "lat": 45.53622,
+    "lon": 1.54164,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2426001",
+    "nom": "GC_MauzacGrandCastan",
+    "lat": 44.85601,
+    "lon": 0.79012,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2426101",
+    "nom": "GC_MauzensetMiremont",
+    "lat": 44.97704,
+    "lon": 0.95735,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1913606",
+    "nom": "GC_Meymac",
+    "lat": 45.53038,
+    "lon": 2.16422,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8709602",
+    "nom": "GC_Meyze",
+    "lat": 45.62142,
+    "lon": 1.21237,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1914301",
+    "nom": "GC_MontaignStHippoly",
+    "lat": 45.35485,
+    "lon": 1.97977,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2313202",
+    "nom": "GC_Montaigut-leBlanc",
+    "lat": 46.13679,
+    "lon": 1.73404,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2429403",
+    "nom": "GC_Montpon-Menestero",
+    "lat": 45.00647,
+    "lon": 0.15944,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2429904",
+    "nom": "GC_Mussidan",
+    "lat": 45.03441,
+    "lon": 0.35406,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710303",
+    "nom": "GC_Nantiat",
+    "lat": 46.00566,
+    "lon": 1.15655,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2430852",
+    "nom": "GC_Negrondes",
+    "lat": 45.34616,
+    "lon": 0.86125,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2430905",
+    "nom": "GC_Neuvic",
+    "lat": 45.10012,
+    "lon": 0.44502,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710604",
+    "nom": "GC_Nexon",
+    "lat": 45.69163,
+    "lon": 1.17851,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710706",
+    "nom": "GC_Nieul",
+    "lat": 45.9275,
+    "lon": 1.17251,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2443952",
+    "nom": "GC_Niversac",
+    "lat": 45.13847,
+    "lon": 0.80833,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1915304",
+    "nom": "GC_Objat",
+    "lat": 45.26474,
+    "lon": 1.40694,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2314952",
+    "nom": "GC_Parsac - Gouzon",
+    "lat": 46.19862,
+    "lon": 2.17462,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1916001",
+    "nom": "GC_Perols-sur-Vezere",
+    "lat": 45.58491,
+    "lon": 1.97778,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1916002",
+    "nom": "GC_PerolsVezerBarsan",
+    "lat": 45.5662,
+    "lon": 2.01904,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711802",
+    "nom": "GC_Peyrilhac",
+    "lat": 45.95973,
+    "lon": 1.17016,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711905",
+    "nom": "GC_Pierre-Buffiere",
+    "lat": 45.69957,
+    "lon": 1.3473,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1901101",
+    "nom": "GC_Pompadour",
+    "lat": 45.39528,
+    "lon": 1.38731,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4622902",
+    "nom": "GC_Puybrun",
+    "lat": 44.9218,
+    "lon": 1.78433,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2435052",
+    "nom": "GC_Razac-sur-l'Isle",
+    "lat": 45.16599,
+    "lon": 0.59936,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4624053",
+    "nom": "GC_Rocamadour - Padi",
+    "lat": 44.81837,
+    "lon": 1.65743,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8712902",
+    "nom": "GC_Royeres",
+    "lat": 45.86375,
+    "lon": 1.44068,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8713101",
+    "nom": "GC_Saillat - Chassen",
+    "lat": 45.86975,
+    "lon": 0.81179,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2437253",
+    "nom": "GC_Saint-Astier",
+    "lat": 45.13911,
+    "lon": 0.52282,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1918202",
+    "nom": "GC_Saint-Aulaire",
+    "lat": 45.24899,
+    "lon": 1.39875,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8714001",
+    "nom": "GC_Saint-Brice-sur-V",
+    "lat": 45.87821,
+    "lon": 0.95243,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2439601",
+    "nom": "GC_Saint-Cyprien",
+    "lat": 44.86342,
+    "lon": 1.04355,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8714652",
+    "nom": "GC_Saint-Germainbell",
+    "lat": 45.60997,
+    "lon": 1.48006,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715407",
+    "nom": "GC_Saint-Junien",
+    "lat": 45.88156,
+    "lon": 0.90062,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8717805",
+    "nom": "GC_Saint-Priest-Taur",
+    "lat": 45.88725,
+    "lon": 1.40038,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2323903",
+    "nom": "GC_Saint-Sebastien",
+    "lat": 46.3861,
+    "lon": 1.54669,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1924201",
+    "nom": "GC_Saint-Solve",
+    "lat": 45.31309,
+    "lon": 1.39752,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718107",
+    "nom": "GC_Saint-SulpiceLaur",
+    "lat": 46.04708,
+    "lon": 1.47629,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718502",
+    "nom": "GC_Saint-Victurnien",
+    "lat": 45.87672,
+    "lon": 1.00966,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718752",
+    "nom": "GC_Saint-Yrieix",
+    "lat": 45.51931,
+    "lon": 1.20541,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2452054",
+    "nom": "GC_Sarlat",
+    "lat": 44.87707,
+    "lon": 1.22036,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2453801",
+    "nom": "GC_Siorac-en-Perigor",
+    "lat": 44.81975,
+    "lon": 0.98446,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8719205",
+    "nom": "GC_Solignac",
+    "lat": 45.75619,
+    "lon": 1.28576,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8720504",
+    "nom": "GC_Solignac - Le Vig",
+    "lat": 45.75619,
+    "lon": 1.28576,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4630953",
+    "nom": "GC_Souillac",
+    "lat": 44.90225,
+    "lon": 1.46675,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2437001",
+    "nom": "GC_STAntoindeBreuilh",
+    "lat": 44.8467,
+    "lon": 0.15197,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8714252",
+    "nom": "GC_ST-Denis-des-Murs",
+    "lat": 45.78892,
+    "lon": 1.55147,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4626501",
+    "nom": "GC_StDenis-lesMartel",
+    "lat": 44.946,
+    "lon": 1.66649,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1921101",
+    "nom": "GC_ST-HilairePeyroux",
+    "lat": 45.18169,
+    "lon": 1.64131,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8716106",
+    "nom": "GC_St-Leonard-de-Nob",
+    "lat": 45.83207,
+    "lon": 1.48169,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2444203",
+    "nom": "GC_ST-Leonsur-l'Isle",
+    "lat": 45.12346,
+    "lon": 0.49237,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2448402",
+    "nom": "GC_ST-Pierre-Chignac",
+    "lat": 45.12359,
+    "lon": 0.85628,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2454753",
+    "nom": "GC_Terrasson",
+    "lat": 45.13594,
+    "lon": 1.30051,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2455102",
+    "nom": "GC_Thiviers",
+    "lat": 45.41901,
+    "lon": 0.9215,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2455801",
+    "nom": "GC_Tremolat",
+    "lat": 44.86251,
+    "lon": 0.83036,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927252",
+    "nom": "GC_Tulle",
+    "lat": 45.2588,
+    "lon": 1.75652,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927301",
+    "nom": "GC_Turenne",
+    "lat": 45.03807,
+    "lon": 1.6008,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927554",
+    "nom": "GC_Ussel",
+    "lat": 45.55758,
+    "lon": 2.31446,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927653",
+    "nom": "GC_Uzerche",
+    "lat": 45.44081,
+    "lon": 1.57045,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927801",
+    "nom": "GC_Varetz",
+    "lat": 45.19119,
+    "lon": 1.44732,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8719802",
+    "nom": "GC_Vaulry",
+    "lat": 46.02489,
+    "lon": 1.10929,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4633003",
+    "nom": "GC_Vayrac",
+    "lat": 44.95024,
+    "lon": 1.7064,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2456801",
+    "nom": "GC_Velines",
+    "lat": 44.85206,
+    "lon": 0.10369,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8720104",
+    "nom": "GC_Verneuil-sur-Vien",
+    "lat": 45.83789,
+    "lon": 1.11269,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2313701",
+    "nom": "GC_Vieilleville",
+    "lat": 46.09127,
+    "lon": 1.67366,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1928510",
+    "nom": "GC_Vigeois",
+    "lat": 45.38306,
+    "lon": 1.51509,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2458501",
+    "nom": "GC_VillefranchPerigo",
+    "lat": 44.62706,
+    "lon": 1.04922,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2308901",
+    "nom": "GENOUILLAC",
+    "lat": 46.35032,
+    "lon": 1.98558,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4611805",
+    "nom": "GIGNAC1",
+    "lat": 44.98307,
+    "lon": 1.48922,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4611806",
+    "nom": "GIGNAC2",
+    "lat": 45.00232,
+    "lon": 1.49823,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4612101",
+    "nom": "Ginouillac",
+    "lat": 44.70918,
+    "lon": 1.53837,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707201",
+    "nom": "Glanges",
+    "lat": 45.66332,
+    "lon": 1.427,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4612707",
+    "nom": "GOURDON",
+    "lat": 44.76617,
+    "lon": 1.40068,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4612701",
+    "nom": "Gourdon1:Bournazel",
+    "lat": 44.72944,
+    "lon": 1.39528,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4612702",
+    "nom": "Gourdon2:Butte-St-Pi",
+    "lat": 44.7375,
+    "lon": 1.3825,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4612708",
+    "nom": "GOURDONBaudru3",
+    "lat": 44.73122,
+    "lon": 1.37625,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2309302",
+    "nom": "GOUZON_CENTRE",
+    "lat": 46.19814,
+    "lon": 2.2484,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2309301",
+    "nom": "Gouzon la pradelle",
+    "lat": 46.18167,
+    "lon": 2.24389,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4612801",
+    "nom": "Gramat",
+    "lat": 44.77483,
+    "lon": 1.73096,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4613001",
+    "nom": "Grezels:Lot",
+    "lat": 44.475,
+    "lon": 1.15585,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2420501",
+    "nom": "Grignols",
+    "lat": 45.09417,
+    "lon": 0.53083,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1908901",
+    "nom": "GROS-CHASTANG",
+    "lat": 45.22738,
+    "lon": 2.00965,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2420801",
+    "nom": "Grun:jarjavel",
+    "lat": 45.03034,
+    "lon": 0.61987,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2309657",
+    "nom": "GUERET_2",
+    "lat": 46.15653,
+    "lon": 1.88027,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2309653",
+    "nom": "Gueret Grancher",
+    "lat": 46.16229,
+    "lon": 1.86602,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2309651",
+    "nom": "Gueret:Grancher",
+    "lat": 46.16129,
+    "lon": 1.86639,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2309602",
+    "nom": "Gueret:Pommeil",
+    "lat": 46.16241,
+    "lon": 1.88249,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2320801",
+    "nom": "Gueret:St-Leger",
+    "lat": 46.15642,
+    "lon": 1.83625,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1909101",
+    "nom": "Hautefage",
+    "lat": 45.065,
+    "lon": 1.98444,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1909103",
+    "nom": "HAUTEFAGE_NORD",
+    "lat": 45.08704,
+    "lon": 1.96224,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2421001",
+    "nom": "Hautefort",
+    "lat": 45.25056,
+    "lon": 1.11944,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707560",
+    "nom": "Isle:Buis",
+    "lat": 45.80968,
+    "lon": 1.23393,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707559",
+    "nom": "Isle:Carriere",
+    "lat": 45.80601,
+    "lon": 1.22898,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707556",
+    "nom": "Isle:Chapelle",
+    "lat": 45.80505,
+    "lon": 1.22212,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707554",
+    "nom": "Isle:Gain",
+    "lat": 45.81216,
+    "lon": 1.23094,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707563",
+    "nom": "Isle:George",
+    "lat": 45.80489,
+    "lon": 1.226,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707557",
+    "nom": "Isle:Jean",
+    "lat": 45.80619,
+    "lon": 1.22546,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2420001",
+    "nom": "Isle(l')",
+    "lat": 45.27914,
+    "lon": 0.53089,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707558",
+    "nom": "Isle:Levant",
+    "lat": 45.80975,
+    "lon": 1.227,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707562",
+    "nom": "Isle:Merignac",
+    "lat": 45.79066,
+    "lon": 1.17054,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707564",
+    "nom": "Isle:Mozart",
+    "lat": 45.80898,
+    "lon": 1.21988,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707566",
+    "nom": "Isle_Odhac87_lioran",
+    "lat": 45.80794,
+    "lon": 1.22728,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707561",
+    "nom": "Isle:Odhac87_Sancy",
+    "lat": 45.8081,
+    "lon": 1.22729,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707553",
+    "nom": "Isle:Rollina",
+    "lat": 45.80404,
+    "lon": 1.22709,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707565",
+    "nom": "Isle:Terrasse",
+    "lat": 45.80431,
+    "lon": 1.22425,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707555",
+    "nom": "Isle:Vallon",
+    "lat": 45.80795,
+    "lon": 1.23174,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2309701",
+    "nom": "Issoudun-letrieix",
+    "lat": 46.04961,
+    "lon": 2.18319,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4613503",
+    "nom": "ITA_AurillacBastide",
+    "lat": 44.83528,
+    "lon": 2.1175,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2301303",
+    "nom": "ITA_Auzances",
+    "lat": 46.02111,
+    "lon": 2.50167,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4612402",
+    "nom": "ITA_Biars sur Cere",
+    "lat": 44.92592,
+    "lon": 1.87376,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2307802",
+    "nom": "ITA_Bourganeuf",
+    "lat": 45.94528,
+    "lon": 1.77361,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2303201",
+    "nom": "ITA_Boussac",
+    "lat": 46.34754,
+    "lon": 2.20586,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2408202",
+    "nom": "ITA_Carsac-Aillac",
+    "lat": 44.84629,
+    "lon": 1.2774,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2304502",
+    "nom": "ITA_Chambon/Voueize",
+    "lat": 46.19363,
+    "lon": 2.41248,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704104",
+    "nom": "ITA_Chateauponsac",
+    "lat": 46.09397,
+    "lon": 1.29006,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2414304",
+    "nom": "ITA_CouzeEtStFront",
+    "lat": 44.81812,
+    "lon": 0.69699,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2415002",
+    "nom": "ITA_Daglan",
+    "lat": 44.74472,
+    "lon": 1.20361,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4602102",
+    "nom": "ITA_FIGEAC 2",
+    "lat": 44.5875,
+    "lon": 1.93444,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1509403",
+    "nom": "ITA_Laroquebrou 1",
+    "lat": 44.97389,
+    "lon": 2.18472,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4617003",
+    "nom": "ITA_Leyme",
+    "lat": 44.7788,
+    "lon": 1.91006,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2420003",
+    "nom": "ITA_Lisle",
+    "lat": 45.27908,
+    "lon": 0.53116,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2314002",
+    "nom": "ITA_Moutier-Rozeille",
+    "lat": 45.93206,
+    "lon": 2.18544,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4618203",
+    "nom": "ITA_Prayssac",
+    "lat": 44.46293,
+    "lon": 1.26482,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8716102",
+    "nom": "ITA_StLeonardDeNobla",
+    "lat": 45.84005,
+    "lon": 1.47624,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4631402",
+    "nom": "ITA_Terrou",
+    "lat": 44.79167,
+    "lon": 1.97389,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1913605",
+    "nom": "ITA_Ussel Meymac",
+    "lat": 45.57222,
+    "lon": 2.12444,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708576",
+    "nom": "Jacobins",
+    "lat": 45.82678,
+    "lon": 1.26262,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2421701",
+    "nom": "Journiac:pac:le bos",
+    "lat": 44.94889,
+    "lon": 0.8975,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1909301",
+    "nom": "Jugeals Nazareth",
+    "lat": 45.07624,
+    "lon": 1.55796,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1909401",
+    "nom": "Juillac:Bancs",
+    "lat": 45.31835,
+    "lon": 1.32091,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1909402",
+    "nom": "Juillac:Bosredon",
+    "lat": 45.31822,
+    "lon": 1.32011,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1909403",
+    "nom": "Juillac:Bouchet",
+    "lat": 45.32044,
+    "lon": 1.32209,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711307",
+    "nom": "Jules Ferry",
+    "lat": 45.8665,
+    "lon": 1.32507,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2421801",
+    "nom": "Jumilhac-le-Grand",
+    "lat": 45.49583,
+    "lon": 1.07083,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2421804",
+    "nom": "JUMILHAC_LE_GRAND 2",
+    "lat": 45.52813,
+    "lon": 1.12405,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4613401",
+    "nom": "Junies(les)",
+    "lat": 44.53889,
+    "lon": 1.23778,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4613601",
+    "nom": "Labastide-du-Vert",
+    "lat": 44.51611,
+    "lon": 1.26,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4614001",
+    "nom": "LABURGADE",
+    "lat": 44.39617,
+    "lon": 1.52158,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4603401",
+    "nom": "Lacapelle-Marival",
+    "lat": 44.71103,
+    "lon": 1.92544,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4614509",
+    "nom": "LACHAPELLE_AUZAC",
+    "lat": 44.9507,
+    "lon": 1.46337,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4614505",
+    "nom": "LACHAPELLE-AUZAC",
+    "lat": 44.92644,
+    "lon": 1.49905,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4614506",
+    "nom": "LACHAPELLE AUZAC1",
+    "lat": 44.92775,
+    "lon": 1.45578,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4614507",
+    "nom": "LACHAPELLE AUZAC2",
+    "lat": 44.9355,
+    "lon": 1.47481,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4614508",
+    "nom": "LACHAPELLE AUZAC3",
+    "lat": 44.96369,
+    "lon": 1.47971,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4614510",
+    "nom": "Lachapelle Auzac 5",
+    "lat": 44.95236,
+    "lon": 1.46422,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413303",
+    "nom": "LA COQUILLE1",
+    "lat": 45.56664,
+    "lon": 0.97271,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413305",
+    "nom": "La Coquille:Bois",
+    "lat": 45.53807,
+    "lon": 0.96901,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413304",
+    "nom": "La Coquille:Montaign",
+    "lat": 45.53754,
+    "lon": 0.97428,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8713301",
+    "nom": "La Croisiere-Le-Cerv",
+    "lat": 46.20417,
+    "lon": 1.37806,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1508901",
+    "nom": "Ladinhac",
+    "lat": 44.73972,
+    "lon": 2.50861,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2308402",
+    "nom": "LA_FORET_DU _TEMPLE",
+    "lat": 46.42635,
+    "lon": 1.89885,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1909801",
+    "nom": "Lagarde-enval:d 10",
+    "lat": 45.19722,
+    "lon": 1.81861,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1910101",
+    "nom": "Laguenne",
+    "lat": 45.24389,
+    "lon": 1.76833,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1910103",
+    "nom": "Laguenne:Armuriers",
+    "lat": 45.24093,
+    "lon": 1.78252,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1910105",
+    "nom": "Laguenne:Coustalou",
+    "lat": 45.24265,
+    "lon": 1.78181,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1910104",
+    "nom": "Laguenne:Ecoles",
+    "lat": 45.24267,
+    "lon": 1.77994,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1910106",
+    "nom": "Laguenne:Rival",
+    "lat": 45.24207,
+    "lon": 1.78062,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1910107",
+    "nom": "Laguenne:Touron",
+    "lat": 45.24119,
+    "lon": 1.78418,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707905",
+    "nom": "La Jonchere 1",
+    "lat": 45.9902,
+    "lon": 1.46734,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4614803",
+    "nom": "Lalbenque",
+    "lat": 44.34671,
+    "lon": 1.50081,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8709601",
+    "nom": "La Meyze:RD118",
+    "lat": 45.631,
+    "lon": 1.22873,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1910401",
+    "nom": "Lamongerie_Pac73",
+    "lat": 45.55056,
+    "lon": 1.54351,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2422401",
+    "nom": "LAMONZIE-MONTASTRUC",
+    "lat": 44.90003,
+    "lon": 0.60917,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2422502",
+    "nom": "Lamonzie-St-Martin",
+    "lat": 44.82592,
+    "lon": 0.39935,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4615101",
+    "nom": "LAMOTHE-CASSEL BT",
+    "lat": 44.615,
+    "lon": 1.4925,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708579",
+    "nom": "Landouge",
+    "lat": 45.84623,
+    "lon": 1.19717,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708580",
+    "nom": "Largilliere",
+    "lat": 45.82904,
+    "lon": 1.22554,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2435452",
+    "nom": "LA ROCHE CHALAIS",
+    "lat": 45.12924,
+    "lon": -0.00838,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1509401",
+    "nom": "Laroquebrou1",
+    "lat": 44.97389,
+    "lon": 2.185,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1509402",
+    "nom": "Laroquebrou2",
+    "lat": 44.96652,
+    "lon": 2.19627,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4615602",
+    "nom": "Laroque-des-Arcs",
+    "lat": 44.48489,
+    "lon": 1.48555,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2317657",
+    "nom": "LA SOUTERRAINE",
+    "lat": 46.24915,
+    "lon": 1.48677,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4628601",
+    "nom": "Latouille-Lentillac",
+    "lat": 44.84879,
+    "lon": 1.94586,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4616002",
+    "nom": "Latronquiere",
+    "lat": 44.80222,
+    "lon": 2.07472,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604301",
+    "nom": "Laval-de-Cere1:Borie",
+    "lat": 44.95528,
+    "lon": 1.92639,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4611701",
+    "nom": "Laval-de-Cere2:Vigne",
+    "lat": 44.94472,
+    "lon": 1.89722,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1926401",
+    "nom": "Laval-sur-Luzege",
+    "lat": 45.24417,
+    "lon": 2.17389,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4616402",
+    "nom": "LAVERCANTIERE",
+    "lat": 44.62375,
+    "lon": 1.33061,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708577",
+    "nom": "La Vialoube 1",
+    "lat": 45.83196,
+    "lon": 1.2318,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708578",
+    "nom": "La Vialoube 2",
+    "lat": 45.832,
+    "lon": 1.23186,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1920902",
+    "nom": "L'EGLISE-BOIS_D940",
+    "lat": 45.66503,
+    "lon": 1.80428,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2423601",
+    "nom": "Leguillac-de-l'auche",
+    "lat": 45.17839,
+    "lon": 0.57642,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2422902",
+    "nom": "LE LARDIN ST LAZARE",
+    "lat": 45.13809,
+    "lon": 1.19645,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4619704",
+    "nom": "LE MONTAT",
+    "lat": 44.37099,
+    "lon": 1.4716,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711311",
+    "nom": "LePalais/V:Acacia",
+    "lat": 45.86098,
+    "lon": 1.31696,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711314",
+    "nom": "LePalais/V:Allees",
+    "lat": 45.87501,
+    "lon": 1.31736,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711309",
+    "nom": "LePalais/V:Ferry",
+    "lat": 45.86682,
+    "lon": 1.32417,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711310",
+    "nom": "LePalais/Vienne:Paer",
+    "lat": 45.87039,
+    "lon": 1.32865,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711313",
+    "nom": "LePalais/V:Jean",
+    "lat": 45.86441,
+    "lon": 1.3235,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711312",
+    "nom": "LePalais/V:Turbigo",
+    "lat": 45.8619,
+    "lon": 1.32316,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2314501",
+    "nom": "Lepaud:Nouhant",
+    "lat": 46.27417,
+    "lon": 2.38222,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711405",
+    "nom": "Le Platane",
+    "lat": 45.82829,
+    "lon": 1.30758,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900903",
+    "nom": "LES_ANGLES/COR_ARP",
+    "lat": 45.31576,
+    "lon": 1.79073,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2417201",
+    "nom": "Les eyzies tayac",
+    "lat": 44.93306,
+    "lon": 1.0059,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2417501",
+    "nom": "LES FARGES:Chozes",
+    "lat": 45.12085,
+    "lon": 1.21176,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704803",
+    "nom": "Les Hauts de Condat1",
+    "lat": 45.79235,
+    "lon": 1.23769,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704804",
+    "nom": "Les Hauts de Condat2",
+    "lat": 45.79146,
+    "lon": 1.23736,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2423402",
+    "nom": "LES LECHES",
+    "lat": 44.94295,
+    "lon": 0.42064,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2423401",
+    "nom": "LES LECHES_Aire",
+    "lat": 45.01542,
+    "lon": 0.37455,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708581",
+    "nom": "Les Pousses",
+    "lat": 45.82844,
+    "lon": 1.26048,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4617001",
+    "nom": "Leyme",
+    "lat": 44.77889,
+    "lon": 1.90778,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4617101",
+    "nom": "LHERM_SALT Les Junie",
+    "lat": 44.5574,
+    "lon": 1.2289,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4617201",
+    "nom": "Lhospitalet",
+    "lat": 44.35751,
+    "lon": 1.42056,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1925601",
+    "nom": "Liginiac",
+    "lat": 45.38361,
+    "lon": 2.35611,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1911501",
+    "nom": "Ligneyrac",
+    "lat": 45.04785,
+    "lon": 1.62546,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2424103",
+    "nom": "LIMEYRAT:Palue",
+    "lat": 45.16218,
+    "lon": 0.99605,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8705001",
+    "nom": "Limoges1:Couzeix",
+    "lat": 45.86732,
+    "lon": 1.24538,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711401",
+    "nom": "Limoges2:Panazol",
+    "lat": 45.82873,
+    "lon": 1.28755,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708540",
+    "nom": "LIMOGES-807",
+    "lat": 45.88417,
+    "lon": 1.29722,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708536",
+    "nom": "LIMOGES-814",
+    "lat": 45.82389,
+    "lon": 1.24079,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708549",
+    "nom": "LIMOGES-818",
+    "lat": 45.83949,
+    "lon": 1.22884,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708546",
+    "nom": "LIMOGES-819",
+    "lat": 45.8296,
+    "lon": 1.2268,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708548",
+    "nom": "LIMOGES-830",
+    "lat": 45.83231,
+    "lon": 1.25639,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708562",
+    "nom": "LIMOGES-8700",
+    "lat": 45.84764,
+    "lon": 1.26097,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708539",
+    "nom": "LIMOGES-8703",
+    "lat": 45.82644,
+    "lon": 1.25185,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708559",
+    "nom": "LIMOGES-8704",
+    "lat": 45.83824,
+    "lon": 1.26455,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708560",
+    "nom": "LIMOGES-8705",
+    "lat": 45.8381,
+    "lon": 1.26448,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708561",
+    "nom": "LIMOGES-8706",
+    "lat": 45.84194,
+    "lon": 1.25737,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708544",
+    "nom": "LIMOGES-8708",
+    "lat": 45.83846,
+    "lon": 1.26083,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708537",
+    "nom": "LIMOGES-8711",
+    "lat": 45.83791,
+    "lon": 1.2651,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708558",
+    "nom": "LIMOGES-8712",
+    "lat": 45.81834,
+    "lon": 1.26496,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708542",
+    "nom": "LIMOGES-8713",
+    "lat": 45.86431,
+    "lon": 1.26412,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708543",
+    "nom": "LIMOGES-8714",
+    "lat": 45.82645,
+    "lon": 1.24607,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708550",
+    "nom": "LIMOGES-8716",
+    "lat": 45.81981,
+    "lon": 1.28088,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708563",
+    "nom": "LIMOGES-8728",
+    "lat": 45.82736,
+    "lon": 1.26322,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708564",
+    "nom": "LIMOGES-8731",
+    "lat": 45.83843,
+    "lon": 1.20759,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708566",
+    "nom": "LIMOGES-8736",
+    "lat": 45.82139,
+    "lon": 1.26524,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708567",
+    "nom": "LIMOGES-8738",
+    "lat": 45.87671,
+    "lon": 1.28667,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708568",
+    "nom": "LIMOGES-8741",
+    "lat": 45.87634,
+    "lon": 1.28597,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708570",
+    "nom": "LIMOGES-8744",
+    "lat": 45.82144,
+    "lon": 1.26463,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701501",
+    "nom": "Limoges:Allee Seto",
+    "lat": 45.83696,
+    "lon": 1.26704,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708523",
+    "nom": "LIMOGES-ANTALIS TV",
+    "lat": 45.82625,
+    "lon": 1.23149,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708503",
+    "nom": "Limoges:Baubreui_TDF",
+    "lat": 45.87,
+    "lon": 1.29944,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701502",
+    "nom": "Limoges:Briand",
+    "lat": 45.83769,
+    "lon": 1.26706,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8702901",
+    "nom": "Limoges:Cars(les)",
+    "lat": 45.65812,
+    "lon": 1.07099,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8705002",
+    "nom": "Limoges:Couzeix:ZI-N",
+    "lat": 45.86694,
+    "lon": 1.26528,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8720501",
+    "nom": "Limoges:Cx-de-Arbre",
+    "lat": 45.77831,
+    "lon": 1.28884,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710702",
+    "nom": "Limoges:Nieul",
+    "lat": 45.93306,
+    "lon": 1.16219,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708505",
+    "nom": "Limoges:Puy-las-Roda",
+    "lat": 45.82874,
+    "lon": 1.23162,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708569",
+    "nom": "Limoges:St Aurelien",
+    "lat": 45.8287,
+    "lon": 1.25745,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708501",
+    "nom": "LIMOGES:Studio FBleu",
+    "lat": 45.82694,
+    "lon": 1.25778,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4605301",
+    "nom": "Lissac-et-Mouret",
+    "lat": 44.63861,
+    "lon": 2.00417,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1904901",
+    "nom": "Lissac-sur-Couze",
+    "lat": 45.08861,
+    "lon": 1.43889,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715603",
+    "nom": "Lotis, de la Mairie",
+    "lat": 45.86197,
+    "lon": 1.38431,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4617703",
+    "nom": "LOUBRESSAC_BOURG",
+    "lat": 44.86891,
+    "lon": 1.80257,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4617702",
+    "nom": "LOUBRESSAC_POUJADE",
+    "lat": 44.87625,
+    "lon": 1.78585,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4617801",
+    "nom": "Loupiac_Pech Mouret",
+    "lat": 44.83381,
+    "lon": 1.48824,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2311202",
+    "nom": "Lourdouei",
+    "lat": 46.40915,
+    "lon": 1.82148,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1912104",
+    "nom": "Lubersac:Bousseleygi",
+    "lat": 45.44486,
+    "lon": 1.40764,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4618201",
+    "nom": "Luzech",
+    "lat": 44.48529,
+    "lon": 1.2836,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708801",
+    "nom": "MAGNAC BOURG",
+    "lat": 45.61019,
+    "lon": 1.42672,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708802",
+    "nom": "Magnac-Bourg:Glycine",
+    "lat": 45.6161,
+    "lon": 1.43289,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708803",
+    "nom": "Magnac-Bourg:Presby",
+    "lat": 45.61617,
+    "lon": 1.4328,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708901",
+    "nom": "Magnac-Laval:Beaurep",
+    "lat": 46.22111,
+    "lon": 1.17253,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708902",
+    "nom": "Magnac-Laval:Cente",
+    "lat": 46.21365,
+    "lon": 1.16501,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2311501",
+    "nom": "Magnat-l'Etrange",
+    "lat": 45.78765,
+    "lon": 2.27417,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2311701",
+    "nom": "Maison Feyne Lascoux",
+    "lat": 46.34657,
+    "lon": 1.67767,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1912303",
+    "nom": "Malemort/C:LeJassou",
+    "lat": 45.16922,
+    "lon": 1.57651,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1912301",
+    "nom": "Malemort/correze:H,",
+    "lat": 45.16179,
+    "lon": 1.56329,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906802",
+    "nom": "Malemort:Dampniat",
+    "lat": 45.16972,
+    "lon": 1.61,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2424901",
+    "nom": "Manaurie",
+    "lat": 44.965,
+    "lon": 0.99306,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4618301",
+    "nom": "Marcilhac/Cele1",
+    "lat": 44.55071,
+    "lon": 1.77345,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4629902",
+    "nom": "Marcilhac/Cele2",
+    "lat": 44.52418,
+    "lon": 1.74072,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1916901",
+    "nom": "Marcillac-la-Croze",
+    "lat": 45.03861,
+    "lon": 1.75417,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2425301",
+    "nom": "Mareuil",
+    "lat": 45.44772,
+    "lon": 0.45672,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2425303",
+    "nom": "MAREUIL_PERIGORD",
+    "lat": 45.51261,
+    "lon": 0.46,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2312401",
+    "nom": "Marsac",
+    "lat": 46.08808,
+    "lon": 1.58181,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2425605",
+    "nom": "Marsac/Isle:Bouzonie",
+    "lat": 45.17057,
+    "lon": 0.65607,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2425606",
+    "nom": "Marsac/Isle:Payenche",
+    "lat": 45.17772,
+    "lon": 0.6382,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8709301",
+    "nom": "MASLEON",
+    "lat": 45.76907,
+    "lon": 1.59125,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1912905",
+    "nom": "Masseret:Foirail",
+    "lat": 45.53987,
+    "lon": 1.5219,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8705701",
+    "nom": "Maubert(Le):Dompierr",
+    "lat": 46.18654,
+    "lon": 1.22424,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1518401",
+    "nom": "Maurs",
+    "lat": 44.72056,
+    "lon": 2.22083,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2426302",
+    "nom": "Mazeyrolles2:Foncave",
+    "lat": 44.67869,
+    "lon": 1.02344,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2426303",
+    "nom": "Mazeyrolles:Chante",
+    "lat": 44.67104,
+    "lon": 1.00206,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2426301",
+    "nom": "Mazeyrolles:Pecontal",
+    "lat": 44.66625,
+    "lon": 1.00646,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2312901",
+    "nom": "Mazieres-aux-BH(la)",
+    "lat": 45.91293,
+    "lon": 2.44237,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8709401",
+    "nom": "MEILHAC",
+    "lat": 45.72731,
+    "lon": 1.17718,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2426402",
+    "nom": "MENESPLET1",
+    "lat": 45.00589,
+    "lon": 0.10099,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1913302",
+    "nom": "MERCOEUR_2",
+    "lat": 45.03841,
+    "lon": 1.98673,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4619103",
+    "nom": "MERCUES",
+    "lat": 44.50917,
+    "lon": 1.39088,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1913403",
+    "nom": "Merlines:Rouchauds",
+    "lat": 45.54597,
+    "lon": 2.31036,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1913404",
+    "nom": "Merlines:Semard",
+    "lat": 45.6472,
+    "lon": 2.46026,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1913602",
+    "nom": "Meymac",
+    "lat": 45.5273,
+    "lon": 2.16377,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1913607",
+    "nom": "Meymac:Eymanoux",
+    "lat": 45.52583,
+    "lon": 2.14111,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1913603",
+    "nom": "Meymac:le jagoulet",
+    "lat": 45.53424,
+    "lon": 2.13244,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1913801",
+    "nom": "Meyssac",
+    "lat": 45.06722,
+    "lon": 1.69,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1913853",
+    "nom": "Meyssac:Auvitrie",
+    "lat": 45.0562,
+    "lon": 1.67481,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1913854",
+    "nom": "Meyssac:Marboutie",
+    "lat": 45.05602,
+    "lon": 1.674,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1913852",
+    "nom": "Meyssac:Termes",
+    "lat": 45.0502,
+    "lon": 1.67497,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8709701",
+    "nom": "Mezieres_Issoire",
+    "lat": 46.11044,
+    "lon": 0.91088,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2426901",
+    "nom": "MIALET:Vergne-Jourde",
+    "lat": 45.54905,
+    "lon": 0.9178,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2427003",
+    "nom": "MILHAC-AUBEROCHE 3",
+    "lat": 45.12812,
+    "lon": 0.92421,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2427401",
+    "nom": "Monbazillac",
+    "lat": 44.79102,
+    "lon": 0.49878,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2427601",
+    "nom": "MONESTIER:Buisson",
+    "lat": 44.78565,
+    "lon": 0.29628,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2428201",
+    "nom": "Monsaguel:ft-l'eymat",
+    "lat": 44.73528,
+    "lon": 0.54722,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1914303",
+    "nom": "MontaignacStH:Mairie",
+    "lat": 45.35359,
+    "lon": 1.97835,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2313201",
+    "nom": "Montaigut Le Blanc",
+    "lat": 46.12351,
+    "lon": 1.72842,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4619903",
+    "nom": "Montcabrier 3",
+    "lat": 44.53997,
+    "lon": 1.10201,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4619904",
+    "nom": "Montcabrier: Bezou",
+    "lat": 44.5558,
+    "lon": 1.096,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2428901",
+    "nom": "Montcaret:le petit",
+    "lat": 44.86056,
+    "lon": 0.08528,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4620102",
+    "nom": "MONTCUQ",
+    "lat": 44.33959,
+    "lon": 1.21628,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4620203",
+    "nom": "MONTDOUMERC",
+    "lat": 44.28673,
+    "lon": 1.50471,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4620401",
+    "nom": "MONTFAUCON 1",
+    "lat": 44.6716,
+    "lon": 1.57477,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2429002",
+    "nom": "MONTFERAND-PERIGORD2",
+    "lat": 44.76643,
+    "lon": 0.88038,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2429001",
+    "nom": "MONTFERRAND_PERIGORD",
+    "lat": 44.76417,
+    "lon": 0.88421,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413001",
+    "nom": "Montignac1:Brongidou",
+    "lat": 45.11611,
+    "lon": 1.24722,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2429101",
+    "nom": "Montignac2:Beaussane",
+    "lat": 45.06278,
+    "lon": 1.1525,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2429401",
+    "nom": "Montpon-Menesterol1",
+    "lat": 45.03396,
+    "lon": 0.17259,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2429402",
+    "nom": "Montpon-Menesterol2",
+    "lat": 44.97417,
+    "lon": 0.15583,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2429404",
+    "nom": "Montpon-Menesterol4",
+    "lat": 45.0049,
+    "lon": 0.13667,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2429503",
+    "nom": "MONTREM",
+    "lat": 45.13669,
+    "lon": 0.58931,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1508201",
+    "nom": "Montsalvy",
+    "lat": 44.70333,
+    "lon": 2.44833,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4620801",
+    "nom": "Montvalent:Pech",
+    "lat": 44.87345,
+    "lon": 1.60472,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2429601",
+    "nom": "Mouleydier",
+    "lat": 44.85514,
+    "lon": 0.60237,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2429701",
+    "nom": "Moulin-neuf:le bourg",
+    "lat": 45.00936,
+    "lon": 0.04688,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2429703",
+    "nom": "MOULIN-NEUF:Leroy",
+    "lat": 44.98785,
+    "lon": 0.06383,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2314001",
+    "nom": "Moutier-Rozeille",
+    "lat": 45.93194,
+    "lon": 2.18556,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2429901",
+    "nom": "Mussidan1:Emburee",
+    "lat": 45.02696,
+    "lon": 0.36095,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2440901",
+    "nom": "Mussidan2:Vignettes",
+    "lat": 45.07722,
+    "lon": 0.34639,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4620901",
+    "nom": "Nadaillac Le Rouge",
+    "lat": 44.86325,
+    "lon": 1.40793,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4621001",
+    "nom": "NADILLAC",
+    "lat": 44.57945,
+    "lon": 1.51428,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710302",
+    "nom": "Nantiat",
+    "lat": 46.00417,
+    "lon": 1.19111,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710301",
+    "nom": "Nantiat:Mais Rouge",
+    "lat": 45.99556,
+    "lon": 1.16139,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710304",
+    "nom": "Nantiat:Pichot",
+    "lat": 46.00979,
+    "lon": 1.17001,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1914607",
+    "nom": "NAVES",
+    "lat": 45.31633,
+    "lon": 1.73846,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1914601",
+    "nom": "Naves2:Chaunac",
+    "lat": 45.28304,
+    "lon": 1.72393,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1914603",
+    "nom": "Naves3:Horts(les)",
+    "lat": 45.30417,
+    "lon": 1.73778,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1914610",
+    "nom": "NAVES_CHAUNAC",
+    "lat": 45.28253,
+    "lon": 1.72425,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1914605",
+    "nom": "Naves:madelmont",
+    "lat": 45.30556,
+    "lon": 1.77588,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1914604",
+    "nom": "Naves -OP",
+    "lat": 45.3325,
+    "lon": 1.75379,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2431201",
+    "nom": "N-Dame-de-sanilhac",
+    "lat": 45.11694,
+    "lon": 0.69778,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710401",
+    "nom": "Nedde",
+    "lat": 45.71818,
+    "lon": 1.83689,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1914752",
+    "nom": "NESPOULS_LTO",
+    "lat": 45.07,
+    "lon": 1.4866,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2430901",
+    "nom": "Neuvic",
+    "lat": 45.09111,
+    "lon": 0.48167,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2430906",
+    "nom": "NEUVIC1",
+    "lat": 45.11316,
+    "lon": 0.4675,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1914802",
+    "nom": "Neuvic:Commerce",
+    "lat": 45.38196,
+    "lon": 2.27184,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710503",
+    "nom": "NEUVIC ENTIER",
+    "lat": 45.76131,
+    "lon": 1.6213,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710501",
+    "nom": "Neuvic-Entier",
+    "lat": 45.75389,
+    "lon": 1.65444,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1914801",
+    "nom": "Neuvic:libersac Nd",
+    "lat": 45.38259,
+    "lon": 2.2861,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710601",
+    "nom": "Nexon",
+    "lat": 45.68809,
+    "lon": 1.18925,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710607",
+    "nom": "Nexon:Esme",
+    "lat": 45.67671,
+    "lon": 1.19204,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710605",
+    "nom": "NEXON GARE",
+    "lat": 45.69535,
+    "lon": 1.17892,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710606",
+    "nom": "Nexon:Vanelle",
+    "lat": 45.68121,
+    "lon": 1.18639,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2401003",
+    "nom": "Nhood_Marsac Sur L'I",
+    "lat": 45.19303,
+    "lon": 0.65845,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710705",
+    "nom": "Nieul2",
+    "lat": 45.93427,
+    "lon": 1.16988,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710708",
+    "nom": "Nieul:Gare",
+    "lat": 45.92642,
+    "lon": 1.17295,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1911503",
+    "nom": "Noailhac",
+    "lat": 45.06391,
+    "lon": 1.62095,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1915101",
+    "nom": "Noailles",
+    "lat": 45.09839,
+    "lon": 1.52388,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1915104",
+    "nom": "NOAILLES 1",
+    "lat": 45.1034,
+    "lon": 1.52502,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1915105",
+    "nom": "NOAILLES1",
+    "lat": 45.08834,
+    "lon": 1.50726,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2431101",
+    "nom": "Nontron2:Ferme-Rouge",
+    "lat": 45.51639,
+    "lon": 0.66306,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2431102",
+    "nom": "NONTRON-SNI_X102",
+    "lat": 45.52801,
+    "lon": 0.65895,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2431204",
+    "nom": "Notredame:Bergerac28",
+    "lat": 45.17757,
+    "lon": 0.72599,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413808",
+    "nom": "Notredame:Ecole",
+    "lat": 45.17803,
+    "lon": 0.72746,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1918201",
+    "nom": "Objat",
+    "lat": 45.24528,
+    "lon": 1.39528,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1915306",
+    "nom": "OBJAT_3",
+    "lat": 45.28481,
+    "lon": 1.40343,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1915303",
+    "nom": "OBJAT Eguizier",
+    "lat": 45.25167,
+    "lon": 1.40958,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1915305",
+    "nom": "Objat:Grandes Terres",
+    "lat": 45.27436,
+    "lon": 1.40976,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711002",
+    "nom": "Oradour/Glane:Glane",
+    "lat": 45.9304,
+    "lon": 1.02966,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711001",
+    "nom": "Oradour/Glane:Long",
+    "lat": 45.93235,
+    "lon": 1.02874,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8710905",
+    "nom": "ORADOUR_ST_GENEST",
+    "lat": 46.22622,
+    "lon": 1.02507,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711102",
+    "nom": "Oradour/Vayres:Parc",
+    "lat": 45.73148,
+    "lon": 0.86417,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711201",
+    "nom": "Pageas:parc de Puy B",
+    "lat": 45.71111,
+    "lon": 1.02222,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1915601",
+    "nom": "Palazinges",
+    "lat": 45.16312,
+    "lon": 1.70542,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711402",
+    "nom": "Panazol",
+    "lat": 45.82878,
+    "lon": 1.28764,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1915801",
+    "nom": "Pandrignes",
+    "lat": 45.22316,
+    "lon": 1.85646,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2314902",
+    "nom": "Parsac:gde mazere",
+    "lat": 46.20611,
+    "lon": 2.1064,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2314901",
+    "nom": "Parsac-Gouzon",
+    "lat": 46.19639,
+    "lon": 2.17694,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2413801",
+    "nom": "Perigueux1:Curade(la",
+    "lat": 45.17481,
+    "lon": 0.70733,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432202",
+    "nom": "Perigueux2:Grenadier",
+    "lat": 45.19372,
+    "lon": 0.71902,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432206",
+    "nom": "Perigueux3:Monzie(la",
+    "lat": 45.20028,
+    "lon": 0.69833,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432218",
+    "nom": "Perigueux:Agonac",
+    "lat": 45.20347,
+    "lon": 0.69645,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432219",
+    "nom": "Perigueux:Agonac14",
+    "lat": 45.20178,
+    "lon": 0.69667,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432220",
+    "nom": "Perigueux:Agora",
+    "lat": 45.17768,
+    "lon": 0.7536,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432221",
+    "nom": "Perigueux:AmpereBd",
+    "lat": 45.19114,
+    "lon": 0.71708,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432222",
+    "nom": "Perigueux:Angou260",
+    "lat": 45.20128,
+    "lon": 0.6856,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432223",
+    "nom": "Perigueux:Angouleme",
+    "lat": 45.20014,
+    "lon": 0.69785,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432225",
+    "nom": "Perigueux:Artillerie",
+    "lat": 45.18199,
+    "lon": 0.7329,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432226",
+    "nom": "Perigueux:Aubarede",
+    "lat": 45.1857,
+    "lon": 0.72962,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432227",
+    "nom": "Perigueux:Aubergerie",
+    "lat": 45.18253,
+    "lon": 0.72135,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432228",
+    "nom": "Perigueux:Bardage",
+    "lat": 45.17991,
+    "lon": 0.72226,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432229",
+    "nom": "Perigueux:Bart",
+    "lat": 45.19672,
+    "lon": 0.67919,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432230",
+    "nom": "Perigueux:Beauronne",
+    "lat": 45.19953,
+    "lon": 0.68335,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432231",
+    "nom": "Perigueux:Bernard",
+    "lat": 45.17901,
+    "lon": 0.71172,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432232",
+    "nom": "Perigueux:Blanc24",
+    "lat": 45.18693,
+    "lon": 0.71112,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432233",
+    "nom": "Perigueux:Calmette35",
+    "lat": 45.19783,
+    "lon": 0.70491,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432235",
+    "nom": "Perigueux:Campniac",
+    "lat": 45.17883,
+    "lon": 0.71559,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432236",
+    "nom": "Perigueux:Chancel179",
+    "lat": 45.19623,
+    "lon": 0.70222,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2410202",
+    "nom": "Perigueux:Chancelade",
+    "lat": 45.22379,
+    "lon": 0.65258,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432237",
+    "nom": "Perigueux:Change",
+    "lat": 45.18391,
+    "lon": 0.73678,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432238",
+    "nom": "Perigueux:Chasseur",
+    "lat": 45.1828,
+    "lon": 0.73712,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432239",
+    "nom": "Perigueux:Chaudro8",
+    "lat": 45.18249,
+    "lon": 0.72961,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432240",
+    "nom": "Perigueux:Coderc",
+    "lat": 45.18418,
+    "lon": 0.72211,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432241",
+    "nom": "Perigueux:Coderc4",
+    "lat": 45.18423,
+    "lon": 0.72108,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432242",
+    "nom": "Perigueux:Courier",
+    "lat": 45.19069,
+    "lon": 0.7275,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432243",
+    "nom": "Perigueux:Cronsdadt",
+    "lat": 45.18868,
+    "lon": 0.71066,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432244",
+    "nom": "Perigueux:Dame2",
+    "lat": 45.18512,
+    "lon": 0.72314,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432245",
+    "nom": "Perigueux:Dames101",
+    "lat": 45.19319,
+    "lon": 0.72259,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432246",
+    "nom": "Perigueux:Dames154",
+    "lat": 45.19497,
+    "lon": 0.72383,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432247",
+    "nom": "Perigueux:Dames18",
+    "lat": 45.18861,
+    "lon": 0.71987,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432248",
+    "nom": "Perigueux:Dames226",
+    "lat": 45.19812,
+    "lon": 0.72752,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432249",
+    "nom": "Perigueux:Dames82",
+    "lat": 45.19177,
+    "lon": 0.722,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432250",
+    "nom": "Perigueux:Eymard1",
+    "lat": 45.17648,
+    "lon": 0.71385,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432251",
+    "nom": "Perigueux:Farges7",
+    "lat": 45.18314,
+    "lon": 0.72019,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432252",
+    "nom": "Perigueux:Fenelon",
+    "lat": 45.18201,
+    "lon": 0.72044,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432253",
+    "nom": "Perigueux:Ferry34",
+    "lat": 45.19597,
+    "lon": 0.70559,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432254",
+    "nom": "Perigueux:Feutres",
+    "lat": 45.19762,
+    "lon": 0.69825,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432255",
+    "nom": "Perigueux:Fontaine16",
+    "lat": 45.17769,
+    "lon": 0.72498,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432256",
+    "nom": "Perigueux:Frachet",
+    "lat": 45.18639,
+    "lon": 0.73266,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432257",
+    "nom": "Perigueux:Frachet25",
+    "lat": 45.18698,
+    "lon": 0.73269,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432258",
+    "nom": "Perigueux:Front4",
+    "lat": 45.18453,
+    "lon": 0.72293,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432259",
+    "nom": "Perigueux:Guillier26",
+    "lat": 45.18358,
+    "lon": 0.71671,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432260",
+    "nom": "Perigueux:Juin93",
+    "lat": 45.18499,
+    "lon": 0.71082,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432261",
+    "nom": "Perigueux:Lacombe",
+    "lat": 45.18042,
+    "lon": 0.72562,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432262",
+    "nom": "Perigueux:Lacombe19",
+    "lat": 45.18058,
+    "lon": 0.72589,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432264",
+    "nom": "Perigueux:Lakanal10",
+    "lat": 45.17984,
+    "lon": 0.72114,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432265",
+    "nom": "Perigueux:lauriere13",
+    "lat": 45.17816,
+    "lon": 0.71232,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432266",
+    "nom": "Perigueux:Lauriere33",
+    "lat": 45.17814,
+    "lon": 0.71125,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432267",
+    "nom": "Perigueux:Leroy",
+    "lat": 45.18066,
+    "lon": 0.72088,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432268",
+    "nom": "Perigueux:Lussac",
+    "lat": 45.18037,
+    "lon": 0.74142,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432269",
+    "nom": "Perigueux:Lyon137",
+    "lat": 45.17904,
+    "lon": 0.74062,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432270",
+    "nom": "Perigueux:Magne",
+    "lat": 45.1795,
+    "lon": 0.73675,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432272",
+    "nom": "Perigueux:Mazzy4",
+    "lat": 45.19177,
+    "lon": 0.72121,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432273",
+    "nom": "Perigueux:Michelet",
+    "lat": 45.18732,
+    "lon": 0.71618,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432274",
+    "nom": "Perigueux:Mondoux",
+    "lat": 45.18534,
+    "lon": 0.72875,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432275",
+    "nom": "Perigueux:Monzie",
+    "lat": 45.2006,
+    "lon": 0.69869,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432276",
+    "nom": "Perigueux:Monzie800",
+    "lat": 45.201,
+    "lon": 0.6985,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432277",
+    "nom": "Perigueux:Morand31",
+    "lat": 45.18639,
+    "lon": 0.73062,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432278",
+    "nom": "Perigueux:Moulin",
+    "lat": 45.20057,
+    "lon": 0.69564,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432279",
+    "nom": "Perigueux:Pages",
+    "lat": 45.19151,
+    "lon": 0.7174,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432215",
+    "nom": "Perigueux:Papin",
+    "lat": 45.18717,
+    "lon": 0.70871,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432280",
+    "nom": "Perigueux:Parmentier",
+    "lat": 45.18493,
+    "lon": 0.73871,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432281",
+    "nom": "Perigueux:Petit",
+    "lat": 45.20527,
+    "lon": 0.71473,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432282",
+    "nom": "Perigueux:Port5",
+    "lat": 45.18393,
+    "lon": 0.70483,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432283",
+    "nom": "Perigueux:Pozzi2",
+    "lat": 45.18005,
+    "lon": 0.7293,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432284",
+    "nom": "Perigueux:Pozzi24",
+    "lat": 45.17881,
+    "lon": 0.73032,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432285",
+    "nom": "Perigueux:Pres",
+    "lat": 45.1872,
+    "lon": 0.73095,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432286",
+    "nom": "Perigueux:Puebla",
+    "lat": 45.18892,
+    "lon": 0.7086,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432290",
+    "nom": "Perigueux:Raudier14",
+    "lat": 45.19786,
+    "lon": 0.68227,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432288",
+    "nom": "Perigueux:Raudier23",
+    "lat": 45.19727,
+    "lon": 0.68057,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432289",
+    "nom": "Perigueux:Raudier35",
+    "lat": 45.1971,
+    "lon": 0.67948,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432291",
+    "nom": "Perigueux:Raynal22",
+    "lat": 45.18038,
+    "lon": 0.70702,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432292",
+    "nom": "Perigueux:Ribot",
+    "lat": 45.17888,
+    "lon": 0.71079,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432293",
+    "nom": "Perigueux:Saltgourde",
+    "lat": 45.1964,
+    "lon": 0.67786,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432296",
+    "nom": "Perigueux:Seguier5",
+    "lat": 45.18222,
+    "lon": 0.7207,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432297",
+    "nom": "Perigueux:Semard6",
+    "lat": 45.19246,
+    "lon": 0.7076,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432298",
+    "nom": "Perigueux:Siegfried",
+    "lat": 45.17831,
+    "lon": 0.71142,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432299",
+    "nom": "Perigueux:Solferino",
+    "lat": 45.18762,
+    "lon": 0.71179,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432203",
+    "nom": "Perigueux:ST -OP",
+    "lat": 45.18056,
+    "lon": 0.72444,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2432234",
+    "nom": "Perigueux:Vesone",
+    "lat": 45.17598,
+    "lon": 0.71339,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1916201",
+    "nom": "PERPEZAC-LE-NOIR",
+    "lat": 45.35027,
+    "lon": 1.5667,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711701",
+    "nom": "Peyrat-le-Chateau1",
+    "lat": 45.8037,
+    "lon": 1.81419,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711703",
+    "nom": "PeyratLeCh:Garennes",
+    "lat": 45.8192,
+    "lon": 1.77425,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4621901",
+    "nom": "Peyrilles",
+    "lat": 44.63944,
+    "lon": 1.41111,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2423801",
+    "nom": "PIEGUT-PLUVIERS",
+    "lat": 45.62278,
+    "lon": 0.69389,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711907",
+    "nom": "Pierre-Buf:Abbaye",
+    "lat": 45.6953,
+    "lon": 1.35853,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711906",
+    "nom": "Pierre-Buf:Botteaux",
+    "lat": 45.69049,
+    "lon": 1.36093,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711903",
+    "nom": "Pierre Buffiere",
+    "lat": 45.68732,
+    "lon": 1.36838,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4622003",
+    "nom": "Pinsac_SALT Souillac",
+    "lat": 44.87757,
+    "lon": 1.50942,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4604283",
+    "nom": "PKCAHORSGAMBETTA",
+    "lat": 44.44947,
+    "lon": 1.43374,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2317658",
+    "nom": "PKLAGare",
+    "lat": 46.24023,
+    "lon": 1.49136,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715604",
+    "nom": "Pl de la Republique",
+    "lat": 45.86278,
+    "lon": 1.38533,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8712001",
+    "nom": "Porcherie(la)",
+    "lat": 45.56512,
+    "lon": 1.51058,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2433501",
+    "nom": "Port-Ste-Foy:FH",
+    "lat": 44.87472,
+    "lon": 0.22083,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2315701",
+    "nom": "Pouge(la)",
+    "lat": 45.97389,
+    "lon": 1.95361,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4622402",
+    "nom": "PRADINES: ESCALES",
+    "lat": 44.46876,
+    "lon": 1.41251,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4622401",
+    "nom": "Pradines:Tremouls",
+    "lat": 44.48055,
+    "lon": 1.39852,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4618202",
+    "nom": "Prayssac",
+    "lat": 44.46278,
+    "lon": 1.26389,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4622501",
+    "nom": "Prayssac:les Roches",
+    "lat": 44.50289,
+    "lon": 1.20726,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4622502",
+    "nom": "Prayssac_SALT",
+    "lat": 44.5028,
+    "lon": 1.20749,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2433502",
+    "nom": "Pt-ste-foy-ponchapt",
+    "lat": 44.85083,
+    "lon": 0.21194,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711702",
+    "nom": "Puy-Lenty",
+    "lat": 45.80985,
+    "lon": 1.829,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2434504",
+    "nom": "Queyssac:Moulin",
+    "lat": 44.91147,
+    "lon": 0.53379,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8712205",
+    "nom": "Razes:Cor",
+    "lat": 46.03452,
+    "lon": 1.34331,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8712204",
+    "nom": "Razes Les Prades",
+    "lat": 46.05628,
+    "lon": 1.35798,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4623601",
+    "nom": "REILHAGUET",
+    "lat": 44.80107,
+    "lon": 1.5048,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8705901",
+    "nom": "RF LE DORAT",
+    "lat": 46.21074,
+    "lon": 1.0978,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8716801",
+    "nom": "RF St Mathieu",
+    "lat": 45.70738,
+    "lon": 0.78169,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1928701",
+    "nom": "RF VITRAC MONTANE",
+    "lat": 45.375,
+    "lon": 1.94306,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2400701",
+    "nom": "Riberac",
+    "lat": 45.28056,
+    "lon": 0.295,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8712503",
+    "nom": "Rilhac-Rancon:Peyrou",
+    "lat": 45.89903,
+    "lon": 1.31594,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4624001",
+    "nom": "Rocamadour",
+    "lat": 44.80288,
+    "lon": 1.62815,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1922201",
+    "nom": "Roche-Canillac(la)",
+    "lat": 45.19083,
+    "lon": 1.99,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8712601",
+    "nom": "Rochechouart:Grosill",
+    "lat": 45.83363,
+    "lon": 0.83703,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8712602",
+    "nom": "ROCHECHOUART_TDF",
+    "lat": 45.81532,
+    "lon": 0.81301,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2316201",
+    "nom": "Roches:pac:bourg",
+    "lat": 46.2765,
+    "lon": 1.97838,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1917602",
+    "nom": "Rosiers-d'egletons",
+    "lat": 45.36199,
+    "lon": 1.97125,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1917601",
+    "nom": "Rosiers-d'E -OP",
+    "lat": 45.4024,
+    "lon": 2.00778,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1917606",
+    "nom": "ROSIERS_EGLETON_2",
+    "lat": 45.39403,
+    "lon": 1.97988,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4624102",
+    "nom": "ROUFFILHAC",
+    "lat": 44.80006,
+    "lon": 1.40929,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2316504",
+    "nom": "ROYERE",
+    "lat": 45.84182,
+    "lon": 1.91312,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2316502",
+    "nom": "Royere-de-Vassiviere",
+    "lat": 45.87417,
+    "lon": 1.875,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8712901",
+    "nom": "Royeres",
+    "lat": 45.86429,
+    "lon": 1.44746,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4624501",
+    "nom": "Sabadel-Lauzes",
+    "lat": 44.56528,
+    "lon": 1.60389,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1917802",
+    "nom": "SADROC",
+    "lat": 45.27824,
+    "lon": 1.56316,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708583",
+    "nom": "Sainte Felicite",
+    "lat": 45.82175,
+    "lon": 1.2649,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4626901",
+    "nom": "SAINT-HILAIRE",
+    "lat": 44.77805,
+    "lon": 2.15491,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2451601",
+    "nom": "SALIGNAC-EYVIGUES",
+    "lat": 44.97584,
+    "lon": 1.33209,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1925053",
+    "nom": "SALON LA TOUR",
+    "lat": 45.52562,
+    "lon": 1.55009,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1925001",
+    "nom": "Salon-la-tour sirey",
+    "lat": 45.51611,
+    "lon": 1.52713,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701458",
+    "nom": "SALT_BESSINES_S_GAR",
+    "lat": 46.13106,
+    "lon": 1.37712,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1908104",
+    "nom": "SALT_EYREIN",
+    "lat": 45.3371,
+    "lon": 1.91476,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2314003",
+    "nom": "SALT_MOUTIER_ROZEILE",
+    "lat": 45.93237,
+    "lon": 2.18581,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2431206",
+    "nom": "Sanilhac:St-Georges",
+    "lat": 45.17797,
+    "lon": 0.72752,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2316802",
+    "nom": "SARDENT",
+    "lat": 46.05218,
+    "lon": 1.866,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2452001",
+    "nom": "Sarlat",
+    "lat": 44.91,
+    "lon": 1.2125,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2452101",
+    "nom": "SARLIAC/ L ISLE",
+    "lat": 45.22866,
+    "lon": 0.87616,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1905102",
+    "nom": "Sarran",
+    "lat": 45.45647,
+    "lon": 1.90888,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4629901",
+    "nom": "Sauliac/Cele",
+    "lat": 44.51315,
+    "lon": 1.71674,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8719052",
+    "nom": "Sauviat/Vige:Battes",
+    "lat": 45.90865,
+    "lon": 1.60738,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1925401",
+    "nom": "Segur-le-Chateau",
+    "lat": 45.42811,
+    "lon": 1.30357,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1925501",
+    "nom": "Seilhac",
+    "lat": 45.35194,
+    "lon": 1.71583,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1925503",
+    "nom": "Seilhac:Champ foire1",
+    "lat": 45.36561,
+    "lon": 1.7158,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1925502",
+    "nom": "Seilhac:champ foire2",
+    "lat": 45.36529,
+    "lon": 1.71516,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8719152",
+    "nom": "SEREILHAC-ESSARTS",
+    "lat": 45.77066,
+    "lon": 1.03006,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8719153",
+    "nom": "Sereilhac:Laurent",
+    "lat": 45.76596,
+    "lon": 1.07644,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8719101",
+    "nom": "Sereilhac:Mais,Neuv",
+    "lat": 45.77053,
+    "lon": 1.07112,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8719154",
+    "nom": "SEREILHAC_SALT",
+    "lat": 45.77051,
+    "lon": 1.07124,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1925801",
+    "nom": "Servieres-Ch:Chateau",
+    "lat": 45.13236,
+    "lon": 2.02187,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2453701",
+    "nom": "Siorac-De-Riberac",
+    "lat": 45.19694,
+    "lon": 0.33917,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2453802",
+    "nom": "Siorac-Perigord:Pech",
+    "lat": 44.81112,
+    "lon": 0.99484,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1522801",
+    "nom": "SIRAN",
+    "lat": 44.9656,
+    "lon": 2.12255,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8719207",
+    "nom": "Solignac:Eloi",
+    "lat": 45.75586,
+    "lon": 1.27428,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8719206",
+    "nom": "Solignac:Lavoir",
+    "lat": 45.75615,
+    "lon": 1.27581,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2454001",
+    "nom": "Sorges:pac:combe",
+    "lat": 45.31861,
+    "lon": 0.87944,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1926103",
+    "nom": "Sornac:LesBouiges1",
+    "lat": 45.67114,
+    "lon": 2.18842,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1926102",
+    "nom": "Sornac:LesBouiges2",
+    "lat": 45.67093,
+    "lon": 2.1896,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1926305",
+    "nom": "SOUDEILLES 2",
+    "lat": 45.42258,
+    "lon": 2.04013,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4615301",
+    "nom": "Souillac",
+    "lat": 44.87306,
+    "lon": 1.46444,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4630955",
+    "nom": "SOUILLACAyrals13",
+    "lat": 44.89816,
+    "lon": 1.47175,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4630901",
+    "nom": "Souillac: Ch communa",
+    "lat": 44.88528,
+    "lon": 1.50167,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4630952",
+    "nom": "SOUILLAC_Pech",
+    "lat": 44.90425,
+    "lon": 1.46791,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4631001",
+    "nom": "Soulomes -OP",
+    "lat": 44.62694,
+    "lon": 1.60083,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1917301",
+    "nom": "Soursac",
+    "lat": 45.21767,
+    "lon": 2.18699,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2454301",
+    "nom": "Sourzac",
+    "lat": 45.03583,
+    "lon": 0.38278,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2317653",
+    "nom": "Souterraine(la)2",
+    "lat": 46.23833,
+    "lon": 1.46583,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2317601",
+    "nom": "Souterraine:peu-d'at",
+    "lat": 46.22204,
+    "lon": 1.48806,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2318101",
+    "nom": "St-Amand-Jartoudeix",
+    "lat": 45.92056,
+    "lon": 1.64528,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8713302",
+    "nom": "ST-AMAND-MAGNAZEIX",
+    "lat": 46.18229,
+    "lon": 1.38,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1918053",
+    "nom": "ST-ANGEL2",
+    "lat": 45.51814,
+    "lon": 2.25262,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2437002",
+    "nom": "St-Antoine-2-Breuilh",
+    "lat": 44.8395,
+    "lon": 0.17781,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2436901",
+    "nom": "ST ANTOINE AUBEROCHE",
+    "lat": 45.1469,
+    "lon": 0.95427,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2429501",
+    "nom": "St-Astier:Bellevue",
+    "lat": 45.14139,
+    "lon": 0.56694,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1918301",
+    "nom": "St-Bazile-la-Roche",
+    "lat": 45.15842,
+    "lon": 1.95324,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1918501",
+    "nom": "St-Bonnet-Avalouze",
+    "lat": 45.25389,
+    "lon": 1.81639,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8713901",
+    "nom": "St-Bonnet-de-Bellac",
+    "lat": 46.18741,
+    "lon": 0.94485,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1918703",
+    "nom": "St_Bonnet_La-Riviere",
+    "lat": 45.28984,
+    "lon": 1.35288,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1918702",
+    "nom": "St-Bonnet-la-Riviere",
+    "lat": 45.30333,
+    "lon": 1.375,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4624901",
+    "nom": "St-Bressou",
+    "lat": 44.70528,
+    "lon": 1.96861,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4629501",
+    "nom": "St-Cere",
+    "lat": 44.832,
+    "lon": 1.88836,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4625101",
+    "nom": "St-Cere:le Pech",
+    "lat": 44.85806,
+    "lon": 1.90722,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2438602",
+    "nom": "St-Cernin-de-l'Herm",
+    "lat": 44.65841,
+    "lon": 1.0189,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900401",
+    "nom": "St-Chamant:Forges",
+    "lat": 45.13217,
+    "lon": 1.8677,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1919201",
+    "nom": "ST_CHAMANT_LACOMBE",
+    "lat": 45.11431,
+    "lon": 1.91089,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1919301",
+    "nom": "St-Cirgues-la-Loutre",
+    "lat": 45.08639,
+    "lon": 2.08306,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4625902",
+    "nom": "ST CLAIR",
+    "lat": 44.6998,
+    "lon": 1.37755,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4625901",
+    "nom": "St-Clair",
+    "lat": 44.69917,
+    "lon": 1.40694,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2403601",
+    "nom": "St-Cyprien",
+    "lat": 44.84,
+    "lon": 1.04111,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8714202",
+    "nom": "St-Denis-des-Murs",
+    "lat": 45.77399,
+    "lon": 1.54066,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2456401",
+    "nom": "Std Newest  Vanxains",
+    "lat": 45.21652,
+    "lon": 0.28708,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708584",
+    "nom": "St Eloi",
+    "lat": 45.82988,
+    "lon": 1.25181,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2444701",
+    "nom": "Ste marie de chignac",
+    "lat": 45.13028,
+    "lon": 0.8475,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1518402",
+    "nom": "St-Etienne-de-Maurs",
+    "lat": 44.72278,
+    "lon": 2.21917,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1920102",
+    "nom": "ST_EXUPERY_ROCHES",
+    "lat": 45.51306,
+    "lon": 2.37644,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1920101",
+    "nom": "St-Exupery-Roches",
+    "lat": 45.524,
+    "lon": 2.34231,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1920401",
+    "nom": "St-Frejoux",
+    "lat": 45.57389,
+    "lon": 2.38972,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1920403",
+    "nom": "ST FREJOUX:Bonnaygue",
+    "lat": 45.58028,
+    "lon": 2.39111,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2440801",
+    "nom": "ST FRONT D ALEMPS",
+    "lat": 45.32584,
+    "lon": 0.82418,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2440902",
+    "nom": "ST FRONT DE PRADOUX",
+    "lat": 45.05492,
+    "lon": 0.36657,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8714301",
+    "nom": "St-Gence:Prades",
+    "lat": 45.92267,
+    "lon": 1.13936,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4626701",
+    "nom": "St-Germain-Bel-Air",
+    "lat": 44.65891,
+    "lon": 1.45844,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8714655",
+    "nom": "StGermainLesB:Chape",
+    "lat": 45.61122,
+    "lon": 1.49538,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8714656",
+    "nom": "StGermainLesB:Eglise",
+    "lat": 45.61431,
+    "lon": 1.49488,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8714653",
+    "nom": "ST-GERMAIN-LES-BEL",
+    "lat": 45.59152,
+    "lon": 1.45627,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2410401",
+    "nom": "St-Germain-Salembre",
+    "lat": 45.15389,
+    "lon": 0.455,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4609201",
+    "nom": "St-Gery:Esclauzels",
+    "lat": 44.46083,
+    "lon": 1.59778,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4626801",
+    "nom": "ST GERY VERS",
+    "lat": 44.50362,
+    "lon": 1.56143,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2320001",
+    "nom": "St-Goussaud",
+    "lat": 46.04056,
+    "lon": 1.58361,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2320002",
+    "nom": "St-Goussaud2",
+    "lat": 46.04472,
+    "lon": 1.57111,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8714855",
+    "nom": "ST_HILAIRE_BONNEVAL",
+    "lat": 45.72851,
+    "lon": 1.34932,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8714801",
+    "nom": "St-Hilaire-Bon:Vivou",
+    "lat": 45.72806,
+    "lon": 1.35194,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1911201",
+    "nom": "St-Hilaire-Courbes",
+    "lat": 45.57417,
+    "lon": 1.845,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715002",
+    "nom": "ST HILAIRE LesPLACES",
+    "lat": 45.66125,
+    "lon": 1.15316,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1921102",
+    "nom": "ST_HILAIRE_PEYROUX",
+    "lat": 45.1809,
+    "lon": 1.63003,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1921301",
+    "nom": "St-jal:champ-d-crau",
+    "lat": 45.38679,
+    "lon": 1.64361,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4633901",
+    "nom": "St-Jean-Lagineste",
+    "lat": 44.82865,
+    "lon": 1.85786,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2442901",
+    "nom": "ST-JORY-LAS-BLOUX",
+    "lat": 45.3337,
+    "lon": 0.96003,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715254",
+    "nom": "ST_JOUVENT_v3",
+    "lat": 45.95673,
+    "lon": 1.23569,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2443201",
+    "nom": "St-Julien-de-Lampon",
+    "lat": 44.87111,
+    "lon": 1.39056,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715409",
+    "nom": "ST-JUNIEN1",
+    "lat": 45.90289,
+    "lon": 0.84489,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715401",
+    "nom": "St-Junien1:Peyrissat",
+    "lat": 45.8798,
+    "lon": 0.88545,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715402",
+    "nom": "St-Junien2",
+    "lat": 45.89694,
+    "lon": 0.90099,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715410",
+    "nom": "ST-JUNIEN2 1",
+    "lat": 45.91004,
+    "lon": 0.89574,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715403",
+    "nom": "St-Junien:Jaraty",
+    "lat": 45.87583,
+    "lon": 0.89944,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715501",
+    "nom": "St-Junien-les-Combes",
+    "lat": 46.08796,
+    "lon": 1.1197,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715404",
+    "nom": "St-Junien:Seguines",
+    "lat": 45.90806,
+    "lon": 0.95528,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715601",
+    "nom": "St-Just-L-M,:Bonnefo",
+    "lat": 45.84839,
+    "lon": 1.37032,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2443702",
+    "nom": "ST LAURENT DES VIG-2",
+    "lat": 44.83194,
+    "lon": 0.43333,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715702",
+    "nom": "ST_LAURENT_EGLISES",
+    "lat": 45.95122,
+    "lon": 1.45889,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2443901",
+    "nom": "St-Laurent/Manoire:J",
+    "lat": 45.14389,
+    "lon": 0.80694,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715801",
+    "nom": "St-Laurent-s-G:Ma,Ne",
+    "lat": 45.76667,
+    "lon": 0.94361,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2320802",
+    "nom": "St-Leger-le-Gueretoi",
+    "lat": 46.15648,
+    "lon": 1.83593,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8716108",
+    "nom": "St Leonard:Barriere",
+    "lat": 45.83264,
+    "lon": 1.48696,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8716107",
+    "nom": "ST LEONARD DE NOBLAT",
+    "lat": 45.81006,
+    "lon": 1.52233,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8716101",
+    "nom": "St-Leonard-de-Noblat",
+    "lat": 45.83972,
+    "lon": 1.4775,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8716109",
+    "nom": "St Leonard:Place",
+    "lat": 45.83788,
+    "lon": 1.49062,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2444204",
+    "nom": "St-Leon/Isle_Puypins",
+    "lat": 45.12369,
+    "lon": 0.52731,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2444201",
+    "nom": "St leon/l'isle:Card,",
+    "lat": 45.12556,
+    "lon": 0.47333,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2444401",
+    "nom": "St-louis-en-l'isle",
+    "lat": 45.06639,
+    "lon": 0.38944,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2444906",
+    "nom": "ST MARTIAL ARTENSET6",
+    "lat": 45.0129,
+    "lon": 0.1982,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2445201",
+    "nom": "St-Martial-Viveyrol",
+    "lat": 45.36722,
+    "lon": 0.31972,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2445601",
+    "nom": "St martin-d-combes",
+    "lat": 44.97436,
+    "lon": 0.60765,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2445402",
+    "nom": "ST-MARTIN-DE-GURSON2",
+    "lat": 44.98283,
+    "lon": 0.10278,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4627501",
+    "nom": "ST MARTIN DE VERS 2",
+    "lat": 44.58194,
+    "lon": 1.56611,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8716701",
+    "nom": "St-Martin-Terressus",
+    "lat": 45.91905,
+    "lon": 1.42517,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "3427602",
+    "nom": "St Mathieu:Samari",
+    "lat": 45.70518,
+    "lon": 0.76001,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2321901",
+    "nom": "St Maurice",
+    "lat": 46.20529,
+    "lon": 1.39367,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8716901",
+    "nom": "ST_MAURICE_L_BROUSSE",
+    "lat": 45.70267,
+    "lon": 1.24403,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4628001",
+    "nom": "St-Medard:Rostassac",
+    "lat": 44.52864,
+    "lon": 1.279,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1901401",
+    "nom": "St-Merd-de-Lapleau",
+    "lat": 45.21089,
+    "lon": 2.10732,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2322201",
+    "nom": "St-Michel-de -Veisse",
+    "lat": 45.94149,
+    "lon": 2.07083,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1922907",
+    "nom": "StPantaleonLarch-CdG",
+    "lat": 45.14268,
+    "lon": 1.45251,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1923301",
+    "nom": "St-Pardoux",
+    "lat": 45.61361,
+    "lon": 2.28611,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1923402",
+    "nom": "StPardoux:Bourg",
+    "lat": 45.29836,
+    "lon": 1.57893,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1923101",
+    "nom": "St Pardoux Croisille",
+    "lat": 45.25911,
+    "lon": 1.99306,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2322801",
+    "nom": "St Pardoux Le Neuf",
+    "lat": 45.94139,
+    "lon": 2.25451,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2322952",
+    "nom": "ST PARDOUX LES CARDS",
+    "lat": 46.07369,
+    "lon": 2.11564,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1923401",
+    "nom": "St-Pardoux-Ortigier",
+    "lat": 45.30993,
+    "lon": 1.56906,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2447901",
+    "nom": "St-Pardoux-Riviere",
+    "lat": 45.51417,
+    "lon": 0.73889,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2448102",
+    "nom": "St-Paul-La-Roche",
+    "lat": 45.48493,
+    "lon": 1.01041,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1923602",
+    "nom": "St-P-Gimel:Merlettes",
+    "lat": 45.3301,
+    "lon": 1.88099,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2448601",
+    "nom": "St-Pierre-de Frugie",
+    "lat": 45.6275,
+    "lon": 0.935,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2448401",
+    "nom": "St-Pierre-d -OP",
+    "lat": 45.13782,
+    "lon": 0.8663,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2448602",
+    "nom": "St-Pierre pac",
+    "lat": 45.58833,
+    "lon": 0.98167,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4615701",
+    "nom": "St-Pierre:Toirac",
+    "lat": 44.52279,
+    "lon": 1.93923,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1923603",
+    "nom": "ST_PRIEST_DE_GIMEL",
+    "lat": 45.32528,
+    "lon": 1.88788,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8717701",
+    "nom": "ST PRIEST SOUS AIXE",
+    "lat": 45.81412,
+    "lon": 1.05923,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8717702",
+    "nom": "ST_PRIEST_SOUS_AIXE",
+    "lat": 45.80741,
+    "lon": 1.06931,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8720101",
+    "nom": "St-Priest-sous-Aixe2",
+    "lat": 45.84134,
+    "lon": 1.10309,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8717801",
+    "nom": "St-Priest-Taurion",
+    "lat": 45.88778,
+    "lon": 1.40111,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8717806",
+    "nom": "ST PRIEST TAURION1",
+    "lat": 45.88489,
+    "lon": 1.366,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8717807",
+    "nom": "ST PRIEST TAURION2",
+    "lat": 45.88439,
+    "lon": 1.41809,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1923701",
+    "nom": "St Privat Dept 19",
+    "lat": 45.1478,
+    "lon": 2.10015,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4629001",
+    "nom": "ST-PROJET 1",
+    "lat": 44.74377,
+    "lon": 1.54475,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2449101",
+    "nom": "St-Rabier:Galibes",
+    "lat": 45.16194,
+    "lon": 1.13694,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1923801",
+    "nom": "St-Remy (Correze)",
+    "lat": 45.69125,
+    "lon": 2.26937,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4629101",
+    "nom": "St-Sauveur-la-Vallee",
+    "lat": 44.60861,
+    "lon": 1.54389,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2323904",
+    "nom": "ST SEBASTIEN-2",
+    "lat": 46.38444,
+    "lon": 1.5437,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1924101",
+    "nom": "St-Setiers",
+    "lat": 45.67407,
+    "lon": 2.10005,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2324101",
+    "nom": "St-Silvain-Bellegard",
+    "lat": 45.96998,
+    "lon": 2.3057,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2324201",
+    "nom": "St-Silvain-Montaigut",
+    "lat": 46.14056,
+    "lon": 1.75104,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1924301",
+    "nom": "St-Sornin-Lavolps",
+    "lat": 45.38878,
+    "lon": 1.37696,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4622001",
+    "nom": "St-Sozy",
+    "lat": 44.86694,
+    "lon": 1.55306,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4629401",
+    "nom": "St-Sulpice",
+    "lat": 44.56601,
+    "lon": 1.80537,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2324503",
+    "nom": "StSulpice:AireGueret",
+    "lat": 46.18307,
+    "lon": 1.84788,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718101",
+    "nom": "St-Sulpice-Lauriere",
+    "lat": 46.0425,
+    "lon": 1.50056,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718254",
+    "nom": "StSulpiceLesF:Avenir",
+    "lat": 46.31856,
+    "lon": 1.37179,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718252",
+    "nom": "ST-SULPICE-LES-FEU",
+    "lat": 46.31675,
+    "lon": 1.42128,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718253",
+    "nom": "St SulpiceLesF:Reine",
+    "lat": 46.31839,
+    "lon": 1.37135,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718108",
+    "nom": "StSulpiceLF:Lauriere",
+    "lat": 46.04891,
+    "lon": 1.48159,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718202",
+    "nom": "St-Sulpice-l-F:Roche",
+    "lat": 46.32888,
+    "lon": 1.4166,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718109",
+    "nom": "St-Sulpice L:Jolivet",
+    "lat": 46.05258,
+    "lon": 1.48189,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1924501",
+    "nom": "St-Sylvain",
+    "lat": 45.17917,
+    "lon": 1.87139,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718353",
+    "nom": "ST_SYLVESTRE",
+    "lat": 46.00744,
+    "lon": 1.39585,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2403756",
+    "nom": "Studio Bergerac 95",
+    "lat": 44.85385,
+    "lon": 0.48652,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8708529",
+    "nom": "Studio Magic FM",
+    "lat": 45.83222,
+    "lon": 1.25639,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2316501",
+    "nom": "Studio_Vassiviere",
+    "lat": 45.84167,
+    "lon": 1.9125,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2324701",
+    "nom": "St-vaury-lorcivaud",
+    "lat": 46.20778,
+    "lon": 1.77056,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1924601",
+    "nom": "St-Viance",
+    "lat": 45.22034,
+    "lon": 1.45867,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1924602",
+    "nom": "St-viance:combanel,",
+    "lat": 45.20263,
+    "lon": 1.45569,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718501",
+    "nom": "St-Victurnien",
+    "lat": 45.88222,
+    "lon": 1.015,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718503",
+    "nom": "StVicturnien:Allu",
+    "lat": 45.87794,
+    "lon": 1.01475,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2410402",
+    "nom": "St-Vincent-Connezac",
+    "lat": 45.16439,
+    "lon": 0.40375,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2451001",
+    "nom": "St-Vincent-de-Cosse",
+    "lat": 44.84389,
+    "lon": 1.12333,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1924852",
+    "nom": "ST-YBARD 1",
+    "lat": 45.4634,
+    "lon": 1.5156,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1924801",
+    "nom": "St-ybard:pentes-baby",
+    "lat": 45.41112,
+    "lon": 1.51556,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718701",
+    "nom": "St-Yrieix-la-Perche1",
+    "lat": 45.50662,
+    "lon": 1.21448,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718702",
+    "nom": "St-Yrieix-la-Perche2",
+    "lat": 45.53595,
+    "lon": 1.18448,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718754",
+    "nom": "St-YrieixLaP:Lescure",
+    "lat": 45.51783,
+    "lon": 1.20539,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718758",
+    "nom": "St-Yrieix La P:Louis",
+    "lat": 45.51401,
+    "lon": 1.2011,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718753",
+    "nom": "St YrieixLaP:Marceau",
+    "lat": 45.51339,
+    "lon": 1.20254,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718755",
+    "nom": "St-YrieixLaP:Seynie",
+    "lat": 45.51161,
+    "lon": 1.22073,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718756",
+    "nom": "StYrieixLP:Arfeuille",
+    "lat": 45.52844,
+    "lon": 1.21733,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718757",
+    "nom": "StYrieixLP:Madeleine",
+    "lat": 45.52026,
+    "lon": 1.20767,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8719401",
+    "nom": "Sussac",
+    "lat": 45.65048,
+    "lon": 1.65094,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4631301",
+    "nom": "Tauriac",
+    "lat": 44.92499,
+    "lon": 1.76922,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2454702",
+    "nom": "Terrasson2:Baretie",
+    "lat": 45.11583,
+    "lon": 1.29417,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2454704",
+    "nom": "Terrasson4",
+    "lat": 45.12474,
+    "lon": 1.28945,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2454755",
+    "nom": "TerrassonLa:Traverse",
+    "lat": 45.12667,
+    "lon": 1.3048,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2454754",
+    "nom": "TerrassonLav:StRoch",
+    "lat": 45.12679,
+    "lon": 1.30429,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4631401",
+    "nom": "Terrou",
+    "lat": 44.79139,
+    "lon": 1.97333,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1926603",
+    "nom": "THALAMY_NORD",
+    "lat": 45.53039,
+    "lon": 2.46183,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1926602",
+    "nom": "THALAMY_SUD",
+    "lat": 45.48463,
+    "lon": 2.46094,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4631601",
+    "nom": "Thedirac",
+    "lat": 44.59307,
+    "lon": 1.34646,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2455103",
+    "nom": "THIVIERS",
+    "lat": 45.45171,
+    "lon": 0.93307,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2455101",
+    "nom": "Thiviers1:Dognon",
+    "lat": 45.41139,
+    "lon": 0.90889,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2455303",
+    "nom": "Tocane-Saint-Apre",
+    "lat": 45.25,
+    "lon": 0.46667,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2455302",
+    "nom": "Tocane-St-Apre",
+    "lat": 45.25389,
+    "lon": 0.47889,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4625601",
+    "nom": "Tour-de-Faure",
+    "lat": 44.46173,
+    "lon": 1.67389,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1926901",
+    "nom": "Treignac",
+    "lat": 45.53861,
+    "lon": 1.79833,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1926954",
+    "nom": "Treignac:Mai",
+    "lat": 45.53201,
+    "lon": 1.79814,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1926952",
+    "nom": "Treignac:R Cassin1",
+    "lat": 45.53404,
+    "lon": 1.79237,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1926953",
+    "nom": "Treignac:R Cassin2",
+    "lat": 45.53374,
+    "lon": 1.79132,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1926955",
+    "nom": "Treignac:Savodin",
+    "lat": 45.53435,
+    "lon": 1.78839,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2416201",
+    "nom": "Trelissac",
+    "lat": 45.20754,
+    "lon": 0.85275,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4632201",
+    "nom": "TRESPOUX RASSIELS",
+    "lat": 44.40162,
+    "lon": 1.36949,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4632202",
+    "nom": "Trespoux Rassiels 2",
+    "lat": 44.40679,
+    "lon": 1.38449,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927204",
+    "nom": "Tulle",
+    "lat": 45.29167,
+    "lon": 1.74222,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927201",
+    "nom": "Tulle1:Bachellerie",
+    "lat": 45.25917,
+    "lon": 1.76639,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927202",
+    "nom": "Tulle2:13 Vents",
+    "lat": 45.26944,
+    "lon": 1.78417,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927274",
+    "nom": "Tulle:AlsaceLorraine",
+    "lat": 45.25966,
+    "lon": 1.75362,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927256",
+    "nom": "Tulle:Alverge3",
+    "lat": 45.26866,
+    "lon": 1.77366,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927259",
+    "nom": "Tulle:Barbusse",
+    "lat": 45.25753,
+    "lon": 1.73988,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927260",
+    "nom": "Tulle:Barriere",
+    "lat": 45.26632,
+    "lon": 1.7696,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927271",
+    "nom": "Tulle:Cammas",
+    "lat": 45.26146,
+    "lon": 1.75967,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927278",
+    "nom": "Tulle:Cloucheyroux",
+    "lat": 45.26332,
+    "lon": 1.77024,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927267",
+    "nom": "Tulle:Cueille",
+    "lat": 45.25415,
+    "lon": 1.75862,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927270",
+    "nom": "Tulle:Eyrolle",
+    "lat": 45.2684,
+    "lon": 1.76928,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927253",
+    "nom": "Tulle:Foch",
+    "lat": 45.2594,
+    "lon": 1.75924,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927277",
+    "nom": "Tulle:Fontaine St M",
+    "lat": 45.26901,
+    "lon": 1.77391,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927282",
+    "nom": "Tulle:G Peri",
+    "lat": 45.26417,
+    "lon": 1.77028,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927261",
+    "nom": "Tulle:La Botte",
+    "lat": 45.27331,
+    "lon": 1.77648,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927262",
+    "nom": "Tulle:La Prade",
+    "lat": 45.27707,
+    "lon": 1.76629,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927268",
+    "nom": "Tulle:Le Patio",
+    "lat": 45.261,
+    "lon": 1.75585,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927269",
+    "nom": "Tulle:Le Piree",
+    "lat": 45.26007,
+    "lon": 1.75566,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927281",
+    "nom": "Tulle:Les Bleuets",
+    "lat": 45.26315,
+    "lon": 1.76925,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927275",
+    "nom": "Tulle:Maisse",
+    "lat": 45.26888,
+    "lon": 1.77064,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927276",
+    "nom": "Tulle:Marbot",
+    "lat": 45.26031,
+    "lon": 1.75717,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927279",
+    "nom": "Tulle:Monteil",
+    "lat": 45.26307,
+    "lon": 1.76949,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927255",
+    "nom": "Tulle:Paris",
+    "lat": 45.27189,
+    "lon": 1.77099,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927265",
+    "nom": "Tulle:Portes Chanac",
+    "lat": 45.2689,
+    "lon": 1.77025,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927263",
+    "nom": "Tulle:Praderie",
+    "lat": 45.27702,
+    "lon": 1.76631,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927258",
+    "nom": "Tulle:Roussolles",
+    "lat": 45.2517,
+    "lon": 1.76548,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927257",
+    "nom": "Tulle:Souilhac",
+    "lat": 45.26061,
+    "lon": 1.74856,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927266",
+    "nom": "Tulle:Ste Claire",
+    "lat": 45.26595,
+    "lon": 1.76912,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1920301",
+    "nom": "Tulle:Ste-Fortunade",
+    "lat": 45.19278,
+    "lon": 1.76556,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927208",
+    "nom": "Tulle-Stud, Bram FM",
+    "lat": 45.26417,
+    "lon": 1.77,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927280",
+    "nom": "Tulle:Ventadour",
+    "lat": 45.27224,
+    "lon": 1.778,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927272",
+    "nom": "Tulle:V Hugo78",
+    "lat": 45.26257,
+    "lon": 1.76114,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927273",
+    "nom": "Tulle:V Hugo98",
+    "lat": 45.26194,
+    "lon": 1.75984,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927254",
+    "nom": "Tulle:Vialle",
+    "lat": 45.26334,
+    "lon": 1.76964,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927264",
+    "nom": "Tulle:Virevialle",
+    "lat": 45.25769,
+    "lon": 1.74513,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1911502",
+    "nom": "Turenne",
+    "lat": 45.04389,
+    "lon": 1.60611,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2455901",
+    "nom": "TURSAC",
+    "lat": 44.9544,
+    "lon": 1.04252,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2456002",
+    "nom": "URVAL:Le Tertre",
+    "lat": 44.80185,
+    "lon": 0.94028,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927407",
+    "nom": "USSAC",
+    "lat": 45.21107,
+    "lon": 1.49036,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927553",
+    "nom": "USSEL_Aire",
+    "lat": 45.51682,
+    "lon": 2.31199,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927558",
+    "nom": "Ussel:Garenne",
+    "lat": 45.55508,
+    "lon": 2.30419,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927501",
+    "nom": "Ussel:Garenne(la)",
+    "lat": 45.55293,
+    "lon": 2.30457,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927564",
+    "nom": "Ussel-Giraud",
+    "lat": 45.54235,
+    "lon": 2.30837,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927559",
+    "nom": "Ussel:Grammont",
+    "lat": 45.55369,
+    "lon": 2.31817,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927560",
+    "nom": "Ussel:Jaloustre",
+    "lat": 45.54125,
+    "lon": 2.31899,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927557",
+    "nom": "Ussel:La Chassagnite",
+    "lat": 45.53966,
+    "lon": 2.31154,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927562",
+    "nom": "Ussel:Le Boulet",
+    "lat": 45.53788,
+    "lon": 2.31139,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927561",
+    "nom": "Ussel:Les Genets",
+    "lat": 45.54132,
+    "lon": 2.31611,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1913601",
+    "nom": "Ussel:Meymac",
+    "lat": 45.57069,
+    "lon": 2.12353,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927556",
+    "nom": "Ussel:Platanes",
+    "lat": 45.54069,
+    "lon": 2.31289,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927563",
+    "nom": "Ussel:Stade",
+    "lat": 45.54788,
+    "lon": 2.31497,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4632402",
+    "nom": "UZECH",
+    "lat": 44.58996,
+    "lon": 1.38087,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927654",
+    "nom": "UZERCHE",
+    "lat": 45.43834,
+    "lon": 1.55293,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927601",
+    "nom": "Uzerche1: J,Curie",
+    "lat": 45.42917,
+    "lon": 1.56444,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927602",
+    "nom": "Uzerche2: Fargeas",
+    "lat": 45.42877,
+    "lon": 1.57238,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927651",
+    "nom": "Uzerche4",
+    "lat": 45.41361,
+    "lon": 1.56222,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927657",
+    "nom": "Uzerche:Bouillaguet",
+    "lat": 45.42501,
+    "lon": 1.56319,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927660",
+    "nom": "Uzerche:ChampFoire",
+    "lat": 45.43076,
+    "lon": 1.56704,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927659",
+    "nom": "Uzerche:Cite Pleux",
+    "lat": 45.42943,
+    "lon": 1.56433,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927658",
+    "nom": "Uzerche:Essartier",
+    "lat": 45.42461,
+    "lon": 1.5627,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927656",
+    "nom": "Uzerche:La Bessoule",
+    "lat": 45.43653,
+    "lon": 1.5663,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927663",
+    "nom": "Uzerche:La Pomme",
+    "lat": 45.42054,
+    "lon": 1.5646,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927664",
+    "nom": "Uzerche:La Rhue",
+    "lat": 45.43732,
+    "lon": 1.56172,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927662",
+    "nom": "Uzerche:La Vezere",
+    "lat": 45.4212,
+    "lon": 1.56421,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927655",
+    "nom": "Uzerche:Neuf",
+    "lat": 45.42823,
+    "lon": 1.56626,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927661",
+    "nom": "Uzerche:Occitane",
+    "lat": 45.42106,
+    "lon": 1.56543,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4632501",
+    "nom": "Vaillac",
+    "lat": 44.67667,
+    "lon": 1.53194,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704801",
+    "nom": "Val-de-Briance",
+    "lat": 45.76727,
+    "lon": 1.24645,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4632701",
+    "nom": "Valroufie1:Constans",
+    "lat": 44.50568,
+    "lon": 1.49124,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4632702",
+    "nom": "Valroufie2:Village",
+    "lat": 44.51554,
+    "lon": 1.48582,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927803",
+    "nom": "VARETZ_2",
+    "lat": 45.16919,
+    "lon": 1.45618,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8719801",
+    "nom": "Vaulry",
+    "lat": 46.02833,
+    "lon": 1.07556,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2457101",
+    "nom": "Vergt",
+    "lat": 45.01574,
+    "lon": 0.70123,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2457102",
+    "nom": "Vergt:Maison Neuve",
+    "lat": 45.06771,
+    "lon": 0.69184,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2325901",
+    "nom": "Verneiges:poumeroux",
+    "lat": 46.27617,
+    "lon": 2.34915,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8720102",
+    "nom": "Verneuil-s-V:Beauval",
+    "lat": 45.8765,
+    "lon": 1.10205,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8720103",
+    "nom": "Verneuil-s-V:Tranche",
+    "lat": 45.86063,
+    "lon": 1.14844,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8720105",
+    "nom": "Verneuil/V:Vialbost",
+    "lat": 45.85201,
+    "lon": 1.14246,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4600701",
+    "nom": "Vers",
+    "lat": 44.47333,
+    "lon": 1.55694,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711301",
+    "nom": "Vert Vallon 1",
+    "lat": 45.86152,
+    "lon": 1.3253,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8720201",
+    "nom": "VEYRAC",
+    "lat": 45.8887,
+    "lon": 1.06361,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2457701",
+    "nom": "Vezac:le peuch l'Aze",
+    "lat": 44.82668,
+    "lon": 1.17356,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4633201",
+    "nom": "Viazac",
+    "lat": 44.63861,
+    "lon": 2.08639,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8720502",
+    "nom": "Vigen(le)",
+    "lat": 45.78025,
+    "lon": 1.31227,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1928501",
+    "nom": "Vigeois",
+    "lat": 45.37806,
+    "lon": 1.50833,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1928511",
+    "nom": "Vigeois:Brive",
+    "lat": 45.37971,
+    "lon": 1.51785,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1928512",
+    "nom": "Vigeois:Eglise",
+    "lat": 45.37969,
+    "lon": 1.51543,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1928513",
+    "nom": "Vigeois:Uzerche",
+    "lat": 45.38093,
+    "lon": 1.52067,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1928601",
+    "nom": "Vignols:Novembre",
+    "lat": 45.26319,
+    "lon": 1.40979,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1928602",
+    "nom": "Vignols:Viaduc",
+    "lat": 45.31968,
+    "lon": 1.38962,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2326401",
+    "nom": "Villedieu(la):Nedde",
+    "lat": 45.73142,
+    "lon": 1.87556,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2438601",
+    "nom": "Villefranche-Perig",
+    "lat": 44.63528,
+    "lon": 1.0325,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2458502",
+    "nom": "VillefranchePerigord",
+    "lat": 44.62949,
+    "lon": 1.10953,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2301701",
+    "nom": "Villeneuve(la)",
+    "lat": 45.88611,
+    "lon": 2.41306,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2458601",
+    "nom": "Villetoureix",
+    "lat": 45.26028,
+    "lon": 0.34083,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2458602",
+    "nom": "Villetoureix 1",
+    "lat": 45.25,
+    "lon": 0.33351,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4610701",
+    "nom": "Vire/Lot",
+    "lat": 44.47528,
+    "lon": 1.11417,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1928801",
+    "nom": "Voutezac",
+    "lat": 45.27333,
+    "lon": 1.42833,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1928802",
+    "nom": "VOUTEZAC1",
+    "lat": 45.28742,
+    "lon": 1.46564,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1928803",
+    "nom": "Voutezac:Bordas",
+    "lat": 45.29069,
+    "lon": 1.43858,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900254",
+    "nom": "ZR_AIX_PAC_49_A89",
+    "lat": 45.60424,
+    "lon": 2.42719,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900402",
+    "nom": "ZR-Albussac",
+    "lat": 45.13985,
+    "lon": 1.77587,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900403",
+    "nom": "ZR-ALBUSSAC-SFR",
+    "lat": 45.15792,
+    "lon": 1.75892,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900507",
+    "nom": "ZR_ALLASAC_VOUTEZAC",
+    "lat": 45.2572,
+    "lon": 1.47566,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1901004",
+    "nom": "ZR_ARGENTAT_S_D_V2",
+    "lat": 45.10626,
+    "lon": 1.94925,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701504",
+    "nom": "ZR_Beynac_PAC_11_PEL",
+    "lat": 45.76898,
+    "lon": 1.1792,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8702403",
+    "nom": "ZR_BUJALEUF-LUS_P05",
+    "lat": 45.7662,
+    "lon": 1.63133,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8702502",
+    "nom": "ZR_BURGNAC_PEL_10",
+    "lat": 45.75157,
+    "lon": 1.18341,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8704807",
+    "nom": "ZR_Condat_sur_Vienne",
+    "lat": 45.78902,
+    "lon": 1.26004,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706102",
+    "nom": "ZR_Droux",
+    "lat": 46.16318,
+    "lon": 1.14678,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1914302",
+    "nom": "ZR_MONTAIGNAC_ST_HIP",
+    "lat": 45.3592,
+    "lon": 1.984,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900252",
+    "nom": "ZRP_AIX",
+    "lat": 45.58278,
+    "lon": 2.39041,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900253",
+    "nom": "ZRP_AIX2",
+    "lat": 45.59936,
+    "lon": 2.42896,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1900504",
+    "nom": "ZRP_ALLASSAC",
+    "lat": 45.28432,
+    "lon": 1.47534,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8700205",
+    "nom": "ZRP_AMBAZAC",
+    "lat": 45.97339,
+    "lon": 1.45691,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2301802",
+    "nom": "ZRP_BAZELAT",
+    "lat": 46.37232,
+    "lon": 1.53311,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2301803",
+    "nom": "ZRP_BAZELAT2",
+    "lat": 46.34557,
+    "lon": 1.54074,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2403001",
+    "nom": "ZRP_BEAUREGARD-DE-T",
+    "lat": 45.15462,
+    "lon": 1.214,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2403755",
+    "nom": "ZRP_BERGERAC",
+    "lat": 44.85719,
+    "lon": 0.46385,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8701452",
+    "nom": "ZRP_BESSINES-SUR-GA",
+    "lat": 46.15261,
+    "lon": 1.37937,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903001",
+    "nom": "ZRP_BRIGNAC-LA-PLAI",
+    "lat": 45.15899,
+    "lon": 1.33545,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903303",
+    "nom": "ZRP_BUGEAT",
+    "lat": 45.58261,
+    "lon": 1.94487,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1903301",
+    "nom": "ZRP_BUGEAT_LUS",
+    "lat": 45.58744,
+    "lon": 1.94369,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1905801",
+    "nom": "ZRP_COMBRESSOL",
+    "lat": 45.48906,
+    "lon": 2.17097,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1906652",
+    "nom": "ZRP_CUBLAC",
+    "lat": 45.16558,
+    "lon": 1.28166,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1916004",
+    "nom": "ZR_PEROLS_SUR_VEZERE",
+    "lat": 45.5856,
+    "lon": 1.97461,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2416652",
+    "nom": "ZRP_EYLIAC",
+    "lat": 45.16056,
+    "lon": 0.83529,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8706702",
+    "nom": "ZRP_FOLLES",
+    "lat": 46.11707,
+    "lon": 1.42751,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4611804",
+    "nom": "ZRP_GIGNAC_AIRE",
+    "lat": 44.98705,
+    "lon": 1.52427,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1908502",
+    "nom": "ZRP_GIMEL 1",
+    "lat": 45.31247,
+    "lon": 1.84952,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2402003",
+    "nom": "ZRP_LA BACHELLERIE_2",
+    "lat": 45.14862,
+    "lon": 1.17528,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8707903",
+    "nom": "ZRP_LA JONCHERE-ST-2",
+    "lat": 45.98327,
+    "lon": 1.46847,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2317654",
+    "nom": "ZRP_LA SOUTERRAINE",
+    "lat": 46.25736,
+    "lon": 1.48294,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4619705",
+    "nom": "ZRP_LE MONTAT2",
+    "lat": 44.3867,
+    "lon": 1.45154,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2424101",
+    "nom": "ZRP_LIMEYRAT",
+    "lat": 45.1752,
+    "lon": 0.99251,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1913052",
+    "nom": "ZRP_MAUSSAC",
+    "lat": 45.47419,
+    "lon": 2.12437,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2429504",
+    "nom": "ZRP_MONTREM",
+    "lat": 45.1511,
+    "lon": 0.56305,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1914608",
+    "nom": "ZRP_NAVES1",
+    "lat": 45.32326,
+    "lon": 1.7804,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2430904",
+    "nom": "ZRP_NEUVIC",
+    "lat": 45.07519,
+    "lon": 0.44759,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2431205",
+    "nom": "ZRP_NOTRE-DAME-DE-S",
+    "lat": 45.1427,
+    "lon": 0.71557,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "4622301",
+    "nom": "ZR-Pontcirq",
+    "lat": 44.54195,
+    "lon": 1.26507,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711804",
+    "nom": "ZRP_PEYRILHAC",
+    "lat": 45.95215,
+    "lon": 1.16603,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8711904",
+    "nom": "ZRP_PIERRE-BUFFIERE",
+    "lat": 45.69681,
+    "lon": 1.3779,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1917603",
+    "nom": "ZRP_ROSIERS-D'EGLET",
+    "lat": 45.41342,
+    "lon": 2.01843,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1917605",
+    "nom": "ZRP_ROSIERS_EGLETONS",
+    "lat": 45.39476,
+    "lon": 2.0526,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8719204",
+    "nom": "ZRP_SOLIGNAC",
+    "lat": 45.78902,
+    "lon": 1.26004,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1926302",
+    "nom": "ZRP_SOUDEILLES",
+    "lat": 45.43973,
+    "lon": 2.05985,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1926303",
+    "nom": "ZRP_SOUDEILLES2",
+    "lat": 45.45968,
+    "lon": 2.08161,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1926304",
+    "nom": "ZRP_SOUDEILLES3",
+    "lat": 45.42255,
+    "lon": 2.03919,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927555",
+    "nom": "ZRP_ST-EXUPERY-LES-R",
+    "lat": 45.5153,
+    "lon": 2.29501,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1920405",
+    "nom": "ZRP_ST-FREJOUX",
+    "lat": 45.55181,
+    "lon": 2.3649,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2319901",
+    "nom": "ZRP_ST-GERMAIN-BEAU",
+    "lat": 46.32341,
+    "lon": 1.52643,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8714654",
+    "nom": "ZRP_StGermain_Belles",
+    "lat": 45.59614,
+    "lon": 1.49206,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8714854",
+    "nom": "ZRP-St-Hi-Bonn-Pac66",
+    "lat": 45.70818,
+    "lon": 1.33473,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715408",
+    "nom": "ZRP_ST-JUNIEN_AIRE",
+    "lat": 45.91081,
+    "lon": 0.90053,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2446201",
+    "nom": "ZRP_ST-MEDARD-DE-MU",
+    "lat": 45.00263,
+    "lon": 0.32652,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1922703",
+    "nom": "ZRP_ST-MEXANT",
+    "lat": 45.2992,
+    "lon": 1.64872,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1922704",
+    "nom": "ZRP_ST-MEXANT2",
+    "lat": 45.30724,
+    "lon": 1.68839,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8718106",
+    "nom": "ZRP_ST-SULPICE-LAUR",
+    "lat": 46.05395,
+    "lon": 1.46277,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2455004",
+    "nom": "ZRP_THENON",
+    "lat": 45.15551,
+    "lon": 1.06528,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927652",
+    "nom": "ZRP_UZERCHE",
+    "lat": 45.42496,
+    "lon": 1.53513,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8720354",
+    "nom": "ZRP_VICQ-SUR-BREUIL2",
+    "lat": 45.66312,
+    "lon": 1.42696,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1928752",
+    "nom": "ZRP_VITRAC/MONTANE",
+    "lat": 45.36121,
+    "lon": 1.93087,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1925504",
+    "nom": "ZR_SEILHAC_CHAMBOULI",
+    "lat": 45.39081,
+    "lon": 1.72005,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1918054",
+    "nom": "ZR_ST_ANGEL_P44_BIS",
+    "lat": 45.51662,
+    "lon": 2.22018,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8715103",
+    "nom": "ZR_ST_J_LIGOURE",
+    "lat": 45.70351,
+    "lon": 1.32402,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "2445101",
+    "nom": "ZR-St-Martial-Valett",
+    "lat": 45.51415,
+    "lon": 0.64565,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "8717808",
+    "nom": "ZR_ST_PRIEST_T_PLB61",
+    "lat": 45.90448,
+    "lon": 1.37819,
+    "equipe": "ZC SO LIMO"
+  },
+  {
+    "ig": "1927665",
+    "nom": "ZR_UZERCHE_EB_FREE",
+    "lat": 45.44462,
+    "lon": 1.57066,
+    "equipe": "ZC SO LIMO"
+  }
+]
