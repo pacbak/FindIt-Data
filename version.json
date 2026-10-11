@@ -4,13 +4,13 @@
   "baseUrl": "https://raw.githubusercontent.com/pacbak/FindIt-Data/main/",
   "files": {
     "national": "data_national.json",
-    "sud_est": "data_sud_est.json",
-    "provence_alpes": "data_provence_alpes.json",
-    "cote_azur": "data_cote_d_azur.json",
-    "rhone_ardeche": "data_rhone_ardeche.json",
-    "auvergne_loire": "data_auvergne_loire.json",
-    "alpes_nord": "data_alpes_nord.json",
-    "corse": "data_corse.json",
-    "dasf": "dasf.json"
+    "sud_est": "SE/data_sud_est.json",
+    "provence_alpes": "SE/data_prov_alpes.json",
+    "cote_azur": "SE/data_cote_azur.json",
+    "rhone_ardeche": "SE/data_rhone_ard.json",
+    "auvergne_loire": "SE/data_auv_loire.json",
+    "alpes_nord": "SE/data_alpes_nord.json",
+    "corse": "SE/data_corse.json",
+    "dasf": "SE/dasf.json"
   }
 }
