@@ -19,7 +19,7 @@
     "Direction": "Dans les deux sens",
     "Accès Site": "OK, mais pas par l'air de repos",
     "Accès Enceinte": "Clef ASF A72 (CI DL) [2]",
-    "Clef Baie FM": "1242 (noir) ou 455??",
+    "Clef Baie FM": "1242 (noir)",
     "Remarques": "Site Outdoor",
     "Client": "ASF",
     "Point GPS Maps": "45.6893965,4.1556259",
@@ -210,15 +210,15 @@
   {
     "IG": "4212501",
     "SITE": "LURE:A72",
-    "LIEU": "",
-    "Direction": "",
-    "Accès Site": "",
-    "Accès Enceinte": "",
-    "Clef Baie FM": "",
+    "LIEU": "Départementale",
+    "Direction": "Dans les deux sens",
+    "Accès Site": "OK par la départementale D1",
+    "Accès Enceinte": "Sans clef (Portillon ouvert sans serrure)",
+    "Clef Baie FM": "1242 (noir)",
     "Remarques": "",
     "Client": "ASF",
-    "Point GPS Maps": "",
-    "Point GPS Waze": ""
+    "Point GPS Maps": "45.8724690, 3.9245270",
+    "Point GPS Waze": "45.8724690, 3.9245270"
   },
   {
     "IG": "6321301",
@@ -275,14 +275,14 @@
   {
     "IG": "4224301",
     "SITE": "ST JULIEN ODDES:A72",
-    "LIEU": "",
-    "Direction": "",
-    "Accès Site": "",
-    "Accès Enceinte": "",
-    "Clef Baie FM": "",
+    "LIEU": "Départementale",
+    "Direction": "Dans les deux sens",
+    "Accès Site": "OK par la départementale D18",
+    "Accès Enceinte": "Clef ASF A72 (IS8) [4]",
+    "Clef Baie FM": "1242 (noir)",
     "Remarques": "",
     "Client": "ASF",
-    "Point GPS Maps": "-",
-    "Point GPS Waze": ""
+    "Point GPS Maps": "45.8596942, 3.9873904",
+    "Point GPS Waze": "45.8596942, 3.9873904"
   }
 ]
