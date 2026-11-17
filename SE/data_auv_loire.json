@@ -70,6 +70,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "6300304",
+    "nom": "Ambert:St, RVA",
+    "lat": 45.54806,
+    "lon": 3.74322,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "4200552",
     "nom": "Andrezieux : le cube",
     "lat": 45.53056,
@@ -149,8 +156,8 @@
   {
     "ig": "0701803",
     "nom": "Astet 3",
-    "lat": 44.70307,
-    "lon": 4.04123,
+    "lat": 44.70306,
+    "lon": 4.04056,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -235,13 +242,6 @@
     "nom": "Augerolles",
     "lat": 45.72292,
     "lon": 3.60736,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
-    "ig": "6316002",
-    "nom": "AulhatFlat-Pelliere",
-    "lat": 45.5729,
-    "lon": 3.30195,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -385,13 +385,6 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
-    "ig": "1501901",
-    "nom": "Bassignac_Champleix",
-    "lat": 45.2887,
-    "lon": 2.39235,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
     "ig": "0702601",
     "nom": "Beage (Le)",
     "lat": 44.82583,
@@ -462,6 +455,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "6303501",
+    "nom": "Beauregard-Vendon",
+    "lat": 45.96972,
+    "lon": 3.10167,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "4302504",
     "nom": "Beauzac 2",
     "lat": 45.24,
@@ -513,8 +513,8 @@
   {
     "ig": "0302302",
     "nom": "BELLERIVE:Champduboi",
-    "lat": 46.11855,
-    "lon": 3.39956,
+    "lat": 46.11861,
+    "lon": 3.39917,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -588,6 +588,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "6303802",
+    "nom": "Besse&St-Anastaise 2",
+    "lat": 45.51917,
+    "lon": 2.85028,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6303902",
     "nom": "Beurieres_4GF",
     "lat": 45.43789,
@@ -627,6 +634,13 @@
     "nom": "Bizeneuille A71",
     "lat": 46.39722,
     "lon": 2.70344,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "0303101",
+    "nom": "Bizeneuille:A71",
+    "lat": 46.37075,
+    "lon": 2.7347,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -735,10 +749,24 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "1902805",
+    "nom": "BORT_ORGUES_STUDIO",
+    "lat": 45.40866,
+    "lon": 2.50037,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "0303601",
     "nom": "Bourbon-l'Archambau",
     "lat": 46.58278,
     "lon": 3.05861,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "0324501",
+    "nom": "BOURBON SFR",
+    "lat": 46.66778,
+    "lon": 3.65361,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -840,6 +868,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "6305503",
+    "nom": "BROMONT LAMOTHE-A89",
+    "lat": 45.8275,
+    "lon": 2.80833,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6320701",
     "nom": "Brugeron 1 (Le)",
     "lat": 45.70528,
@@ -875,17 +910,17 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "0304602",
+    "nom": "Buxieres-les-Mines",
+    "lat": 46.49976,
+    "lon": 2.98221,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "0304601",
     "nom": "Buxieres-les-Mines",
     "lat": 46.46,
     "lon": 2.96639,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
-    "ig": "0304602",
-    "nom": "Buxieres-Mines Gouer",
-    "lat": 46.49976,
-    "lon": 2.98221,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -1024,8 +1059,8 @@
   {
     "ig": "1523001",
     "nom": "Chalvignac:Soursac",
-    "lat": 45.24336,
-    "lon": 2.21558,
+    "lat": 45.24306,
+    "lon": 2.21722,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -1054,6 +1089,13 @@
     "nom": "Chamalieres/Loire",
     "lat": 45.20306,
     "lon": 3.9675,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6307503",
+    "nom": "Chamalieres:St,Campu",
+    "lat": 45.77944,
+    "lon": 3.04833,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -1096,6 +1138,13 @@
     "nom": "Chamba (La):Surdiaux",
     "lat": 45.75556,
     "lon": 3.76833,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "4204101",
+    "nom": "CHAMBEON:A72",
+    "lat": 45.6831,
+    "lon": 4.15426,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -1176,10 +1225,24 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "4204702",
+    "nom": "CHAMPOLY:A72",
+    "lat": 45.86116,
+    "lon": 3.82657,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6308201",
     "nom": "Champs",
     "lat": 46.06944,
     "lon": 3.09694,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6308202",
+    "nom": "Champs:Buchavat",
+    "lat": 46.05944,
+    "lon": 3.11,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -1239,6 +1302,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "6308901",
+    "nom": "CHAPPES LIMAGRAIN",
+    "lat": 45.87311,
+    "lon": 3.22367,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6309201",
     "nom": "CHARBONNIERES",
     "lat": 45.90395,
@@ -1264,13 +1334,6 @@
     "nom": "Chaspinhac peyred",
     "lat": 45.08662,
     "lon": 3.90941,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
-    "ig": "4306201",
-    "nom": "Chaspuzac-Combe",
-    "lat": 45.06994,
-    "lon": 3.756,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -1393,10 +1456,31 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "4206601",
+    "nom": "CLEPPE:A72",
+    "lat": 45.73847,
+    "lon": 4.18486,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6311201",
     "nom": "Clerlande",
     "lat": 45.90582,
     "lon": 3.18117,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631133I",
+    "nom": "CLERM FD ESPLANADE",
+    "lat": 45.78474,
+    "lon": 3.11035,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631133H",
+    "nom": "CLERM FD SEMARD",
+    "lat": 45.77726,
+    "lon": 3.10177,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -1435,6 +1519,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "6311314",
+    "nom": "CLERMONT-FD RONZIERE",
+    "lat": 45.77917,
+    "lon": 3.13917,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6330801",
     "nom": "Clermont-Fd:Royat",
     "lat": 45.7518,
@@ -1453,6 +1544,27 @@
     "nom": "CLERMONT FD_ST LOUIS",
     "lat": 45.79541,
     "lon": 3.11228,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6311304",
+    "nom": "Clermont-Fd:St,RF",
+    "lat": 45.77111,
+    "lon": 3.085,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6311310",
+    "nom": "CLERMONT FD _ ST RVA",
+    "lat": 45.77889,
+    "lon": 3.08333,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6311309",
+    "nom": "CLERMONT FD:TV 1ERE",
+    "lat": 45.78778,
+    "lon": 3.10083,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -1512,6 +1624,62 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "6311374",
+    "nom": "Cl Fd:PSportMichelin",
+    "lat": 45.78944,
+    "lon": 3.1062,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6311373",
+    "nom": "Cl Fd:Stade Montpied",
+    "lat": 45.81595,
+    "lon": 3.119,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132D",
+    "nom": "Clt-Fd19457",
+    "lat": 45.77202,
+    "lon": 3.07826,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132P",
+    "nom": "Clt-FdAndraud6",
+    "lat": 45.76698,
+    "lon": 3.09227,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132U",
+    "nom": "Clt-FdArmee26",
+    "lat": 45.77505,
+    "lon": 3.08538,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132T",
+    "nom": "Clt-FdAubrac15",
+    "lat": 45.78645,
+    "lon": 3.11316,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131L",
+    "nom": "Clt-FdBac1",
+    "lat": 45.76523,
+    "lon": 3.1219,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131I",
+    "nom": "Clt-FdBaudelaire45",
+    "lat": 45.75767,
+    "lon": 3.09588,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6311344",
     "nom": "CLT-FD:Beaulieu",
     "lat": 45.76851,
@@ -1561,6 +1729,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "631131H",
+    "nom": "Clt-FdBuffon12",
+    "lat": 45.78787,
+    "lon": 3.0973,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6311389",
     "nom": "Clt-FdCapucines1",
     "lat": 45.76603,
@@ -1582,10 +1757,80 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "631131U",
+    "nom": "Clt-FdChandiots33",
+    "lat": 45.78989,
+    "lon": 3.11656,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131K",
+    "nom": "Clt-FdChateaudun8",
+    "lat": 45.78293,
+    "lon": 3.09781,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131A",
+    "nom": "Clt-FdChurchill5",
+    "lat": 45.76171,
+    "lon": 3.09269,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131N",
+    "nom": "Clt-FdCombaude2",
+    "lat": 45.79838,
+    "lon": 3.11971,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131G",
+    "nom": "Clt-FdCoupelon4",
+    "lat": 45.76869,
+    "lon": 3.08228,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6311342",
     "nom": "CLT-FD:Crous",
     "lat": 45.78014,
     "lon": 3.10267,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132S",
+    "nom": "Clt-FdCuoq50",
+    "lat": 45.79471,
+    "lon": 3.07818,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132Q",
+    "nom": "Clt-Fd_dArc32",
+    "lat": 45.77975,
+    "lon": 3.09947,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131Z",
+    "nom": "Clt-Fd_dArgent15",
+    "lat": 45.78405,
+    "lon": 3.07814,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132B",
+    "nom": "Clt-Fd_dEstaing21",
+    "lat": 45.78484,
+    "lon": 3.10683,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131J",
+    "nom": "Clt-Fd_dHerbois34",
+    "lat": 45.75935,
+    "lon": 3.09711,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -1596,10 +1841,52 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "6311390",
+    "nom": "Clt-FdDomes1",
+    "lat": 45.76777,
+    "lon": 3.09362,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132L",
+    "nom": "Clt-FdDurant2",
+    "lat": 45.78515,
+    "lon": 3.08011,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132K",
+    "nom": "Clt-FdFlameng3",
+    "lat": 45.75707,
+    "lon": 3.09593,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6311350",
     "nom": "CLT-FD:Fontgieve",
     "lat": 45.78156,
     "lon": 3.07629,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131D",
+    "nom": "Clt-FdFrance77",
+    "lat": 45.77865,
+    "lon": 3.10985,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131M",
+    "nom": "Clt-FdGantiere47",
+    "lat": 45.76325,
+    "lon": 3.1232,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631133D",
+    "nom": "Clt-FdGautier3",
+    "lat": 45.75742,
+    "lon": 3.09513,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -1631,6 +1918,34 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "631132M",
+    "nom": "Clt-FdGuynemer62",
+    "lat": 45.78015,
+    "lon": 3.10795,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132C",
+    "nom": "Clt-FdHospital19",
+    "lat": 45.78851,
+    "lon": 3.08569,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131V",
+    "nom": "Clt-FdJacobins1",
+    "lat": 45.78115,
+    "lon": 3.09261,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131W",
+    "nom": "Clt-FdJardiniers1",
+    "lat": 45.80074,
+    "lon": 3.12001,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6311391",
     "nom": "Clt-FdJardins4",
     "lat": 45.77349,
@@ -1659,6 +1974,20 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "631132H",
+    "nom": "Clt-FdJuge2",
+    "lat": 45.79721,
+    "lon": 3.11702,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132R",
+    "nom": "Clt-FdKleber7",
+    "lat": 45.79207,
+    "lon": 3.11402,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6311335",
     "nom": "CLT-FD:Lafayette",
     "lat": 45.76755,
@@ -1673,10 +2002,24 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "631131F",
+    "nom": "Clt-FdLhoyer4",
+    "lat": 45.78173,
+    "lon": 3.09297,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6311393",
     "nom": "Clt-FdLiberation63",
     "lat": 45.76631,
     "lon": 3.08308,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131X",
+    "nom": "Clt-FdLiondards35",
+    "lat": 45.76431,
+    "lon": 3.09225,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -1687,10 +2030,66 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "631131P",
+    "nom": "Clt-Fd_lOradou4",
+    "lat": 45.77484,
+    "lon": 3.09627,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131C",
+    "nom": "Clt-FdMallet21",
+    "lat": 45.76363,
+    "lon": 3.09186,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132V",
+    "nom": "Clt-FdMarengo2",
+    "lat": 45.79253,
+    "lon": 3.11503,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6311337",
     "nom": "CLT-FD:Medicis",
     "lat": 45.76774,
     "lon": 3.10753,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131Q",
+    "nom": "Clt-FdMercoeur29",
+    "lat": 45.80844,
+    "lon": 3.12,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132W",
+    "nom": "Clt-FdMontcalm1",
+    "lat": 45.76145,
+    "lon": 3.09564,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6311387",
+    "nom": "CLT FD : MRadio RVA",
+    "lat": 45.76364,
+    "lon": 3.12702,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132X",
+    "nom": "Clt-FdNelaton11",
+    "lat": 45.76094,
+    "lon": 3.09726,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132Y",
+    "nom": "Clt-FdNiepce44",
+    "lat": 45.7605,
+    "lon": 3.09544,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -1701,6 +2100,27 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "631132F",
+    "nom": "Clt-FdNotre-Dame2",
+    "lat": 45.78498,
+    "lon": 3.08041,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132Z",
+    "nom": "Clt-FdOnslow11",
+    "lat": 45.77087,
+    "lon": 3.08017,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131Y",
+    "nom": "Clt-FdPlats4",
+    "lat": 45.76677,
+    "lon": 3.09463,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6311349",
     "nom": "CLT-FD:Pradelle",
     "lat": 45.77583,
@@ -1708,10 +2128,80 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "631131O",
+    "nom": "Clt-FdPradelle32",
+    "lat": 45.77451,
+    "lon": 3.09917,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131R",
+    "nom": "Clt-FdRabanesse7",
+    "lat": 45.77008,
+    "lon": 3.08674,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132I",
+    "nom": "Clt-FdRessort1",
+    "lat": 45.78653,
+    "lon": 3.10717,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131S",
+    "nom": "Clt-FdRiom12",
+    "lat": 45.77816,
+    "lon": 3.09719,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6311345",
     "nom": "CLT-FD:Rissoul",
     "lat": 45.78768,
     "lon": 3.11001,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131B",
+    "nom": "Clt-FdRodade23",
+    "lat": 45.7932,
+    "lon": 3.10779,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631133A",
+    "nom": "Clt-FdRoty14",
+    "lat": 45.75819,
+    "lon": 3.09571,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631133B",
+    "nom": "Clt-FdSaint-Rames10",
+    "lat": 45.77366,
+    "lon": 3.10238,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631133C",
+    "nom": "Clt-FdSevigne2",
+    "lat": 45.76656,
+    "lon": 3.09259,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132N",
+    "nom": "Clt-FdSimonnet1",
+    "lat": 45.77295,
+    "lon": 3.10369,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132J",
+    "nom": "Clt-FdSirocco2",
+    "lat": 45.81645,
+    "lon": 3.10626,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -1736,6 +2226,41 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "631131T",
+    "nom": "Clt-FdStrasbourg20",
+    "lat": 45.78102,
+    "lon": 3.09866,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132A",
+    "nom": "Clt-FdSycomores2",
+    "lat": 45.79147,
+    "lon": 3.09095,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631131E",
+    "nom": "Clt-FdTheuriet26",
+    "lat": 45.76743,
+    "lon": 3.07806,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631133E",
+    "nom": "Clt-FdThibaud65",
+    "lat": 45.78872,
+    "lon": 3.08992,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132O",
+    "nom": "Clt-FdTourrette1",
+    "lat": 45.79863,
+    "lon": 3.11791,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6311347",
     "nom": "CLT-FD:Trioux1",
     "lat": 45.80012,
@@ -1743,10 +2268,52 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "631133F",
+    "nom": "Clt-FdVaucanson12",
+    "lat": 45.78729,
+    "lon": 3.10743,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132E",
+    "nom": "Clt-FdVergnes15",
+    "lat": 45.81371,
+    "lon": 3.12847,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631133G",
+    "nom": "Clt-FdVermenouze3",
+    "lat": 45.76927,
+    "lon": 3.08712,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "631132G",
+    "nom": "Clt-FdVigenaud36",
+    "lat": 45.76284,
+    "lon": 3.0934,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6311383",
     "nom": "Clt Ferrand:Aire",
     "lat": 45.75958,
     "lon": 3.13097,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "4307401",
+    "nom": "Cohade:Argelier",
+    "lat": 45.32514,
+    "lon": 3.36815,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6311602",
+    "nom": "COMBRONDE-A89",
+    "lat": 45.97556,
+    "lon": 3.08694,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -1822,7 +2389,7 @@
   {
     "ig": "4307801",
     "nom": "Coubon 1:Argentaine",
-    "lat": 44.98896,
+    "lat": 44.98897,
     "lon": 3.89954,
     "equipe": "ZC SE AUV_LOIRE"
   },
@@ -1918,6 +2485,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "0330501",
+    "nom": "CroixdeFragne - A714",
+    "lat": 46.38306,
+    "lon": 2.69083,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "4207701",
     "nom": "Croizet/Gand:Couvent",
     "lat": 45.9175,
@@ -1947,9 +2521,16 @@
   },
   {
     "ig": "6312902",
-    "nom": "Cros_La Plate",
-    "lat": 45.45543,
-    "lon": 2.63684,
+    "nom": "Cros_Fouillat",
+    "lat": 45.45238,
+    "lon": 2.64564,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6313101",
+    "nom": "CULHAT:A72",
+    "lat": 45.83589,
+    "lon": 3.29855,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -2163,6 +2744,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "0310401",
+    "nom": "Doyet:A71",
+    "lat": 46.358,
+    "lon": 2.80112,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "0310502",
     "nom": "DROITURIER 1",
     "lat": 46.21564,
@@ -2226,20 +2814,6 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
-    "ig": "6314803",
-    "nom": "Ennezat",
-    "lat": 45.90876,
-    "lon": 3.21876,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
-    "ig": "6314901",
-    "nom": "Entraigues-Moulin",
-    "lat": 45.88882,
-    "lon": 3.26144,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
     "ig": "6315001",
     "nom": "Enval",
     "lat": 45.90444,
@@ -2258,6 +2832,13 @@
     "nom": "Espinasse",
     "lat": 46.04556,
     "lon": 2.70111,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "0311002",
+    "nom": "ESPINASSE VOZELLE",
+    "lat": 46.14111,
+    "lon": 3.31528,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -2366,13 +2947,6 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
-    "ig": "4309604",
-    "nom": "Fontannes-Veysseyre",
-    "lat": 45.28865,
-    "lon": 3.42349,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
     "ig": "4209701",
     "nom": "Fouillouse (La)",
     "lat": 45.49528,
@@ -2412,6 +2986,13 @@
     "nom": "Gannat_A71",
     "lat": 46.10141,
     "lon": 3.14169,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "0311801",
+    "nom": "Gannat:A71",
+    "lat": 46.10306,
+    "lon": 3.13667,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -2744,6 +3325,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "031851D",
+    "nom": "GC_Montlucon",
+    "lat": 46.33808,
+    "lon": 2.59645,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "0319052",
     "nom": "GC_Moulins sur Allie",
     "lat": 46.56146,
@@ -3010,6 +3598,20 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "6316301",
+    "nom": "GELLES-A89",
+    "lat": 45.78333,
+    "lon": 2.74639,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6316401",
+    "nom": "Gerzat:Peage A71",
+    "lat": 45.84056,
+    "lon": 3.16167,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6316405",
     "nom": "GERZAT_RIVET",
     "lat": 45.82616,
@@ -3042,13 +3644,6 @@
     "nom": "Grandval",
     "lat": 45.601,
     "lon": 3.65518,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
-    "ig": "4210601",
-    "nom": "Grezolles",
-    "lat": 45.87123,
-    "lon": 3.92912,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -3105,13 +3700,6 @@
     "nom": "Issoire:Orbeil",
     "lat": 45.58167,
     "lon": 3.26222,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
-    "ig": "6317809",
-    "nom": "Issoire Peyrolles",
-    "lat": 45.54533,
-    "lon": 3.23042,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -3717,13 +4305,6 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
-    "ig": "4311403",
-    "nom": "Lapte-Lacour",
-    "lat": 45.18519,
-    "lon": 4.21792,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
     "ig": "1509501",
     "nom": "Laroquevieille",
     "lat": 45.02083,
@@ -3775,8 +4356,8 @@
   {
     "ig": "0713601",
     "nom": "Laveyrune 2",
-    "lat": 44.59867,
-    "lon": 3.91009,
+    "lat": 44.59861,
+    "lon": 3.90972,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -3836,6 +4417,20 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "6321301",
+    "nom": "LES MARTRES : A72",
+    "lat": 45.82787,
+    "lon": 3.24032,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "4229501",
+    "nom": "LES SALLES:A72",
+    "lat": 45.8504,
+    "lon": 3.79402,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "1523501",
     "nom": "Les Ternes",
     "lat": 45.00449,
@@ -3871,10 +4466,24 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "4210801",
+    "nom": "L HOPITAL LE GD:A72",
+    "lat": 45.60653,
+    "lon": 4.2075,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "1519801",
     "nom": "Lieutades:Ste-Marie",
     "lat": 44.87778,
     "lon": 2.89278,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6314802",
+    "nom": "Limagrain-Ennezat",
+    "lat": 45.91538,
+    "lon": 3.22038,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -3906,17 +4515,17 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
-    "ig": "4312401",
-    "nom": "Loudes-La Muzette",
-    "lat": 45.08732,
-    "lon": 3.75055,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
     "ig": "0315302",
     "nom": "Louroux-Hodement",
     "lat": 46.45405,
     "lon": 2.68904,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "0315301",
+    "nom": "Louroux-Hodement:A71",
+    "lat": 46.45167,
+    "lon": 2.68778,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -3931,6 +4540,13 @@
     "nom": "Lurcy-levis:Paulat",
     "lat": 46.72469,
     "lon": 2.93943,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "4212501",
+    "nom": "LURE:A72",
+    "lat": 45.87263,
+    "lon": 3.92458,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -3964,8 +4580,8 @@
   {
     "ig": "0315702",
     "nom": "MAGNET",
-    "lat": 46.2145,
-    "lon": 3.523,
+    "lat": 46.21444,
+    "lon": 3.52304,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -3973,6 +4589,20 @@
     "nom": "Maillet A71",
     "lat": 46.48322,
     "lon": 2.6678,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "0315801",
+    "nom": "Maillet:APRR",
+    "lat": 46.49903,
+    "lon": 2.6496,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6320401",
+    "nom": "Malintrat",
+    "lat": 45.81838,
+    "lon": 3.18046,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -4039,13 +4669,6 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
-    "ig": "6321302",
-    "nom": "MartresArtiere-Pourr",
-    "lat": 45.83485,
-    "lon": 3.26279,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
     "ig": "6310701",
     "nom": "Martres sur Morges",
     "lat": 45.93174,
@@ -4090,8 +4713,8 @@
   {
     "ig": "0715301",
     "nom": "Mayres:Suc du Joug",
-    "lat": 44.66598,
-    "lon": 4.09586,
+    "lat": 44.66556,
+    "lon": 4.09583,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -4172,6 +4795,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "4214302",
+    "nom": "MIZERIEUX:A72",
+    "lat": 45.78356,
+    "lon": 4.1425,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "4214301",
     "nom": "Mizerieux:Procureuse",
     "lat": 45.77972,
@@ -4218,6 +4848,13 @@
     "nom": "Monastier/Gazeille",
     "lat": 44.94583,
     "lon": 3.97583,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "0317501",
+    "nom": "Monestier:A71",
+    "lat": 46.25528,
+    "lon": 3.07778,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -4340,6 +4977,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "0318507",
+    "nom": "MONTLUCON:A,Rodier",
+    "lat": 46.33088,
+    "lon": 2.5756,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "0318574",
     "nom": "Montlucon:Batellerie",
     "lat": 46.34452,
@@ -4403,6 +5047,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "0318508",
+    "nom": "Montlucon:Clairefont",
+    "lat": 46.33117,
+    "lon": 2.57838,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "0318515",
     "nom": "Montlucon:Cluzeau1",
     "lat": 46.33902,
@@ -4421,6 +5072,13 @@
     "nom": "Montlucon:Cour 8",
     "lat": 46.36306,
     "lon": 2.58975,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "0318509",
+    "nom": "Montlucon : De Nehou",
+    "lat": 46.36046,
+    "lon": 2.58557,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -4550,6 +5208,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "031851B",
+    "nom": "Montlucon:JeanZay1",
+    "lat": 46.34958,
+    "lon": 2.59357,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "0318583",
     "nom": "Montlucon:J Guesde",
     "lat": 46.34183,
@@ -4627,6 +5292,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "0318511",
+    "nom": "MONTLUCON:Negre N13",
+    "lat": 46.34728,
+    "lon": 2.58148,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "0318506",
     "nom": "Montlucon:Negre N9",
     "lat": 46.3462,
@@ -4687,6 +5359,13 @@
     "nom": "Montlucon:R DesIlets",
     "lat": 46.32967,
     "lon": 2.60542,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "031851C",
+    "nom": "Montlucon:R DuSquare",
+    "lat": 46.32876,
+    "lon": 2.58091,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -4830,10 +5509,24 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "031851A",
+    "nom": "Montlucon:Voltaire30",
+    "lat": 46.34785,
+    "lon": 2.59204,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "0318587",
     "nom": "Montlucon:VoltaireN6",
     "lat": 46.34927,
     "lon": 2.5937,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "0318651",
+    "nom": "Montmarault",
+    "lat": 46.32,
+    "lon": 2.95028,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -4862,13 +5555,6 @@
     "nom": "Montregard:la Berthe",
     "lat": 45.16278,
     "lon": 4.36583,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
-    "ig": "1513404",
-    "nom": "Montsalvy-Pons",
-    "lat": 44.706,
-    "lon": 2.50239,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -4963,6 +5649,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "0319401",
+    "nom": "Naves:Cimetieres",
+    "lat": 46.17861,
+    "lon": 3.11056,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "4309603",
     "nom": "ND_LAMOTHE",
     "lat": 45.30629,
@@ -4995,13 +5688,6 @@
     "nom": "Neronde:Salamard",
     "lat": 45.83667,
     "lon": 4.23333,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
-    "ig": "4215501",
-    "nom": "Nervieux_A89",
-    "lat": 45.81826,
-    "lon": 4.11622,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -5061,34 +5747,6 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
-    "ig": "6301426",
-    "nom": "Nhood_P_ClermF-Aub-1",
-    "lat": 45.75398,
-    "lon": 3.12587,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
-    "ig": "0310109",
-    "nom": "Nhood_P_MONTLUCON-1",
-    "lat": 46.33891,
-    "lon": 2.56645,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
-    "ig": "4233005",
-    "nom": "Nhood_P_VILLARS-1",
-    "lat": 45.46881,
-    "lon": 4.33458,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
-    "ig": "4233006",
-    "nom": "Nhood_P_VILLARS-2",
-    "lat": 45.46631,
-    "lon": 4.34202,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
     "ig": "6325401",
     "nom": "Nohanent:la Plaine",
     "lat": 45.80389,
@@ -5100,6 +5758,13 @@
     "nom": "Noiretable",
     "lat": 45.7925,
     "lon": 3.78306,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "4215901",
+    "nom": "NOIRETABLE:A72",
+    "lat": 45.84588,
+    "lon": 3.74856,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -5159,17 +5824,17 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "6326501",
+    "nom": "ORLEAT:A72",
+    "lat": 45.85306,
+    "lon": 3.40347,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6326502",
     "nom": "Orleat_A89",
     "lat": 45.84988,
     "lon": 3.43195,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
-    "ig": "6326503",
-    "nom": "Orleat-Bleuets",
-    "lat": 45.8689,
-    "lon": 3.45956,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -5236,6 +5901,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "6327502",
+    "nom": "PERRIER",
+    "lat": 45.54252,
+    "lon": 3.18425,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6327501",
     "nom": "Perrier:Puy Mercoeur",
     "lat": 45.54281,
@@ -5247,6 +5919,13 @@
     "nom": "Pertuis:le suc",
     "lat": 45.09482,
     "lon": 4.05917,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6327801",
+    "nom": "Pessat-Villeneuve",
+    "lat": 45.92167,
+    "lon": 3.14556,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -5285,10 +5964,17 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "631133J",
+    "nom": "PKCLERMONTRatte",
+    "lat": 45.79821,
+    "lon": 3.1137,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "0717501",
     "nom": "Plagnal (Le)",
-    "lat": 44.70733,
-    "lon": 3.95041,
+    "lat": 44.7075,
+    "lon": 3.95056,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -5313,10 +5999,24 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "0331016",
+    "nom": "Pole Uni Vichy",
+    "lat": 46.11998,
+    "lon": 3.42534,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "1515403",
     "nom": "POLMINHAC",
     "lat": 44.93041,
     "lon": 2.56533,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "4217301",
+    "nom": "POMMIERS:A72",
+    "lat": 45.84129,
+    "lon": 4.09236,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -5338,13 +6038,6 @@
     "nom": "PONTduCHATEAU_POIDS",
     "lat": 45.79992,
     "lon": 3.24988,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
-    "ig": "6328408",
-    "nom": "Pont du Chateau: TT",
-    "lat": 45.80171,
-    "lon": 3.22621,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -5373,6 +6066,13 @@
     "nom": "Pont-Salomon 2",
     "lat": 45.34222,
     "lon": 4.24667,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6311313",
+    "nom": "POP 9C Clermont-Fd",
+    "lat": 45.78167,
+    "lon": 3.13706,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -5441,8 +6141,8 @@
   {
     "ig": "6328802",
     "nom": "Prompsat_Puy de The",
-    "lat": 45.94174,
-    "lon": 3.07258,
+    "lat": 45.94175,
+    "lon": 3.07265,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -5455,8 +6155,8 @@
   {
     "ig": "6328402",
     "nom": "PT du CHATEAU:Castr1",
-    "lat": 45.80036,
-    "lon": 3.24405,
+    "lat": 45.80116,
+    "lon": 3.24385,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -5495,6 +6195,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "4315703",
+    "nom": "Puy-en-Velay:BAV",
+    "lat": 45.04056,
+    "lon": 3.89083,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6329103",
     "nom": "PUY GUILLAU-847_1080",
     "lat": 45.95549,
@@ -5504,8 +6211,8 @@
   {
     "ig": "6329102",
     "nom": "PUY-GUILLAUME",
-    "lat": 45.95508,
-    "lon": 3.47148,
+    "lat": 45.95528,
+    "lon": 3.46083,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -5527,13 +6234,6 @@
     "nom": "Puy-St-Romain",
     "lat": 45.67917,
     "lon": 3.22889,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
-    "ig": "4315709",
-    "nom": "PuyVelay-Foch",
-    "lat": 45.03529,
-    "lon": 3.88701,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -5586,6 +6286,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "6330001",
+    "nom": "Riom:A71",
+    "lat": 45.89472,
+    "lon": 3.14861,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6330011",
     "nom": "RIOM_CHARMETTES",
     "lat": 45.89099,
@@ -5625,13 +6332,6 @@
     "nom": "RIOM:Varenne",
     "lat": 45.88638,
     "lon": 3.12448,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
-    "ig": "4316303",
-    "nom": "Riotord Charives",
-    "lat": 45.24694,
-    "lon": 4.43369,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -5719,6 +6419,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "0720001",
+    "nom": "Roux (Le)",
+    "lat": 44.71639,
+    "lon": 4.14667,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6330804",
     "nom": "ROYAT:Avers",
     "lat": 45.76434,
@@ -5800,6 +6507,13 @@
     "nom": "Saint Just",
     "lat": 45.45866,
     "lon": 3.82865,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "0324203",
+    "nom": "Saint Loup",
+    "lat": 46.35879,
+    "lon": 3.36338,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -5936,6 +6650,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "0302306",
+    "nom": "Stade AquatiqueVichy",
+    "lat": 46.12768,
+    "lon": 3.3975,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6331301",
     "nom": "St-Alyre-es-Montagne",
     "lat": 45.36917,
@@ -5966,8 +6687,8 @@
   {
     "ig": "0321702",
     "nom": "St-Angel:Le Gd Mas",
-    "lat": 46.36592,
-    "lon": 2.6417,
+    "lat": 46.36583,
+    "lon": 2.64222,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -6010,6 +6731,13 @@
     "nom": "St Avit",
     "lat": 45.86561,
     "lon": 2.53349,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6332201",
+    "nom": "ST BEAUZIR-LIMAGRAIN",
+    "lat": 45.85181,
+    "lon": 3.17181,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -6155,15 +6883,15 @@
   {
     "ig": "4317401",
     "nom": "St-Christophe/Dolais",
-    "lat": 45.00858,
-    "lon": 3.85434,
+    "lat": 45.00861,
+    "lon": 3.85417,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
     "ig": "0722401",
     "nom": "St-Cirgues-Montagne",
-    "lat": 44.75734,
-    "lon": 4.08663,
+    "lat": 44.75722,
+    "lon": 4.08667,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -6342,6 +7070,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "4221827",
+    "nom": "ST ETIENNE HP_BARROU",
+    "lat": 45.45362,
+    "lon": 4.387,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "4318101",
     "nom": "St-Etienne-Lardeyrol",
     "lat": 45.06944,
@@ -6358,15 +7093,15 @@
   {
     "ig": "0723201",
     "nom": "St-Etienne-Lugdares1",
-    "lat": 44.6513,
-    "lon": 4.02539,
+    "lat": 44.65111,
+    "lon": 4.02556,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
     "ig": "0723202",
     "nom": "St-Etienne-Lugdares2",
-    "lat": 44.64573,
-    "lon": 3.94718,
+    "lat": 44.64556,
+    "lon": 3.94694,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -6374,6 +7109,20 @@
     "nom": "St Etienne Rad Salam",
     "lat": 45.43171,
     "lon": 4.39293,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "4221833",
+    "nom": "StEtienne:StGuichard",
+    "lat": 45.46085,
+    "lon": 4.39019,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "4221816",
+    "nom": "ST ETIENNE-ST SOLEIL",
+    "lat": 45.42861,
+    "lon": 4.39,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -6468,13 +7217,6 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
-    "ig": "6335001",
-    "nom": "StGeorgesAllier-Pina",
-    "lat": 45.71331,
-    "lon": 3.26899,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
     "ig": "4222601",
     "nom": "St-Georges-Baroille",
     "lat": 45.85306,
@@ -6549,6 +7291,13 @@
     "nom": "St-Germain-l'Herm",
     "lat": 45.45528,
     "lon": 3.55167,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6335401",
+    "nom": "StGervaisAuvergn:EDF",
+    "lat": 46.02629,
+    "lon": 2.81917,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -6638,8 +7387,8 @@
   {
     "ig": "0710301",
     "nom": "St-Julien-Boutieres",
-    "lat": 44.98343,
-    "lon": 4.3524,
+    "lat": 44.98361,
+    "lon": 4.35194,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -6685,6 +7434,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "4224301",
+    "nom": "ST JULIEN ODDES:A72",
+    "lat": 45.8599,
+    "lon": 3.98875,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6337001",
     "nom": "St-Julien-Puy-Laveze",
     "lat": 45.65667,
@@ -6720,10 +7476,10 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
-    "ig": "4224902",
-    "nom": "St Just Pendue_A89",
-    "lat": 45.86638,
-    "lon": 4.23336,
+    "ig": "4224901",
+    "nom": "ST JUST PENDUE- A89",
+    "lat": 45.8643,
+    "lon": 4.23787,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -6736,8 +7492,8 @@
   {
     "ig": "0726201",
     "nom": "St-Laurent-Bains 1",
-    "lat": 44.58423,
-    "lon": 3.98614,
+    "lat": 44.58412,
+    "lon": 3.98611,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -6776,6 +7532,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "4225501",
+    "nom": "ST MARCEL D URFE:A72",
+    "lat": 45.87703,
+    "lon": 3.85675,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "4225601",
     "nom": "St-marcellin-e-forez",
     "lat": 45.49509,
@@ -6785,7 +7548,7 @@
   {
     "ig": "0726701",
     "nom": "St-Martial",
-    "lat": 44.86518,
+    "lat": 44.865,
     "lon": 4.30583,
     "equipe": "ZC SE AUV_LOIRE"
   },
@@ -6799,8 +7562,8 @@
   {
     "ig": "0724801",
     "nom": "St-Martin-Valamas 1",
-    "lat": 44.96509,
-    "lon": 4.38505,
+    "lat": 44.965,
+    "lon": 4.38472,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -6864,6 +7627,13 @@
     "nom": "St-Ours",
     "lat": 45.83861,
     "lon": 2.84611,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6338101",
+    "nom": "ST OURS-A89",
+    "lat": 45.86806,
+    "lon": 2.89056,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -6986,6 +7756,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "0325601",
+    "nom": "St-Priest-Murat:A71",
+    "lat": 46.34194,
+    "lon": 2.87722,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "4322101",
     "nom": "ST PRIVAT D ALLIER",
     "lat": 44.98921,
@@ -7025,6 +7802,13 @@
     "nom": "St-Remy-Chaudes-Aigu",
     "lat": 44.75139,
     "lon": 3.0225,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6339301",
+    "nom": "ST REMY/DUROLLE:A72",
+    "lat": 45.89245,
+    "lon": 3.59366,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -7084,6 +7868,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "6339902",
+    "nom": "ST SULPICE:A89",
+    "lat": 45.65648,
+    "lon": 2.62583,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "6339901",
     "nom": "St-Sulpice:Montagne",
     "lat": 45.62528,
@@ -7106,7 +7897,7 @@
   },
   {
     "ig": "6340005",
-    "nom": "St Sylvest Prag_Salt",
+    "nom": "St Sylvest Parg_Salt",
     "lat": 46.05034,
     "lon": 3.36629,
     "equipe": "ZC SE AUV_LOIRE"
@@ -7137,6 +7928,13 @@
     "nom": "St-Thurin",
     "lat": 45.81583,
     "lon": 3.86861,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6311315",
+    "nom": "StudEurope2 Clermont",
+    "lat": 45.76444,
+    "lon": 3.13417,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -7196,6 +7994,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "0327701",
+    "nom": "Target:A71",
+    "lat": 46.29611,
+    "lon": 3.03,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "0327702",
     "nom": "Target Le Venant",
     "lat": 46.29929,
@@ -7207,6 +8012,13 @@
     "nom": "Tauves",
     "lat": 45.55056,
     "lon": 2.62472,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6342701",
+    "nom": "TEILHEDE-A89",
+    "lat": 45.96667,
+    "lon": 3.06583,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -7259,6 +8071,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "6343006",
+    "nom": "THIERS:A72",
+    "lat": 45.88097,
+    "lon": 3.57287,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "1523601",
     "nom": "Thiezac 1",
     "lat": 45.015,
@@ -7291,6 +8110,41 @@
     "nom": "Tiranges",
     "lat": 45.29701,
     "lon": 4.00202,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6317904",
+    "nom": "T_JOB",
+    "lat": 45.61778,
+    "lon": 3.76389,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "4315707",
+    "nom": "T_LE PUY 3",
+    "lat": 45.035,
+    "lon": 3.8975,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "0309854",
+    "nom": "T_Montlucon2",
+    "lat": 46.34306,
+    "lon": 2.63629,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "1510003",
+    "nom": "T_Murat",
+    "lat": 45.09064,
+    "lon": 2.88955,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "1523103",
+    "nom": "T_NeussarguesMoissac",
+    "lat": 45.14215,
+    "lon": 3.031,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -7343,10 +8197,17 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "6343007",
+    "nom": "T_THIERS",
+    "lat": 45.85167,
+    "lon": 3.55583,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "1510105",
     "nom": "Tunnel Lioran Est",
-    "lat": 45.08831,
-    "lon": 2.74547,
+    "lat": 45.08718,
+    "lon": 2.74445,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -7392,6 +8253,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "0329701",
+    "nom": "Vallon-en-Sully",
+    "lat": 46.51806,
+    "lon": 2.57944,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "4324901",
     "nom": "Valprivas",
     "lat": 45.32555,
@@ -7417,6 +8285,13 @@
     "nom": "VARENNES SUR AL-1829",
     "lat": 46.30483,
     "lon": 3.45314,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "4232401",
+    "nom": "VEAUCHETTE:A72",
+    "lat": 45.56037,
+    "lon": 4.24153,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -7553,6 +8428,13 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "0331015",
+    "nom": "Vichy_Communaute",
+    "lat": 46.1246,
+    "lon": 3.42651,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "0331009",
     "nom": "VICHY:Florence",
     "lat": 46.12167,
@@ -7674,8 +8556,8 @@
   {
     "ig": "6345901",
     "nom": "Villeneuve-les-Cerfs",
-    "lat": 46.01989,
-    "lon": 3.34487,
+    "lat": 46.01972,
+    "lon": 3.34528,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -7847,10 +8729,24 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
+    "ig": "1501901",
+    "nom": "ZR-Bassignac",
+    "lat": 45.2887,
+    "lon": 2.39235,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
     "ig": "1504503",
     "nom": "ZR-Chaudes-Aigues",
     "lat": 44.87514,
     "lon": 3.00046,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "6317809",
+    "nom": "ZR-Issoire",
+    "lat": 45.54533,
+    "lon": 3.23042,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
@@ -8029,13 +8925,6 @@
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
-    "ig": "4230702",
-    "nom": "ZRP_TARTARAS2",
-    "lat": 45.54382,
-    "lon": 4.65573,
-    "equipe": "ZC SE AUV_LOIRE"
-  },
-  {
     "ig": "6342702",
     "nom": "ZRP_TEILHEDE",
     "lat": 45.96323,
@@ -8103,6 +8992,13 @@
     "nom": "ZRP_YZEURE_AIRE",
     "lat": 46.53472,
     "lon": 3.37261,
+    "equipe": "ZC SE AUV_LOIRE"
+  },
+  {
+    "ig": "4316303",
+    "nom": "ZR-Riotord",
+    "lat": 45.24694,
+    "lon": 4.43369,
     "equipe": "ZC SE AUV_LOIRE"
   },
   {
